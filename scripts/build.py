@@ -33,6 +33,10 @@ def pct(h, n):
     return round(100 * h / n) if n else None
 
 
+def nz(v):
+    return "" if v is None else v
+
+
 def blank(v):
     return "" if v in (None, 0, 0.0) else v
 
@@ -299,7 +303,7 @@ def main():
             row += [blank(a) for a in avg]
             for gname, _pre in groups:
                 fld = {"True": "true", "Season": "season", "Last 5": "l5", "Start": "start"}[gname]
-                row += [blank(ls[(st, t)][fld]) for st, t, _ in LINES]
+                row += ["" if ls[(st, t)][fld] is None else ls[(st, t)][fld] for st, t, _ in LINES]  # 0 kept; the sheet hides zeros
             rows.append(row)
             tg = team_game.get(cur)
             if tg:
@@ -353,8 +357,8 @@ def main():
         picks.sort(key=lambda p: (p["utc"], -p["true"], p["pick"]))
         th = ["Pick", "Market", "True %", "Season %", "L5 %"] + (["Start %"] if v == "2627" else []) + \
              ["Games", "Player", "Team", "Status", "Game", "Tip-off (UK)", "Note"]
-        trows = [[p["pick"], p["market"], p["true"], blank(p["season"]), blank(p["l5"])] +
-                 ([blank(p["start"])] if v == "2627" else []) +
+        trows = [[p["pick"], p["market"], p["true"], nz(p["season"]), nz(p["l5"])] +
+                 ([nz(p["start"])] if v == "2627" else []) +
                  [p["n"], p["player"], p["team"], p["status"], p["game"], p["tip"], p["note"]] for p in picks]
         title = (f"Today's picks: true rate {PICK_MIN_TRUE}%+, games in the next 24 hours, highest line per stat · "
                  f"{tr_line} · updated {NOW.astimezone(UK).strftime('%a %H:%M')}")
@@ -377,7 +381,7 @@ def main():
         for lo, hi in ((80, 84), (85, 89), (90, 94), (95, 100)):
             out.append([f"{lo}–{hi}%"] + summ([e for e in allp.values() if lo <= (e["true"] or 0) <= hi]))
         out += [[], ["Date", "Game", "Pick", "True %", "Season %", "Games", "Result", "Source"]]
-        for e in sorted(allp.values(), key=lambda e: (e["date"], e["pick"]), reverse=True)[:3000]:
+        for e in sorted(allp.values(), key=lambda e: (e["date"], e["pick"]), reverse=True)[:400]:
             out.append([e["date"], e["game"], e["pick"], e["true"], blank(e["season"]), e["n"], e.get("result") or "Pending", e["source"]])
         write_csv(f"TRACKER_{v}.csv", out)
 
