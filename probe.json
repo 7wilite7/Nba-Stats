@@ -1,0 +1,124 @@
+{
+ "espn_scoreboard": [
+  200,
+  97748,
+  "{\"leagues\":[{\"id\":\"46\",\"uid\":\"s:40~l:46\",\"name\":\"National Basketball Association\",\"abbreviation\":\"NBA\",\"slug\":\"nba\",\"season\":{\"year\":2027,\"startDate\":"
+ ],
+ "espn_injuries": [
+  200,
+  1061284,
+  "{\"timestamp\":\"2026-11-02T15:33:55Z\",\"status\":\"success\",\"season\":{\"year\":2027,\"type\":2,\"name\":\"Regular Season\",\"displayName\":\"2026-27\"},\"injuries\":[{\"i"
+ ],
+ "espn_teams": [
+  200,
+  134851,
+  "{\"sports\":[{\"id\":\"40\",\"leagues\":[{\"abbreviation\":\"NBA\",\"id\":\"46\",\"name\":\"National Basketball Association\",\"season\":{\"displayName\":\"2026-27\",\"year\":202"
+ ],
+ "nba_cdn_schedule": [
+  "ERR",
+  "HTTP Error 403: Forbidden"
+ ],
+ "bref_box": [
+  200,
+  154103,
+  "\n<!DOCTYPE html>\n<html data-version=\"klecko-\" data-root=\"/home/bbr/deploy/www\" lang=\"en\" class=\"no-js\" >\n<head>\n    <meta charset=\"utf-8\">\n    <meta h"
+ ],
+ "cbs_injuries": [
+  200,
+  642512,
+  "<!DOCTYPE html>\n<html lang=\"en\" xmlns:og=\"http://opengraphprotocol.org/schema/\" xmlns:fb=\"http://ogp.me/ns/fb#\" class=\"\">\n<head>\n        \n            "
+ ],
+ "espn_summary_sample": {
+  "event": "Boston Celtics at Orlando Magic",
+  "season": {
+   "year": 2027,
+   "type": 2,
+   "slug": "regular-season"
+  },
+  "team": "BOS",
+  "labels": [
+   "MIN",
+   "PTS",
+   "FG",
+   "3PT",
+   "FT",
+   "REB",
+   "AST",
+   "TO",
+   "STL",
+   "BLK",
+   "OREB",
+   "DREB",
+   "PF",
+   "+/-"
+  ],
+  "keys": [
+   "minutes",
+   "points",
+   "fieldGoalsMade-fieldGoalsAttempted",
+   "threePointFieldGoalsMade-threePointFieldGoalsAttempted",
+   "freeThrowsMade-freeThrowsAttempted",
+   "rebounds",
+   "assists",
+   "turnovers",
+   "steals",
+   "blocks",
+   "offensiveRebounds",
+   "defensiveRebounds",
+   "fouls",
+   "plusMinus"
+  ],
+  "ath0": {
+   "active": false,
+   "athlete": {
+    "id": "4251",
+    "uid": "s:40~l:46~a:4251",
+    "guid": "d7e5e918-d53f-018e-9d15-f9005b2390ad",
+    "displayName": "Paul George",
+    "shortName": "P. George",
+    "links": [
+     {
+      "rel": [
+       "playercard",
+       "desktop",
+       "athlete"
+      ],
+      "href": "https://www.espn.com/nba/player/_/id/4251/paul-george",
+      "text": "Player Card"
+     }
+    ],
+    "headshot": {
+     "href": "https://a.espncdn.com/i/headshots/nba/players/full/4251.png",
+     "alt": "Paul George"
+    },
+    "jersey": "13",
+    "position": {
+     "name": "Forward",
+     "displayName": "Forward",
+     "abbreviation": "F"
+    }
+   },
+   "starter": true,
+   "didNotPlay": false,
+   "reason": "COACH'S DECISION",
+   "ejected": false,
+   "stats": [
+    "33",
+    "17",
+    "6-14",
+    "3-10",
+    "2-2",
+    "6",
+    "8",
+    "4",
+    "2",
+    "2",
+    "2",
+    "4",
+    "2",
+    "+10"
+   ]
+  }
+ },
+ "nba_box": "HTTP Error 403: Forbidden"
+}
