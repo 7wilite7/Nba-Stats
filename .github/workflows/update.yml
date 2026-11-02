@@ -1,0 +1,56 @@
+name: update-nba
+on:
+  schedule:
+    - cron: "0 7 * * *"   # 08:00 UK during BST (skipped in winter)
+    - cron: "0 8 * * *"   # 08:00 UK during GMT (skipped in summer)
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/update.yml"]
+permissions: {contents: write}
+concurrency: {group: update-nba, cancel-in-progress: false}
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Only run the schedule at 08:00 UK
+        if: github.event_name == 'schedule'
+        run: |
+          h=$(TZ=Europe/London date +%H)
+          if [ "$h" != "08" ]; then echo "SKIP=1" >> $GITHUB_ENV; echo "UK hour is $h, skipping"; fi
+      - uses: actions/checkout@v4
+        if: env.SKIP != '1'
+      - uses: actions/setup-python@v5
+        if: env.SKIP != '1'
+        with: {python-version: "3.12"}
+      - name: Fetch box scores, schedule, rosters, injuries
+        if: env.SKIP != '1'
+        run: python scripts/fetch.py || echo "FETCH_FAILED=1" >> $GITHUB_ENV
+      - name: Fact-check against ESPN
+        if: env.SKIP != '1'
+        run: python scripts/verify.py
+      - name: Build CSVs
+        if: env.SKIP != '1'
+        run: python scripts/build.py
+      - name: Commit results
+        if: env.SKIP != '1'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data out
+          git commit -qm "update $(TZ=Europe/London date '+%Y-%m-%d %H:%M')" || { echo "nothing to commit"; exit 0; }
+          for i in 1 2 3 4 5; do git pull -q --rebase origin main && git push -q && exit 0; sleep 10; done; exit 1
+      - name: Fail the run if fetching failed (sends GitHub's failure email)
+        if: env.SKIP != '1' && env.FETCH_FAILED == '1'
+        run: { echo "A fetch step failed - see data/last_fetch_log.txt"; exit 1; }
+      - name: Tell healthchecks.io the update finished
+        if: success() && env.SKIP != '1' && github.event_name != 'push'
+        env: {HC: "${{ secrets.HC_PING_URL }}"}
+        run: |
+          if [ -z "$HC" ]; then echo "HC_PING_URL secret not set"; exit 0; fi
+          curl -fsS -m 10 --retry 5 "$HC" && echo "Pinged healthchecks.io (success)"
+      - name: Tell healthchecks.io the update failed
+        if: failure() && env.SKIP != '1' && github.event_name != 'push'
+        env: {HC: "${{ secrets.HC_PING_URL }}"}
+        run: '[ -n "$HC" ] && curl -fsS -m 10 --retry 5 "$HC/fail" || true'
