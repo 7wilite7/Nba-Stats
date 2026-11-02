@@ -1,4 +1,4 @@
-"Fact-check vs ESPN: 99.64% of 8,292 stats match (92 games)"
+"Fact-check vs ESPN: 99.64% of 8,316 stats match (92 games)"
 Game,Player,Stat,Basketball Reference,ESPN
 202610220OKC,Alpha Diallo,ast,3,2
 202610220OKC,Marvin Bagley III,ast,1,2
@@ -30,5 +30,3 @@ Game,Player,Stat,Basketball Reference,ESPN
 202610260HOU,Jalen Johnson,ast,4,3
 202610260HOU,Kingston Flemings,ast,3,4
 202610290NOP,Emanuel Sharp,reb,1,0
-
-ESPN names not matched to Basketball Reference:,Ronald Holland II
