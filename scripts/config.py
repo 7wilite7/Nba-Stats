@@ -36,4 +36,5 @@ NAME_ALIASES = {
     "dom barlow": "Dominick Barlow",
     "cam johnson": "Cameron Johnson",
     "moe wagner": "Moritz Wagner",
+    "ronald holland": "Ron Holland",
 }
