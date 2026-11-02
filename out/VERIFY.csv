@@ -1,0 +1,34 @@
+"Fact-check vs ESPN: 99.64% of 8,292 stats match (92 games)"
+Game,Player,Stat,Basketball Reference,ESPN
+202610220OKC,Alpha Diallo,ast,3,2
+202610220OKC,Marvin Bagley III,ast,1,2
+202610220OKC,DaRon Holmes,reb,1,0
+202610220OKC,Bryce Hopkins,reb,1,2
+202610230SAS,Kevin Durant,ast,6,5
+202610210POR,Ryan Dunn,reb,2,3
+202610210POR,Jamaree Bouyea,reb,2,1
+202610230CHO,CJ McCollum,ast,2,1
+202610230CHO,Dyson Daniels,ast,4,5
+202610230LAL,Kris Dunn,reb,4,5
+202610230SAC,Toumani Camara,reb,3,2
+202610230SAC,Deni Avdija,reb,6,7
+202610230SAC,Donovan Clingan,reb,10,11
+202610230SAC,Jrue Holiday,reb,2,1
+202610240CHO,Moussa Diabate,ast,2,1
+202610240CHO,Dennis Schroder,ast,4,5
+202610240CHI,Anthony Davis,ast,4,5
+202610240CHI,Kyshawn George,ast,5,4
+202610250SAC,Cedric Coward,pts,15,17
+202610250SAC,Cedric Coward,ast,2,1
+202610250SAC,Cameron Boozer,pts,16,14
+202610250SAC,Jaylen Wells,reb,5,7
+202610250SAC,Ty Jerome,ast,6,7
+202610250SAC,Jerami Grant,reb,5,6
+202610250SAC,Scotty Pippen Jr.,reb,2,1
+202610250SAC,De'Andre Hunter,reb,6,5
+202610250SAC,Malik Monk,reb,1,2
+202610260HOU,Jalen Johnson,ast,4,3
+202610260HOU,Kingston Flemings,ast,3,4
+202610290NOP,Emanuel Sharp,reb,1,0
+
+ESPN names not matched to Basketball Reference:,Ronald Holland II
