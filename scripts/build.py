@@ -278,7 +278,7 @@ def main():
             grp_row += [labels[gname]] + [""] * (len(LINES) - 1)
         grp_row[0] = "Points 10/15/20/25 · Rebounds 3/5/7 · Assists 3/5/7 · Threes 1/2/3/4"
 
-        rows, picks = [], []
+        rows, picks, game_rows = [], [], []
         for k in keep:
             recs = records(k, v, logs, h2)
             lg = logs.get(k, [])
@@ -301,6 +301,10 @@ def main():
                 fld = {"True": "true", "Season": "season", "Last 5": "l5", "Start": "start"}[gname]
                 row += [blank(ls[(st, t)][fld]) for st, t, _ in LINES]
             rows.append(row)
+            tg = team_game.get(cur)
+            if tg:
+                order = (tg["utc"], f"{tg['away']} @ {tg['home']}", 0 if cur == tg["away"] else 1, names.get(k, k))
+                game_rows.append((order, [f"{tg['away']} @ {tg['home']} · {uk(tg['utc']).strftime('%a %H:%M')} UK"] + row))
 
             # ---------- today's picks ----------
             g = team_game.get(cur)
@@ -340,6 +344,11 @@ def main():
 
         prow = [[upd] + [""] * (len(head) - 2) + [NOW.isoformat(timespec="minutes")], grp_row, head] + rows
         write_csv(f"PLAYERS_{v}.csv", prow)
+        game_rows.sort(key=lambda x: x[0])
+        gtitle = (f"Every listed player in games over the next 24 hours, by game (away team first) · "
+                  f"updated {NOW.astimezone(UK).strftime('%a %d %b %H:%M')} UK")
+        write_csv(f"GAMES_{v}.csv", [[gtitle], [""] + grp_row, ["Game"] + head] +
+                  ([r for _o, r in game_rows] or [["No games in the next 24 hours"]]))
 
         picks.sort(key=lambda p: (p["utc"], -p["true"], p["pick"]))
         th = ["Pick", "Market", "True %", "Season %", "L5 %"] + (["Start %"] if v == "2627" else []) + \
