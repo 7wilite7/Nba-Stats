@@ -308,7 +308,9 @@ def main():
             tg = team_game.get(cur)
             if tg:
                 order = (tg["utc"], f"{tg['away']} @ {tg['home']}", 0 if cur == tg["away"] else 1, names.get(k, k))
-                game_rows.append((order, [f"{tg['away']} @ {tg['home']} · {uk(tg['utc']).strftime('%a %H:%M')} UK"] + row))
+                game_rows.append((order, [f"{tg['away']} @ {tg['home']} · {uk(tg['utc']).strftime('%a %H:%M')} UK",
+                                          names.get(k, k), team_txt, n] +
+                                  [nz(ls[(st, t)]["season"]) for st, t, _ in LINES] + [status_text(e)]))
 
             # ---------- today's picks ----------
             g = team_game.get(cur)
@@ -351,20 +353,19 @@ def main():
         game_rows.sort(key=lambda x: x[0])
         gtitle = (f"Every listed player in games over the next 24 hours, by game (away team first) · "
                   f"updated {NOW.astimezone(UK).strftime('%a %d %b %H:%M')} UK")
-        write_csv(f"GAMES_{v}.csv", [[gtitle], [""] + grp_row, ["Game"] + head] +
+        ghead = ["Game", "Player", "Team", "GP"] + [f"{st} {t}+" for st, t, _ in LINES] + ["status"]
+        write_csv(f"GAMES_{v}.csv", [[gtitle], ghead] +
                   ([r for _o, r in game_rows] or [["No games in the next 24 hours"]]))
 
-        picks.sort(key=lambda p: (p["utc"], -p["true"], p["pick"]))
-        th = ["Pick", "Market", "True %", "Season %", "L5 %"] + (["Start %"] if v == "2627" else []) + \
-             ["Games", "Player", "Team", "Status", "Game", "Tip-off (UK)", "Note"]
-        trows = [[p["pick"], p["market"], p["true"], nz(p["season"]), nz(p["l5"])] +
-                 ([nz(p["start"])] if v == "2627" else []) +
-                 [p["n"], p["player"], p["team"], p["status"], p["game"], p["tip"], p["note"]] for p in picks]
-        title = (f"Today's picks: true rate {PICK_MIN_TRUE}%+, games in the next 24 hours, highest line per stat · "
+        picks.sort(key=lambda p: (p["utc"], -(p["season"] or 0), -p["true"], p["pick"]))
+        th = ["Pick", "Market", "Hit %", "Games", "Team", "Game", "Tip-off (UK)", "Note", "status"]
+        trows = [[p["pick"], p["market"], nz(p["season"]), p["n"], p["team"], p["game"], p["tip"], p["note"], p["status"]]
+                 for p in picks]
+        title = (f"Today's picks (chosen by true rate {PICK_MIN_TRUE}%+, shown as this season's hit %) · "
                  f"{tr_line} · updated {NOW.astimezone(UK).strftime('%a %H:%M')}")
         write_csv(f"TODAY_{v}.csv", [[title], th] + (trows or [["No games in the next 24 hours"]]))
-        write_csv(f"PHONE_{v}.csv", [[f"Picks · {tr_line}"], ["Pick", "True %", "Game"]] +
-                  ([[p["pick"], p["true"], f"{p['game']} {p['tip']}"] for p in picks] or [["No games in the next 24 hours"]]))
+        write_csv(f"PHONE_{v}.csv", [[f"Picks · {tr_line}"], ["Pick", "Hit %", "Game"]] +
+                  ([[p["pick"], nz(p["season"]), f"{p['game']} {p['tip']}"] for p in picks] or [["No games in the next 24 hours"]]))
 
         # tracker CSV
         def summ(rows_):
