@@ -185,7 +185,8 @@ def fetch_injuries():
             out.append({"name": ascii_name(a.get("displayName", "")),
                         "team": std(((a.get("team") or {}).get("abbreviation")) or ""),
                         "status": inj.get("status", ""), "type": det.get("type", ""),
-                        "return": det.get("returnDate", ""), "comment": inj.get("shortComment", "")})
+                        "return": det.get("returnDate", ""), "comment": inj.get("shortComment", ""),
+                        "fs": ((det.get("fantasyStatus") or {}).get("description") or "")})
     jsave(os.path.join(DATA, "injuries.json"), out)
     log("injury report entries:", len(out))
 
@@ -228,6 +229,11 @@ def fetch_espn_boxes(schedule):
 if __name__ == "__main__":
     steps = sys.argv[1:] or ["bref", "espn"]
     failed = []
+    if "inj" in steps:                      # quick injury check (every 15 minutes in the afternoon/evening)
+        for name, fn in (("injuries", fetch_injuries), ("schedule", fetch_schedule)):
+            try: fn()
+            except Exception as e:  # noqa: BLE001
+                log("ERROR", name, e); failed.append(name)
     if "espn" in steps:
         for name, fn in (("rosters", fetch_rosters), ("injuries", fetch_injuries)):
             try: fn()

@@ -3,8 +3,6 @@ on:
   schedule:
     - cron: "0 7 * * *"   # 08:00 UK during BST (skipped in winter)
     - cron: "0 8 * * *"   # 08:00 UK during GMT (skipped in summer)
-    - cron: "30 21 * * *" # 22:30 UK pre-game refresh during BST
-    - cron: "30 22 * * *" # 22:30 UK pre-game refresh during GMT
   workflow_dispatch: {}
   push:
     branches: [main]

@@ -131,6 +131,11 @@ def status_text(e):
     if not e:
         return ""
     s = e.get("status", "")
+    fs = (e.get("fs") or "").strip()
+    if fs.lower() == "out" and not s.lower().startswith("out"):
+        s = "Out"
+    elif fs and fs.lower() not in s.lower() and fs.lower() not in ("active",):
+        s += f" / {fs}"                  # e.g. Day-To-Day / Questionable
     if e.get("type"):
         s += f" ({e['type']})"
     if e.get("return"):
