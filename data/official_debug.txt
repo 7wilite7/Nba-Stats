@@ -1,0 +1,40 @@
+https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-03_03_45AM.pdf
+Injury Report: 11/03/26 03:45 AM
+GameDate GameTime Matchup Team PlayerName CurrentStatus Reason
+11/04/2026 07:00(ET) ATL@WAS AtlantaHawks NOTYETSUBMITTED
+WashingtonWizards NOTYETSUBMITTED
+PHI@DET Philadelphia76ers NOTYETSUBMITTED
+DetroitPistons NOTYETSUBMITTED
+07:30(ET) CHA@BKN CharlotteHornets NOTYETSUBMITTED
+BrooklynNets NOTYETSUBMITTED
+CHI@NYK ChicagoBulls NOTYETSUBMITTED
+NewYorkKnicks NOTYETSUBMITTED
+MIL@BOS MilwaukeeBucks NOTYETSUBMITTED
+BostonCeltics NOTYETSUBMITTED
+08:00(ET) CLE@OKC ClevelandCavaliers NOTYETSUBMITTED
+OklahomaCityThunder NOTYETSUBMITTED
+IND@MEM IndianaPacers NOTYETSUBMITTED
+MemphisGrizzlies NOTYETSUBMITTED
+UTA@NOP UtahJazz NOTYETSUBMITTED
+NewOrleansPelicans NOTYETSUBMITTED
+08:30(ET) MIN@HOU MinnesotaTimberwolves NOTYETSUBMITTED
+Page1of2
+=====
+["Injury", "Report:", "11/03/26", "03:45", "AM", "GameDate", "GameTime", "Matchup", "Team", "PlayerName", "CurrentStatus", "Reason", "11/04/2026", "07:00(ET)", "ATL@WAS", "AtlantaHawks", "NOTYETSUBMITTED", "WashingtonWizards", "NOTYETSUBMITTED", "PHI@DET", "Philadelphia76ers", "NOTYETSUBMITTED", "DetroitPistons", "NOTYETSUBMITTED", "07:30(ET)", "CHA@BKN", "CharlotteHornets", "NOTYETSUBMITTED", "BrooklynNets", "NOTYETSUBMITTED", "CHI@NYK", "ChicagoBulls", "NOTYETSUBMITTED", "NewYorkKnicks", "NOTYETSUBMITTED", "MIL@BOS", "MilwaukeeBucks", "NOTYETSUBMITTED", "BostonCeltics", "NOTYETSUBMITTED", "08:00(ET)", "CLE@OKC", "ClevelandCavaliers", "NOTYETSUBMITTED", "OklahomaCityThunder", "NOTYETSUBMITTED", "IND@MEM", "IndianaPacers", "NOTYETSUBMITTED", "MemphisGrizzlies", "NOTYETSUBMITTED", "UTA@NOP", "UtahJazz", "NOTYETSUBMITTED", "NewOrleansPelicans", "NOTYETSUBMITTED", "08:30(ET)", "MIN@HOU", "MinnesotaTimberwolves", "NOTYETSUBMITTED", "Page1of2"]
+=====
+Injury Report: 11/03/26 03:45 AM
+HoustonRockets NOTYETSUBMITTED
+09:00(ET) POR@PHX PortlandTrailBlazers NOTYETSUBMITTED
+PhoenixSuns NOTYETSUBMITTED
+TOR@DEN TorontoRaptors NOTYETSUBMITTED
+DenverNuggets NOTYETSUBMITTED
+09:30(ET) DAL@SAS DallasMavericks NOTYETSUBMITTED
+SanAntonioSpurs NOTYETSUBMITTED
+10:00(ET) LAL@SAC LosAngelesLakers NOTYETSUBMITTED
+SacramentoKings NOTYETSUBMITTED
+10:30(ET) MIA@LAC MiamiHeat NOTYETSUBMITTED
+LAClippers NOTYETSUBMITTED
+Page2of2
+=====
+["Injury", "Report:", "11/03/26", "03:45", "AM", "HoustonRockets", "NOTYETSUBMITTED", "09:00(ET)", "POR@PHX", "PortlandTrailBlazers", "NOTYETSUBMITTED", "PhoenixSuns", "NOTYETSUBMITTED", "TOR@DEN", "TorontoRaptors", "NOTYETSUBMITTED", "DenverNuggets", "NOTYETSUBMITTED", "09:30(ET)", "DAL@SAS", "DallasMavericks", "NOTYETSUBMITTED", "SanAntonioSpurs", "NOTYETSUBMITTED", "10:00(ET)", "LAL@SAC", "LosAngelesLakers", "NOTYETSUBMITTED", "SacramentoKings", "NOTYETSUBMITTED", "10:30(ET)", "MIA@LAC", "MiamiHeat", "NOTYETSUBMITTED", "LAClippers", "NOTYETSUBMITTED", "Page2of2"]
+=====
