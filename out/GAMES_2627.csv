@@ -1,23 +1,5 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Tue 03 Nov 01:41 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Tue 03 Nov 02:33 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
-POR @ DEN · Tue 02:00 UK,Aaron Gordon,DEN,5,60,60,20,0,100,60,20,60,20,0,80,60,20,0,
-POR @ DEN · Tue 02:00 UK,Alpha Diallo,DEN,1,0,0,0,0,0,0,0,100,0,0,0,0,0,0,Questionable (Right Wrist Sprain)
-POR @ DEN · Tue 02:00 UK,Cameron Johnson,DEN,2,50,0,0,0,50,50,50,50,0,0,100,50,0,0,
-POR @ DEN · Tue 02:00 UK,Christian Braun,DEN,5,60,60,20,20,80,40,20,20,0,0,80,40,40,20,
-POR @ DEN · Tue 02:00 UK,Damian Lillard,POR,5,80,80,60,20,80,60,0,60,20,0,100,80,60,40,
-POR @ DEN · Tue 02:00 UK,DeMar DeRozan,DEN,5,60,20,20,0,40,0,0,60,40,0,20,20,0,0,
-POR @ DEN · Tue 02:00 UK,Deni Avdija,POR,5,100,100,80,20,100,80,40,80,60,40,80,60,20,20,
-POR @ DEN · Tue 02:00 UK,Donovan Clingan,POR,5,40,0,0,0,100,100,100,20,0,0,60,40,0,0,
-POR @ DEN · Tue 02:00 UK,Ja Morant,POR,4,100,25,25,0,50,25,0,100,50,50,100,50,0,0,Out (Hamstring) – est. return 1 Dec
-POR @ DEN · Tue 02:00 UK,Jamal Murray,DEN,5,80,80,60,40,80,60,40,100,80,20,80,80,80,60,
-POR @ DEN · Tue 02:00 UK,Jrue Holiday,POR,5,60,20,20,0,80,20,0,80,20,20,80,80,20,0,
-POR @ DEN · Tue 02:00 UK,Julian Strawther,DEN,0,,,,,,,,,,,,,,,Out (Knee) – est. return 29 Nov
-POR @ DEN · Tue 02:00 UK,Nikola Jokic,DEN,5,100,80,40,20,100,100,100,100,100,80,60,20,20,0,
-POR @ DEN · Tue 02:00 UK,Scoot Henderson,POR,5,40,20,0,0,40,0,0,20,0,0,60,0,0,0,
-POR @ DEN · Tue 02:00 UK,Shaedon Sharpe,POR,0,,,,,,,,,,,,,,,Out (Knee) – est. return 2 Mar
-POR @ DEN · Tue 02:00 UK,Sidy Cissoko,POR,5,20,20,0,0,80,40,20,40,0,0,40,20,0,0,
-POR @ DEN · Tue 02:00 UK,Toumani Camara,POR,5,100,40,0,0,40,0,0,20,0,0,100,100,100,80,
-POR @ DEN · Tue 02:00 UK,Trevon Brazile,DEN,5,40,20,0,0,80,60,60,0,0,0,80,20,20,0,
 MIA @ LAL · Tue 03:00 UK,Andrew Wiggins,MIA,6,67,17,0,0,33,17,17,0,0,0,67,33,17,17,
 MIA @ LAL · Tue 03:00 UK,Austin Reaves,LAL,7,100,100,71,43,71,14,0,86,57,29,100,57,43,29,
 MIA @ LAL · Tue 03:00 UK,Bam Adebayo,MIA,6,67,67,50,17,100,100,83,100,0,0,33,17,0,0,
@@ -55,7 +37,7 @@ TOR @ LAC · Tue 03:00 UK,Derrick Jones Jr.,LAC,6,67,33,0,0,83,67,17,17,17,0,100
 TOR @ LAC · Tue 03:00 UK,Immanuel Quickley,TOR,6,100,67,17,0,83,33,0,83,83,67,83,83,83,50,
 TOR @ LAC · Tue 03:00 UK,Isaiah Jackson,LAC,6,50,0,0,0,100,100,33,50,0,0,0,0,0,0,
 TOR @ LAC · Tue 03:00 UK,Ja'Kobe Walter,TOR,6,67,17,17,0,100,17,0,17,0,0,100,83,67,17,
-TOR @ LAC · Tue 03:00 UK,Jakob Poeltl,TOR,5,20,0,0,0,60,60,40,20,0,0,0,0,0,0,Questionable (Shoulder)
+TOR @ LAC · Tue 03:00 UK,Jakob Poeltl,TOR,5,20,0,0,0,60,60,40,20,0,0,0,0,0,0,Out (Shoulder) – est. return 4 Nov
 TOR @ LAC · Tue 03:00 UK,Jamal Shead,TOR,6,17,0,0,0,17,0,0,83,83,33,33,17,0,0,
 TOR @ LAC · Tue 03:00 UK,Jordan Miller,LAC,0,,,,,,,,,,,,,,,Out (Shoulder) – est. return 2 Mar
 TOR @ LAC · Tue 03:00 UK,Kawhi Leonard,TOR,2,100,100,50,0,100,100,50,0,0,0,100,100,0,0,Out (Knee) – est. return 23 Nov
@@ -64,4 +46,4 @@ TOR @ LAC · Tue 03:00 UK,Kobe Sanders,LAC,6,33,17,0,0,83,0,0,33,17,0,83,33,17,1
 TOR @ LAC · Tue 03:00 UK,Kris Dunn,LAC,6,33,17,0,0,83,33,0,100,67,33,67,17,0,0,
 TOR @ LAC · Tue 03:00 UK,RJ Barrett,TOR,6,83,83,83,17,83,50,50,83,50,0,67,33,33,17,
 TOR @ LAC · Tue 03:00 UK,Rui Hachimura,LAC,5,80,40,20,0,100,80,40,0,0,0,100,80,40,20,Out (Quadriceps) – est. return 4 Nov
-TOR @ LAC · Tue 03:00 UK,Scottie Barnes,TOR,6,83,83,83,67,100,83,17,100,67,0,50,0,0,0,Questionable (Hip)
+TOR @ LAC · Tue 03:00 UK,Scottie Barnes,TOR,6,83,83,83,67,100,83,17,100,67,0,50,0,0,0,
