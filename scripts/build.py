@@ -6,7 +6,7 @@ Two versions ("variants"):
 
 Per variant: PLAYERS_<v>.csv (hit rates), TODAY_<v>.csv (picks), PHONE_<v>.csv, TRACKER_<v>.csv
 """
-import csv, datetime as dt, glob, json, os, sys
+import csv, datetime as dt, glob, json, os, re, sys
 from collections import defaultdict
 from zoneinfo import ZoneInfo
 from config import (DATA, OUT, MIN_MPG, YET_TO_PLAY_MIN_PPG, TRUE_K, PICK_MIN_TRUE, SMALL_SAMPLE, LINES, STATS,
@@ -71,10 +71,11 @@ def load():
     # Official NBA injury report (game-day status) takes priority; ESPN keeps the injury type and return date
     today_et = NOW.astimezone(ZoneInfo("America/New_York")).date().isoformat()
     off = (jload(os.path.join(DATA, "injuries_official.json"), {}) or {}).get("players", [])
+    nospace = {k.replace(" ", ""): k for k in set(names) | set(inj) | set(logs) | set(roster_team)}
     for o in off:
         if o.get("game_date", "") < today_et:
             continue
-        k = key(o["name"])
+        k = nospace.get(key(o["name"]).replace(" ", ""), key(o["name"]))   # the PDF drops spaces inside names
         e = inj.setdefault(k, {"name": o["name"], "team": o["team"]})
         if "official" not in e or o["game_date"] < e.get("official_date", "9"):
             e.update(official=o["status"], oreason=o["reason"], official_date=o["game_date"], team=o["team"])
@@ -144,7 +145,8 @@ def status_text(e):
         if e["official"] == "Available":
             return ""
         s = e["official"]
-        why = e.get("type") or (e.get("oreason") or "").replace("Injury/Illness - ", "").split(";")[0].strip()
+        raw = re.sub(r"(?<=[a-z])(?=[A-Z])", " ", (e.get("oreason") or "").replace("Injury/Illness-", "").replace("Injury/Illness - ", ""))
+        why = e.get("type") or raw.split(";")[0].strip()
         if why:
             s += f" ({why})"
         if e.get("return") and e["official"] == "Out":

@@ -229,13 +229,15 @@ def latest_official_report_url():
 
 
 def flip_name(n):
-    """'Jackson Jr., Jaren' -> 'Jaren Jackson Jr.'"""
-    if "," not in n:
+    """'Jackson Jr., Jaren' / 'NanceJr.,Larry' / 'Udeh,Jr.,Ernest' -> 'Jaren Jackson Jr.' style."""
+    parts = [x.strip() for x in n.split(",") if x.strip()]
+    if len(parts) < 2:
         return n.strip()
-    last, first = [x.strip() for x in n.split(",", 1)]
+    first = parts[-1]
+    last = " ".join(parts[:-1])
     suffix = ""
-    m = re.match(r"(.*?)\s+(Jr\.?|Sr\.?|II|III|IV|V)$", last)
-    if m:
+    m = re.match(r"(.*?)\s*(Jr\.?|Sr\.?|II|III|IV|V)$", last)
+    if m and m.group(1):
         last, suffix = m.group(1), " " + m.group(2)
     return f"{first} {last}{suffix}"
 
@@ -247,27 +249,21 @@ def fetch_official_injuries():
     if not url:
         raise RuntimeError("no official injury report found")
     pdf = pdfplumber.open(io.BytesIO(get(url)))
+    teams = {n.replace(" ", ""): c for n, c in TEAM_NAMES.items()}
+    stat = set(STATUSES.split("|"))
     out, date, team = [], None, None
-    names = sorted(TEAM_NAMES, key=len, reverse=True)
     for page in pdf.pages:
-        for line in (page.extract_text() or "").splitlines():
-            line = line.strip()
-            m = re.match(r"(\d{2}/\d{2}/\d{4})\s+\d{1,2}:\d{2}\s*\(ET\)\s+\S+@\S+\s*(.*)", line)
-            if m:
-                date = dt.datetime.strptime(m.group(1), "%m/%d/%Y").date().isoformat()
-                line = m.group(2)
-            else:
-                m = re.match(r"\d{1,2}:\d{2}\s*\(ET\)\s+\S+@\S+\s*(.*)", line)
-                if m:
-                    line = m.group(1)
-            for tn in names:
-                if line.startswith(tn):
-                    team, line = TEAM_NAMES[tn], line[len(tn):].strip()
-                    break
-            p = re.match(r"^(.+?,\s*\S+(?:\s\S+)??)\s+(%s)\b\s*(.*)$" % STATUSES, line)
-            if p and team and date:
-                out.append({"name": ascii_name(flip_name(p.group(1))), "team": team, "status": p.group(2),
-                            "reason": p.group(3).strip(), "game_date": date})
+        toks = [w["text"] for w in page.extract_words()]
+        for i, t in enumerate(toks):
+            if re.fullmatch(r"\d{2}/\d{2}/\d{4}", t):
+                date = dt.datetime.strptime(t, "%m/%d/%Y").date().isoformat()
+            elif t in teams:
+                team = teams[t]
+            elif "," in t and i + 1 < len(toks) and toks[i + 1] in stat and team and date:
+                nxt = toks[i + 2] if i + 2 < len(toks) else ""
+                reason = nxt if re.match(r"(Injury|GLeague|League|Rest|Personal|Not|Health)", nxt) else ""
+                out.append({"name": ascii_name(flip_name(t)), "team": team, "status": toks[i + 1],
+                            "reason": reason, "game_date": date})
     if not out:
         with open(os.path.join(DATA, "official_debug.txt"), "w") as f:
             f.write(url + "\n")
