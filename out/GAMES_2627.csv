@@ -1,4 +1,4 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Tue 03 Nov 00:02 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Tue 03 Nov 00:14 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 ATL @ IND · Tue 00:30 UK,Aaron Nesmith,IND,6,67,17,0,0,50,0,0,17,0,0,83,50,33,0,Out (Rest) – est. return 4 Nov
 ATL @ IND · Tue 00:30 UK,Aaron Wiggins,ATL,7,100,57,14,0,71,29,14,43,0,0,100,100,57,29,
@@ -37,7 +37,7 @@ CHI @ PHI · Tue 00:30 UK,Caleb Wilson,CHI,6,100,100,67,17,100,83,17,67,0,0,100,
 CHI @ PHI · Tue 00:30 UK,Dean Wade,PHI,5,0,0,0,0,40,40,0,20,20,20,40,20,0,0,
 CHI @ PHI · Tue 00:30 UK,Jalen Smith,CHI,6,67,33,0,0,100,83,67,17,17,0,67,67,17,0,
 CHI @ PHI · Tue 00:30 UK,Jaylen Brown,PHI,6,100,100,50,17,100,50,50,83,33,0,83,50,17,0,
-CHI @ PHI · Tue 00:30 UK,Joel Embiid,PHI,5,100,60,60,20,100,100,100,60,60,40,40,20,0,0,Day-To-Day / GTD (Foot) – est. return 2 Nov
+CHI @ PHI · Tue 00:30 UK,Joel Embiid,PHI,5,100,60,60,20,100,100,100,60,60,40,40,20,0,0,
 CHI @ PHI · Tue 00:30 UK,Josh Giddey,CHI,6,50,0,0,0,83,50,50,100,83,50,67,17,0,0,
 CHI @ PHI · Tue 00:30 UK,Kentavious Caldwell-Pope,PHI,7,29,0,0,0,57,0,0,29,0,0,86,29,14,14,
 CHI @ PHI · Tue 00:30 UK,LeBron James,PHI,5,100,60,20,0,80,80,60,100,100,60,60,40,0,0,
@@ -117,7 +117,7 @@ SAC @ DAL · Tue 01:00 UK,Naji Marshall,DAL,3,100,67,0,0,67,0,0,100,100,0,67,33,
 SAC @ DAL · Tue 01:00 UK,P.J. Washington,DAL,6,83,50,33,0,100,67,67,0,0,0,83,67,17,17,
 SAC @ DAL · Tue 01:00 UK,Precious Achiuwa,SAC,6,67,33,17,0,83,83,33,0,0,0,17,0,0,0,
 SAC @ DAL · Tue 01:00 UK,Zaccharie Risacher,DAL,6,67,0,0,0,100,83,17,17,0,0,83,33,17,0,
-SAC @ DAL · Tue 01:00 UK,Zach LaVine,SAC,6,100,83,83,33,67,17,0,67,33,0,83,83,83,0,Day-To-Day / GTD (Elbow) – est. return 2 Nov
+SAC @ DAL · Tue 01:00 UK,Zach LaVine,SAC,6,100,83,83,33,67,17,0,67,33,0,83,83,83,0,
 BOS @ HOU · Tue 01:30 UK,Alperen Sengun,HOU,5,100,100,60,40,100,100,100,100,100,80,80,40,0,0,
 BOS @ HOU · Tue 01:30 UK,Amen Thompson,HOU,7,86,86,29,0,100,57,43,71,29,0,29,0,0,0,
 BOS @ HOU · Tue 01:30 UK,Derrick White,BOS,6,67,33,0,0,50,33,0,83,50,33,100,50,17,0,
@@ -130,7 +130,7 @@ BOS @ HOU · Tue 01:30 UK,Mitchell Robinson,BOS,5,20,0,0,0,100,40,20,0,0,0,0,0,0
 BOS @ HOU · Tue 01:30 UK,Neemias Queta,BOS,6,33,17,0,0,100,67,17,0,0,0,17,0,0,0,
 BOS @ HOU · Tue 01:30 UK,Paul George,BOS,6,100,100,33,17,100,100,33,67,50,50,100,83,67,17,Out (Rest) – est. return 4 Nov
 BOS @ HOU · Tue 01:30 UK,Payton Pritchard,BOS,6,50,50,33,33,50,17,17,83,17,0,67,50,33,17,
-BOS @ HOU · Tue 01:30 UK,Reed Sheppard,HOU,4,50,25,0,0,50,25,0,100,25,25,100,50,25,25,Day-To-Day
+BOS @ HOU · Tue 01:30 UK,Reed Sheppard,HOU,4,50,25,0,0,50,25,0,100,25,25,100,50,25,25,
 BOS @ HOU · Tue 01:30 UK,Sam Hauser,BOS,6,50,0,0,0,67,0,0,0,0,0,100,83,50,0,
 BOS @ HOU · Tue 01:30 UK,Tari Eason,HOU,7,57,14,0,0,86,57,43,0,0,0,43,14,0,0,
 UTA @ SAS · Tue 01:30 UK,Ace Bailey,UTA,6,67,50,0,0,100,100,67,50,0,0,100,33,17,0,
