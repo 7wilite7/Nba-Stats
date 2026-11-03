@@ -5,7 +5,7 @@
 """
 import datetime as dt, html, json, os, re, sys, time, unicodedata
 from zoneinfo import ZoneInfo
-from config import DATA, SEASON_START, BREF_DELAY, BREF_TO_STD, ESPN_TO_STD
+from config import DATA, SEASON_START, BREF_DELAY, BREF_TO_STD, ESPN_TO_STD, STD_TO_BREF
 from common import get, jload, jsave
 
 ET = ZoneInfo("America/New_York")
@@ -86,19 +86,28 @@ def fetch_bref():
             d += dt.timedelta(days=1)
             continue
         try:
-            page = bref(f"https://www.basketball-reference.com/boxscores/?month={d.month}&day={d.day}&year={d.year}")
+            page = bref(f"https://www.basketball-reference.com/boxscores/?month={d.month}&day={d.day}&year={d.year}"
+                        f"&cb={int(time.time())}")       # cache-buster: B-Ref sometimes serves a stale copy
         except Exception as e:  # noqa: BLE001
             log("WARN box list", ds, e)
             d += dt.timedelta(days=1)
             continue
         ids = sorted(set(i for i in re.findall(r"/boxscores/(\d{9}[A-Z]{3})\.html", page) if i.startswith(d.strftime("%Y%m%d"))))
+        # Cross-check with ESPN's finished games for that day; fetch any box score the B-Ref list page missed
+        espn_day = jload(os.path.join(DATA, "espn_scoreboards", ds + ".json")) or [
+            g for g in (jload(os.path.join(DATA, "schedule.json"), []) or []) if g.get("us_date") == ds]
+        expected = {ds.replace("-", "") + "0" + STD_TO_BREF.get(g["home"], g["home"])
+                    for g in espn_day if g.get("state") == "post"}
+        if expected - set(ids):
+            log(f"WARN {ds}: B-Ref list page missing {len(expected - set(ids))} finished games; fetching them directly")
+        ids = sorted(set(ids) | expected)
         ok = True
         for gid in ids:
             path = os.path.join(DATA, "games", gid + ".json")
             if os.path.exists(path) and not recent:
                 continue
             try:
-                g = parse_box(bref(f"https://www.basketball-reference.com/boxscores/{gid}.html"), gid)
+                g = parse_box(bref(f"https://www.basketball-reference.com/boxscores/{gid}.html?cb={int(time.time())}"), gid)
                 old = jload(path)
                 if old != g:
                     jsave(path, g)
@@ -270,7 +279,10 @@ def fetch_official_injuries():
             for page in pdf.pages[:2]:
                 f.write((page.extract_text() or "") + "\n=====\n")
                 f.write(json.dumps([w["text"] for w in page.extract_words()][:200]) + "\n=====\n")
-        raise RuntimeError("official report parsed 0 players: " + url)
+        # Normal overnight: once the night's games are over, the report can list nobody. Not an error;
+        # keep the last good list (old game dates are ignored by build.py) and fall back to ESPN.
+        log("official report lists no players for upcoming games yet:", url.rsplit("/", 1)[-1])
+        return
     out.sort(key=lambda o: (o["game_date"], o["team"], o["name"]))
     jsave(os.path.join(DATA, "injuries_official.json"), {"players": out})   # only changes when a status changes
     with open(os.path.join(DATA, "injuries_official_source.txt"), "w") as f:
