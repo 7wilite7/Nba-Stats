@@ -269,6 +269,11 @@ def fetch_official_injuries():
                 out.append({"name": ascii_name(flip_name(p.group(1))), "team": team, "status": p.group(2),
                             "reason": p.group(3).strip(), "game_date": date})
     if not out:
+        with open(os.path.join(DATA, "official_debug.txt"), "w") as f:
+            f.write(url + "\n")
+            for page in pdf.pages[:2]:
+                f.write((page.extract_text() or "") + "\n=====\n")
+                f.write(json.dumps([w["text"] for w in page.extract_words()][:200]) + "\n=====\n")
         raise RuntimeError("official report parsed 0 players: " + url)
     out.sort(key=lambda o: (o["game_date"], o["team"], o["name"]))
     jsave(os.path.join(DATA, "injuries_official.json"), {"players": out})   # only changes when a status changes
