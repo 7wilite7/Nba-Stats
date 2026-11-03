@@ -1,5 +1,6 @@
 rosters: 30 teams, 521 players
 injury report entries: 97
+ERROR official injuries official report parsed 0 players: https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-02_07_00PM.pdf
 ESPN schedule entries: 154
 new ESPN box scores: 0
 Basketball Reference 2026-10-31: 7 games
