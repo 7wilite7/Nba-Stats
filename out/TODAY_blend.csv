@@ -1,4 +1,4 @@
-"Today's picks (chosen by true rate 80%+, shown as this season's hit %) · pick tracker: 85% hit from 1390 graded picks · updated Tue 00:14"
+"Today's picks (chosen by true rate 80%+, shown as this season's hit %) · pick tracker: 85% hit from 1390 graded picks · updated Tue 00:16"
 Pick,Market,Hit %,Games,Team,Game,Tip-off (UK),Note,status
 CJ McCollum Points 10+,Points,87,38,ATL,ATL @ IND,Tue 00:30,,
 CJ McCollum Threes 1+,Threes,84,38,ATL,ATL @ IND,Tue 00:30,,
@@ -34,9 +34,9 @@ Jaylen Brown Assists 3+,Assists,89,36,PHI,CHI @ PHI,Tue 00:30,,
 Jaylen Brown Points 20+,Points,86,36,PHI,CHI @ PHI,Tue 00:30,,
 Jaylen Brown Rebounds 3+,Rebounds,94,36,PHI,CHI @ PHI,Tue 00:30,,
 Jaylen Brown Threes 1+,Threes,83,36,PHI,CHI @ PHI,Tue 00:30,,
-Joel Embiid Points 15+,Points,89,19,PHI,CHI @ PHI,Tue 00:30,,
-Joel Embiid Rebounds 5+,Rebounds,100,19,PHI,CHI @ PHI,Tue 00:30,,
-Joel Embiid Threes 1+,Threes,84,19,PHI,CHI @ PHI,Tue 00:30,,
+Joel Embiid Points 15+,Points,89,19,PHI,CHI @ PHI,Tue 00:30,Questionable,Questionable
+Joel Embiid Rebounds 5+,Rebounds,100,19,PHI,CHI @ PHI,Tue 00:30,Questionable,Questionable
+Joel Embiid Threes 1+,Threes,84,19,PHI,CHI @ PHI,Tue 00:30,Questionable,Questionable
 Josh Giddey Assists 5+,Assists,89,27,CHI,CHI @ PHI,Tue 00:30,,
 Josh Giddey Rebounds 3+,Rebounds,85,27,CHI,CHI @ PHI,Tue 00:30,,
 LeBron James Assists 5+,Assists,87,30,PHI,CHI @ PHI,Tue 00:30,,
@@ -79,10 +79,10 @@ Wendell Carter Jr. Rebounds 5+,Rebounds,90,39,ORL,WAS @ ORL,Tue 00:30,,
 Ayo Dosunmu Points 10+,Points,83,35,MIN,MIL @ MIN,Tue 01:00,,
 Ayo Dosunmu Threes 1+,Threes,86,35,MIN,MIL @ MIN,Tue 01:00,,
 Kyle Kuzma Rebounds 3+,Rebounds,86,35,MIL,MIL @ MIN,Tue 01:00,,
-LaMelo Ball Assists 3+,Assists,97,36,MIN,MIL @ MIN,Tue 01:00,Day-To-Day / GTD (Wrist) – est. return 2 Nov,Day-To-Day / GTD (Wrist) – est. return 2 Nov
-LaMelo Ball Points 10+,Points,97,36,MIN,MIL @ MIN,Tue 01:00,Day-To-Day / GTD (Wrist) – est. return 2 Nov,Day-To-Day / GTD (Wrist) – est. return 2 Nov
-LaMelo Ball Rebounds 3+,Rebounds,83,36,MIN,MIL @ MIN,Tue 01:00,Day-To-Day / GTD (Wrist) – est. return 2 Nov,Day-To-Day / GTD (Wrist) – est. return 2 Nov
-LaMelo Ball Threes 2+,Threes,92,36,MIN,MIL @ MIN,Tue 01:00,Day-To-Day / GTD (Wrist) – est. return 2 Nov,Day-To-Day / GTD (Wrist) – est. return 2 Nov
+LaMelo Ball Assists 3+,Assists,97,36,MIN,MIL @ MIN,Tue 01:00,Questionable (Wrist),Questionable (Wrist)
+LaMelo Ball Points 10+,Points,97,36,MIN,MIL @ MIN,Tue 01:00,Questionable (Wrist),Questionable (Wrist)
+LaMelo Ball Rebounds 3+,Rebounds,83,36,MIN,MIL @ MIN,Tue 01:00,Questionable (Wrist),Questionable (Wrist)
+LaMelo Ball Threes 2+,Threes,92,36,MIN,MIL @ MIN,Tue 01:00,Questionable (Wrist),Questionable (Wrist)
 Myles Turner Rebounds 3+,Rebounds,89,36,MIL,MIL @ MIN,Tue 01:00,,
 Myles Turner Threes 1+,Threes,89,36,MIL,MIL @ MIN,Tue 01:00,,
 Rudy Gobert Rebounds 7+,Rebounds,89,38,MIN,MIL @ MIN,Tue 01:00,,
@@ -148,7 +148,7 @@ Mitchell Robinson Rebounds 3+,Rebounds,100,30,BOS,BOS @ HOU,Tue 01:30,,
 Neemias Queta Rebounds 3+,Rebounds,95,38,BOS,BOS @ HOU,Tue 01:30,,
 Payton Pritchard Assists 3+,Assists,85,40,BOS,BOS @ HOU,Tue 01:30,Came off the bench last game,
 Payton Pritchard Threes 1+,Threes,82,40,BOS,BOS @ HOU,Tue 01:30,Came off the bench last game,
-Reed Sheppard Threes 1+,Threes,98,41,HOU,BOS @ HOU,Tue 01:30,Came off the bench last game,
+Reed Sheppard Threes 1+,Threes,98,41,HOU,BOS @ HOU,Tue 01:30,Questionable (Low Back Strain); Came off the bench last game,Questionable (Low Back Strain)
 Sam Hauser Threes 1+,Threes,90,39,BOS,BOS @ HOU,Tue 01:30,Came off the bench last game,
 Tari Eason Rebounds 3+,Rebounds,90,30,HOU,BOS @ HOU,Tue 01:30,Came off the bench last game,
 Ace Bailey Points 10+,Points,83,36,UTA,UTA @ SAS,Tue 01:30,,
@@ -244,6 +244,6 @@ Kris Dunn Assists 3+,Assists,85,41,LAC,TOR @ LAC,Tue 03:00,,
 RJ Barrett Points 15+,Points,86,29,TOR,TOR @ LAC,Tue 03:00,,
 RJ Barrett Rebounds 3+,Rebounds,93,29,TOR,TOR @ LAC,Tue 03:00,,
 RJ Barrett Threes 1+,Threes,83,29,TOR,TOR @ LAC,Tue 03:00,,
-Scottie Barnes Assists 3+,Assists,90,40,TOR,TOR @ LAC,Tue 03:00,Day-To-Day / GTD (Hip) – est. return 2 Nov,Day-To-Day / GTD (Hip) – est. return 2 Nov
-Scottie Barnes Points 10+,Points,90,40,TOR,TOR @ LAC,Tue 03:00,Day-To-Day / GTD (Hip) – est. return 2 Nov,Day-To-Day / GTD (Hip) – est. return 2 Nov
-Scottie Barnes Rebounds 3+,Rebounds,95,40,TOR,TOR @ LAC,Tue 03:00,Day-To-Day / GTD (Hip) – est. return 2 Nov,Day-To-Day / GTD (Hip) – est. return 2 Nov
+Scottie Barnes Assists 3+,Assists,90,40,TOR,TOR @ LAC,Tue 03:00,Questionable (Hip),Questionable (Hip)
+Scottie Barnes Points 10+,Points,90,40,TOR,TOR @ LAC,Tue 03:00,Questionable (Hip),Questionable (Hip)
+Scottie Barnes Rebounds 3+,Rebounds,95,40,TOR,TOR @ LAC,Tue 03:00,Questionable (Hip),Questionable (Hip)

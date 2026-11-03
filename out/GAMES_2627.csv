@@ -1,4 +1,4 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Tue 03 Nov 00:14 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Tue 03 Nov 00:16 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 ATL @ IND · Tue 00:30 UK,Aaron Nesmith,IND,6,67,17,0,0,50,0,0,17,0,0,83,50,33,0,Out (Rest) – est. return 4 Nov
 ATL @ IND · Tue 00:30 UK,Aaron Wiggins,ATL,7,100,57,14,0,71,29,14,43,0,0,100,100,57,29,
@@ -37,7 +37,7 @@ CHI @ PHI · Tue 00:30 UK,Caleb Wilson,CHI,6,100,100,67,17,100,83,17,67,0,0,100,
 CHI @ PHI · Tue 00:30 UK,Dean Wade,PHI,5,0,0,0,0,40,40,0,20,20,20,40,20,0,0,
 CHI @ PHI · Tue 00:30 UK,Jalen Smith,CHI,6,67,33,0,0,100,83,67,17,17,0,67,67,17,0,
 CHI @ PHI · Tue 00:30 UK,Jaylen Brown,PHI,6,100,100,50,17,100,50,50,83,33,0,83,50,17,0,
-CHI @ PHI · Tue 00:30 UK,Joel Embiid,PHI,5,100,60,60,20,100,100,100,60,60,40,40,20,0,0,
+CHI @ PHI · Tue 00:30 UK,Joel Embiid,PHI,5,100,60,60,20,100,100,100,60,60,40,40,20,0,0,Questionable
 CHI @ PHI · Tue 00:30 UK,Josh Giddey,CHI,6,50,0,0,0,83,50,50,100,83,50,67,17,0,0,
 CHI @ PHI · Tue 00:30 UK,Kentavious Caldwell-Pope,PHI,7,29,0,0,0,57,0,0,29,0,0,86,29,14,14,
 CHI @ PHI · Tue 00:30 UK,LeBron James,PHI,5,100,60,20,0,80,80,60,100,100,60,60,40,0,0,
@@ -85,7 +85,7 @@ MIL @ MIN · Tue 01:00 UK,Jaime Jaquez Jr.,MIL,6,67,67,33,0,100,83,67,50,33,0,83
 MIL @ MIN · Tue 01:00 UK,Jonathan Kuminga,MIN,7,86,29,14,0,71,43,29,57,29,0,86,71,29,0,
 MIL @ MIN · Tue 01:00 UK,Kasparas Jakucionis,MIL,6,33,17,0,0,67,0,0,83,50,0,67,0,0,0,
 MIL @ MIN · Tue 01:00 UK,Kyle Kuzma,MIL,6,67,17,0,0,100,83,50,83,0,0,67,50,17,17,
-MIL @ MIN · Tue 01:00 UK,LaMelo Ball,MIN,7,86,43,29,0,57,29,14,100,86,43,86,71,43,43,Day-To-Day / GTD (Wrist) – est. return 2 Nov
+MIL @ MIN · Tue 01:00 UK,LaMelo Ball,MIN,7,86,43,29,0,57,29,14,100,86,43,86,71,43,43,Questionable (Wrist)
 MIL @ MIN · Tue 01:00 UK,Myles Turner,MIL,6,50,0,0,0,83,67,33,33,0,0,50,33,0,0,
 MIL @ MIN · Tue 01:00 UK,Rudy Gobert,MIN,6,17,0,0,0,100,83,83,17,0,0,0,0,0,0,
 MIL @ MIN · Tue 01:00 UK,Ryan Rollins,MIL,6,50,33,0,0,83,33,17,100,50,17,83,50,17,0,
@@ -130,7 +130,7 @@ BOS @ HOU · Tue 01:30 UK,Mitchell Robinson,BOS,5,20,0,0,0,100,40,20,0,0,0,0,0,0
 BOS @ HOU · Tue 01:30 UK,Neemias Queta,BOS,6,33,17,0,0,100,67,17,0,0,0,17,0,0,0,
 BOS @ HOU · Tue 01:30 UK,Paul George,BOS,6,100,100,33,17,100,100,33,67,50,50,100,83,67,17,Out (Rest) – est. return 4 Nov
 BOS @ HOU · Tue 01:30 UK,Payton Pritchard,BOS,6,50,50,33,33,50,17,17,83,17,0,67,50,33,17,
-BOS @ HOU · Tue 01:30 UK,Reed Sheppard,HOU,4,50,25,0,0,50,25,0,100,25,25,100,50,25,25,
+BOS @ HOU · Tue 01:30 UK,Reed Sheppard,HOU,4,50,25,0,0,50,25,0,100,25,25,100,50,25,25,Questionable (Low Back Strain)
 BOS @ HOU · Tue 01:30 UK,Sam Hauser,BOS,6,50,0,0,0,67,0,0,0,0,0,100,83,50,0,
 BOS @ HOU · Tue 01:30 UK,Tari Eason,HOU,7,57,14,0,0,86,57,43,0,0,0,43,14,0,0,
 UTA @ SAS · Tue 01:30 UK,Ace Bailey,UTA,6,67,50,0,0,100,100,67,50,0,0,100,33,17,0,
@@ -148,7 +148,7 @@ UTA @ SAS · Tue 01:30 UK,Stephon Castle,SAS,6,83,67,17,0,100,83,33,83,67,33,83,
 UTA @ SAS · Tue 01:30 UK,Tobias Harris,SAS,0,,,,,,,,,,,,,,,Out (Calf) – est. return 6 Nov
 UTA @ SAS · Tue 01:30 UK,Victor Wembanyama,SAS,6,100,83,83,67,100,100,100,50,17,0,67,67,33,17,
 POR @ DEN · Tue 02:00 UK,Aaron Gordon,DEN,5,60,60,20,0,100,60,20,60,20,0,80,60,20,0,
-POR @ DEN · Tue 02:00 UK,Alpha Diallo,DEN,1,0,0,0,0,0,0,0,100,0,0,0,0,0,0,Out / GTD (Wrist) – est. return 2 Nov
+POR @ DEN · Tue 02:00 UK,Alpha Diallo,DEN,1,0,0,0,0,0,0,0,100,0,0,0,0,0,0,Questionable (Wrist)
 POR @ DEN · Tue 02:00 UK,Cameron Johnson,DEN,2,50,0,0,0,50,50,50,50,0,0,100,50,0,0,
 POR @ DEN · Tue 02:00 UK,Christian Braun,DEN,5,60,60,20,20,80,40,20,20,0,0,80,40,40,20,
 POR @ DEN · Tue 02:00 UK,Damian Lillard,POR,5,80,80,60,20,80,60,0,60,20,0,100,80,60,40,
@@ -202,7 +202,7 @@ TOR @ LAC · Tue 03:00 UK,Derrick Jones Jr.,LAC,6,67,33,0,0,83,67,17,17,17,0,100
 TOR @ LAC · Tue 03:00 UK,Immanuel Quickley,TOR,6,100,67,17,0,83,33,0,83,83,67,83,83,83,50,
 TOR @ LAC · Tue 03:00 UK,Isaiah Jackson,LAC,6,50,0,0,0,100,100,33,50,0,0,0,0,0,0,
 TOR @ LAC · Tue 03:00 UK,Ja'Kobe Walter,TOR,6,67,17,17,0,100,17,0,17,0,0,100,83,67,17,
-TOR @ LAC · Tue 03:00 UK,Jakob Poeltl,TOR,5,20,0,0,0,60,60,40,20,0,0,0,0,0,0,Day-To-Day / GTD (Shoulder) – est. return 2 Nov
+TOR @ LAC · Tue 03:00 UK,Jakob Poeltl,TOR,5,20,0,0,0,60,60,40,20,0,0,0,0,0,0,Questionable (Shoulder)
 TOR @ LAC · Tue 03:00 UK,Jamal Shead,TOR,6,17,0,0,0,17,0,0,83,83,33,33,17,0,0,
 TOR @ LAC · Tue 03:00 UK,Jordan Miller,LAC,0,,,,,,,,,,,,,,,Out (Shoulder) – est. return 2 Mar
 TOR @ LAC · Tue 03:00 UK,Kawhi Leonard,TOR,2,100,100,50,0,100,100,50,0,0,0,100,100,0,0,Out (Knee) – est. return 23 Nov
@@ -211,4 +211,4 @@ TOR @ LAC · Tue 03:00 UK,Kobe Sanders,LAC,6,33,17,0,0,83,0,0,33,17,0,83,33,17,1
 TOR @ LAC · Tue 03:00 UK,Kris Dunn,LAC,6,33,17,0,0,83,33,0,100,67,33,67,17,0,0,
 TOR @ LAC · Tue 03:00 UK,RJ Barrett,TOR,6,83,83,83,17,83,50,50,83,50,0,67,33,33,17,
 TOR @ LAC · Tue 03:00 UK,Rui Hachimura,LAC,5,80,40,20,0,100,80,40,0,0,0,100,80,40,20,Out (Quadriceps) – est. return 4 Nov
-TOR @ LAC · Tue 03:00 UK,Scottie Barnes,TOR,6,83,83,83,67,100,83,17,100,67,0,50,0,0,0,Day-To-Day / GTD (Hip) – est. return 2 Nov
+TOR @ LAC · Tue 03:00 UK,Scottie Barnes,TOR,6,83,83,83,67,100,83,17,100,67,0,50,0,0,0,Questionable (Hip)
