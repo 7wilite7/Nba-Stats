@@ -191,6 +191,92 @@ def fetch_injuries():
     log("injury report entries:", len(out))
 
 
+TEAM_NAMES = {
+    "Atlanta Hawks": "ATL", "Boston Celtics": "BOS", "Brooklyn Nets": "BKN", "Charlotte Hornets": "CHA",
+    "Chicago Bulls": "CHI", "Cleveland Cavaliers": "CLE", "Dallas Mavericks": "DAL", "Denver Nuggets": "DEN",
+    "Detroit Pistons": "DET", "Golden State Warriors": "GSW", "Houston Rockets": "HOU", "Indiana Pacers": "IND",
+    "LA Clippers": "LAC", "Los Angeles Clippers": "LAC", "Los Angeles Lakers": "LAL", "Memphis Grizzlies": "MEM",
+    "Miami Heat": "MIA", "Milwaukee Bucks": "MIL", "Minnesota Timberwolves": "MIN", "New Orleans Pelicans": "NOP",
+    "New York Knicks": "NYK", "Oklahoma City Thunder": "OKC", "Orlando Magic": "ORL", "Philadelphia 76ers": "PHI",
+    "Phoenix Suns": "PHX", "Portland Trail Blazers": "POR", "Sacramento Kings": "SAC", "San Antonio Spurs": "SAS",
+    "Toronto Raptors": "TOR", "Utah Jazz": "UTA", "Washington Wizards": "WAS"}
+STATUSES = "Out|Doubtful|Questionable|Probable|Available"
+
+
+def latest_official_report_url():
+    """Newest official NBA injury report PDF (published every 15 minutes on game days)."""
+    try:
+        page = get("https://official.nba.com/nba-injury-report-2026-27/").decode("utf8", "replace")
+        links = re.findall(r"https://ak-static\.cms\.nba\.com/referee/injury/Injury-Report_[0-9_\-]+(?:AM|PM)\.pdf", page)
+        if links:
+            def when(u):
+                m = re.search(r"_(\d{4}-\d{2}-\d{2})_(\d{2})_(\d{2})(AM|PM)", u)
+                return dt.datetime.strptime(" ".join(m.groups()), "%Y-%m-%d %I %M %p")
+            return max(set(links), key=when)
+    except Exception as e:  # noqa: BLE001
+        log("WARN official report page", e)
+    now = dt.datetime.now(ET)                       # fall back to guessing the newest 15-minute slot
+    t = now.replace(minute=(now.minute // 15) * 15, second=0, microsecond=0)
+    for i in range(96):
+        s = t - dt.timedelta(minutes=15 * i)
+        u = f"https://ak-static.cms.nba.com/referee/injury/Injury-Report_{s:%Y-%m-%d}_{s:%I_%M%p}.pdf"
+        try:
+            get(u, tries=1, timeout=15)
+            return u
+        except Exception:  # noqa: BLE001
+            continue
+    return None
+
+
+def flip_name(n):
+    """'Jackson Jr., Jaren' -> 'Jaren Jackson Jr.'"""
+    if "," not in n:
+        return n.strip()
+    last, first = [x.strip() for x in n.split(",", 1)]
+    suffix = ""
+    m = re.match(r"(.*?)\s+(Jr\.?|Sr\.?|II|III|IV|V)$", last)
+    if m:
+        last, suffix = m.group(1), " " + m.group(2)
+    return f"{first} {last}{suffix}"
+
+
+def fetch_official_injuries():
+    import io
+    import pdfplumber
+    url = latest_official_report_url()
+    if not url:
+        raise RuntimeError("no official injury report found")
+    pdf = pdfplumber.open(io.BytesIO(get(url)))
+    out, date, team = [], None, None
+    names = sorted(TEAM_NAMES, key=len, reverse=True)
+    for page in pdf.pages:
+        for line in (page.extract_text() or "").splitlines():
+            line = line.strip()
+            m = re.match(r"(\d{2}/\d{2}/\d{4})\s+\d{1,2}:\d{2}\s*\(ET\)\s+\S+@\S+\s*(.*)", line)
+            if m:
+                date = dt.datetime.strptime(m.group(1), "%m/%d/%Y").date().isoformat()
+                line = m.group(2)
+            else:
+                m = re.match(r"\d{1,2}:\d{2}\s*\(ET\)\s+\S+@\S+\s*(.*)", line)
+                if m:
+                    line = m.group(1)
+            for tn in names:
+                if line.startswith(tn):
+                    team, line = TEAM_NAMES[tn], line[len(tn):].strip()
+                    break
+            p = re.match(r"^(.+?,\s*\S+(?:\s\S+)??)\s+(%s)\b\s*(.*)$" % STATUSES, line)
+            if p and team and date:
+                out.append({"name": ascii_name(flip_name(p.group(1))), "team": team, "status": p.group(2),
+                            "reason": p.group(3).strip(), "game_date": date})
+    if not out:
+        raise RuntimeError("official report parsed 0 players: " + url)
+    out.sort(key=lambda o: (o["game_date"], o["team"], o["name"]))
+    jsave(os.path.join(DATA, "injuries_official.json"), {"players": out})   # only changes when a status changes
+    with open(os.path.join(DATA, "injuries_official_source.txt"), "w") as f:
+        f.write(url + "\n")
+    log("official injury report:", url.rsplit("/", 1)[-1], len(out), "players")
+
+
 def fetch_espn_boxes(schedule):
     """ESPN box scores for finished games, used only by verify.py."""
     n = 0
@@ -230,12 +316,14 @@ if __name__ == "__main__":
     steps = sys.argv[1:] or ["bref", "espn"]
     failed = []
     if "inj" in steps:                      # quick injury check (every 15 minutes in the afternoon/evening)
-        for name, fn in (("injuries", fetch_injuries), ("schedule", fetch_schedule)):
+        for name, fn in (("injuries", fetch_injuries), ("official injuries", fetch_official_injuries),
+                         ("schedule", fetch_schedule)):
             try: fn()
             except Exception as e:  # noqa: BLE001
                 log("ERROR", name, e); failed.append(name)
     if "espn" in steps:
-        for name, fn in (("rosters", fetch_rosters), ("injuries", fetch_injuries)):
+        for name, fn in (("rosters", fetch_rosters), ("injuries", fetch_injuries),
+                         ("official injuries", fetch_official_injuries)):
             try: fn()
             except Exception as e:  # noqa: BLE001
                 log("ERROR", name, e); failed.append(name)

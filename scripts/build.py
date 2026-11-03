@@ -68,6 +68,16 @@ def load():
     inj = {}
     for e in jload(os.path.join(DATA, "injuries.json"), []) or []:
         inj[key(e["name"])] = e
+    # Official NBA injury report (game-day status) takes priority; ESPN keeps the injury type and return date
+    today_et = NOW.astimezone(ZoneInfo("America/New_York")).date().isoformat()
+    off = (jload(os.path.join(DATA, "injuries_official.json"), {}) or {}).get("players", [])
+    for o in off:
+        if o.get("game_date", "") < today_et:
+            continue
+        k = key(o["name"])
+        e = inj.setdefault(k, {"name": o["name"], "team": o["team"]})
+        if "official" not in e or o["game_date"] < e.get("official_date", "9"):
+            e.update(official=o["status"], oreason=o["reason"], official_date=o["game_date"], team=o["team"])
     sched = jload(os.path.join(DATA, "schedule.json"), []) or []
     return games, logs, names, h2, roster_team, inj, sched
 
@@ -130,6 +140,19 @@ def team_info(k, logs, roster_team):
 def status_text(e):
     if not e:
         return ""
+    if e.get("official"):                       # official NBA report for the next game
+        if e["official"] == "Available":
+            return ""
+        s = e["official"]
+        why = e.get("type") or (e.get("oreason") or "").replace("Injury/Illness - ", "").split(";")[0].strip()
+        if why:
+            s += f" ({why})"
+        if e.get("return") and e["official"] == "Out":
+            try:
+                s += " – est. return " + dt.date.fromisoformat(e["return"][:10]).strftime("%-d %b")
+            except Exception:  # noqa: BLE001
+                pass
+        return s
     s = e.get("status", "")
     fs = (e.get("fs") or "").strip()
     if fs.lower() == "out" and not s.lower().startswith("out"):
@@ -319,7 +342,7 @@ def main():
 
             # ---------- today's picks ----------
             g = team_game.get(cur)
-            if g and n and not (e and e.get("status", "").lower().startswith("out")):
+            if g and n and not status_text(e).lower().startswith("out"):
                 for st, t, val in best_picks(ls):
                     notes = []
                     if e:

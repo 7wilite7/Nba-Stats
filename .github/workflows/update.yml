@@ -25,6 +25,7 @@ jobs:
       - uses: actions/setup-python@v5
         if: env.SKIP != '1'
         with: {python-version: "3.12"}
+      - run: pip install -q pdfplumber
       - name: Fetch box scores, schedule, rosters, injuries
         if: env.SKIP != '1'
         run: |
