@@ -1,10 +1,10 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Wed 04 Nov 08:48 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Wed 04 Nov 17:54 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 ATL @ WAS · Thu 00:00 UK,AJ Dybantsa,WAS,3,100,100,33,0,67,67,33,0,0,0,100,0,0,0,
 ATL @ WAS · Thu 00:00 UK,Aaron Wiggins,ATL,8,88,50,12,0,75,25,12,38,0,0,100,88,50,25,
 ATL @ WAS · Thu 00:00 UK,Alex Sarr,WAS,6,50,17,0,0,83,50,33,33,17,0,50,17,0,0,Questionable (Knee)
 ATL @ WAS · Thu 00:00 UK,Anthony Davis,WAS,7,86,86,57,57,100,100,71,43,0,0,57,29,14,0,
-ATL @ WAS · Thu 00:00 UK,Bilal Coulibaly,WAS,7,43,14,0,0,57,43,0,0,0,0,43,0,0,0,
+ATL @ WAS · Thu 00:00 UK,Bilal Coulibaly,WAS,7,43,14,0,0,57,43,0,0,0,0,43,0,0,0,Questionable (Illness)
 ATL @ WAS · Thu 00:00 UK,CJ McCollum,ATL,8,88,38,12,0,25,12,12,50,25,25,88,62,25,25,
 ATL @ WAS · Thu 00:00 UK,Dyson Daniels,ATL,8,38,25,12,0,88,50,38,100,25,12,12,0,0,0,
 ATL @ WAS · Thu 00:00 UK,Jalen Johnson,ATL,7,100,71,43,14,100,100,100,100,71,57,71,43,0,0,Questionable (Ankle)
@@ -61,7 +61,7 @@ CHI @ NYK · Thu 00:30 UK,Norman Powell,CHI,7,100,100,43,29,43,14,0,29,0,0,100,7
 CHI @ NYK · Thu 00:30 UK,OG Anunoby,NYK,7,86,57,43,0,100,57,29,29,14,14,100,57,29,0,
 MIL @ BOS · Thu 00:30 UK,Derrick White,BOS,7,57,29,0,0,43,29,0,86,43,29,100,43,14,0,
 MIL @ BOS · Thu 00:30 UK,Jaime Jaquez Jr.,MIL,7,71,71,29,0,100,86,71,43,29,0,86,57,14,0,
-MIL @ BOS · Thu 00:30 UK,Jayson Tatum,BOS,7,100,86,71,57,100,71,43,100,100,86,86,57,14,0,Questionable (Rest)
+MIL @ BOS · Thu 00:30 UK,Jayson Tatum,BOS,7,100,86,71,57,100,71,43,100,100,86,86,57,14,0,Out (Rest) – est. return 6 Nov
 MIL @ BOS · Thu 00:30 UK,Kasparas Jakucionis,MIL,7,29,14,0,0,71,14,0,86,57,14,57,0,0,0,
 MIL @ BOS · Thu 00:30 UK,Kyle Kuzma,MIL,7,57,14,0,0,86,71,43,86,0,0,57,43,14,14,
 MIL @ BOS · Thu 00:30 UK,Myles Turner,MIL,7,57,0,0,0,86,71,29,29,0,0,57,43,14,0,

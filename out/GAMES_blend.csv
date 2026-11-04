@@ -1,10 +1,10 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Wed 04 Nov 08:48 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Wed 04 Nov 17:54 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 ATL @ WAS · Thu 00:00 UK,AJ Dybantsa,WAS,3,100,100,33,0,67,67,33,0,0,0,100,0,0,0,
 ATL @ WAS · Thu 00:00 UK,Aaron Wiggins,ATL,33,39,21,6,0,48,12,9,30,6,0,73,36,15,6,
 ATL @ WAS · Thu 00:00 UK,Alex Sarr,WAS,24,71,46,17,12,96,67,38,42,17,4,62,25,8,4,Questionable (Knee)
 ATL @ WAS · Thu 00:00 UK,Anthony Davis,WAS,10,90,90,60,50,100,100,80,50,0,0,40,20,10,0,
-ATL @ WAS · Thu 00:00 UK,Bilal Coulibaly,WAS,28,71,36,21,7,75,50,4,32,11,4,57,39,18,11,
+ATL @ WAS · Thu 00:00 UK,Bilal Coulibaly,WAS,28,71,36,21,7,75,50,4,32,11,4,57,39,18,11,Questionable (Illness)
 ATL @ WAS · Thu 00:00 UK,CJ McCollum,ATL,38,87,63,37,18,45,16,8,68,39,21,84,66,37,24,
 ATL @ WAS · Thu 00:00 UK,Dyson Daniels,ATL,38,63,32,8,3,95,76,50,95,47,26,32,8,0,0,
 ATL @ WAS · Thu 00:00 UK,Jalen Johnson,ATL,36,94,83,56,31,100,97,86,94,83,61,75,56,19,8,Questionable (Ankle)
@@ -61,7 +61,7 @@ CHI @ NYK · Thu 00:30 UK,Norman Powell,CHI,29,93,86,52,17,59,14,3,31,7,0,90,69,
 CHI @ NYK · Thu 00:30 UK,OG Anunoby,NYK,34,79,59,41,12,85,50,26,32,9,3,94,71,44,26,
 MIL @ BOS · Thu 00:30 UK,Derrick White,BOS,39,74,44,23,8,67,44,8,90,62,36,87,64,44,26,
 MIL @ BOS · Thu 00:30 UK,Jaime Jaquez Jr.,MIL,38,74,55,32,5,76,55,29,76,45,21,74,37,11,3,
-MIL @ BOS · Thu 00:30 UK,Jayson Tatum,BOS,8,100,88,75,50,100,75,50,100,100,88,88,62,12,0,Questionable (Rest)
+MIL @ BOS · Thu 00:30 UK,Jayson Tatum,BOS,8,100,88,75,50,100,75,50,100,100,88,88,62,12,0,Out (Rest) – est. return 6 Nov
 MIL @ BOS · Thu 00:30 UK,Kasparas Jakucionis,MIL,27,30,11,0,0,48,22,4,59,33,7,63,30,11,4,
 MIL @ BOS · Thu 00:30 UK,Kyle Kuzma,MIL,35,69,40,11,6,83,46,26,60,29,9,69,46,23,11,
 MIL @ BOS · Thu 00:30 UK,Myles Turner,MIL,36,50,25,8,3,89,50,28,22,0,0,89,47,22,11,
