@@ -1,13 +1,13 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Wed 04 Nov 22:33 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Wed 04 Nov 23:22 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 ATL @ WAS · Thu 00:00 UK,AJ Dybantsa,WAS,3,100,100,33,0,67,67,33,0,0,0,100,0,0,0,
 ATL @ WAS · Thu 00:00 UK,Aaron Wiggins,ATL,8,88,50,12,0,75,25,12,38,0,0,100,88,50,25,
-ATL @ WAS · Thu 00:00 UK,Alex Sarr,WAS,6,50,17,0,0,83,50,33,33,17,0,50,17,0,0,Questionable (Knee)
+ATL @ WAS · Thu 00:00 UK,Alex Sarr,WAS,6,50,17,0,0,83,50,33,33,17,0,50,17,0,0,
 ATL @ WAS · Thu 00:00 UK,Anthony Davis,WAS,7,86,86,57,57,100,100,71,43,0,0,57,29,14,0,
-ATL @ WAS · Thu 00:00 UK,Bilal Coulibaly,WAS,7,43,14,0,0,57,43,0,0,0,0,43,0,0,0,Questionable (Illness)
+ATL @ WAS · Thu 00:00 UK,Bilal Coulibaly,WAS,7,43,14,0,0,57,43,0,0,0,0,43,0,0,0,
 ATL @ WAS · Thu 00:00 UK,CJ McCollum,ATL,8,88,38,12,0,25,12,12,50,25,25,88,62,25,25,
 ATL @ WAS · Thu 00:00 UK,Dyson Daniels,ATL,8,38,25,12,0,88,50,38,100,25,12,12,0,0,0,
-ATL @ WAS · Thu 00:00 UK,Jalen Johnson,ATL,7,100,71,43,14,100,100,100,100,71,57,71,43,0,0,Questionable (Ankle)
+ATL @ WAS · Thu 00:00 UK,Jalen Johnson,ATL,7,100,71,43,14,100,100,100,100,71,57,71,43,0,0,Out (Ankle) – est. return 6 Nov
 ATL @ WAS · Thu 00:00 UK,Jamir Watkins,WAS,0,,,,,,,,,,,,,,,Out (Knee) – est. return 2 Apr
 ATL @ WAS · Thu 00:00 UK,Kingston Flemings,ATL,7,29,14,14,0,43,29,0,86,57,14,43,14,14,0,
 ATL @ WAS · Thu 00:00 UK,Kyshawn George,WAS,7,86,57,43,0,86,29,14,86,43,14,71,43,29,29,
@@ -56,7 +56,7 @@ CHI @ NYK · Thu 00:30 UK,Karl-Anthony Towns,NYK,7,100,86,57,14,100,100,100,86,2
 CHI @ NYK · Thu 00:30 UK,Landry Shamet,NYK,7,43,14,14,0,0,0,0,43,14,0,86,71,43,29,
 CHI @ NYK · Thu 00:30 UK,Matas Buzelis,CHI,7,71,43,14,0,86,71,0,29,0,0,57,57,14,0,
 CHI @ NYK · Thu 00:30 UK,Mikal Bridges,NYK,7,29,0,0,0,57,29,0,29,0,0,43,29,14,14,
-CHI @ NYK · Thu 00:30 UK,Nic Claxton,CHI,0,,,,,,,,,,,,,,,Out (Hamstring) – est. return 4 Nov
+CHI @ NYK · Thu 00:30 UK,Nic Claxton,CHI,0,,,,,,,,,,,,,,,Out (Hamstring) – est. return 8 Nov
 CHI @ NYK · Thu 00:30 UK,Norman Powell,CHI,7,100,100,43,29,43,14,0,29,0,0,100,71,43,29,
 CHI @ NYK · Thu 00:30 UK,OG Anunoby,NYK,7,86,57,43,0,100,57,29,29,14,14,100,57,29,0,
 MIL @ BOS · Thu 00:30 UK,Derrick White,BOS,7,57,29,0,0,43,29,0,86,43,29,100,43,14,0,
@@ -67,7 +67,7 @@ MIL @ BOS · Thu 00:30 UK,Kyle Kuzma,MIL,7,57,14,0,0,86,71,43,86,0,0,57,43,14,14
 MIL @ BOS · Thu 00:30 UK,Myles Turner,MIL,7,57,0,0,0,86,71,29,29,0,0,57,43,14,0,
 MIL @ BOS · Thu 00:30 UK,Neemias Queta,BOS,7,43,29,0,0,100,71,14,0,0,0,29,0,0,0,
 MIL @ BOS · Thu 00:30 UK,Paul George,BOS,6,100,100,33,17,100,100,33,67,50,50,100,83,67,17,
-MIL @ BOS · Thu 00:30 UK,Payton Pritchard,BOS,7,43,43,29,29,57,14,14,86,14,0,57,43,29,14,Questionable (Shoulder)
+MIL @ BOS · Thu 00:30 UK,Payton Pritchard,BOS,7,43,43,29,29,57,14,14,86,14,0,57,43,29,14,
 MIL @ BOS · Thu 00:30 UK,Ryan Rollins,MIL,7,57,29,0,0,86,29,14,86,43,14,86,43,14,0,
 MIL @ BOS · Thu 00:30 UK,Tyler Herro,MIL,7,100,86,71,14,86,57,14,71,29,29,100,86,86,71,
 CLE @ OKC · Thu 01:00 UK,Ajay Mitchell,OKC,7,71,57,43,29,71,43,0,71,43,0,43,14,0,0,
@@ -112,7 +112,7 @@ UTA @ NOP · Thu 01:00 UK,Jeremiah Fears,NOP,7,71,29,29,0,86,43,14,57,43,43,71,1
 UTA @ NOP · Thu 01:00 UK,Keyonte George,UTA,7,71,71,57,29,86,29,29,86,57,29,71,57,43,29,
 UTA @ NOP · Thu 01:00 UK,Lauri Markkanen,UTA,6,83,67,33,17,83,83,50,50,0,0,83,67,50,50,
 UTA @ NOP · Thu 01:00 UK,Saddiq Bey,NOP,7,86,43,29,14,86,43,0,43,0,0,100,57,14,0,
-UTA @ NOP · Thu 01:00 UK,Trey Murphy III,NOP,7,71,57,14,14,86,71,0,86,29,0,100,71,29,14,Questionable (Knee)
+UTA @ NOP · Thu 01:00 UK,Trey Murphy III,NOP,7,71,57,14,14,86,71,0,86,29,0,100,71,29,14,Out (Knee) – est. return 6 Nov
 UTA @ NOP · Thu 01:00 UK,Zion Williamson,NOP,7,100,100,71,29,86,71,14,43,0,0,29,14,0,0,
 MIN @ HOU · Thu 01:30 UK,Alperen Sengun,HOU,6,100,100,67,50,100,100,100,100,100,83,83,33,0,0,
 MIN @ HOU · Thu 01:30 UK,Amen Thompson,HOU,8,88,75,25,0,100,50,38,75,25,0,25,0,0,0,
