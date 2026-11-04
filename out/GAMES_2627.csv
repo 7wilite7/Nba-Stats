@@ -1,4 +1,4 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Wed 04 Nov 21:50 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Wed 04 Nov 22:33 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 ATL @ WAS · Thu 00:00 UK,AJ Dybantsa,WAS,3,100,100,33,0,67,67,33,0,0,0,100,0,0,0,
 ATL @ WAS · Thu 00:00 UK,Aaron Wiggins,ATL,8,88,50,12,0,75,25,12,38,0,0,100,88,50,25,
@@ -49,14 +49,14 @@ CHA @ BKN · Thu 00:30 UK,Nolan Traore,BKN,7,57,57,0,0,14,0,0,57,29,0,57,43,29,2
 CHA @ BKN · Thu 00:30 UK,Sion James,CHA,8,12,0,0,0,50,25,0,75,25,0,75,12,12,0,
 CHI @ NYK · Thu 00:30 UK,Caleb Wilson,CHI,7,100,100,71,14,100,86,29,71,0,0,100,57,43,29,
 CHI @ NYK · Thu 00:30 UK,Jalen Brunson,NYK,7,100,100,71,29,43,29,0,100,57,29,86,57,43,29,
-CHI @ NYK · Thu 00:30 UK,Jalen Smith,CHI,7,71,29,0,0,100,86,71,29,14,0,71,57,14,0,Probable (Finger)
+CHI @ NYK · Thu 00:30 UK,Jalen Smith,CHI,7,71,29,0,0,100,86,71,29,14,0,71,57,14,0,
 CHI @ NYK · Thu 00:30 UK,Josh Giddey,CHI,7,57,0,0,0,86,43,43,100,86,57,71,29,0,0,
 CHI @ NYK · Thu 00:30 UK,Josh Hart,NYK,7,43,0,0,0,100,86,57,86,29,14,86,86,14,0,Out (Ankle) – est. return 7 Nov
 CHI @ NYK · Thu 00:30 UK,Karl-Anthony Towns,NYK,7,100,86,57,14,100,100,100,86,29,0,86,57,43,0,
 CHI @ NYK · Thu 00:30 UK,Landry Shamet,NYK,7,43,14,14,0,0,0,0,43,14,0,86,71,43,29,
 CHI @ NYK · Thu 00:30 UK,Matas Buzelis,CHI,7,71,43,14,0,86,71,0,29,0,0,57,57,14,0,
 CHI @ NYK · Thu 00:30 UK,Mikal Bridges,NYK,7,29,0,0,0,57,29,0,29,0,0,43,29,14,14,
-CHI @ NYK · Thu 00:30 UK,Nic Claxton,CHI,0,,,,,,,,,,,,,,,Questionable (Hamstring)
+CHI @ NYK · Thu 00:30 UK,Nic Claxton,CHI,0,,,,,,,,,,,,,,,Out (Hamstring) – est. return 4 Nov
 CHI @ NYK · Thu 00:30 UK,Norman Powell,CHI,7,100,100,43,29,43,14,0,29,0,0,100,71,43,29,
 CHI @ NYK · Thu 00:30 UK,OG Anunoby,NYK,7,86,57,43,0,100,57,29,29,14,14,100,57,29,0,
 MIL @ BOS · Thu 00:30 UK,Derrick White,BOS,7,57,29,0,0,43,29,0,86,43,29,100,43,14,0,
@@ -147,7 +147,7 @@ POR @ PHX · Thu 02:00 UK,Shaedon Sharpe,POR,0,,,,,,,,,,,,,,,Out (Knee) – est.
 POR @ PHX · Thu 02:00 UK,Sidy Cissoko,POR,6,17,17,0,0,83,33,17,33,0,0,50,33,0,0,
 POR @ PHX · Thu 02:00 UK,Toumani Camara,POR,6,83,33,0,0,50,17,0,17,0,0,100,100,100,67,
 TOR @ DEN · Thu 02:00 UK,Aaron Gordon,DEN,6,50,50,17,0,100,67,17,50,17,0,83,50,17,0,
-TOR @ DEN · Thu 02:00 UK,Cameron Johnson,DEN,3,33,0,0,0,67,33,33,33,0,0,100,33,0,0,Probable (Ankle)
+TOR @ DEN · Thu 02:00 UK,Cameron Johnson,DEN,3,33,0,0,0,67,33,33,33,0,0,100,33,0,0,Probable (Lower Body)
 TOR @ DEN · Thu 02:00 UK,Christian Braun,DEN,6,67,50,17,17,83,33,17,33,0,0,83,33,33,17,
 TOR @ DEN · Thu 02:00 UK,Collin Murray-Boyles,TOR,7,43,29,0,0,86,57,43,14,0,0,43,14,0,0,
 TOR @ DEN · Thu 02:00 UK,DeMar DeRozan,DEN,6,50,17,17,0,33,0,0,50,33,0,17,17,0,0,
