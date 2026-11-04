@@ -1,4 +1,4 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Wed 04 Nov 17:54 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Wed 04 Nov 18:56 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 ATL @ WAS · Thu 00:00 UK,AJ Dybantsa,WAS,3,100,100,33,0,67,67,33,0,0,0,100,0,0,0,
 ATL @ WAS · Thu 00:00 UK,Aaron Wiggins,ATL,33,39,21,6,0,48,12,9,30,6,0,73,36,15,6,
@@ -39,7 +39,7 @@ CHA @ BKN · Thu 00:30 UK,Egor Demin,BKN,26,50,27,12,8,50,31,4,50,23,4,85,62,42,
 CHA @ BKN · Thu 00:30 UK,Grayson Allen,CHA,26,81,50,35,12,58,19,4,54,23,8,96,77,50,42,
 CHA @ BKN · Thu 00:30 UK,Julius Randle,BKN,40,95,70,45,20,95,82,60,80,40,20,65,32,20,5,
 CHA @ BKN · Thu 00:30 UK,Keon Ellis,BKN,36,25,11,3,0,56,6,0,31,3,3,64,33,17,8,
-CHA @ BKN · Thu 00:30 UK,Kon Knueppel,CHA,41,95,61,44,15,88,54,29,61,17,2,98,83,61,41,Probable (Hamstring)
+CHA @ BKN · Thu 00:30 UK,Kon Knueppel,CHA,41,95,61,44,15,88,54,29,61,17,2,98,83,61,41,
 CHA @ BKN · Thu 00:30 UK,Michael Porter Jr.,BKN,26,88,73,58,42,77,73,50,46,8,0,85,69,54,35,
 CHA @ BKN · Thu 00:30 UK,Mikel Brown Jr.,BKN,5,60,20,0,0,40,20,0,100,40,0,80,40,20,20,
 CHA @ BKN · Thu 00:30 UK,Moussa Diabate,CHA,37,35,5,0,0,100,97,73,49,14,0,0,0,0,0,
@@ -51,7 +51,7 @@ CHI @ NYK · Thu 00:30 UK,Caleb Wilson,CHI,7,100,100,71,14,100,86,29,71,0,0,100,
 CHI @ NYK · Thu 00:30 UK,Jalen Brunson,NYK,37,95,89,73,49,65,32,5,97,73,62,86,65,38,24,
 CHI @ NYK · Thu 00:30 UK,Jalen Smith,CHI,27,81,22,0,0,96,78,56,22,4,0,81,67,30,4,Probable (Finger)
 CHI @ NYK · Thu 00:30 UK,Josh Giddey,CHI,27,59,41,22,7,85,70,56,100,89,67,74,52,30,19,
-CHI @ NYK · Thu 00:30 UK,Josh Hart,NYK,33,64,24,6,6,97,85,48,85,39,15,70,48,15,9,Questionable (Ankle)
+CHI @ NYK · Thu 00:30 UK,Josh Hart,NYK,33,64,24,6,6,97,85,48,85,39,15,70,48,15,9,Out (Ankle) – est. return 7 Nov
 CHI @ NYK · Thu 00:30 UK,Karl-Anthony Towns,NYK,38,100,82,58,18,100,97,97,55,24,8,79,34,18,3,
 CHI @ NYK · Thu 00:30 UK,Landry Shamet,NYK,26,42,12,4,0,23,4,0,23,4,0,81,62,27,15,
 CHI @ NYK · Thu 00:30 UK,Matas Buzelis,CHI,39,90,69,36,10,95,82,44,41,3,0,85,77,46,26,
@@ -112,7 +112,7 @@ UTA @ NOP · Thu 01:00 UK,Jeremiah Fears,NOP,41,66,37,24,12,61,29,15,71,44,15,78
 UTA @ NOP · Thu 01:00 UK,Keyonte George,UTA,27,85,81,56,41,59,19,15,81,59,30,78,52,41,33,
 UTA @ NOP · Thu 01:00 UK,Lauri Markkanen,UTA,21,95,90,57,43,95,76,52,29,0,0,95,76,48,14,
 UTA @ NOP · Thu 01:00 UK,Saddiq Bey,NOP,36,89,72,44,17,89,61,11,50,14,3,94,67,50,25,
-UTA @ NOP · Thu 01:00 UK,Trey Murphy III,NOP,33,91,76,42,21,82,64,21,76,33,12,97,82,58,36,Probable (Knee)
+UTA @ NOP · Thu 01:00 UK,Trey Murphy III,NOP,33,91,76,42,21,82,64,21,76,33,12,97,82,58,36,Questionable (Knee)
 UTA @ NOP · Thu 01:00 UK,Zion Williamson,NOP,31,97,90,61,23,84,58,16,52,10,3,10,3,0,0,
 MIN @ HOU · Thu 01:30 UK,Alperen Sengun,HOU,36,94,75,42,31,94,89,64,94,72,50,44,11,3,3,
 MIN @ HOU · Thu 01:30 UK,Amen Thompson,HOU,40,90,72,38,8,100,78,60,88,48,25,25,2,0,0,
@@ -129,7 +129,7 @@ MIN @ HOU · Thu 01:30 UK,Marcus Smart,HOU,31,32,13,6,0,52,10,0,61,16,10,71,42,2
 MIN @ HOU · Thu 01:30 UK,Reed Sheppard,HOU,41,76,41,15,7,59,24,7,71,29,10,98,76,54,39,
 MIN @ HOU · Thu 01:30 UK,Rudy Gobert,MIN,38,50,18,5,0,100,97,89,18,3,0,0,0,0,0,
 MIN @ HOU · Thu 01:30 UK,Tari Eason,HOU,30,47,23,3,0,90,67,50,13,0,0,50,20,13,0,
-MIN @ HOU · Thu 01:30 UK,Terrence Shannon Jr.,MIN,7,86,29,0,0,86,14,0,43,14,0,86,71,29,0,Questionable (Hip)
+MIN @ HOU · Thu 01:30 UK,Terrence Shannon Jr.,MIN,7,86,29,0,0,86,14,0,43,14,0,86,71,29,0,Out (Hip) – est. return 6 Nov
 POR @ PHX · Thu 02:00 UK,Collin Gillespie,PHX,40,60,32,10,2,78,30,10,70,42,25,88,72,55,35,
 POR @ PHX · Thu 02:00 UK,Damian Lillard,POR,6,83,83,67,17,83,67,0,67,33,0,100,67,50,33,
 POR @ PHX · Thu 02:00 UK,Deni Avdija,POR,33,97,91,67,42,97,79,39,91,73,45,76,42,9,6,
