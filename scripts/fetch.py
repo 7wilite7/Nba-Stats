@@ -3,7 +3,7 @@
 - Basketball Reference: every 2026-27 box score (cached, one file per game) -> data/games/
 - ESPN: schedule (scoreboards), current rosters, injury report, and box scores for the fact-check.
 """
-import datetime as dt, html, json, os, re, sys, time, unicodedata
+import datetime as dt, glob, html, json, os, re, sys, time, unicodedata
 from zoneinfo import ZoneInfo
 from config import DATA, SEASON_START, BREF_DELAY, BREF_TO_STD, ESPN_TO_STD, STD_TO_BREF
 from common import get, jload, jsave
@@ -79,6 +79,11 @@ def fetch_bref():
     today_et = dt.datetime.now(ET).date()
     d = dt.date.fromisoformat(SEASON_START)
     new = 0
+    espn_by_gid = {}
+    for p_ in glob.glob(os.path.join(DATA, "espn", "*.json")):
+        e = jload(p_)
+        if e:
+            espn_by_gid[e["us_date"].replace("-", "") + "0" + STD_TO_BREF.get(e["home"], e["home"])] = e
     while d < today_et:
         ds = d.isoformat()
         recent = (today_et - d).days <= 2          # re-check the last two days for late or corrected box scores
@@ -115,6 +120,22 @@ def fetch_bref():
             except Exception as e:  # noqa: BLE001
                 ok = False
                 log("WARN box", gid, e)
+        # Fallback: any finished game Basketball Reference hasn't posted yet is filled from ESPN's box score.
+        # It is replaced automatically once B-Ref posts it (the last two days are always re-checked).
+        for gid in ids:
+            path = os.path.join(DATA, "games", gid + ".json")
+            have = jload(path)
+            if have and have.get("source") != "espn":
+                continue
+            e = espn_by_gid.get(gid)
+            if e and e.get("players"):
+                g = {"id": gid, "date": ds, "away": e["away"], "home": e["home"], "source": "espn",
+                     "players": [{k: x[k] for k in ("name", "team", "min", "pts", "reb", "ast", "fg3", "start")}
+                                 for x in e["players"] if x.get("min", 0) > 0]}
+                if have != g:
+                    jsave(path, g)
+                    new += 1
+                    log(f"filled {gid} from ESPN (Basketball Reference not posted yet)")
         if ok:
             done.add(ds)
         log(f"Basketball Reference {ds}: {len(ids)} games")
