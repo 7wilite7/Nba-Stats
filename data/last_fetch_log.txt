@@ -1,3 +1,8 @@
+rosters: 30 teams, 522 players
 injury report entries: 92
 official injury report: Injury-Report_2026-11-05_05_15PM.pdf 64 players
 ESPN schedule entries: 174
+new ESPN box scores: 0
+Basketball Reference 2026-11-03: 0 games
+Basketball Reference 2026-11-04: 14 games
+new or changed box scores: 14

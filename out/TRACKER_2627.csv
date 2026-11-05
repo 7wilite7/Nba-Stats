@@ -1,17 +1,17 @@
-"Updated Thu 05 Nov 22:23 UK · box scores to 2026-11-02 · fact-check vs ESPN: 99.69% of 9,652 stats match (107 games) · pick tracker: 86% hit from 805 graded picks"
+"Updated Thu 05 Nov 22:32 UK · box scores to 2026-11-04 · fact-check vs ESPN: 99.63% of 10,916 stats match (121 games) · pick tracker: 86% hit from 1019 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
-Points,170,88,82
-Rebounds,333,89,85
-Assists,29,83,81
-Threes,273,82,83
-All picks,805,86,84
+Points,216,89,82
+Rebounds,429,87,85
+Assists,53,89,81
+Threes,321,83,84
+All picks,1019,86,84
 
 By true rate,Graded,Hit %,True % given
-80–84%,495,85,82
-85–89%,305,88,86
-90–94%,5,100,90
+80–84%,612,85,82
+85–89%,370,89,86
+90–94%,37,76,90
 95–100%,0,,
 
 Date,Game,Pick,True %,Season %,Games,Result,Source
@@ -36,230 +36,230 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-06,MIA @ GSW,Bobby Portis Rebounds 3+,90,100,7,Pending,Live
 2026-11-06,MIA @ GSW,Bam Adebayo Rebounds 5+,82,100,7,Pending,Live
 2026-11-06,MIA @ GSW,Bam Adebayo Assists 3+,82,100,7,Pending,Live
-2026-11-05,UTA @ NOP,Zion Williamson Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,UTA @ NOP,Zion Williamson Points 15+,80,100,7,Pending,Live
-2026-11-05,LAL @ SAC,Ziaire Williams Threes 1+,85,100,5,Pending,Live
-2026-11-05,LAL @ SAC,Zach LaVine Points 10+,86,100,7,Pending,Live
-2026-11-05,IND @ MEM,Zach Edey Rebounds 3+,89,100,6,Pending,Live
-2026-11-05,DAL @ SAS,Zaccharie Risacher Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,LAL @ SAC,Walker Kessler Rebounds 5+,84,100,8,Pending,Live
-2026-11-05,DAL @ SAS,Victor Wembanyama Rebounds 5+,82,100,7,Pending,Live
-2026-11-05,DAL @ SAS,Victor Wembanyama Points 10+,86,100,7,Pending,Live
-2026-11-05,PHI @ DET,VJ Edgecombe Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,PHI @ DET,Tyrese Maxey Threes 1+,89,100,8,Pending,Live
-2026-11-05,PHI @ DET,Tyrese Maxey Rebounds 3+,91,100,8,Pending,Live
-2026-11-05,PHI @ DET,Tyrese Maxey Points 15+,82,100,8,Pending,Live
-2026-11-05,PHI @ DET,Tyrese Maxey Assists 3+,84,100,8,Pending,Live
-2026-11-05,MIL @ BOS,Tyler Herro Threes 1+,88,100,7,Pending,Live
-2026-11-05,MIL @ BOS,Tyler Herro Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,MIL @ BOS,Tyler Herro Points 10+,86,100,7,Pending,Live
-2026-11-05,IND @ MEM,Ty Jerome Threes 1+,87,100,6,Pending,Live
-2026-11-05,IND @ MEM,Ty Jerome Points 10+,84,100,6,Pending,Live
-2026-11-05,IND @ MEM,Ty Jerome Assists 3+,80,100,6,Pending,Live
-2026-11-05,UTA @ NOP,Trey Murphy III Threes 1+,88,100,7,Pending,Live
-2026-11-05,UTA @ NOP,Trey Murphy III Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,ATL @ WAS,Trae Young Points 10+,86,100,7,Pending,Live
-2026-11-05,ATL @ WAS,Trae Young Assists 3+,82,100,7,Pending,Live
-2026-11-05,POR @ PHX,Toumani Camara Threes 1+,87,100,6,Pending,Live
-2026-11-05,MIN @ HOU,Terrence Shannon Jr. Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,MIN @ HOU,Tari Eason Rebounds 3+,82,88,8,Pending,Live
-2026-11-05,DAL @ SAS,Stephon Castle Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,CLE @ OKC,Shai Gilgeous-Alexander Threes 1+,88,100,7,Pending,Live
-2026-11-05,CLE @ OKC,Shai Gilgeous-Alexander Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,CLE @ OKC,Shai Gilgeous-Alexander Points 15+,80,100,7,Pending,Live
-2026-11-05,TOR @ DEN,Scottie Barnes Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,TOR @ DEN,Scottie Barnes Assists 3+,82,100,7,Pending,Live
-2026-11-05,LAL @ SAC,Sandro Mamukelashvili Rebounds 3+,82,88,8,Pending,Live
-2026-11-05,CLE @ OKC,Sam Merrill Threes 1+,88,100,7,Pending,Live
-2026-11-05,UTA @ NOP,Saddiq Bey Threes 1+,88,100,7,Pending,Live
-2026-11-05,UTA @ NOP,Saddiq Bey Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,MIL @ BOS,Ryan Rollins Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,MIA @ LAC,Rui Hachimura Threes 1+,85,100,5,Pending,Live
-2026-11-05,MIA @ LAC,Rui Hachimura Rebounds 3+,87,100,5,Pending,Live
-2026-11-05,MIN @ HOU,Rudy Gobert Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,MIN @ HOU,Reed Sheppard Threes 1+,85,100,5,Pending,Live
-2026-11-05,TOR @ DEN,RJ Barrett Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,LAL @ SAC,Precious Achiuwa Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,PHI @ DET,Paul Reed Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,MIL @ BOS,Paul George Threes 1+,87,100,6,Pending,Live
-2026-11-05,MIL @ BOS,Paul George Rebounds 5+,80,100,6,Pending,Live
-2026-11-05,MIL @ BOS,Paul George Points 10+,84,100,6,Pending,Live
-2026-11-05,IND @ MEM,Pascal Siakam Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,IND @ MEM,Pascal Siakam Points 10+,86,100,7,Pending,Live
-2026-11-05,DAL @ SAS,P.J. Washington Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,ATL @ WAS,Onyeka Okongwu Rebounds 3+,91,100,8,Pending,Live
-2026-11-05,IND @ MEM,Obi Toppin Rebounds 3+,87,100,5,Pending,Live
-2026-11-05,IND @ MEM,Obi Toppin Points 10+,82,100,5,Pending,Live
-2026-11-05,CHI @ NYK,OG Anunoby Threes 1+,88,100,7,Pending,Live
-2026-11-05,CHI @ NYK,OG Anunoby Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,CHI @ NYK,Norman Powell Threes 1+,88,100,7,Pending,Live
-2026-11-05,CHI @ NYK,Norman Powell Points 15+,80,100,7,Pending,Live
-2026-11-05,CHA @ BKN,Noah Clowney Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,TOR @ DEN,Nikola Jokic Rebounds 5+,80,100,6,Pending,Live
-2026-11-05,TOR @ DEN,Nikola Jokic Points 10+,84,100,6,Pending,Live
-2026-11-05,TOR @ DEN,Nikola Jokic Assists 3+,80,100,6,Pending,Live
-2026-11-05,ATL @ WAS,Nickeil Alexander-Walker Threes 1+,80,88,8,Pending,Live
-2026-11-05,ATL @ WAS,Nickeil Alexander-Walker Points 10+,87,100,8,Pending,Live
-2026-11-05,MIL @ BOS,Neemias Queta Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,CHA @ BKN,Naz Reid Threes 1+,80,88,8,Pending,Live
-2026-11-05,CHA @ BKN,Naz Reid Rebounds 5+,84,100,8,Pending,Live
-2026-11-05,MIL @ BOS,Myles Turner Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,CHA @ BKN,Moussa Diabate Rebounds 5+,84,100,8,Pending,Live
-2026-11-05,POR @ PHX,Miles Bridges Rebounds 3+,87,100,5,Pending,Live
-2026-11-05,CHA @ BKN,Michael Porter Jr. Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,CHA @ BKN,Michael Porter Jr. Points 10+,86,100,7,Pending,Live
-2026-11-05,CLE @ OKC,Meleek Thomas Points 10+,80,100,4,Pending,Live
-2026-11-05,LAL @ SAC,Matisse Thybulle Threes 1+,89,100,8,Pending,Live
-2026-11-05,CHI @ NYK,Matas Buzelis Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,LAL @ SAC,Luka Doncic Threes 2+,81,100,7,Pending,Live
-2026-11-05,LAL @ SAC,Luka Doncic Rebounds 5+,82,100,7,Pending,Live
-2026-11-05,LAL @ SAC,Luka Doncic Points 15+,80,100,7,Pending,Live
-2026-11-05,LAL @ SAC,Luka Doncic Assists 3+,82,100,7,Pending,Live
-2026-11-05,ATL @ WAS,Luguentz Dort Threes 1+,80,88,8,Pending,Live
-2026-11-05,PHI @ DET,LeBron James Points 10+,84,100,6,Pending,Live
-2026-11-05,PHI @ DET,LeBron James Assists 3+,80,100,6,Pending,Live
-2026-11-05,MIN @ HOU,LaMelo Ball Threes 1+,80,88,8,Pending,Live
-2026-11-05,MIN @ HOU,LaMelo Ball Assists 3+,84,100,8,Pending,Live
-2026-11-05,ATL @ WAS,Kyshawn George Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,DAL @ SAS,Kyrie Irving Threes 1+,85,100,5,Pending,Live
-2026-11-05,DAL @ SAS,Kyrie Irving Points 10+,82,100,5,Pending,Live
-2026-11-05,MIL @ BOS,Kyle Kuzma Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,MIA @ LAC,Kris Dunn Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,MIA @ LAC,Kobe Sanders Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,MIA @ LAC,Klay Thompson Threes 1+,88,100,7,Pending,Live
-2026-11-05,UTA @ NOP,Keyonte George Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,PHI @ DET,Kevin Huerter Threes 1+,88,100,7,Pending,Live
-2026-11-05,MIN @ HOU,Kevin Durant Rebounds 3+,91,100,8,Pending,Live
-2026-11-05,MIN @ HOU,Kevin Durant Points 10+,87,100,8,Pending,Live
-2026-11-05,PHI @ DET,Kentavious Caldwell-Pope Threes 1+,80,88,8,Pending,Live
-2026-11-05,DAL @ SAS,Keldon Johnson Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,MIA @ LAC,Keaton Wagler Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,CHI @ NYK,Karl-Anthony Towns Rebounds 5+,82,100,7,Pending,Live
-2026-11-05,CHI @ NYK,Karl-Anthony Towns Points 10+,86,100,7,Pending,Live
-2026-11-05,CHA @ BKN,Julius Randle Rebounds 5+,82,100,7,Pending,Live
-2026-11-05,CHA @ BKN,Julius Randle Points 10+,86,100,7,Pending,Live
-2026-11-05,DAL @ SAS,Julian Champagnie Threes 2+,81,100,7,Pending,Live
-2026-11-05,DAL @ SAS,Julian Champagnie Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,CHI @ NYK,Josh Hart Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,CHI @ NYK,Josh Giddey Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,CHI @ NYK,Josh Giddey Assists 3+,82,100,7,Pending,Live
-2026-11-05,MIN @ HOU,Jonathan Kuminga Threes 1+,80,88,8,Pending,Live
-2026-11-05,PHI @ DET,John Collins Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,PHI @ DET,Joel Embiid Rebounds 5+,80,100,6,Pending,Live
-2026-11-05,PHI @ DET,Joel Embiid Points 10+,84,100,6,Pending,Live
-2026-11-05,UTA @ NOP,Jeremiah Fears Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,MIL @ BOS,Jayson Tatum Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,MIL @ BOS,Jayson Tatum Points 10+,86,100,7,Pending,Live
-2026-11-05,MIL @ BOS,Jayson Tatum Assists 3+,82,100,7,Pending,Live
-2026-11-05,PHI @ DET,Jaylen Brown Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,PHI @ DET,Jaylen Brown Points 15+,80,100,7,Pending,Live
-2026-11-05,UTA @ NOP,Jaxson Hayes Rebounds 5+,80,100,6,Pending,Live
-2026-11-05,CLE @ OKC,Jarrett Allen Rebounds 5+,82,100,7,Pending,Live
-2026-11-05,IND @ MEM,Jarace Walker Rebounds 3+,82,88,8,Pending,Live
-2026-11-05,CLE @ OKC,James Harden Threes 1+,88,100,7,Pending,Live
-2026-11-05,CLE @ OKC,James Harden Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,CLE @ OKC,James Harden Points 10+,86,100,7,Pending,Live
-2026-11-05,CLE @ OKC,James Harden Assists 3+,82,100,7,Pending,Live
-2026-11-05,TOR @ DEN,Jamal Murray Assists 3+,80,100,6,Pending,Live
-2026-11-05,CHI @ NYK,Jalen Smith Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,ATL @ WAS,Jalen Johnson Rebounds 5+,82,100,7,Pending,Live
-2026-11-05,ATL @ WAS,Jalen Johnson Points 10+,86,100,7,Pending,Live
-2026-11-05,ATL @ WAS,Jalen Johnson Assists 3+,82,100,7,Pending,Live
-2026-11-05,CHI @ NYK,Jalen Brunson Points 15+,80,100,7,Pending,Live
-2026-11-05,CHI @ NYK,Jalen Brunson Assists 3+,82,100,7,Pending,Live
-2026-11-05,MIL @ BOS,Jaime Jaquez Jr. Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,MIN @ HOU,Jaden McDaniels Threes 1+,89,100,8,Pending,Live
-2026-11-05,MIN @ HOU,Jaden McDaniels Rebounds 3+,91,100,8,Pending,Live
-2026-11-05,MIN @ HOU,Jaden McDaniels Points 10+,87,100,8,Pending,Live
-2026-11-05,MIN @ HOU,Jabari Smith Jr. Threes 1+,89,100,8,Pending,Live
-2026-11-05,MIN @ HOU,Jabari Smith Jr. Rebounds 3+,82,88,8,Pending,Live
-2026-11-05,TOR @ DEN,Ja'Kobe Walter Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,MIA @ LAC,Isaiah Jackson Rebounds 5+,82,100,7,Pending,Live
-2026-11-05,CLE @ OKC,Isaiah Hartenstein Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,TOR @ DEN,Immanuel Quickley Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,TOR @ DEN,Immanuel Quickley Points 10+,86,100,7,Pending,Live
-2026-11-05,CHA @ BKN,Grayson Allen Threes 1+,89,100,8,Pending,Live
-2026-11-05,MIA @ LAC,Giannis Antetokounmpo Rebounds 5+,82,100,7,Pending,Live
-2026-11-05,MIA @ LAC,Giannis Antetokounmpo Points 10+,86,100,7,Pending,Live
-2026-11-05,MIN @ HOU,Fred VanVleet Assists 3+,80,100,6,Pending,Live
-2026-11-05,CLE @ OKC,Evan Mobley Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,CLE @ OKC,Evan Mobley Points 10+,86,100,7,Pending,Live
-2026-11-05,ATL @ WAS,Dyson Daniels Rebounds 3+,82,88,8,Pending,Live
-2026-11-05,ATL @ WAS,Dyson Daniels Assists 3+,84,100,8,Pending,Live
-2026-11-05,DAL @ SAS,Dylan Harper Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,DAL @ SAS,Dylan Harper Points 10+,86,100,7,Pending,Live
-2026-11-05,PHI @ DET,Duncan Robinson Threes 2+,81,100,7,Pending,Live
-2026-11-05,PHI @ DET,Duncan Robinson Points 10+,86,100,7,Pending,Live
-2026-11-05,CLE @ OKC,Donovan Mitchell Threes 1+,88,100,7,Pending,Live
-2026-11-05,CLE @ OKC,Donovan Mitchell Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,CLE @ OKC,Donovan Mitchell Points 15+,80,100,7,Pending,Live
-2026-11-05,CLE @ OKC,Donovan Mitchell Assists 3+,82,100,7,Pending,Live
-2026-11-05,POR @ PHX,Donovan Clingan Rebounds 5+,80,100,6,Pending,Live
-2026-11-05,LAL @ SAC,Domantas Sabonis Rebounds 5+,82,100,7,Pending,Live
-2026-11-05,LAL @ SAC,Domantas Sabonis Assists 3+,82,100,7,Pending,Live
-2026-11-05,POR @ PHX,Dillon Brooks Threes 1+,85,100,5,Pending,Live
-2026-11-05,POR @ PHX,Dillon Brooks Points 10+,82,100,5,Pending,Live
-2026-11-05,DAL @ SAS,Devin Vassell Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,MIL @ BOS,Derrick White Threes 1+,88,100,7,Pending,Live
-2026-11-05,MIA @ LAC,Derrick Jones Jr. Threes 1+,87,100,6,Pending,Live
-2026-11-05,UTA @ NOP,Derik Queen Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,POR @ PHX,Deni Avdija Rebounds 3+,89,100,6,Pending,Live
-2026-11-05,POR @ PHX,Deni Avdija Points 10+,84,100,6,Pending,Live
-2026-11-05,UTA @ NOP,Dejounte Murray Rebounds 3+,85,100,4,Pending,Live
-2026-11-05,UTA @ NOP,Dejounte Murray Points 10+,80,100,4,Pending,Live
-2026-11-05,LAL @ SAC,De'Andre Hunter Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,DAL @ SAS,De'Aaron Fox Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,DAL @ SAS,De'Aaron Fox Points 10+,86,100,7,Pending,Live
-2026-11-05,DAL @ SAS,De'Aaron Fox Assists 3+,82,100,7,Pending,Live
-2026-11-05,CHA @ BKN,Day'Ron Sharpe Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,MIA @ LAC,Davion Mitchell Points 10+,86,100,7,Pending,Live
-2026-11-05,UTA @ NOP,Darryn Peterson Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,MIA @ LAC,Darius Garland Threes 1+,88,100,7,Pending,Live
-2026-11-05,MIA @ LAC,Darius Garland Points 10+,86,100,7,Pending,Live
-2026-11-05,MIA @ LAC,Darius Garland Assists 3+,82,100,7,Pending,Live
-2026-11-05,LAL @ SAC,Darius Acuff Jr. Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,LAL @ SAC,Darius Acuff Jr. Points 10+,86,100,7,Pending,Live
-2026-11-05,LAL @ SAC,Darius Acuff Jr. Assists 3+,82,100,7,Pending,Live
-2026-11-05,DAL @ SAS,Daniel Gafford Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,POR @ PHX,Damian Lillard Threes 1+,87,100,6,Pending,Live
-2026-11-05,DAL @ SAS,Cooper Flagg Rebounds 3+,89,100,6,Pending,Live
-2026-11-05,DAL @ SAS,Cooper Flagg Points 10+,84,100,6,Pending,Live
-2026-11-05,TOR @ DEN,Collin Murray-Boyles Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,IND @ MEM,Cedric Coward Threes 1+,87,100,6,Pending,Live
-2026-11-05,IND @ MEM,Cedric Coward Rebounds 5+,80,100,6,Pending,Live
-2026-11-05,TOR @ DEN,Cameron Johnson Threes 1+,80,100,3,Pending,Live
-2026-11-05,IND @ MEM,Cameron Boozer Rebounds 5+,82,100,7,Pending,Live
-2026-11-05,IND @ MEM,Cameron Boozer Assists 3+,82,100,7,Pending,Live
-2026-11-05,CHI @ NYK,Caleb Wilson Threes 1+,88,100,7,Pending,Live
-2026-11-05,CHI @ NYK,Caleb Wilson Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,CHI @ NYK,Caleb Wilson Points 15+,80,100,7,Pending,Live
-2026-11-05,PHI @ DET,Cade Cunningham Threes 1+,88,100,7,Pending,Live
-2026-11-05,PHI @ DET,Cade Cunningham Rebounds 3+,80,86,7,Pending,Live
-2026-11-05,PHI @ DET,Cade Cunningham Points 15+,80,100,7,Pending,Live
-2026-11-05,PHI @ DET,Cade Cunningham Assists 3+,82,100,7,Pending,Live
-2026-11-05,ATL @ WAS,CJ McCollum Threes 1+,80,88,8,Pending,Live
-2026-11-05,CHA @ BKN,Brandon Miller Threes 1+,89,100,8,Pending,Live
-2026-11-05,MIA @ LAC,Bobby Portis Rebounds 3+,90,100,7,Pending,Live
-2026-11-05,MIA @ LAC,Bam Adebayo Rebounds 5+,82,100,7,Pending,Live
-2026-11-05,MIA @ LAC,Bam Adebayo Assists 3+,82,100,7,Pending,Live
-2026-11-05,MIN @ HOU,Ayo Dosunmu Threes 1+,89,100,8,Pending,Live
-2026-11-05,MIN @ HOU,Ayo Dosunmu Rebounds 3+,82,88,8,Pending,Live
-2026-11-05,LAL @ SAC,Austin Reaves Threes 1+,89,100,8,Pending,Live
-2026-11-05,LAL @ SAC,Austin Reaves Points 15+,82,100,8,Pending,Live
-2026-11-05,PHI @ DET,Ausar Thompson Rebounds 3+,89,100,6,Pending,Live
-2026-11-05,ATL @ WAS,Anthony Davis Rebounds 5+,82,100,7,Pending,Live
-2026-11-05,PHI @ DET,Anfernee Simons Threes 1+,80,88,8,Pending,Live
-2026-11-05,IND @ MEM,Andrew Nembhard Points 10+,84,100,6,Pending,Live
-2026-11-05,IND @ MEM,Andrew Nembhard Assists 3+,80,100,6,Pending,Live
-2026-11-05,MIN @ HOU,Amen Thompson Rebounds 3+,91,100,8,Pending,Live
-2026-11-05,MIN @ HOU,Alperen Sengun Rebounds 5+,80,100,6,Pending,Live
-2026-11-05,MIN @ HOU,Alperen Sengun Points 10+,84,100,6,Pending,Live
-2026-11-05,MIN @ HOU,Alperen Sengun Assists 3+,80,100,6,Pending,Live
-2026-11-05,UTA @ NOP,Ace Bailey Threes 1+,88,100,7,Pending,Live
-2026-11-05,UTA @ NOP,Ace Bailey Rebounds 5+,82,100,7,Pending,Live
-2026-11-05,ATL @ WAS,Aaron Wiggins Threes 1+,89,100,8,Pending,Live
-2026-11-05,TOR @ DEN,Aaron Gordon Rebounds 3+,89,100,6,Pending,Live
-2026-11-05,ATL @ WAS,AJ Dybantsa Threes 1+,80,100,3,Pending,Live
+2026-11-05,UTA @ NOP,Zion Williamson Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,UTA @ NOP,Zion Williamson Points 15+,80,100,7,Hit,Live
+2026-11-05,LAL @ SAC,Ziaire Williams Threes 1+,85,100,5,Hit,Live
+2026-11-05,LAL @ SAC,Zach LaVine Points 10+,86,100,7,Hit,Live
+2026-11-05,IND @ MEM,Zach Edey Rebounds 3+,89,100,6,Hit,Live
+2026-11-05,DAL @ SAS,Zaccharie Risacher Rebounds 3+,90,100,7,Miss,Live
+2026-11-05,LAL @ SAC,Walker Kessler Rebounds 5+,84,100,8,Hit,Live
+2026-11-05,DAL @ SAS,Victor Wembanyama Rebounds 5+,82,100,7,Hit,Live
+2026-11-05,DAL @ SAS,Victor Wembanyama Points 10+,86,100,7,Hit,Live
+2026-11-05,PHI @ DET,VJ Edgecombe Rebounds 3+,90,100,7,Hit,Live
+2026-11-05,PHI @ DET,Tyrese Maxey Threes 1+,89,100,8,Hit,Live
+2026-11-05,PHI @ DET,Tyrese Maxey Rebounds 3+,91,100,8,Miss,Live
+2026-11-05,PHI @ DET,Tyrese Maxey Points 15+,82,100,8,Hit,Live
+2026-11-05,PHI @ DET,Tyrese Maxey Assists 3+,84,100,8,Hit,Live
+2026-11-05,MIL @ BOS,Tyler Herro Threes 1+,88,100,7,Hit,Live
+2026-11-05,MIL @ BOS,Tyler Herro Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,MIL @ BOS,Tyler Herro Points 10+,86,100,7,Hit,Live
+2026-11-05,IND @ MEM,Ty Jerome Threes 1+,87,100,6,Hit,Live
+2026-11-05,IND @ MEM,Ty Jerome Points 10+,84,100,6,Hit,Live
+2026-11-05,IND @ MEM,Ty Jerome Assists 3+,80,100,6,Hit,Live
+2026-11-05,UTA @ NOP,Trey Murphy III Threes 1+,88,100,7,Did not play,Live
+2026-11-05,UTA @ NOP,Trey Murphy III Rebounds 3+,80,86,7,Did not play,Live
+2026-11-05,ATL @ WAS,Trae Young Points 10+,86,100,7,Hit,Live
+2026-11-05,ATL @ WAS,Trae Young Assists 3+,82,100,7,Hit,Live
+2026-11-05,POR @ PHX,Toumani Camara Threes 1+,87,100,6,Hit,Live
+2026-11-05,MIN @ HOU,Terrence Shannon Jr. Rebounds 3+,80,86,7,Did not play,Live
+2026-11-05,MIN @ HOU,Tari Eason Rebounds 3+,82,88,8,Hit,Live
+2026-11-05,DAL @ SAS,Stephon Castle Rebounds 3+,90,100,7,Hit,Live
+2026-11-05,CLE @ OKC,Shai Gilgeous-Alexander Threes 1+,88,100,7,Hit,Live
+2026-11-05,CLE @ OKC,Shai Gilgeous-Alexander Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,CLE @ OKC,Shai Gilgeous-Alexander Points 15+,80,100,7,Hit,Live
+2026-11-05,TOR @ DEN,Scottie Barnes Rebounds 3+,90,100,7,Hit,Live
+2026-11-05,TOR @ DEN,Scottie Barnes Assists 3+,82,100,7,Hit,Live
+2026-11-05,LAL @ SAC,Sandro Mamukelashvili Rebounds 3+,82,88,8,Hit,Live
+2026-11-05,CLE @ OKC,Sam Merrill Threes 1+,88,100,7,Hit,Live
+2026-11-05,UTA @ NOP,Saddiq Bey Threes 1+,88,100,7,Hit,Live
+2026-11-05,UTA @ NOP,Saddiq Bey Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,MIL @ BOS,Ryan Rollins Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,MIA @ LAC,Rui Hachimura Threes 1+,85,100,5,Hit,Live
+2026-11-05,MIA @ LAC,Rui Hachimura Rebounds 3+,87,100,5,Hit,Live
+2026-11-05,MIN @ HOU,Rudy Gobert Rebounds 3+,90,100,7,Hit,Live
+2026-11-05,MIN @ HOU,Reed Sheppard Threes 1+,85,100,5,Hit,Live
+2026-11-05,TOR @ DEN,RJ Barrett Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,LAL @ SAC,Precious Achiuwa Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,PHI @ DET,Paul Reed Rebounds 3+,90,100,7,Hit,Live
+2026-11-05,MIL @ BOS,Paul George Threes 1+,87,100,6,Hit,Live
+2026-11-05,MIL @ BOS,Paul George Rebounds 5+,80,100,6,Miss,Live
+2026-11-05,MIL @ BOS,Paul George Points 10+,84,100,6,Hit,Live
+2026-11-05,IND @ MEM,Pascal Siakam Rebounds 3+,90,100,7,Hit,Live
+2026-11-05,IND @ MEM,Pascal Siakam Points 10+,86,100,7,Hit,Live
+2026-11-05,DAL @ SAS,P.J. Washington Rebounds 3+,90,100,7,Hit,Live
+2026-11-05,ATL @ WAS,Onyeka Okongwu Rebounds 3+,91,100,8,Hit,Live
+2026-11-05,IND @ MEM,Obi Toppin Rebounds 3+,87,100,5,Hit,Live
+2026-11-05,IND @ MEM,Obi Toppin Points 10+,82,100,5,Hit,Live
+2026-11-05,CHI @ NYK,OG Anunoby Threes 1+,88,100,7,Hit,Live
+2026-11-05,CHI @ NYK,OG Anunoby Rebounds 3+,90,100,7,Hit,Live
+2026-11-05,CHI @ NYK,Norman Powell Threes 1+,88,100,7,Miss,Live
+2026-11-05,CHI @ NYK,Norman Powell Points 15+,80,100,7,Miss,Live
+2026-11-05,CHA @ BKN,Noah Clowney Rebounds 3+,90,100,7,Miss,Live
+2026-11-05,TOR @ DEN,Nikola Jokic Rebounds 5+,80,100,6,Hit,Live
+2026-11-05,TOR @ DEN,Nikola Jokic Points 10+,84,100,6,Hit,Live
+2026-11-05,TOR @ DEN,Nikola Jokic Assists 3+,80,100,6,Hit,Live
+2026-11-05,ATL @ WAS,Nickeil Alexander-Walker Threes 1+,80,88,8,Hit,Live
+2026-11-05,ATL @ WAS,Nickeil Alexander-Walker Points 10+,87,100,8,Hit,Live
+2026-11-05,MIL @ BOS,Neemias Queta Rebounds 3+,90,100,7,Hit,Live
+2026-11-05,CHA @ BKN,Naz Reid Threes 1+,80,88,8,Hit,Live
+2026-11-05,CHA @ BKN,Naz Reid Rebounds 5+,84,100,8,Hit,Live
+2026-11-05,MIL @ BOS,Myles Turner Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,CHA @ BKN,Moussa Diabate Rebounds 5+,84,100,8,Hit,Live
+2026-11-05,POR @ PHX,Miles Bridges Rebounds 3+,87,100,5,Hit,Live
+2026-11-05,CHA @ BKN,Michael Porter Jr. Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,CHA @ BKN,Michael Porter Jr. Points 10+,86,100,7,Hit,Live
+2026-11-05,CLE @ OKC,Meleek Thomas Points 10+,80,100,4,Miss,Live
+2026-11-05,LAL @ SAC,Matisse Thybulle Threes 1+,89,100,8,Hit,Live
+2026-11-05,CHI @ NYK,Matas Buzelis Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,LAL @ SAC,Luka Doncic Threes 2+,81,100,7,Hit,Live
+2026-11-05,LAL @ SAC,Luka Doncic Rebounds 5+,82,100,7,Hit,Live
+2026-11-05,LAL @ SAC,Luka Doncic Points 15+,80,100,7,Hit,Live
+2026-11-05,LAL @ SAC,Luka Doncic Assists 3+,82,100,7,Hit,Live
+2026-11-05,ATL @ WAS,Luguentz Dort Threes 1+,80,88,8,Hit,Live
+2026-11-05,PHI @ DET,LeBron James Points 10+,84,100,6,Hit,Live
+2026-11-05,PHI @ DET,LeBron James Assists 3+,80,100,6,Hit,Live
+2026-11-05,MIN @ HOU,LaMelo Ball Threes 1+,80,88,8,Hit,Live
+2026-11-05,MIN @ HOU,LaMelo Ball Assists 3+,84,100,8,Hit,Live
+2026-11-05,ATL @ WAS,Kyshawn George Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,DAL @ SAS,Kyrie Irving Threes 1+,85,100,5,Hit,Live
+2026-11-05,DAL @ SAS,Kyrie Irving Points 10+,82,100,5,Hit,Live
+2026-11-05,MIL @ BOS,Kyle Kuzma Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,MIA @ LAC,Kris Dunn Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,MIA @ LAC,Kobe Sanders Rebounds 3+,80,86,7,Miss,Live
+2026-11-05,MIA @ LAC,Klay Thompson Threes 1+,88,100,7,Hit,Live
+2026-11-05,UTA @ NOP,Keyonte George Rebounds 3+,80,86,7,Miss,Live
+2026-11-05,PHI @ DET,Kevin Huerter Threes 1+,88,100,7,Hit,Live
+2026-11-05,MIN @ HOU,Kevin Durant Rebounds 3+,91,100,8,Hit,Live
+2026-11-05,MIN @ HOU,Kevin Durant Points 10+,87,100,8,Hit,Live
+2026-11-05,PHI @ DET,Kentavious Caldwell-Pope Threes 1+,80,88,8,Hit,Live
+2026-11-05,DAL @ SAS,Keldon Johnson Rebounds 3+,90,100,7,Hit,Live
+2026-11-05,MIA @ LAC,Keaton Wagler Rebounds 3+,90,100,7,Miss,Live
+2026-11-05,CHI @ NYK,Karl-Anthony Towns Rebounds 5+,82,100,7,Hit,Live
+2026-11-05,CHI @ NYK,Karl-Anthony Towns Points 10+,86,100,7,Hit,Live
+2026-11-05,CHA @ BKN,Julius Randle Rebounds 5+,82,100,7,Miss,Live
+2026-11-05,CHA @ BKN,Julius Randle Points 10+,86,100,7,Hit,Live
+2026-11-05,DAL @ SAS,Julian Champagnie Threes 2+,81,100,7,Miss,Live
+2026-11-05,DAL @ SAS,Julian Champagnie Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,CHI @ NYK,Josh Hart Rebounds 3+,90,100,7,Did not play,Live
+2026-11-05,CHI @ NYK,Josh Giddey Rebounds 3+,80,86,7,Miss,Live
+2026-11-05,CHI @ NYK,Josh Giddey Assists 3+,82,100,7,Hit,Live
+2026-11-05,MIN @ HOU,Jonathan Kuminga Threes 1+,80,88,8,Hit,Live
+2026-11-05,PHI @ DET,John Collins Rebounds 3+,80,86,7,Miss,Live
+2026-11-05,PHI @ DET,Joel Embiid Rebounds 5+,80,100,6,Hit,Live
+2026-11-05,PHI @ DET,Joel Embiid Points 10+,84,100,6,Hit,Live
+2026-11-05,UTA @ NOP,Jeremiah Fears Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,MIL @ BOS,Jayson Tatum Rebounds 3+,90,100,7,Did not play,Live
+2026-11-05,MIL @ BOS,Jayson Tatum Points 10+,86,100,7,Did not play,Live
+2026-11-05,MIL @ BOS,Jayson Tatum Assists 3+,82,100,7,Did not play,Live
+2026-11-05,PHI @ DET,Jaylen Brown Rebounds 3+,90,100,7,Hit,Live
+2026-11-05,PHI @ DET,Jaylen Brown Points 15+,80,100,7,Hit,Live
+2026-11-05,UTA @ NOP,Jaxson Hayes Rebounds 5+,80,100,6,Hit,Live
+2026-11-05,CLE @ OKC,Jarrett Allen Rebounds 5+,82,100,7,Miss,Live
+2026-11-05,IND @ MEM,Jarace Walker Rebounds 3+,82,88,8,Hit,Live
+2026-11-05,CLE @ OKC,James Harden Threes 1+,88,100,7,Hit,Live
+2026-11-05,CLE @ OKC,James Harden Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,CLE @ OKC,James Harden Points 10+,86,100,7,Hit,Live
+2026-11-05,CLE @ OKC,James Harden Assists 3+,82,100,7,Hit,Live
+2026-11-05,TOR @ DEN,Jamal Murray Assists 3+,80,100,6,Hit,Live
+2026-11-05,CHI @ NYK,Jalen Smith Rebounds 3+,90,100,7,Miss,Live
+2026-11-05,ATL @ WAS,Jalen Johnson Rebounds 5+,82,100,7,Did not play,Live
+2026-11-05,ATL @ WAS,Jalen Johnson Points 10+,86,100,7,Did not play,Live
+2026-11-05,ATL @ WAS,Jalen Johnson Assists 3+,82,100,7,Did not play,Live
+2026-11-05,CHI @ NYK,Jalen Brunson Points 15+,80,100,7,Hit,Live
+2026-11-05,CHI @ NYK,Jalen Brunson Assists 3+,82,100,7,Hit,Live
+2026-11-05,MIL @ BOS,Jaime Jaquez Jr. Rebounds 3+,90,100,7,Miss,Live
+2026-11-05,MIN @ HOU,Jaden McDaniels Threes 1+,89,100,8,Miss,Live
+2026-11-05,MIN @ HOU,Jaden McDaniels Rebounds 3+,91,100,8,Hit,Live
+2026-11-05,MIN @ HOU,Jaden McDaniels Points 10+,87,100,8,Hit,Live
+2026-11-05,MIN @ HOU,Jabari Smith Jr. Threes 1+,89,100,8,Hit,Live
+2026-11-05,MIN @ HOU,Jabari Smith Jr. Rebounds 3+,82,88,8,Hit,Live
+2026-11-05,TOR @ DEN,Ja'Kobe Walter Rebounds 3+,90,100,7,Miss,Live
+2026-11-05,MIA @ LAC,Isaiah Jackson Rebounds 5+,82,100,7,Miss,Live
+2026-11-05,CLE @ OKC,Isaiah Hartenstein Rebounds 3+,90,100,7,Hit,Live
+2026-11-05,TOR @ DEN,Immanuel Quickley Rebounds 3+,80,86,7,Miss,Live
+2026-11-05,TOR @ DEN,Immanuel Quickley Points 10+,86,100,7,Hit,Live
+2026-11-05,CHA @ BKN,Grayson Allen Threes 1+,89,100,8,Hit,Live
+2026-11-05,MIA @ LAC,Giannis Antetokounmpo Rebounds 5+,82,100,7,Hit,Live
+2026-11-05,MIA @ LAC,Giannis Antetokounmpo Points 10+,86,100,7,Hit,Live
+2026-11-05,MIN @ HOU,Fred VanVleet Assists 3+,80,100,6,Hit,Live
+2026-11-05,CLE @ OKC,Evan Mobley Rebounds 3+,90,100,7,Hit,Live
+2026-11-05,CLE @ OKC,Evan Mobley Points 10+,86,100,7,Hit,Live
+2026-11-05,ATL @ WAS,Dyson Daniels Rebounds 3+,82,88,8,Hit,Live
+2026-11-05,ATL @ WAS,Dyson Daniels Assists 3+,84,100,8,Hit,Live
+2026-11-05,DAL @ SAS,Dylan Harper Rebounds 3+,90,100,7,Hit,Live
+2026-11-05,DAL @ SAS,Dylan Harper Points 10+,86,100,7,Hit,Live
+2026-11-05,PHI @ DET,Duncan Robinson Threes 2+,81,100,7,Hit,Live
+2026-11-05,PHI @ DET,Duncan Robinson Points 10+,86,100,7,Hit,Live
+2026-11-05,CLE @ OKC,Donovan Mitchell Threes 1+,88,100,7,Hit,Live
+2026-11-05,CLE @ OKC,Donovan Mitchell Rebounds 3+,90,100,7,Hit,Live
+2026-11-05,CLE @ OKC,Donovan Mitchell Points 15+,80,100,7,Hit,Live
+2026-11-05,CLE @ OKC,Donovan Mitchell Assists 3+,82,100,7,Hit,Live
+2026-11-05,POR @ PHX,Donovan Clingan Rebounds 5+,80,100,6,Hit,Live
+2026-11-05,LAL @ SAC,Domantas Sabonis Rebounds 5+,82,100,7,Hit,Live
+2026-11-05,LAL @ SAC,Domantas Sabonis Assists 3+,82,100,7,Miss,Live
+2026-11-05,POR @ PHX,Dillon Brooks Threes 1+,85,100,5,Miss,Live
+2026-11-05,POR @ PHX,Dillon Brooks Points 10+,82,100,5,Hit,Live
+2026-11-05,DAL @ SAS,Devin Vassell Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,MIL @ BOS,Derrick White Threes 1+,88,100,7,Hit,Live
+2026-11-05,MIA @ LAC,Derrick Jones Jr. Threes 1+,87,100,6,Hit,Live
+2026-11-05,UTA @ NOP,Derik Queen Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,POR @ PHX,Deni Avdija Rebounds 3+,89,100,6,Hit,Live
+2026-11-05,POR @ PHX,Deni Avdija Points 10+,84,100,6,Hit,Live
+2026-11-05,UTA @ NOP,Dejounte Murray Rebounds 3+,85,100,4,Hit,Live
+2026-11-05,UTA @ NOP,Dejounte Murray Points 10+,80,100,4,Hit,Live
+2026-11-05,LAL @ SAC,De'Andre Hunter Rebounds 3+,90,100,7,Miss,Live
+2026-11-05,DAL @ SAS,De'Aaron Fox Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,DAL @ SAS,De'Aaron Fox Points 10+,86,100,7,Hit,Live
+2026-11-05,DAL @ SAS,De'Aaron Fox Assists 3+,82,100,7,Hit,Live
+2026-11-05,CHA @ BKN,Day'Ron Sharpe Rebounds 3+,90,100,7,Hit,Live
+2026-11-05,MIA @ LAC,Davion Mitchell Points 10+,86,100,7,Hit,Live
+2026-11-05,UTA @ NOP,Darryn Peterson Rebounds 3+,90,100,7,Miss,Live
+2026-11-05,MIA @ LAC,Darius Garland Threes 1+,88,100,7,Hit,Live
+2026-11-05,MIA @ LAC,Darius Garland Points 10+,86,100,7,Hit,Live
+2026-11-05,MIA @ LAC,Darius Garland Assists 3+,82,100,7,Hit,Live
+2026-11-05,LAL @ SAC,Darius Acuff Jr. Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,LAL @ SAC,Darius Acuff Jr. Points 10+,86,100,7,Hit,Live
+2026-11-05,LAL @ SAC,Darius Acuff Jr. Assists 3+,82,100,7,Hit,Live
+2026-11-05,DAL @ SAS,Daniel Gafford Rebounds 3+,90,100,7,Hit,Live
+2026-11-05,POR @ PHX,Damian Lillard Threes 1+,87,100,6,Hit,Live
+2026-11-05,DAL @ SAS,Cooper Flagg Rebounds 3+,89,100,6,Hit,Live
+2026-11-05,DAL @ SAS,Cooper Flagg Points 10+,84,100,6,Hit,Live
+2026-11-05,TOR @ DEN,Collin Murray-Boyles Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,IND @ MEM,Cedric Coward Threes 1+,87,100,6,Hit,Live
+2026-11-05,IND @ MEM,Cedric Coward Rebounds 5+,80,100,6,Hit,Live
+2026-11-05,TOR @ DEN,Cameron Johnson Threes 1+,80,100,3,Hit,Live
+2026-11-05,IND @ MEM,Cameron Boozer Rebounds 5+,82,100,7,Hit,Live
+2026-11-05,IND @ MEM,Cameron Boozer Assists 3+,82,100,7,Hit,Live
+2026-11-05,CHI @ NYK,Caleb Wilson Threes 1+,88,100,7,Hit,Live
+2026-11-05,CHI @ NYK,Caleb Wilson Rebounds 3+,90,100,7,Hit,Live
+2026-11-05,CHI @ NYK,Caleb Wilson Points 15+,80,100,7,Miss,Live
+2026-11-05,PHI @ DET,Cade Cunningham Threes 1+,88,100,7,Hit,Live
+2026-11-05,PHI @ DET,Cade Cunningham Rebounds 3+,80,86,7,Hit,Live
+2026-11-05,PHI @ DET,Cade Cunningham Points 15+,80,100,7,Hit,Live
+2026-11-05,PHI @ DET,Cade Cunningham Assists 3+,82,100,7,Hit,Live
+2026-11-05,ATL @ WAS,CJ McCollum Threes 1+,80,88,8,Hit,Live
+2026-11-05,CHA @ BKN,Brandon Miller Threes 1+,89,100,8,Hit,Live
+2026-11-05,MIA @ LAC,Bobby Portis Rebounds 3+,90,100,7,Hit,Live
+2026-11-05,MIA @ LAC,Bam Adebayo Rebounds 5+,82,100,7,Hit,Live
+2026-11-05,MIA @ LAC,Bam Adebayo Assists 3+,82,100,7,Hit,Live
+2026-11-05,MIN @ HOU,Ayo Dosunmu Threes 1+,89,100,8,Miss,Live
+2026-11-05,MIN @ HOU,Ayo Dosunmu Rebounds 3+,82,88,8,Miss,Live
+2026-11-05,LAL @ SAC,Austin Reaves Threes 1+,89,100,8,Hit,Live
+2026-11-05,LAL @ SAC,Austin Reaves Points 15+,82,100,8,Hit,Live
+2026-11-05,PHI @ DET,Ausar Thompson Rebounds 3+,89,100,6,Hit,Live
+2026-11-05,ATL @ WAS,Anthony Davis Rebounds 5+,82,100,7,Hit,Live
+2026-11-05,PHI @ DET,Anfernee Simons Threes 1+,80,88,8,Miss,Live
+2026-11-05,IND @ MEM,Andrew Nembhard Points 10+,84,100,6,Hit,Live
+2026-11-05,IND @ MEM,Andrew Nembhard Assists 3+,80,100,6,Hit,Live
+2026-11-05,MIN @ HOU,Amen Thompson Rebounds 3+,91,100,8,Hit,Live
+2026-11-05,MIN @ HOU,Alperen Sengun Rebounds 5+,80,100,6,Hit,Live
+2026-11-05,MIN @ HOU,Alperen Sengun Points 10+,84,100,6,Hit,Live
+2026-11-05,MIN @ HOU,Alperen Sengun Assists 3+,80,100,6,Hit,Live
+2026-11-05,UTA @ NOP,Ace Bailey Threes 1+,88,100,7,Hit,Live
+2026-11-05,UTA @ NOP,Ace Bailey Rebounds 5+,82,100,7,Hit,Live
+2026-11-05,ATL @ WAS,Aaron Wiggins Threes 1+,89,100,8,Hit,Live
+2026-11-05,TOR @ DEN,Aaron Gordon Rebounds 3+,89,100,6,Miss,Live
+2026-11-05,ATL @ WAS,AJ Dybantsa Threes 1+,80,100,3,Miss,Live
 2026-11-03,NOP @ MEM,Zion Williamson Points 10+,84,100,6,Hit,Live
 2026-11-03,MIA @ LAL,Ziaire Williams Threes 1+,83,100,4,Hit,Live
 2026-11-03,SAC @ DAL,Zach LaVine Points 10+,84,100,6,Hit,Live
