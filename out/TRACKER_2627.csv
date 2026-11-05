@@ -1,4 +1,4 @@
-"Updated Thu 05 Nov 01:02 UK · box scores to 2026-11-02 · fact-check vs ESPN: 99.69% of 9,652 stats match (107 games) · pick tracker: 86% hit from 805 graded picks"
+"Updated Thu 05 Nov 02:11 UK · box scores to 2026-11-02 · fact-check vs ESPN: 99.69% of 9,652 stats match (107 games) · pick tracker: 86% hit from 805 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -15,6 +15,15 @@ By true rate,Graded,Hit %,True % given
 95–100%,0,,
 
 Date,Game,Pick,True %,Season %,Games,Result,Source
+2026-11-06,ORL @ PHX,Wendell Carter Jr. Rebounds 5+,82,100,7,Pending,Live
+2026-11-06,ORL @ PHX,Tristan Da Silva Threes 1+,88,100,7,Pending,Live
+2026-11-06,ORL @ PHX,Miles Bridges Rebounds 3+,87,100,5,Pending,Live
+2026-11-06,ORL @ PHX,Franz Wagner Rebounds 3+,90,100,7,Pending,Live
+2026-11-06,ORL @ PHX,Franz Wagner Points 10+,86,100,7,Pending,Live
+2026-11-06,ORL @ PHX,Franz Wagner Assists 3+,82,100,7,Pending,Live
+2026-11-06,ORL @ PHX,Dillon Brooks Threes 1+,85,100,5,Pending,Live
+2026-11-06,ORL @ PHX,Dillon Brooks Points 10+,82,100,5,Pending,Live
+2026-11-06,ORL @ PHX,Desmond Bane Threes 1+,88,100,7,Pending,Live
 2026-11-05,UTA @ NOP,Zion Williamson Rebounds 3+,80,86,7,Pending,Live
 2026-11-05,UTA @ NOP,Zion Williamson Points 15+,80,100,7,Pending,Live
 2026-11-05,LAL @ SAC,Ziaire Williams Threes 1+,85,100,5,Pending,Live
@@ -406,12 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-03,MIA @ LAL,Davion Mitchell Points 10+,84,100,6,Hit,Live
 2026-11-03,UTA @ SAS,Darryn Peterson Rebounds 3+,89,100,6,Hit,Live
 2026-11-03,TOR @ LAC,Darius Garland Threes 1+,87,100,6,Hit,Live
-2026-11-03,TOR @ LAC,Darius Garland Points 10+,84,100,6,Hit,Live
-2026-11-03,TOR @ LAC,Darius Garland Assists 3+,81,100,6,Hit,Live
-2026-11-03,SAC @ DAL,Darius Acuff Jr. Points 10+,84,100,6,Hit,Live
-2026-11-03,SAC @ DAL,Darius Acuff Jr. Assists 3+,81,100,6,Hit,Live
-2026-11-03,DET @ CHA,Daniss Jenkins Threes 1+,87,100,6,Miss,Live
-2026-11-03,SAC @ DAL,Daniel Gafford Rebounds 3+,89,100,6,Hit,Live
-2026-11-03,POR @ DEN,Damian Lillard Threes 1+,85,100,5,Hit,Live
-2026-11-03,SAC @ DAL,Cooper Flagg Rebounds 3+,87,100,5,Hit,Live
-2026-11-03,SAC @ DAL,Cooper Flagg Points 10+,83,100,5,Hit,Live

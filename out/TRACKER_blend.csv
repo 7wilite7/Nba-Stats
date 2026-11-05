@@ -1,4 +1,4 @@
-"Updated Thu 05 Nov 01:02 UK · box scores to 2026-11-02 · fact-check vs ESPN: 99.69% of 9,652 stats match (107 games) · pick tracker: 85% hit from 1652 graded picks"
+"Updated Thu 05 Nov 02:11 UK · box scores to 2026-11-02 · fact-check vs ESPN: 99.69% of 9,652 stats match (107 games) · pick tracker: 85% hit from 1652 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -15,6 +15,20 @@ By true rate,Graded,Hit %,True % given
 95–100%,55,91,96
 
 Date,Game,Pick,True %,Season %,Games,Result,Source
+2026-11-06,ORL @ PHX,Wendell Carter Jr. Rebounds 5+,89,92,39,Pending,Live
+2026-11-06,ORL @ PHX,Tristan Da Silva Threes 1+,83,85,39,Pending,Live
+2026-11-06,ORL @ PHX,Miles Bridges Rebounds 3+,88,90,39,Pending,Live
+2026-11-06,ORL @ PHX,Miles Bridges Points 10+,80,82,39,Pending,Live
+2026-11-06,ORL @ PHX,Franz Wagner Points 10+,88,94,17,Pending,Live
+2026-11-06,ORL @ PHX,Dillon Brooks Threes 1+,90,93,28,Pending,Live
+2026-11-06,ORL @ PHX,Dillon Brooks Points 10+,83,86,28,Pending,Live
+2026-11-06,ORL @ PHX,Devin Booker Threes 1+,85,88,32,Pending,Live
+2026-11-06,ORL @ PHX,Devin Booker Rebounds 3+,80,81,32,Pending,Live
+2026-11-06,ORL @ PHX,Devin Booker Points 15+,86,91,32,Pending,Live
+2026-11-06,ORL @ PHX,Devin Booker Assists 3+,84,88,32,Pending,Live
+2026-11-06,ORL @ PHX,Desmond Bane Threes 1+,93,95,41,Pending,Live
+2026-11-06,ORL @ PHX,Desmond Bane Points 10+,88,90,41,Pending,Live
+2026-11-06,ORL @ PHX,Collin Gillespie Threes 1+,86,88,40,Pending,Live
 2026-11-05,UTA @ NOP,Zion Williamson Rebounds 3+,82,84,31,Pending,Live
 2026-11-05,UTA @ NOP,Zion Williamson Points 15+,85,90,31,Pending,Live
 2026-11-05,LAL @ SAC,Ziaire Williams Threes 1+,80,82,28,Pending,Live
@@ -401,17 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-03,MIA @ LAL,Klay Thompson Threes 1+,94,97,35,Hit,Live
 2026-11-03,PHX @ GSW,Khaman Maluach Rebounds 3+,85,100,4,Miss,Live
 2026-11-03,UTA @ SAS,Keyonte George Points 15+,80,85,27,Miss,Live
-2026-11-03,UTA @ SAS,Keyonte George Assists 3+,81,85,27,Miss,Live
-2026-11-03,BOS @ HOU,Kevin Durant Threes 1+,85,87,39,Miss,Live
-2026-11-03,BOS @ HOU,Kevin Durant Rebounds 3+,95,97,39,Hit,Live
-2026-11-03,BOS @ HOU,Kevin Durant Points 15+,90,95,39,Miss,Live
-2026-11-03,BOS @ HOU,Kevin Durant Assists 3+,82,85,39,Hit,Live
-2026-11-03,TOR @ LAC,Keaton Wagler Rebounds 3+,89,100,6,Hit,Live
-2026-11-03,BKN @ NYK,Karl-Anthony Towns Rebounds 7+,92,97,38,Hit,Live
-2026-11-03,BKN @ NYK,Karl-Anthony Towns Points 10+,94,97,38,Hit,Live
-2026-11-03,BKN @ NYK,Julius Randle Rebounds 5+,80,82,40,Hit,Live
-2026-11-03,BKN @ NYK,Julius Randle Points 10+,92,95,40,Hit,Live
-2026-11-03,BKN @ NYK,Julius Randle Assists 3+,80,82,40,Miss,Live
-2026-11-03,UTA @ SAS,Julian Champagnie Threes 1+,81,83,41,Hit,Live
-2026-11-03,UTA @ SAS,Julian Champagnie Rebounds 3+,84,85,41,Hit,Live
-2026-11-03,POR @ DEN,Jrue Holiday Threes 1+,86,89,27,Hit,Live
