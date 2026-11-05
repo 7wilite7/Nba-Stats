@@ -1,52 +1,15 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Thu 05 Nov 02:11 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Thu 05 Nov 03:11 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
-DAL @ SAS · Thu 02:30 UK,Cooper Flagg,DAL,6,100,83,67,67,100,83,17,83,83,33,67,50,0,0,
-DAL @ SAS · Thu 02:30 UK,Daniel Gafford,DAL,7,43,29,14,0,100,71,71,29,14,0,14,0,0,0,
-DAL @ SAS · Thu 02:30 UK,De'Aaron Fox,SAS,7,100,43,14,0,86,29,29,100,71,57,71,43,0,0,
-DAL @ SAS · Thu 02:30 UK,Devin Vassell,SAS,7,71,14,14,0,86,29,0,29,29,14,71,29,14,14,
-DAL @ SAS · Thu 02:30 UK,Dylan Harper,SAS,7,100,71,43,14,100,86,43,71,71,29,71,43,14,0,
-DAL @ SAS · Thu 02:30 UK,Julian Champagnie,SAS,7,43,14,14,14,86,43,0,29,0,0,100,100,43,14,
-DAL @ SAS · Thu 02:30 UK,Keldon Johnson,SAS,7,43,14,0,0,100,71,14,14,0,0,29,0,0,0,
-DAL @ SAS · Thu 02:30 UK,Kyrie Irving,DAL,5,100,100,40,20,60,20,0,80,40,20,100,80,60,40,
-DAL @ SAS · Thu 02:30 UK,Max Christie,DAL,7,43,14,0,0,71,43,0,29,0,0,71,43,29,0,Out (Hip) – est. return 6 Nov
-DAL @ SAS · Thu 02:30 UK,Naji Marshall,DAL,4,75,50,0,0,50,0,0,100,100,25,50,25,0,0,
-DAL @ SAS · Thu 02:30 UK,P.J. Washington,DAL,7,86,43,29,0,100,71,57,0,0,0,86,71,14,14,
-DAL @ SAS · Thu 02:30 UK,Stephon Castle,SAS,7,86,71,14,0,100,86,29,86,57,29,86,71,57,14,
-DAL @ SAS · Thu 02:30 UK,Tobias Harris,SAS,0,,,,,,,,,,,,,,,Out (Calf) – est. return 9 Nov
-DAL @ SAS · Thu 02:30 UK,Victor Wembanyama,SAS,7,100,71,71,57,100,100,100,57,29,0,57,57,29,14,
-DAL @ SAS · Thu 02:30 UK,Zaccharie Risacher,DAL,7,57,0,0,0,100,86,14,14,0,0,71,29,14,0,
-LAL @ SAC · Thu 03:00 UK,Austin Reaves,LAL,8,100,100,75,50,62,12,0,88,62,25,100,62,50,38,
-LAL @ SAC · Thu 03:00 UK,Darius Acuff Jr.,SAC,7,100,86,71,57,86,43,0,100,71,29,86,86,43,14,
-LAL @ SAC · Thu 03:00 UK,De'Andre Hunter,SAC,7,43,43,29,0,100,71,29,0,0,0,71,71,29,29,
-LAL @ SAC · Thu 03:00 UK,Domantas Sabonis,SAC,7,71,43,29,14,100,100,100,100,71,71,14,0,0,0,
-LAL @ SAC · Thu 03:00 UK,Jake LaRavia,LAL,7,29,0,0,0,43,14,14,14,0,0,71,43,0,0,
-LAL @ SAC · Thu 03:00 UK,Keegan Murray,SAC,2,50,0,0,0,50,0,0,0,0,0,0,0,0,0,Out (Ankle) – est. return 10 Nov
-LAL @ SAC · Thu 03:00 UK,Luka Doncic,LAL,7,100,100,100,86,100,100,71,100,100,71,100,100,86,86,
-LAL @ SAC · Thu 03:00 UK,Matisse Thybulle,LAL,8,50,12,0,0,25,0,0,12,0,0,100,62,38,12,
-LAL @ SAC · Thu 03:00 UK,Maxime Raynaud,SAC,0,,,,,,,,,,,,,,,Out (Knee) – est. return 10 Nov
-LAL @ SAC · Thu 03:00 UK,Precious Achiuwa,SAC,7,57,29,14,0,86,86,43,14,0,0,14,0,0,0,
-LAL @ SAC · Thu 03:00 UK,Quentin Grimes,LAL,8,38,12,12,0,62,12,12,62,12,0,50,12,12,0,
-LAL @ SAC · Thu 03:00 UK,Sandro Mamukelashvili,LAL,8,50,12,0,0,88,38,25,25,0,0,62,38,12,0,
-LAL @ SAC · Thu 03:00 UK,Walker Kessler,LAL,8,88,50,25,12,100,100,100,12,0,0,0,0,0,0,
-LAL @ SAC · Thu 03:00 UK,Zach LaVine,SAC,7,100,86,86,29,71,14,0,57,29,0,86,86,86,14,
-LAL @ SAC · Thu 03:00 UK,Ziaire Williams,LAL,5,60,0,0,0,40,20,0,40,0,0,100,60,40,0,
-MIA @ LAC · Thu 03:30 UK,Andrew Wiggins,MIA,7,57,14,0,0,29,14,14,0,0,0,71,43,14,14,
-MIA @ LAC · Thu 03:30 UK,Bam Adebayo,MIA,7,71,71,43,14,100,100,86,100,0,0,43,14,0,0,
-MIA @ LAC · Thu 03:30 UK,Bobby Portis,MIA,7,57,0,0,0,100,57,57,14,0,0,86,57,29,0,
 MIA @ LAC · Thu 03:30 UK,Brandon Ingram,LAC,0,,,,,,,,,,,,,,,Out (Achilles) – est. return 8 Nov
 MIA @ LAC · Thu 03:30 UK,Brook Lopez,LAC,7,71,43,14,0,71,43,14,14,0,0,86,29,14,0,
 MIA @ LAC · Thu 03:30 UK,Darius Garland,LAC,7,100,86,43,29,29,0,0,100,86,43,100,57,43,29,
-MIA @ LAC · Thu 03:30 UK,Davion Mitchell,MIA,7,100,71,29,0,14,14,0,86,86,71,86,71,57,14,
 MIA @ LAC · Thu 03:30 UK,Derrick Jones Jr.,LAC,6,67,33,0,0,83,67,17,17,17,0,100,67,50,0,
-MIA @ LAC · Thu 03:30 UK,Giannis Antetokounmpo,MIA,7,100,86,86,71,100,100,71,86,57,43,43,14,0,0,
-MIA @ LAC · Thu 03:30 UK,Isaiah Jackson,LAC,7,57,14,0,0,100,100,43,43,0,0,14,0,0,0,Questionable (Left Groin Soreness)
+MIA @ LAC · Thu 03:30 UK,Isaiah Jackson,LAC,7,57,14,0,0,100,100,43,43,0,0,14,0,0,0,
 MIA @ LAC · Thu 03:30 UK,Jordan Miller,LAC,0,,,,,,,,,,,,,,,Out (Shoulder) – est. return 2 Mar
 MIA @ LAC · Thu 03:30 UK,Keaton Wagler,LAC,7,71,29,14,0,100,43,0,86,14,0,71,43,29,0,
-MIA @ LAC · Thu 03:30 UK,Klay Thompson,MIA,7,57,29,14,14,14,0,0,14,0,0,100,86,57,43,
 MIA @ LAC · Thu 03:30 UK,Kobe Sanders,LAC,7,43,29,14,14,86,0,0,43,14,0,86,43,29,29,
 MIA @ LAC · Thu 03:30 UK,Kris Dunn,LAC,7,43,14,0,0,86,29,0,86,57,29,71,14,0,0,
 MIA @ LAC · Thu 03:30 UK,Max Strus,LAC,1,100,0,0,0,100,0,0,100,100,0,100,100,100,0,
-MIA @ LAC · Thu 03:30 UK,Pelle Larsson,MIA,7,57,43,0,0,71,29,14,71,14,14,86,14,0,0,
 MIA @ LAC · Thu 03:30 UK,Rui Hachimura,LAC,5,80,40,20,0,100,80,40,0,0,0,100,80,40,20,
 ORL @ PHX · Fri 02:00 UK,Anthony Black,ORL,4,75,75,25,0,75,50,25,75,50,25,75,50,50,25,
 ORL @ PHX · Fri 02:00 UK,Collin Gillespie,PHX,5,40,20,0,0,40,0,0,40,40,40,80,60,40,20,
@@ -63,3 +26,17 @@ ORL @ PHX · Fri 02:00 UK,Miles Bridges,PHX,5,80,80,40,0,100,80,60,60,0,0,80,80,
 ORL @ PHX · Fri 02:00 UK,Paolo Banchero,ORL,2,100,50,50,50,100,100,50,100,100,50,50,50,50,0,Out (Ankle) – est. return 22 Nov
 ORL @ PHX · Fri 02:00 UK,Tristan Da Silva,ORL,7,71,43,29,0,57,14,14,29,0,0,100,86,57,57,
 ORL @ PHX · Fri 02:00 UK,Wendell Carter Jr.,ORL,7,43,43,43,0,100,100,100,14,0,0,57,14,14,0,
+MIA @ GSW · Fri 03:00 UK,Andrew Wiggins,MIA,7,57,14,0,0,29,14,14,0,0,0,71,43,14,14,
+MIA @ GSW · Fri 03:00 UK,Bam Adebayo,MIA,7,71,71,43,14,100,100,86,100,0,0,43,14,0,0,
+MIA @ GSW · Fri 03:00 UK,Bobby Portis,MIA,7,57,0,0,0,100,57,57,14,0,0,86,57,29,0,
+MIA @ GSW · Fri 03:00 UK,Brandin Podziemski,GSW,6,83,83,33,0,83,67,33,83,67,17,83,83,50,17,
+MIA @ GSW · Fri 03:00 UK,Davion Mitchell,MIA,7,100,71,29,0,14,14,0,86,86,71,86,71,57,14,
+MIA @ GSW · Fri 03:00 UK,De'Anthony Melton,GSW,8,50,38,25,12,75,62,12,50,12,0,75,62,38,38,
+MIA @ GSW · Fri 03:00 UK,Draymond Green,GSW,6,0,0,0,0,100,33,17,83,83,50,33,0,0,0,
+MIA @ GSW · Fri 03:00 UK,Giannis Antetokounmpo,MIA,7,100,86,86,71,100,100,71,86,57,43,43,14,0,0,
+MIA @ GSW · Fri 03:00 UK,Gui Santos,GSW,6,33,0,0,0,100,33,0,17,0,0,67,0,0,0,Out (Knee) – est. return 7 Nov
+MIA @ GSW · Fri 03:00 UK,Klay Thompson,MIA,7,57,29,14,14,14,0,0,14,0,0,100,86,57,43,
+MIA @ GSW · Fri 03:00 UK,Moses Moody,GSW,0,,,,,,,,,,,,,,,Out (Knee) – est. return 1 Dec
+MIA @ GSW · Fri 03:00 UK,Pelle Larsson,MIA,7,57,43,0,0,71,29,14,71,14,14,86,14,0,0,
+MIA @ GSW · Fri 03:00 UK,Stephen Curry,GSW,6,100,100,100,50,67,33,17,83,50,17,100,100,83,50,
+MIA @ GSW · Fri 03:00 UK,Yaxel Lendeborg,GSW,8,88,75,50,50,88,62,50,62,62,0,100,50,25,25,
