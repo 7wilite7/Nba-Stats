@@ -8,6 +8,7 @@ concurrency: {group: update-nba, cancel-in-progress: false}
 jobs:
   check:
     runs-on: ubuntu-latest
+    env: {GOOGLE_SA_JSON: "${{ secrets.GOOGLE_SA_JSON }}"}
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
@@ -21,6 +22,7 @@ jobs:
           if [ -z "$(git status --porcelain -- data/injuries.json data/injuries_official.json)" ]; then echo "No injury changes"; exit 0; fi
           git status --short -- data/injuries.json data/injuries_official.json
           python scripts/build.py
+          pip install -q gspread && python scripts/tiers.py && python scripts/push_sheets.py || echo "sheet push failed"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data out
