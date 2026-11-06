@@ -1,12 +1,12 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Fri 06 Nov 17:49 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Fri 06 Nov 18:51 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 BOS @ CHA · Sat 00:00 UK,Baylor Scheierman,BOS,8,25,0,0,0,75,38,12,12,0,0,62,50,25,0,
 BOS @ CHA · Sat 00:00 UK,Brandon Miller,CHA,9,89,78,44,33,78,56,33,44,11,0,100,78,78,22,
-BOS @ CHA · Sat 00:00 UK,Dennis Schroder,CHA,9,33,22,11,11,67,22,0,89,56,22,44,22,11,0,Questionable (Thigh)
+BOS @ CHA · Sat 00:00 UK,Dennis Schroder,CHA,9,33,22,11,11,67,22,0,89,56,22,44,22,11,0,Out (Thigh) – est. return 9 Nov
 BOS @ CHA · Sat 00:00 UK,Derrick White,BOS,8,62,38,12,0,50,25,0,88,50,38,100,38,12,0,
 BOS @ CHA · Sat 00:00 UK,Grayson Allen,CHA,9,78,56,44,11,56,11,0,56,11,0,100,89,67,44,
 BOS @ CHA · Sat 00:00 UK,Jayson Tatum,BOS,7,100,86,71,57,100,71,43,100,100,86,86,57,14,0,
-BOS @ CHA · Sat 00:00 UK,Moussa Diabate,CHA,9,44,11,0,0,100,100,78,33,0,0,0,0,0,0,Questionable (Quadriceps)
+BOS @ CHA · Sat 00:00 UK,Moussa Diabate,CHA,9,44,11,0,0,100,100,78,33,0,0,0,0,0,0,Out (Quadriceps) – est. return 9 Nov
 BOS @ CHA · Sat 00:00 UK,Naz Reid,CHA,9,89,56,33,11,100,100,56,11,11,11,89,78,33,22,
 BOS @ CHA · Sat 00:00 UK,Neemias Queta,BOS,8,38,25,0,0,100,75,25,12,0,0,25,0,0,0,
 BOS @ CHA · Sat 00:00 UK,Paul George,BOS,7,100,100,43,29,100,86,29,71,57,43,100,86,71,29,
@@ -56,7 +56,7 @@ MIN @ NOP · Sat 01:00 UK,Jonathan Kuminga,MIN,9,78,33,11,0,78,56,44,67,33,0,89,
 MIN @ NOP · Sat 01:00 UK,LaMelo Ball,MIN,9,89,56,44,11,56,33,11,100,78,33,89,78,56,56,
 MIN @ NOP · Sat 01:00 UK,Rudy Gobert,MIN,8,25,0,0,0,100,88,88,12,0,0,0,0,0,0,
 MIN @ NOP · Sat 01:00 UK,Saddiq Bey,NOP,8,88,50,38,12,88,38,0,50,0,0,100,62,12,0,
-MIN @ NOP · Sat 01:00 UK,Terrence Shannon Jr.,MIN,7,86,29,0,0,86,14,0,43,14,0,86,71,29,0,Questionable (Hip)
+MIN @ NOP · Sat 01:00 UK,Terrence Shannon Jr.,MIN,7,86,29,0,0,86,14,0,43,14,0,86,71,29,0,Out (Hip) – est. return 8 Nov
 MIN @ NOP · Sat 01:00 UK,Trey Murphy III,NOP,7,71,57,14,14,86,71,0,86,29,0,100,71,29,14,
 MIN @ NOP · Sat 01:00 UK,Zion Williamson,NOP,8,100,100,75,25,88,62,12,38,0,0,25,12,0,0,
 OKC @ MEM · Sat 01:00 UK,Ajay Mitchell,OKC,8,75,62,50,25,75,50,12,75,38,0,50,12,0,0,
@@ -72,7 +72,7 @@ OKC @ MEM · Sat 01:00 UK,Shai Gilgeous-Alexander,OKC,8,100,100,88,75,88,38,0,88
 OKC @ MEM · Sat 01:00 UK,Ty Jerome,MEM,7,100,86,71,57,57,29,14,100,71,14,100,57,43,29,
 OKC @ MEM · Sat 01:00 UK,Zach Edey,MEM,7,29,0,0,0,100,86,71,14,0,0,14,0,0,0,
 TOR @ MIL · Sat 01:00 UK,Collin Murray-Boyles,TOR,8,50,25,0,0,88,50,38,12,0,0,50,12,0,0,
-TOR @ MIL · Sat 01:00 UK,Immanuel Quickley,TOR,8,100,62,25,12,75,25,0,75,75,62,88,75,62,38,Questionable
+TOR @ MIL · Sat 01:00 UK,Immanuel Quickley,TOR,8,100,62,25,12,75,25,0,75,75,62,88,75,62,38,Questionable (Hamstring)
 TOR @ MIL · Sat 01:00 UK,Ja'Kobe Walter,TOR,8,62,12,12,0,88,25,0,25,12,0,88,62,50,12,
 TOR @ MIL · Sat 01:00 UK,Jaime Jaquez Jr.,MIL,8,75,75,25,0,88,75,62,38,25,0,88,62,25,12,
 TOR @ MIL · Sat 01:00 UK,Jamal Shead,TOR,8,12,0,0,0,25,0,0,88,88,25,38,12,0,0,
