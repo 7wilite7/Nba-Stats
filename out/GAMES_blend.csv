@@ -1,4 +1,4 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Fri 06 Nov 21:39 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Fri 06 Nov 22:40 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 BOS @ CHA · Sat 00:00 UK,Baylor Scheierman,BOS,39,36,8,5,3,74,49,23,31,13,3,87,51,23,8,
 BOS @ CHA · Sat 00:00 UK,Brandon Miller,CHA,33,91,79,55,24,85,61,30,64,15,3,100,91,70,36,
@@ -16,11 +16,11 @@ BOS @ CHA · Sat 00:00 UK,Sion James,CHA,41,15,0,0,0,63,32,5,44,7,2,63,29,10,2,
 WAS @ ATL · Sat 00:00 UK,AJ Dybantsa,WAS,4,75,75,25,0,75,75,25,25,0,0,75,0,0,0,
 WAS @ ATL · Sat 00:00 UK,Aaron Wiggins,ATL,33,42,24,6,0,48,12,9,30,6,0,73,39,18,6,
 WAS @ ATL · Sat 00:00 UK,Alex Sarr,WAS,24,71,42,17,12,96,71,42,38,17,4,62,25,8,4,
-WAS @ ATL · Sat 00:00 UK,Anthony Davis,WAS,10,90,90,60,50,100,100,80,50,0,0,40,20,10,0,Questionable (Ankle)
+WAS @ ATL · Sat 00:00 UK,Anthony Davis,WAS,10,90,90,60,50,100,100,80,50,0,0,40,20,10,0,Out (Ankle) – est. return 6 Nov
 WAS @ ATL · Sat 00:00 UK,Bilal Coulibaly,WAS,28,68,32,21,7,75,50,4,32,11,4,54,36,14,11,
 WAS @ ATL · Sat 00:00 UK,CJ McCollum,ATL,38,87,63,34,16,45,18,8,71,42,21,84,66,34,21,
 WAS @ ATL · Sat 00:00 UK,Dyson Daniels,ATL,38,61,29,8,3,95,76,53,95,47,26,29,8,0,0,
-WAS @ ATL · Sat 00:00 UK,Jalen Johnson,ATL,36,94,83,56,31,100,97,86,94,83,61,75,56,19,8,Questionable (Ankle)
+WAS @ ATL · Sat 00:00 UK,Jalen Johnson,ATL,36,94,83,56,31,100,97,86,94,83,61,75,56,19,8,Out (Ankle) – est. return 7 Nov
 WAS @ ATL · Sat 00:00 UK,Jamir Watkins,WAS,25,48,16,8,0,80,48,12,28,4,0,88,36,8,4,Out (Knee) – est. return 2 Apr
 WAS @ ATL · Sat 00:00 UK,Kingston Flemings,ATL,8,38,12,12,0,50,25,0,88,50,12,50,25,12,0,
 WAS @ ATL · Sat 00:00 UK,Kyshawn George,WAS,24,79,50,25,4,71,33,17,71,42,17,79,58,29,12,
@@ -129,3 +129,21 @@ SAS @ SAC · Sat 03:00 UK,Stephon Castle,SAS,34,88,71,26,3,85,62,44,94,74,50,74,
 SAS @ SAC · Sat 03:00 UK,Tobias Harris,SAS,32,78,38,12,0,88,72,31,47,25,3,75,31,9,3,Out (Calf) – est. return 9 Nov
 SAS @ SAC · Sat 03:00 UK,Victor Wembanyama,SAS,32,100,84,72,56,100,100,97,69,28,6,84,53,22,16,
 SAS @ SAC · Sat 03:00 UK,Zach LaVine,SAC,20,95,80,45,20,50,15,0,45,20,0,90,80,65,15,
+DEN @ IND · Sat 22:00 UK,Aaron Gordon,DEN,18,67,56,17,6,83,61,17,50,17,0,78,39,17,11,
+DEN @ IND · Sat 22:00 UK,Aaron Nesmith,IND,7,71,29,0,0,43,0,0,14,0,0,86,57,29,0,
+DEN @ IND · Sat 22:00 UK,Andrew Nembhard,IND,29,83,62,41,10,45,21,7,93,76,69,86,62,34,21,
+DEN @ IND · Sat 22:00 UK,Cameron Johnson,DEN,27,70,44,4,0,74,33,15,52,11,4,89,63,37,22,
+DEN @ IND · Sat 22:00 UK,Christian Braun,DEN,22,82,41,18,9,82,41,18,45,5,0,77,32,18,9,
+DEN @ IND · Sat 22:00 UK,DeMar DeRozan,DEN,39,69,49,36,21,44,8,0,64,46,18,31,8,0,0,Day-To-Day / GTD (Back) – est. return 7 Nov
+DEN @ IND · Sat 22:00 UK,Ivica Zubac,IND,24,62,25,4,0,96,92,79,17,0,0,0,0,0,0,
+DEN @ IND · Sat 22:00 UK,Jamal Murray,DEN,38,92,82,71,47,71,61,21,95,79,45,92,74,55,39,
+DEN @ IND · Sat 22:00 UK,Jarace Walker,IND,38,76,42,13,0,92,79,45,50,26,5,89,53,21,13,
+DEN @ IND · Sat 22:00 UK,Julian Strawther,DEN,29,48,28,10,3,34,17,0,10,0,0,69,48,17,14,Out (Knee) – est. return 29 Nov
+DEN @ IND · Sat 22:00 UK,Kelly Oubre Jr.,IND,25,68,40,20,8,80,44,20,20,0,0,76,36,20,8,Day-To-Day / GTD (Calf) – est. return 7 Nov
+DEN @ IND · Sat 22:00 UK,Nikola Jokic,DEN,33,97,91,79,48,100,100,100,97,97,82,67,39,18,6,
+DEN @ IND · Sat 22:00 UK,Obi Toppin,IND,12,92,42,33,8,92,67,25,17,0,0,83,50,42,25,
+DEN @ IND · Sat 22:00 UK,Pascal Siakam,IND,31,100,90,81,52,97,81,35,74,39,3,77,48,26,13,
+DEN @ IND · Sat 22:00 UK,Quenton Jackson,IND,9,44,22,22,0,56,22,22,44,11,0,56,33,22,0,
+DEN @ IND · Sat 22:00 UK,T.J. McConnell,IND,28,36,11,0,0,36,4,0,93,54,29,14,4,0,0,Out (Hamstring) – est. return 9 Nov
+DEN @ IND · Sat 22:00 UK,Trevon Brazile,DEN,7,29,14,0,0,86,71,57,0,0,0,57,14,14,0,
+DEN @ IND · Sat 22:00 UK,Tyrese Haliburton,IND,4,100,100,75,0,75,50,0,100,100,100,75,75,50,50,Out (Hamstring) – est. return 13 Nov
