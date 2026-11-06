@@ -36,7 +36,11 @@ jobs:
         run: python scripts/verify.py
       - name: Build CSVs
         if: env.SKIP != '1'
-        run: python scripts/build.py
+        run: python scripts/build.py && python scripts/tiers.py
+      - name: Push tier master to the private Google Sheet
+        if: env.SKIP != '1'
+        env: {GOOGLE_SA_JSON: "${{ secrets.GOOGLE_SA_JSON }}"}
+        run: pip install -q gspread && python scripts/push_sheets.py
       - name: Commit results
         if: env.SKIP != '1'
         run: |
