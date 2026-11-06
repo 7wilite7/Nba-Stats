@@ -1,4 +1,4 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Fri 06 Nov 16:51 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Fri 06 Nov 17:49 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 BOS @ CHA · Sat 00:00 UK,Baylor Scheierman,BOS,8,25,0,0,0,75,38,12,12,0,0,62,50,25,0,
 BOS @ CHA · Sat 00:00 UK,Brandon Miller,CHA,9,89,78,44,33,78,56,33,44,11,0,100,78,78,22,
@@ -10,7 +10,7 @@ BOS @ CHA · Sat 00:00 UK,Moussa Diabate,CHA,9,44,11,0,0,100,100,78,33,0,0,0,0,0
 BOS @ CHA · Sat 00:00 UK,Naz Reid,CHA,9,89,56,33,11,100,100,56,11,11,11,89,78,33,22,
 BOS @ CHA · Sat 00:00 UK,Neemias Queta,BOS,8,38,25,0,0,100,75,25,12,0,0,25,0,0,0,
 BOS @ CHA · Sat 00:00 UK,Paul George,BOS,7,100,100,43,29,100,86,29,71,57,43,100,86,71,29,
-BOS @ CHA · Sat 00:00 UK,Payton Pritchard,BOS,8,50,38,25,25,50,12,12,88,25,0,50,38,25,12,Questionable (Eye)
+BOS @ CHA · Sat 00:00 UK,Payton Pritchard,BOS,8,50,38,25,25,50,12,12,88,25,0,50,38,25,12,
 BOS @ CHA · Sat 00:00 UK,Sam Hauser,BOS,8,50,0,0,0,50,0,0,0,0,0,88,75,50,0,
 BOS @ CHA · Sat 00:00 UK,Sion James,CHA,9,22,0,0,0,44,22,0,67,22,0,67,11,11,0,
 WAS @ ATL · Sat 00:00 UK,AJ Dybantsa,WAS,4,75,75,25,0,75,75,25,25,0,0,75,0,0,0,
@@ -57,7 +57,7 @@ MIN @ NOP · Sat 01:00 UK,LaMelo Ball,MIN,9,89,56,44,11,56,33,11,100,78,33,89,78
 MIN @ NOP · Sat 01:00 UK,Rudy Gobert,MIN,8,25,0,0,0,100,88,88,12,0,0,0,0,0,0,
 MIN @ NOP · Sat 01:00 UK,Saddiq Bey,NOP,8,88,50,38,12,88,38,0,50,0,0,100,62,12,0,
 MIN @ NOP · Sat 01:00 UK,Terrence Shannon Jr.,MIN,7,86,29,0,0,86,14,0,43,14,0,86,71,29,0,Questionable (Hip)
-MIN @ NOP · Sat 01:00 UK,Trey Murphy III,NOP,7,71,57,14,14,86,71,0,86,29,0,100,71,29,14,Probable (Knee)
+MIN @ NOP · Sat 01:00 UK,Trey Murphy III,NOP,7,71,57,14,14,86,71,0,86,29,0,100,71,29,14,
 MIN @ NOP · Sat 01:00 UK,Zion Williamson,NOP,8,100,100,75,25,88,62,12,38,0,0,25,12,0,0,
 OKC @ MEM · Sat 01:00 UK,Ajay Mitchell,OKC,8,75,62,50,25,75,50,12,75,38,0,50,12,0,0,
 OKC @ MEM · Sat 01:00 UK,Cameron Boozer,MEM,8,88,62,25,25,100,100,88,100,50,12,88,75,38,25,
@@ -72,7 +72,7 @@ OKC @ MEM · Sat 01:00 UK,Shai Gilgeous-Alexander,OKC,8,100,100,88,75,88,38,0,88
 OKC @ MEM · Sat 01:00 UK,Ty Jerome,MEM,7,100,86,71,57,57,29,14,100,71,14,100,57,43,29,
 OKC @ MEM · Sat 01:00 UK,Zach Edey,MEM,7,29,0,0,0,100,86,71,14,0,0,14,0,0,0,
 TOR @ MIL · Sat 01:00 UK,Collin Murray-Boyles,TOR,8,50,25,0,0,88,50,38,12,0,0,50,12,0,0,
-TOR @ MIL · Sat 01:00 UK,Immanuel Quickley,TOR,8,100,62,25,12,75,25,0,75,75,62,88,75,62,38,
+TOR @ MIL · Sat 01:00 UK,Immanuel Quickley,TOR,8,100,62,25,12,75,25,0,75,75,62,88,75,62,38,Questionable
 TOR @ MIL · Sat 01:00 UK,Ja'Kobe Walter,TOR,8,62,12,12,0,88,25,0,25,12,0,88,62,50,12,
 TOR @ MIL · Sat 01:00 UK,Jaime Jaquez Jr.,MIL,8,75,75,25,0,88,75,62,38,25,0,88,62,25,12,
 TOR @ MIL · Sat 01:00 UK,Jamal Shead,TOR,8,12,0,0,0,25,0,0,88,88,25,38,12,0,0,
