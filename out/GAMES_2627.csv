@@ -1,4 +1,4 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Thu 05 Nov 23:20 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Fri 06 Nov 00:00 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 ORL @ PHX · Fri 02:00 UK,Anthony Black,ORL,4,75,75,25,0,75,50,25,75,50,25,75,50,50,25,
 ORL @ PHX · Fri 02:00 UK,Collin Gillespie,PHX,6,33,17,0,0,50,0,0,33,33,33,67,50,33,17,
@@ -29,3 +29,31 @@ MIA @ GSW · Fri 03:00 UK,Moses Moody,GSW,0,,,,,,,,,,,,,,,Out (Knee) – est. re
 MIA @ GSW · Fri 03:00 UK,Pelle Larsson,MIA,8,50,38,0,0,75,25,12,75,12,12,75,12,0,0,
 MIA @ GSW · Fri 03:00 UK,Stephen Curry,GSW,6,100,100,100,50,67,33,17,83,50,17,100,100,83,50,
 MIA @ GSW · Fri 03:00 UK,Yaxel Lendeborg,GSW,8,88,75,50,50,88,62,50,62,62,0,100,50,25,25,
+BOS @ CHA · Sat 00:00 UK,Baylor Scheierman,BOS,8,25,0,0,0,75,38,12,12,0,0,62,50,25,0,
+BOS @ CHA · Sat 00:00 UK,Brandon Miller,CHA,9,89,78,44,33,78,56,33,44,11,0,100,78,78,22,
+BOS @ CHA · Sat 00:00 UK,Dennis Schroder,CHA,9,33,22,11,11,67,22,0,89,56,22,44,22,11,0,Questionable (Thigh)
+BOS @ CHA · Sat 00:00 UK,Derrick White,BOS,8,62,38,12,0,50,25,0,88,50,38,100,38,12,0,
+BOS @ CHA · Sat 00:00 UK,Grayson Allen,CHA,9,78,56,44,11,56,11,0,56,11,0,100,89,67,44,
+BOS @ CHA · Sat 00:00 UK,Jayson Tatum,BOS,7,100,86,71,57,100,71,43,100,100,86,86,57,14,0,
+BOS @ CHA · Sat 00:00 UK,Moussa Diabate,CHA,9,44,11,0,0,100,100,78,33,0,0,0,0,0,0,Questionable (Quadriceps)
+BOS @ CHA · Sat 00:00 UK,Naz Reid,CHA,9,89,56,33,11,100,100,56,11,11,11,89,78,33,22,
+BOS @ CHA · Sat 00:00 UK,Neemias Queta,BOS,8,38,25,0,0,100,75,25,12,0,0,25,0,0,0,
+BOS @ CHA · Sat 00:00 UK,Paul George,BOS,7,100,100,43,29,100,86,29,71,57,43,100,86,71,29,
+BOS @ CHA · Sat 00:00 UK,Payton Pritchard,BOS,8,50,38,25,25,50,12,12,88,25,0,50,38,25,12,Questionable (Eye)
+BOS @ CHA · Sat 00:00 UK,Sam Hauser,BOS,8,50,0,0,0,50,0,0,0,0,0,88,75,50,0,
+BOS @ CHA · Sat 00:00 UK,Sion James,CHA,9,22,0,0,0,44,22,0,67,22,0,67,11,11,0,
+WAS @ ATL · Sat 00:00 UK,AJ Dybantsa,WAS,4,75,75,25,0,75,75,25,25,0,0,75,0,0,0,
+WAS @ ATL · Sat 00:00 UK,Aaron Wiggins,ATL,9,89,56,11,0,78,22,11,33,0,0,100,89,56,22,
+WAS @ ATL · Sat 00:00 UK,Alex Sarr,WAS,7,57,14,0,0,86,57,43,29,14,0,43,14,0,0,
+WAS @ ATL · Sat 00:00 UK,Anthony Davis,WAS,8,88,88,62,62,100,100,75,50,0,0,50,25,12,0,Questionable (Ankle)
+WAS @ ATL · Sat 00:00 UK,Bilal Coulibaly,WAS,8,38,12,0,0,50,38,0,0,0,0,38,0,0,0,
+WAS @ ATL · Sat 00:00 UK,CJ McCollum,ATL,9,89,44,11,0,33,22,11,56,33,22,89,67,22,22,
+WAS @ ATL · Sat 00:00 UK,Dyson Daniels,ATL,9,33,22,11,0,89,56,44,100,33,22,11,0,0,0,
+WAS @ ATL · Sat 00:00 UK,Jalen Johnson,ATL,7,100,71,43,14,100,100,100,100,71,57,71,43,0,0,Questionable (Ankle)
+WAS @ ATL · Sat 00:00 UK,Jamir Watkins,WAS,0,,,,,,,,,,,,,,,Out (Knee) – est. return 2 Apr
+WAS @ ATL · Sat 00:00 UK,Kingston Flemings,ATL,8,38,12,12,0,50,25,0,88,50,12,50,25,12,0,
+WAS @ ATL · Sat 00:00 UK,Kyshawn George,WAS,8,88,62,50,12,88,25,12,88,50,25,75,50,38,25,
+WAS @ ATL · Sat 00:00 UK,Luguentz Dort,ATL,9,33,0,0,0,67,11,0,33,0,0,89,44,11,11,
+WAS @ ATL · Sat 00:00 UK,Nickeil Alexander-Walker,ATL,9,100,67,56,44,78,11,0,56,11,0,89,89,67,67,
+WAS @ ATL · Sat 00:00 UK,Onyeka Okongwu,ATL,9,67,11,11,11,100,78,56,44,11,11,67,44,11,11,
+WAS @ ATL · Sat 00:00 UK,Trae Young,WAS,8,100,88,62,12,62,38,0,100,100,88,88,50,25,25,
