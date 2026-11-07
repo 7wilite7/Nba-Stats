@@ -1,23 +1,5 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Sat 07 Nov 21:12 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Sat 07 Nov 22:11 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
-DEN @ IND · Sat 22:00 UK,Aaron Gordon,DEN,7,57,57,14,0,86,57,14,43,14,0,86,43,14,0,
-DEN @ IND · Sat 22:00 UK,Aaron Nesmith,IND,7,71,29,0,0,43,0,0,14,0,0,86,57,29,0,
-DEN @ IND · Sat 22:00 UK,Andrew Nembhard,IND,7,100,86,43,0,29,0,0,100,57,43,86,57,43,43,
-DEN @ IND · Sat 22:00 UK,Cameron Johnson,DEN,4,50,0,0,0,50,25,25,25,0,0,100,50,25,25,
-DEN @ IND · Sat 22:00 UK,Christian Braun,DEN,7,71,43,14,14,86,29,14,43,0,0,86,29,29,14,
-DEN @ IND · Sat 22:00 UK,DeMar DeRozan,DEN,6,50,17,17,0,33,0,0,50,33,0,17,17,0,0,Probable (Low Back Spasms)
-DEN @ IND · Sat 22:00 UK,Ivica Zubac,IND,4,25,25,0,0,75,50,50,0,0,0,0,0,0,0,
-DEN @ IND · Sat 22:00 UK,Jamal Murray,DEN,7,86,71,57,43,86,71,29,100,86,29,86,86,71,57,
-DEN @ IND · Sat 22:00 UK,Jarace Walker,IND,9,33,11,0,0,89,89,56,33,0,0,67,33,11,0,
-DEN @ IND · Sat 22:00 UK,Julian Strawther,DEN,0,,,,,,,,,,,,,,,Out (Knee) – est. return 29 Nov
-DEN @ IND · Sat 22:00 UK,Kelly Oubre Jr.,IND,7,57,14,0,0,43,0,0,14,0,0,86,14,0,0,
-DEN @ IND · Sat 22:00 UK,Nikola Jokic,DEN,7,100,86,57,43,100,100,100,100,100,86,57,29,14,0,
-DEN @ IND · Sat 22:00 UK,Obi Toppin,IND,6,100,33,17,0,100,83,0,0,0,0,83,50,33,33,
-DEN @ IND · Sat 22:00 UK,Pascal Siakam,IND,8,100,88,75,25,100,88,50,75,38,0,62,38,25,0,
-DEN @ IND · Sat 22:00 UK,Quenton Jackson,IND,9,44,22,22,0,56,22,22,44,11,0,56,33,22,0,
-DEN @ IND · Sat 22:00 UK,T.J. McConnell,IND,0,,,,,,,,,,,,,,,
-DEN @ IND · Sat 22:00 UK,Trevon Brazile,DEN,7,29,14,0,0,86,71,57,0,0,0,57,14,14,0,
-DEN @ IND · Sat 22:00 UK,Tyrese Haliburton,IND,4,100,100,75,0,75,50,0,100,100,100,75,75,50,50,Out (Hamstring) – est. return 13 Nov
 BKN @ ATL · Sun 00:30 UK,Aaron Wiggins,ATL,10,90,60,10,0,80,20,10,40,0,0,100,90,60,20,
 BKN @ ATL · Sun 00:30 UK,CJ McCollum,ATL,10,80,40,10,0,40,20,10,60,30,20,80,60,20,20,
 BKN @ ATL · Sun 00:30 UK,Chaney Johnson,BKN,8,25,12,0,0,50,25,0,12,0,0,38,25,12,0,
@@ -115,14 +97,14 @@ SAS @ POR · Sun 03:00 UK,Victor Wembanyama,SAS,9,100,78,78,67,100,100,100,44,22
 PHI @ CHI · Sun 20:30 UK,Anfernee Simons,PHI,10,40,30,20,0,30,0,0,10,0,0,80,40,40,30,
 PHI @ CHI · Sun 20:30 UK,Caleb Wilson,CHI,8,88,88,62,12,100,88,25,62,0,0,100,50,38,25,
 PHI @ CHI · Sun 20:30 UK,Dean Wade,PHI,8,0,0,0,0,50,50,0,12,12,12,38,25,0,0,
-PHI @ CHI · Sun 20:30 UK,Jalen Smith,CHI,8,62,25,0,0,88,75,62,25,12,0,75,50,12,0,Day-To-Day / GTD (Hand) – est. return 8 Nov
+PHI @ CHI · Sun 20:30 UK,Jalen Smith,CHI,8,62,25,0,0,88,75,62,25,12,0,75,50,12,0,Probable (Finger)
 PHI @ CHI · Sun 20:30 UK,Jaylen Brown,PHI,9,100,100,67,33,100,67,56,78,44,0,89,67,33,11,
 PHI @ CHI · Sun 20:30 UK,Joel Embiid,PHI,8,88,62,50,25,100,100,100,50,38,25,25,12,0,0,
 PHI @ CHI · Sun 20:30 UK,Josh Giddey,CHI,8,62,0,0,0,75,38,38,100,88,50,75,25,0,0,
 PHI @ CHI · Sun 20:30 UK,Kentavious Caldwell-Pope,PHI,10,20,0,0,0,40,0,0,20,0,0,90,20,10,10,
 PHI @ CHI · Sun 20:30 UK,LeBron James,PHI,8,88,50,12,0,88,88,75,100,88,62,50,25,0,0,
 PHI @ CHI · Sun 20:30 UK,Matas Buzelis,CHI,8,75,38,12,0,88,75,0,38,0,0,62,50,12,0,
-PHI @ CHI · Sun 20:30 UK,Nic Claxton,CHI,0,,,,,,,,,,,,,,,Out / GTD (Hamstring) – est. return 8 Nov
+PHI @ CHI · Sun 20:30 UK,Nic Claxton,CHI,0,,,,,,,,,,,,,,,Questionable (Hamstring)
 PHI @ CHI · Sun 20:30 UK,Norman Powell,CHI,8,100,88,38,25,38,12,0,25,0,0,88,62,38,25,
 PHI @ CHI · Sun 20:30 UK,Tyrese Maxey,PHI,10,100,100,80,80,90,20,0,100,40,20,100,80,50,20,
 PHI @ CHI · Sun 20:30 UK,VJ Edgecombe,PHI,9,78,33,11,0,100,67,56,44,22,0,89,44,22,11,
