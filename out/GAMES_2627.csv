@@ -1,4 +1,4 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Sat 07 Nov 22:11 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Sat 07 Nov 23:10 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 BKN @ ATL · Sun 00:30 UK,Aaron Wiggins,ATL,10,90,60,10,0,80,20,10,40,0,0,100,90,60,20,
 BKN @ ATL · Sun 00:30 UK,CJ McCollum,ATL,10,80,40,10,0,40,20,10,60,30,20,80,60,20,20,
@@ -6,7 +6,7 @@ BKN @ ATL · Sun 00:30 UK,Chaney Johnson,BKN,8,25,12,0,0,50,25,0,12,0,0,38,25,12
 BKN @ ATL · Sun 00:30 UK,Day'Ron Sharpe,BKN,8,25,12,0,0,100,88,50,50,12,12,38,0,0,0,Day-To-Day / GTD (Undisclosed) – est. return 4 Nov
 BKN @ ATL · Sun 00:30 UK,Dyson Daniels,ATL,10,40,20,10,0,90,60,50,100,40,30,10,0,0,0,
 BKN @ ATL · Sun 00:30 UK,Egor Demin,BKN,4,25,25,25,0,50,0,0,25,25,0,50,25,25,25,Out (Leg) – est. return 11 Nov
-BKN @ ATL · Sun 00:30 UK,Jalen Johnson,ATL,7,100,71,43,14,100,100,100,100,71,57,71,43,0,0,Probable (Ankle)
+BKN @ ATL · Sun 00:30 UK,Jalen Johnson,ATL,7,100,71,43,14,100,100,100,100,71,57,71,43,0,0,
 BKN @ ATL · Sun 00:30 UK,Julius Randle,BKN,8,100,88,75,12,100,88,62,88,50,25,62,62,38,12,
 BKN @ ATL · Sun 00:30 UK,Keon Ellis,BKN,8,0,0,0,0,12,0,0,38,0,0,62,25,0,0,
 BKN @ ATL · Sun 00:30 UK,Kingston Flemings,ATL,9,44,11,11,0,44,22,0,89,56,11,56,22,11,0,
@@ -99,7 +99,7 @@ PHI @ CHI · Sun 20:30 UK,Caleb Wilson,CHI,8,88,88,62,12,100,88,25,62,0,0,100,50
 PHI @ CHI · Sun 20:30 UK,Dean Wade,PHI,8,0,0,0,0,50,50,0,12,12,12,38,25,0,0,
 PHI @ CHI · Sun 20:30 UK,Jalen Smith,CHI,8,62,25,0,0,88,75,62,25,12,0,75,50,12,0,Probable (Finger)
 PHI @ CHI · Sun 20:30 UK,Jaylen Brown,PHI,9,100,100,67,33,100,67,56,78,44,0,89,67,33,11,
-PHI @ CHI · Sun 20:30 UK,Joel Embiid,PHI,8,88,62,50,25,100,100,100,50,38,25,25,12,0,0,
+PHI @ CHI · Sun 20:30 UK,Joel Embiid,PHI,8,88,62,50,25,100,100,100,50,38,25,25,12,0,0,Probable (Foot)
 PHI @ CHI · Sun 20:30 UK,Josh Giddey,CHI,8,62,0,0,0,75,38,38,100,88,50,75,25,0,0,
 PHI @ CHI · Sun 20:30 UK,Kentavious Caldwell-Pope,PHI,10,20,0,0,0,40,0,0,20,0,0,90,20,10,10,
 PHI @ CHI · Sun 20:30 UK,LeBron James,PHI,8,88,50,12,0,88,88,75,100,88,62,50,25,0,0,
@@ -108,3 +108,18 @@ PHI @ CHI · Sun 20:30 UK,Nic Claxton,CHI,0,,,,,,,,,,,,,,,Questionable (Hamstrin
 PHI @ CHI · Sun 20:30 UK,Norman Powell,CHI,8,100,88,38,25,38,12,0,25,0,0,88,62,38,25,
 PHI @ CHI · Sun 20:30 UK,Tyrese Maxey,PHI,10,100,100,80,80,90,20,0,100,40,20,100,80,50,20,
 PHI @ CHI · Sun 20:30 UK,VJ Edgecombe,PHI,9,78,33,11,0,100,67,56,44,22,0,89,44,22,11,
+LAL @ DET · Sun 23:00 UK,Ausar Thompson,DET,7,71,0,0,0,100,86,57,86,57,14,0,0,0,0,
+LAL @ DET · Sun 23:00 UK,Austin Reaves,LAL,10,100,100,80,50,70,10,0,80,50,20,100,50,40,30,
+LAL @ DET · Sun 23:00 UK,Cade Cunningham,DET,8,100,100,75,50,88,75,38,100,88,88,100,62,38,25,
+LAL @ DET · Sun 23:00 UK,Daniss Jenkins,DET,8,50,25,0,0,50,25,12,88,50,12,88,38,12,0,
+LAL @ DET · Sun 23:00 UK,Duncan Robinson,DET,8,100,75,50,12,25,0,0,25,0,0,100,100,75,62,
+LAL @ DET · Sun 23:00 UK,Jake LaRavia,LAL,9,22,0,0,0,44,22,22,22,0,0,78,56,0,0,
+LAL @ DET · Sun 23:00 UK,John Collins,DET,8,38,38,12,0,75,62,50,0,0,0,25,25,12,12,
+LAL @ DET · Sun 23:00 UK,Kevin Huerter,DET,8,0,0,0,0,38,12,0,38,0,0,100,38,12,0,
+LAL @ DET · Sun 23:00 UK,Luka Doncic,LAL,9,100,100,100,89,100,100,67,100,100,67,100,100,89,89,Questionable (Back)
+LAL @ DET · Sun 23:00 UK,Matisse Thybulle,LAL,10,40,10,0,0,20,0,0,10,0,0,90,50,30,10,
+LAL @ DET · Sun 23:00 UK,Paul Reed,DET,8,62,38,12,0,100,75,50,50,0,0,38,25,0,0,
+LAL @ DET · Sun 23:00 UK,Quentin Grimes,LAL,10,30,10,10,0,50,10,10,50,10,0,40,10,10,0,
+LAL @ DET · Sun 23:00 UK,Sandro Mamukelashvili,LAL,10,40,10,0,0,90,40,20,20,0,0,60,30,10,0,
+LAL @ DET · Sun 23:00 UK,Walker Kessler,LAL,10,90,60,20,10,100,100,100,10,0,0,0,0,0,0,
+LAL @ DET · Sun 23:00 UK,Ziaire Williams,LAL,7,57,0,0,0,57,14,0,29,0,0,100,57,29,0,
