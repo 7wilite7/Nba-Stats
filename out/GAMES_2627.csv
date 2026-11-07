@@ -1,49 +1,5 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Fri 06 Nov 23:38 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Sat 07 Nov 00:56 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
-BOS @ CHA · Sat 00:00 UK,Baylor Scheierman,BOS,8,25,0,0,0,75,38,12,12,0,0,62,50,25,0,
-BOS @ CHA · Sat 00:00 UK,Brandon Miller,CHA,9,89,78,44,33,78,56,33,44,11,0,100,78,78,22,
-BOS @ CHA · Sat 00:00 UK,Dennis Schroder,CHA,9,33,22,11,11,67,22,0,89,56,22,44,22,11,0,Out (Thigh) – est. return 9 Nov
-BOS @ CHA · Sat 00:00 UK,Derrick White,BOS,8,62,38,12,0,50,25,0,88,50,38,100,38,12,0,
-BOS @ CHA · Sat 00:00 UK,Grayson Allen,CHA,9,78,56,44,11,56,11,0,56,11,0,100,89,67,44,
-BOS @ CHA · Sat 00:00 UK,Jayson Tatum,BOS,7,100,86,71,57,100,71,43,100,100,86,86,57,14,0,
-BOS @ CHA · Sat 00:00 UK,Moussa Diabate,CHA,9,44,11,0,0,100,100,78,33,0,0,0,0,0,0,Out (Quadriceps) – est. return 9 Nov
-BOS @ CHA · Sat 00:00 UK,Naz Reid,CHA,9,89,56,33,11,100,100,56,11,11,11,89,78,33,22,
-BOS @ CHA · Sat 00:00 UK,Neemias Queta,BOS,8,38,25,0,0,100,75,25,12,0,0,25,0,0,0,
-BOS @ CHA · Sat 00:00 UK,Paul George,BOS,7,100,100,43,29,100,86,29,71,57,43,100,86,71,29,
-BOS @ CHA · Sat 00:00 UK,Payton Pritchard,BOS,8,50,38,25,25,50,12,12,88,25,0,50,38,25,12,
-BOS @ CHA · Sat 00:00 UK,Sam Hauser,BOS,8,50,0,0,0,50,0,0,0,0,0,88,75,50,0,
-BOS @ CHA · Sat 00:00 UK,Sion James,CHA,9,22,0,0,0,44,22,0,67,22,0,67,11,11,0,
-WAS @ ATL · Sat 00:00 UK,AJ Dybantsa,WAS,4,75,75,25,0,75,75,25,25,0,0,75,0,0,0,
-WAS @ ATL · Sat 00:00 UK,Aaron Wiggins,ATL,9,89,56,11,0,78,22,11,33,0,0,100,89,56,22,
-WAS @ ATL · Sat 00:00 UK,Alex Sarr,WAS,7,57,14,0,0,86,57,43,29,14,0,43,14,0,0,
-WAS @ ATL · Sat 00:00 UK,Anthony Davis,WAS,8,88,88,62,62,100,100,75,50,0,0,50,25,12,0,Out (Ankle) – est. return 7 Nov
-WAS @ ATL · Sat 00:00 UK,Bilal Coulibaly,WAS,8,38,12,0,0,50,38,0,0,0,0,38,0,0,0,
-WAS @ ATL · Sat 00:00 UK,CJ McCollum,ATL,9,89,44,11,0,33,22,11,56,33,22,89,67,22,22,
-WAS @ ATL · Sat 00:00 UK,Dyson Daniels,ATL,9,33,22,11,0,89,56,44,100,33,22,11,0,0,0,
-WAS @ ATL · Sat 00:00 UK,Jalen Johnson,ATL,7,100,71,43,14,100,100,100,100,71,57,71,43,0,0,Out (Ankle) – est. return 7 Nov
-WAS @ ATL · Sat 00:00 UK,Jamir Watkins,WAS,0,,,,,,,,,,,,,,,Out (Knee) – est. return 2 Apr
-WAS @ ATL · Sat 00:00 UK,Kingston Flemings,ATL,8,38,12,12,0,50,25,0,88,50,12,50,25,12,0,
-WAS @ ATL · Sat 00:00 UK,Kyshawn George,WAS,8,88,62,50,12,88,25,12,88,50,25,75,50,38,25,
-WAS @ ATL · Sat 00:00 UK,Luguentz Dort,ATL,9,33,0,0,0,67,11,0,33,0,0,89,44,11,11,
-WAS @ ATL · Sat 00:00 UK,Nickeil Alexander-Walker,ATL,9,100,67,56,44,78,11,0,56,11,0,89,89,67,67,
-WAS @ ATL · Sat 00:00 UK,Onyeka Okongwu,ATL,9,67,11,11,11,100,78,56,44,11,11,67,44,11,11,
-WAS @ ATL · Sat 00:00 UK,Trae Young,WAS,8,100,88,62,12,62,38,0,100,100,88,88,50,25,25,
-PHI @ CLE · Sat 00:30 UK,Anfernee Simons,PHI,9,44,33,22,0,33,0,0,11,0,0,78,44,44,33,
-PHI @ CLE · Sat 00:30 UK,Dean Wade,PHI,7,0,0,0,0,43,43,0,14,14,14,43,29,0,0,
-PHI @ CLE · Sat 00:30 UK,Donovan Mitchell,CLE,8,100,100,62,38,100,62,12,100,50,38,100,88,38,38,
-PHI @ CLE · Sat 00:30 UK,Evan Mobley,CLE,8,100,88,38,12,100,88,75,75,12,12,88,50,38,25,
-PHI @ CLE · Sat 00:30 UK,James Harden,CLE,8,100,62,12,0,88,62,25,100,88,38,100,88,75,0,
-PHI @ CLE · Sat 00:30 UK,Jarrett Allen,CLE,8,75,25,25,12,88,88,75,12,0,0,25,0,0,0,Questionable (Knee)
-PHI @ CLE · Sat 00:30 UK,Jaylen Brown,PHI,8,100,100,62,38,100,62,62,75,38,0,88,62,38,12,
-PHI @ CLE · Sat 00:30 UK,Jaylon Tyson,CLE,5,40,20,0,0,60,40,0,40,20,0,60,20,20,0,Out (Ankle) – est. return 7 Nov
-PHI @ CLE · Sat 00:30 UK,Joel Embiid,PHI,7,100,71,57,29,100,100,100,57,43,29,29,14,0,0,
-PHI @ CLE · Sat 00:30 UK,Kentavious Caldwell-Pope,PHI,9,22,0,0,0,44,0,0,22,0,0,89,22,11,11,
-PHI @ CLE · Sat 00:30 UK,LeBron James,PHI,7,100,57,14,0,86,86,71,100,100,71,57,29,0,0,
-PHI @ CLE · Sat 00:30 UK,Meleek Thomas,CLE,5,80,40,0,0,40,20,0,0,0,0,80,80,80,20,
-PHI @ CLE · Sat 00:30 UK,Peyton Watson,CLE,6,50,33,17,0,67,33,17,50,17,0,50,17,0,0,Questionable (Hamstring)
-PHI @ CLE · Sat 00:30 UK,Sam Merrill,CLE,8,25,12,0,0,62,25,12,38,0,0,100,50,12,12,
-PHI @ CLE · Sat 00:30 UK,Tyrese Maxey,PHI,9,100,100,89,89,89,22,0,100,44,22,100,78,56,22,
-PHI @ CLE · Sat 00:30 UK,VJ Edgecombe,PHI,8,75,25,12,0,100,75,62,50,25,0,88,38,12,12,
 MIN @ NOP · Sat 01:00 UK,Anthony Edwards,MIN,4,100,100,75,75,75,25,25,100,0,0,100,100,50,50,Out (Knee) – est. return 21 Dec
 MIN @ NOP · Sat 01:00 UK,Ayo Dosunmu,MIN,9,78,67,22,11,78,56,44,78,33,22,89,33,22,0,
 MIN @ NOP · Sat 01:00 UK,Dejounte Murray,NOP,5,100,80,60,0,100,80,40,100,80,20,60,20,0,0,
@@ -72,7 +28,7 @@ OKC @ MEM · Sat 01:00 UK,Shai Gilgeous-Alexander,OKC,8,100,100,88,75,88,38,0,88
 OKC @ MEM · Sat 01:00 UK,Ty Jerome,MEM,7,100,86,71,57,57,29,14,100,71,14,100,57,43,29,
 OKC @ MEM · Sat 01:00 UK,Zach Edey,MEM,7,29,0,0,0,100,86,71,14,0,0,14,0,0,0,
 TOR @ MIL · Sat 01:00 UK,Collin Murray-Boyles,TOR,8,50,25,0,0,88,50,38,12,0,0,50,12,0,0,
-TOR @ MIL · Sat 01:00 UK,Immanuel Quickley,TOR,8,100,62,25,12,75,25,0,75,75,62,88,75,62,38,Questionable (Hamstring)
+TOR @ MIL · Sat 01:00 UK,Immanuel Quickley,TOR,8,100,62,25,12,75,25,0,75,75,62,88,75,62,38,Out (Hamstring) – est. return 9 Nov
 TOR @ MIL · Sat 01:00 UK,Ja'Kobe Walter,TOR,8,62,12,12,0,88,25,0,25,12,0,88,62,50,12,
 TOR @ MIL · Sat 01:00 UK,Jaime Jaquez Jr.,MIL,8,75,75,25,0,88,75,62,38,25,0,88,62,25,12,
 TOR @ MIL · Sat 01:00 UK,Jamal Shead,TOR,8,12,0,0,0,25,0,0,88,88,25,38,12,0,0,
@@ -82,7 +38,7 @@ TOR @ MIL · Sat 01:00 UK,Kyle Kuzma,MIL,8,50,12,0,0,88,75,38,88,0,0,62,38,12,12
 TOR @ MIL · Sat 01:00 UK,Myles Turner,MIL,8,62,0,0,0,88,75,38,38,12,0,62,50,25,12,
 TOR @ MIL · Sat 01:00 UK,RJ Barrett,TOR,8,88,88,88,25,88,62,38,88,38,0,75,50,38,12,
 TOR @ MIL · Sat 01:00 UK,Ryan Rollins,MIL,8,62,25,0,0,88,38,25,88,50,12,88,50,12,0,
-TOR @ MIL · Sat 01:00 UK,Scottie Barnes,TOR,8,88,88,75,50,100,88,25,100,75,12,50,0,0,0,Questionable (Groin)
+TOR @ MIL · Sat 01:00 UK,Scottie Barnes,TOR,8,88,88,75,50,100,88,25,100,75,12,50,0,0,0,Out (Groin) – est. return 9 Nov
 TOR @ MIL · Sat 01:00 UK,Tyler Herro,MIL,8,100,88,75,25,88,62,12,75,25,25,100,88,88,75,
 UTA @ DAL · Sat 01:00 UK,Ace Bailey,UTA,8,62,50,0,0,100,100,50,38,0,0,100,25,12,0,
 UTA @ DAL · Sat 01:00 UK,Cooper Flagg,DAL,7,100,86,57,57,100,86,29,86,86,29,57,43,0,0,
@@ -91,9 +47,9 @@ UTA @ DAL · Sat 01:00 UK,Darryn Peterson,UTA,8,62,38,0,0,88,25,12,75,25,12,62,5
 UTA @ DAL · Sat 01:00 UK,Jaren Jackson Jr.,UTA,4,75,75,50,0,75,50,25,25,0,0,75,50,0,0,Out (Knee) – est. return 14 Dec
 UTA @ DAL · Sat 01:00 UK,Jaxson Hayes,UTA,7,14,14,0,0,100,100,43,29,0,0,0,0,0,0,
 UTA @ DAL · Sat 01:00 UK,Keyonte George,UTA,8,75,75,62,38,75,25,25,88,62,38,75,62,38,25,
-UTA @ DAL · Sat 01:00 UK,Kyrie Irving,DAL,6,100,100,50,33,67,33,17,83,50,17,100,83,67,50,Probable (Illness)
+UTA @ DAL · Sat 01:00 UK,Kyrie Irving,DAL,6,100,100,50,33,67,33,17,83,50,17,100,83,67,50,
 UTA @ DAL · Sat 01:00 UK,Lauri Markkanen,UTA,7,86,71,43,14,86,86,57,57,0,0,86,71,57,57,
-UTA @ DAL · Sat 01:00 UK,Max Christie,DAL,7,43,14,0,0,71,43,0,29,0,0,71,43,29,0,Probable
+UTA @ DAL · Sat 01:00 UK,Max Christie,DAL,7,43,14,0,0,71,43,0,29,0,0,71,43,29,0,
 UTA @ DAL · Sat 01:00 UK,Naji Marshall,DAL,5,80,60,20,0,60,20,0,100,80,20,60,40,20,0,
 UTA @ DAL · Sat 01:00 UK,P.J. Washington,DAL,8,88,50,38,0,100,75,62,12,0,0,88,75,25,12,
 UTA @ DAL · Sat 01:00 UK,Zaccharie Risacher,DAL,8,50,0,0,0,88,75,12,12,0,0,62,25,12,0,
@@ -116,7 +72,7 @@ POR @ LAL · Sat 03:00 UK,Walker Kessler,LAL,9,89,56,22,11,100,100,100,11,0,0,0,
 POR @ LAL · Sat 03:00 UK,Ziaire Williams,LAL,6,67,0,0,0,50,17,0,33,0,0,100,50,33,0,
 SAS @ SAC · Sat 03:00 UK,Darius Acuff Jr.,SAC,8,100,88,75,50,88,38,0,100,75,38,88,88,50,12,
 SAS @ SAC · Sat 03:00 UK,De'Aaron Fox,SAS,8,100,38,12,0,88,25,25,100,62,50,62,38,0,0,
-SAS @ SAC · Sat 03:00 UK,De'Andre Hunter,SAC,8,50,38,25,0,88,62,25,0,0,0,75,62,25,25,Questionable (Illness)
+SAS @ SAC · Sat 03:00 UK,De'Andre Hunter,SAC,8,50,38,25,0,88,62,25,0,0,0,75,62,25,25,Out (Illness) – est. return 8 Nov
 SAS @ SAC · Sat 03:00 UK,Devin Vassell,SAS,8,62,12,12,0,88,38,12,38,25,12,62,25,12,12,
 SAS @ SAC · Sat 03:00 UK,Domantas Sabonis,SAC,8,75,50,25,12,100,100,100,88,62,62,12,0,0,0,
 SAS @ SAC · Sat 03:00 UK,Dylan Harper,SAS,8,100,75,50,12,100,88,38,62,62,25,75,38,12,0,
@@ -147,3 +103,20 @@ DEN @ IND · Sat 22:00 UK,Quenton Jackson,IND,9,44,22,22,0,56,22,22,44,11,0,56,3
 DEN @ IND · Sat 22:00 UK,T.J. McConnell,IND,0,,,,,,,,,,,,,,,Questionable (Hamstring)
 DEN @ IND · Sat 22:00 UK,Trevon Brazile,DEN,7,29,14,0,0,86,71,57,0,0,0,57,14,14,0,
 DEN @ IND · Sat 22:00 UK,Tyrese Haliburton,IND,4,100,100,75,0,75,50,0,100,100,100,75,75,50,50,Out (Hamstring) – est. return 13 Nov
+BKN @ ATL · Sun 00:30 UK,Aaron Wiggins,ATL,9,89,56,11,0,78,22,11,33,0,0,100,89,56,22,
+BKN @ ATL · Sun 00:30 UK,CJ McCollum,ATL,9,89,44,11,0,33,22,11,56,33,22,89,67,22,22,
+BKN @ ATL · Sun 00:30 UK,Chaney Johnson,BKN,8,25,12,0,0,50,25,0,12,0,0,38,25,12,0,
+BKN @ ATL · Sun 00:30 UK,Day'Ron Sharpe,BKN,8,25,12,0,0,100,88,50,50,12,12,38,0,0,0,Day-To-Day / GTD (Undisclosed) – est. return 4 Nov
+BKN @ ATL · Sun 00:30 UK,Dyson Daniels,ATL,9,33,22,11,0,89,56,44,100,33,22,11,0,0,0,
+BKN @ ATL · Sun 00:30 UK,Egor Demin,BKN,4,25,25,25,0,50,0,0,25,25,0,50,25,25,25,Out (Leg) – est. return 11 Nov
+BKN @ ATL · Sun 00:30 UK,Jalen Johnson,ATL,7,100,71,43,14,100,100,100,100,71,57,71,43,0,0,Out (Ankle) – est. return 7 Nov
+BKN @ ATL · Sun 00:30 UK,Julius Randle,BKN,8,100,88,75,12,100,88,62,88,50,25,62,62,38,12,
+BKN @ ATL · Sun 00:30 UK,Keon Ellis,BKN,8,0,0,0,0,12,0,0,38,0,0,62,25,0,0,
+BKN @ ATL · Sun 00:30 UK,Kingston Flemings,ATL,8,38,12,12,0,50,25,0,88,50,12,50,25,12,0,
+BKN @ ATL · Sun 00:30 UK,Luguentz Dort,ATL,9,33,0,0,0,67,11,0,33,0,0,89,44,11,11,
+BKN @ ATL · Sun 00:30 UK,Michael Porter Jr.,BKN,8,100,75,62,50,88,88,75,12,0,0,88,88,75,62,
+BKN @ ATL · Sun 00:30 UK,Mikel Brown Jr.,BKN,6,67,33,0,0,33,17,0,100,33,0,83,50,33,17,
+BKN @ ATL · Sun 00:30 UK,Nickeil Alexander-Walker,ATL,9,100,67,56,44,78,11,0,56,11,0,89,89,67,67,
+BKN @ ATL · Sun 00:30 UK,Noah Clowney,BKN,8,0,0,0,0,88,38,12,0,0,0,62,0,0,0,
+BKN @ ATL · Sun 00:30 UK,Nolan Traore,BKN,8,62,62,0,0,25,0,0,50,25,0,62,50,25,25,
+BKN @ ATL · Sun 00:30 UK,Onyeka Okongwu,ATL,9,67,11,11,11,100,78,56,44,11,11,67,44,11,11,
