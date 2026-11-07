@@ -1,4 +1,4 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Sat 07 Nov 01:56 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Sat 07 Nov 02:48 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 POR @ LAL · Sat 03:00 UK,Austin Reaves,LAL,9,100,100,78,44,67,11,0,89,56,22,100,56,44,33,
 POR @ LAL · Sat 03:00 UK,Damian Lillard,POR,7,86,86,71,29,86,57,0,71,43,0,100,71,43,29,
@@ -80,7 +80,7 @@ NYK @ CLE · Sun 01:00 UK,Meleek Thomas,CLE,5,80,40,0,0,40,20,0,0,0,0,80,80,80,2
 NYK @ CLE · Sun 01:00 UK,Mikal Bridges,NYK,8,25,0,0,0,62,25,0,38,0,0,50,25,12,12,
 NYK @ CLE · Sun 01:00 UK,OG Anunoby,NYK,8,88,62,38,0,100,62,25,25,12,12,100,50,25,0,
 NYK @ CLE · Sun 01:00 UK,Peyton Watson,CLE,6,50,33,17,0,67,33,17,50,17,0,50,17,0,0,
-NYK @ CLE · Sun 01:00 UK,Sam Merrill,CLE,8,25,12,0,0,62,25,12,38,0,0,100,50,12,12,
+NYK @ CLE · Sun 01:00 UK,Sam Merrill,CLE,8,25,12,0,0,62,25,12,38,0,0,100,50,12,12,Out (Elbow) – est. return 7 Nov
 WAS @ OKC · Sun 01:00 UK,AJ Dybantsa,WAS,4,75,75,25,0,75,75,25,25,0,0,75,0,0,0,
 WAS @ OKC · Sun 01:00 UK,Ajay Mitchell,OKC,8,75,62,50,25,75,50,12,75,38,0,50,12,0,0,
 WAS @ OKC · Sun 01:00 UK,Alex Sarr,WAS,7,57,14,0,0,86,57,43,29,14,0,43,14,0,0,
@@ -110,3 +110,18 @@ ORL @ GSW · Sun 01:30 UK,Stephen Curry,GSW,7,100,100,100,57,57,29,14,86,43,14,1
 ORL @ GSW · Sun 01:30 UK,Tristan Da Silva,ORL,8,75,50,25,0,50,12,12,25,0,0,100,88,62,62,
 ORL @ GSW · Sun 01:30 UK,Wendell Carter Jr.,ORL,8,50,50,50,12,100,100,100,12,0,0,62,25,12,0,
 ORL @ GSW · Sun 01:30 UK,Yaxel Lendeborg,GSW,9,89,78,44,44,89,67,56,67,67,0,100,44,22,22,
+HOU @ PHX · Sun 02:00 UK,Alperen Sengun,HOU,7,100,100,57,43,100,100,100,100,100,86,71,29,0,0,
+HOU @ PHX · Sun 02:00 UK,Amen Thompson,HOU,9,89,67,22,0,100,56,44,67,22,0,22,0,0,0,
+HOU @ PHX · Sun 02:00 UK,Collin Gillespie,PHX,7,29,14,0,0,43,0,0,29,29,29,71,57,29,14,
+HOU @ PHX · Sun 02:00 UK,Devin Booker,PHX,7,86,86,86,57,43,14,14,71,71,43,71,71,29,14,
+HOU @ PHX · Sun 02:00 UK,Dillon Brooks,PHX,7,100,86,29,0,57,43,14,43,29,0,86,57,43,29,
+HOU @ PHX · Sun 02:00 UK,Fred VanVleet,HOU,7,57,43,14,0,71,29,0,100,86,29,86,86,57,29,
+HOU @ PHX · Sun 02:00 UK,Jabari Smith Jr.,HOU,9,89,44,33,22,89,67,33,33,22,0,100,89,56,33,
+HOU @ PHX · Sun 02:00 UK,Jalen Green,PHX,7,71,29,29,0,29,14,14,57,14,14,57,29,0,0,
+HOU @ PHX · Sun 02:00 UK,Kevin Durant,HOU,9,100,78,67,22,100,67,22,67,11,0,78,56,11,0,
+HOU @ PHX · Sun 02:00 UK,Marcus Smart,HOU,6,33,17,17,0,50,17,0,50,0,0,67,50,17,17,
+HOU @ PHX · Sun 02:00 UK,Mark Williams,PHX,0,,,,,,,,,,,,,,,Out (Shoulder) – est. return 3 Feb
+HOU @ PHX · Sun 02:00 UK,Miles Bridges,PHX,7,86,86,29,0,100,86,71,71,29,0,86,86,43,14,
+HOU @ PHX · Sun 02:00 UK,Oso Ighodaro,PHX,5,20,0,0,0,80,60,40,60,40,20,0,0,0,0,
+HOU @ PHX · Sun 02:00 UK,Reed Sheppard,HOU,6,50,17,0,0,33,17,0,67,17,17,100,67,33,17,
+HOU @ PHX · Sun 02:00 UK,Tari Eason,HOU,9,56,11,0,0,89,56,33,11,0,0,56,22,11,0,
