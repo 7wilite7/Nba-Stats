@@ -1,4 +1,4 @@
-"Updated Sat 07 Nov 16:39 UK · box scores to 2026-11-06 · fact-check vs ESPN: 99.66% of 11,924 stats match (132 games) · pick tracker: 86% hit from 1196 graded picks"
+"Updated Sat 07 Nov 18:10 UK · box scores to 2026-11-06 · fact-check vs ESPN: 99.66% of 11,924 stats match (132 games) · pick tracker: 86% hit from 1196 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -75,6 +75,9 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-08,NYK @ CLE,James Harden Rebounds 3+,81,88,8,Pending,Live
 2026-11-08,NYK @ CLE,James Harden Points 10+,87,100,8,Pending,Live
 2026-11-08,NYK @ CLE,James Harden Assists 3+,84,100,8,Pending,Live
+2026-11-08,BKN @ ATL,Jalen Johnson Rebounds 5+,82,100,7,Pending,Live
+2026-11-08,BKN @ ATL,Jalen Johnson Points 10+,86,100,7,Pending,Live
+2026-11-08,BKN @ ATL,Jalen Johnson Assists 3+,82,100,7,Pending,Live
 2026-11-08,NYK @ CLE,Jalen Brunson Threes 1+,80,88,8,Pending,Live
 2026-11-08,NYK @ CLE,Jalen Brunson Points 15+,81,100,8,Pending,Live
 2026-11-08,NYK @ CLE,Jalen Brunson Assists 3+,84,100,8,Pending,Live
@@ -412,6 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-05,ATL @ WAS,Luguentz Dort Threes 1+,80,88,8,Hit,Live
 2026-11-05,PHI @ DET,LeBron James Points 10+,84,100,6,Hit,Live
 2026-11-05,PHI @ DET,LeBron James Assists 3+,80,100,6,Hit,Live
-2026-11-05,MIN @ HOU,LaMelo Ball Threes 1+,80,88,8,Hit,Live
-2026-11-05,MIN @ HOU,LaMelo Ball Assists 3+,84,100,8,Hit,Live
-2026-11-05,ATL @ WAS,Kyshawn George Rebounds 3+,80,86,7,Hit,Live
