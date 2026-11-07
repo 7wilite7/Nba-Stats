@@ -1,4 +1,4 @@
-"Updated Sat 07 Nov 14:40 UK · box scores to 2026-11-06 · fact-check vs ESPN: 99.66% of 11,924 stats match (132 games) · pick tracker: 86% hit from 1196 graded picks"
+"Updated Sat 07 Nov 15:37 UK · box scores to 2026-11-06 · fact-check vs ESPN: 99.66% of 11,924 stats match (132 games) · pick tracker: 86% hit from 1196 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -70,6 +70,7 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-08,SAS @ POR,Julian Champagnie Rebounds 3+,81,88,8,Pending,Live
 2026-11-08,SAS @ POR,Jrue Holiday Threes 1+,80,88,8,Pending,Live
 2026-11-08,SAS @ POR,Jrue Holiday Rebounds 3+,80,86,7,Pending,Live
+2026-11-08,NYK @ CLE,Jarrett Allen Rebounds 3+,81,88,8,Pending,Live
 2026-11-08,NYK @ CLE,James Harden Threes 1+,89,100,8,Pending,Live
 2026-11-08,NYK @ CLE,James Harden Rebounds 3+,81,88,8,Pending,Live
 2026-11-08,NYK @ CLE,James Harden Points 10+,87,100,8,Pending,Live
@@ -114,6 +115,7 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-08,BKN @ ATL,CJ McCollum Threes 1+,82,89,9,Pending,Live
 2026-11-08,BKN @ ATL,CJ McCollum Points 10+,80,89,9,Pending,Live
 2026-11-08,ORL @ GSW,Brandin Podziemski Rebounds 3+,80,86,7,Pending,Live
+2026-11-08,WAS @ OKC,Anthony Davis Rebounds 5+,83,100,8,Pending,Live
 2026-11-08,HOU @ PHX,Amen Thompson Rebounds 3+,91,100,9,Pending,Live
 2026-11-08,HOU @ PHX,Amen Thompson Points 10+,80,89,9,Pending,Live
 2026-11-08,HOU @ PHX,Alperen Sengun Rebounds 5+,82,100,7,Pending,Live
@@ -413,5 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-05,MIN @ HOU,LaMelo Ball Threes 1+,80,88,8,Hit,Live
 2026-11-05,MIN @ HOU,LaMelo Ball Assists 3+,84,100,8,Hit,Live
 2026-11-05,ATL @ WAS,Kyshawn George Rebounds 3+,80,86,7,Hit,Live
-2026-11-05,DAL @ SAS,Kyrie Irving Threes 1+,85,100,5,Hit,Live
-2026-11-05,DAL @ SAS,Kyrie Irving Points 10+,82,100,5,Hit,Live
