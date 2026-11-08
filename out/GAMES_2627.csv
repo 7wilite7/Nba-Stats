@@ -1,36 +1,5 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Sun 08 Nov 01:06 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Sun 08 Nov 02:06 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
-ORL @ GSW · Sun 01:30 UK,Anthony Black,ORL,5,80,60,20,0,80,60,40,80,60,20,80,40,40,20,
-ORL @ GSW · Sun 01:30 UK,Brandin Podziemski,GSW,7,71,71,29,0,86,71,29,86,57,14,86,86,43,14,
-ORL @ GSW · Sun 01:30 UK,De'Anthony Melton,GSW,9,44,33,22,11,78,67,11,44,11,0,67,56,33,33,
-ORL @ GSW · Sun 01:30 UK,Desmond Bane,ORL,8,88,75,38,12,62,50,0,38,12,0,100,88,75,50,Out (Illness) – est. return 10 Nov
-ORL @ GSW · Sun 01:30 UK,Draymond Green,GSW,7,0,0,0,0,100,43,14,86,86,57,29,0,0,0,
-ORL @ GSW · Sun 01:30 UK,Franz Wagner,ORL,8,100,88,50,12,100,75,25,100,100,50,62,25,0,0,
-ORL @ GSW · Sun 01:30 UK,Georges Niang,GSW,9,33,0,0,0,67,11,0,22,0,0,67,33,22,0,
-ORL @ GSW · Sun 01:30 UK,Gui Santos,GSW,6,33,0,0,0,100,33,0,17,0,0,67,0,0,0,
-ORL @ GSW · Sun 01:30 UK,Jalen Suggs,ORL,3,33,0,0,0,100,67,0,100,100,0,33,0,0,0,Out (Knee) – est. return 10 Nov
-ORL @ GSW · Sun 01:30 UK,Jase Richardson,ORL,8,25,0,0,0,12,12,0,62,12,0,50,38,0,0,
-ORL @ GSW · Sun 01:30 UK,Moses Moody,GSW,0,,,,,,,,,,,,,,,Out (Knee) – est. return 1 Dec
-ORL @ GSW · Sun 01:30 UK,Paolo Banchero,ORL,2,100,50,50,50,100,100,50,100,100,50,50,50,50,0,Out (Ankle) – est. return 22 Nov
-ORL @ GSW · Sun 01:30 UK,Stephen Curry,GSW,7,100,100,100,57,57,29,14,86,43,14,100,100,86,57,
-ORL @ GSW · Sun 01:30 UK,Tristan Da Silva,ORL,8,75,50,25,0,50,12,12,25,0,0,100,88,62,62,
-ORL @ GSW · Sun 01:30 UK,Wendell Carter Jr.,ORL,8,50,50,50,12,100,100,100,12,0,0,62,25,12,0,
-ORL @ GSW · Sun 01:30 UK,Yaxel Lendeborg,GSW,9,89,78,44,44,89,67,56,67,67,0,100,44,22,22,
-HOU @ PHX · Sun 02:00 UK,Alperen Sengun,HOU,7,100,100,57,43,100,100,100,100,100,86,71,29,0,0,
-HOU @ PHX · Sun 02:00 UK,Amen Thompson,HOU,9,89,67,22,0,100,56,44,67,22,0,22,0,0,0,
-HOU @ PHX · Sun 02:00 UK,Collin Gillespie,PHX,7,29,14,0,0,43,0,0,29,29,29,71,57,29,14,
-HOU @ PHX · Sun 02:00 UK,Devin Booker,PHX,7,86,86,86,57,43,14,14,71,71,43,71,71,29,14,
-HOU @ PHX · Sun 02:00 UK,Dillon Brooks,PHX,7,100,86,29,0,57,43,14,43,29,0,86,57,43,29,
-HOU @ PHX · Sun 02:00 UK,Fred VanVleet,HOU,7,57,43,14,0,71,29,0,100,86,29,86,86,57,29,
-HOU @ PHX · Sun 02:00 UK,Jabari Smith Jr.,HOU,9,89,44,33,22,89,67,33,33,22,0,100,89,56,33,
-HOU @ PHX · Sun 02:00 UK,Jalen Green,PHX,7,71,29,29,0,29,14,14,57,14,14,57,29,0,0,
-HOU @ PHX · Sun 02:00 UK,Kevin Durant,HOU,9,100,78,67,22,100,67,22,67,11,0,78,56,11,0,
-HOU @ PHX · Sun 02:00 UK,Marcus Smart,HOU,6,33,17,17,0,50,17,0,50,0,0,67,50,17,17,
-HOU @ PHX · Sun 02:00 UK,Mark Williams,PHX,0,,,,,,,,,,,,,,,Out (Shoulder) – est. return 3 Feb
-HOU @ PHX · Sun 02:00 UK,Miles Bridges,PHX,7,86,86,29,0,100,86,71,71,29,0,86,86,43,14,
-HOU @ PHX · Sun 02:00 UK,Oso Ighodaro,PHX,5,20,0,0,0,80,60,40,60,40,20,0,0,0,0,
-HOU @ PHX · Sun 02:00 UK,Reed Sheppard,HOU,6,50,17,0,0,33,17,0,67,17,17,100,67,33,17,
-HOU @ PHX · Sun 02:00 UK,Tari Eason,HOU,9,56,11,0,0,89,56,33,11,0,0,56,22,11,0,
 SAS @ POR · Sun 03:00 UK,Damian Lillard,POR,8,88,88,75,25,75,50,0,75,38,0,100,75,50,38,
 SAS @ POR · Sun 03:00 UK,De'Aaron Fox,SAS,9,89,33,11,0,78,22,22,100,56,44,56,33,0,0,
 SAS @ POR · Sun 03:00 UK,Deni Avdija,POR,8,100,100,88,25,100,75,50,88,75,50,88,50,12,12,
@@ -121,3 +90,35 @@ BOS @ MIL · Mon 01:00 UK,Payton Pritchard,BOS,9,56,33,22,22,56,22,11,89,33,0,56
 BOS @ MIL · Mon 01:00 UK,Ryan Rollins,MIL,9,67,22,0,0,78,33,22,78,44,11,89,44,11,0,
 BOS @ MIL · Mon 01:00 UK,Sam Hauser,BOS,9,44,0,0,0,56,0,0,11,0,0,89,78,56,0,
 BOS @ MIL · Mon 01:00 UK,Tyler Herro,MIL,9,100,89,78,22,89,67,11,78,33,33,100,78,78,67,
+MIA @ SAC · Mon 02:00 UK,Andrew Wiggins,MIA,9,44,11,0,0,44,22,11,11,0,0,67,33,11,11,
+MIA @ SAC · Mon 02:00 UK,Bam Adebayo,MIA,9,78,78,44,22,100,100,89,89,0,0,44,11,0,0,
+MIA @ SAC · Mon 02:00 UK,Bobby Portis,MIA,9,44,0,0,0,100,67,56,22,11,0,67,44,22,0,
+MIA @ SAC · Mon 02:00 UK,Darius Acuff Jr.,SAC,9,100,89,78,44,89,33,0,100,78,44,89,89,56,11,
+MIA @ SAC · Mon 02:00 UK,Davion Mitchell,MIA,9,100,67,33,0,11,11,0,89,89,78,78,67,56,22,
+MIA @ SAC · Mon 02:00 UK,De'Andre Hunter,SAC,8,50,38,25,0,88,62,25,0,0,0,75,62,25,25,
+MIA @ SAC · Mon 02:00 UK,Domantas Sabonis,SAC,9,78,56,22,11,100,100,100,89,67,56,22,0,0,0,
+MIA @ SAC · Mon 02:00 UK,Giannis Antetokounmpo,MIA,9,100,89,89,67,100,100,78,89,56,33,44,11,0,0,
+MIA @ SAC · Mon 02:00 UK,Keegan Murray,SAC,2,50,0,0,0,50,0,0,0,0,0,0,0,0,0,Questionable (Ankle)
+MIA @ SAC · Mon 02:00 UK,Klay Thompson,MIA,9,67,33,22,22,22,11,0,33,0,0,100,89,56,44,
+MIA @ SAC · Mon 02:00 UK,Maxime Raynaud,SAC,0,,,,,,,,,,,,,,,Out (Knee) – est. return 10 Nov
+MIA @ SAC · Mon 02:00 UK,Pelle Larsson,MIA,9,56,33,0,0,67,22,11,78,11,11,78,22,11,0,
+MIA @ SAC · Mon 02:00 UK,Precious Achiuwa,SAC,9,44,22,11,0,89,67,33,11,0,0,33,0,0,0,
+MIA @ SAC · Mon 02:00 UK,Zach LaVine,SAC,9,100,78,78,22,78,11,0,56,22,0,89,78,78,11,
+NOP @ LAC · Mon 02:00 UK,Brandon Ingram,LAC,0,,,,,,,,,,,,,,,Out (Achilles) – est. return 10 Nov
+NOP @ LAC · Mon 02:00 UK,Brook Lopez,LAC,8,75,50,25,0,75,50,25,12,0,0,88,38,12,0,
+NOP @ LAC · Mon 02:00 UK,Darius Garland,LAC,8,100,88,50,38,25,0,0,100,88,50,100,62,50,38,
+NOP @ LAC · Mon 02:00 UK,Dejounte Murray,NOP,6,83,67,50,0,83,67,33,100,67,17,67,17,0,0,
+NOP @ LAC · Mon 02:00 UK,Derik Queen,NOP,9,67,33,22,0,89,78,78,44,22,0,33,0,0,0,
+NOP @ LAC · Mon 02:00 UK,Derrick Jones Jr.,LAC,7,71,29,0,0,86,71,29,14,14,0,100,71,43,0,
+NOP @ LAC · Mon 02:00 UK,Herbert Jones,NOP,9,22,11,0,0,67,11,0,11,0,0,44,11,11,0,
+NOP @ LAC · Mon 02:00 UK,Isaiah Jackson,LAC,8,50,12,0,0,100,88,38,38,0,0,12,0,0,0,Out (Groin) – est. return 10 Nov
+NOP @ LAC · Mon 02:00 UK,Jeremiah Fears,NOP,9,78,44,33,0,89,56,11,56,44,33,67,11,11,0,
+NOP @ LAC · Mon 02:00 UK,Jordan Miller,LAC,0,,,,,,,,,,,,,,,Out (Shoulder) – est. return 2 Mar
+NOP @ LAC · Mon 02:00 UK,Keaton Wagler,LAC,8,75,25,12,0,88,38,0,75,12,0,75,50,38,0,
+NOP @ LAC · Mon 02:00 UK,Kobe Sanders,LAC,8,38,25,12,12,75,0,0,38,12,0,75,38,25,25,
+NOP @ LAC · Mon 02:00 UK,Kris Dunn,LAC,8,38,12,0,0,88,38,0,88,50,25,75,12,0,0,
+NOP @ LAC · Mon 02:00 UK,Max Strus,LAC,2,50,0,0,0,100,50,0,100,100,0,100,100,100,0,
+NOP @ LAC · Mon 02:00 UK,Rui Hachimura,LAC,6,83,50,33,0,100,83,50,17,17,17,100,67,33,17,
+NOP @ LAC · Mon 02:00 UK,Saddiq Bey,NOP,9,89,56,33,11,89,44,0,56,0,0,100,67,22,0,
+NOP @ LAC · Mon 02:00 UK,Trey Murphy III,NOP,8,75,50,12,12,88,62,0,88,38,0,100,62,25,12,
+NOP @ LAC · Mon 02:00 UK,Zion Williamson,NOP,9,100,89,67,22,89,67,22,44,0,0,22,11,0,0,
