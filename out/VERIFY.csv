@@ -1,4 +1,4 @@
-"Fact-check vs ESPN: 99.63% of 12,532 stats match (139 games)"
+"Fact-check vs ESPN: 99.56% of 12,532 stats match (139 games)"
 Game,Player,Stat,Basketball Reference,ESPN
 202610220OKC,Alpha Diallo,ast,3,2
 202610220OKC,Marvin Bagley III,ast,1,2
@@ -46,3 +46,12 @@ Game,Player,Stat,Basketball Reference,ESPN
 202611040MEM,Olivier-Maxence Prosper,reb,2,3
 202611040DEN,Allen Graves,reb,2,1
 202611040PHO,Pat Spencer,ast,1,2
+202611070ATL,Julius Randle,reb,6,7
+202611070ATL,Danny Wolf,reb,10,9
+202611070ATL,CJ McCollum,reb,3,4
+202611070ATL,Luguentz Dort,reb,3,2
+202611070OKC,Brooks Barnhizer,ast,5,3
+202611070OKC,Josh Dix,ast,1,2
+202611070OKC,Bennett Stirtz,ast,2,3
+202611070PHO,Amen Thompson,reb,8,7
+202611070POR,Dylan Harper,ast,4,3
