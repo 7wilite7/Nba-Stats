@@ -278,7 +278,11 @@ def main():
     live_start = state.setdefault("tracker_live_since", NOW.astimezone(UK).date().isoformat())
     jsave(os.path.join(DATA, "state.json"), state)
 
-    upcoming = [g for g in sched if g["state"] == "pre" and NOW <= uk(g["utc"]) <= NOW + dt.timedelta(hours=24)]
+    # Games stay listed from 24h before tip-off until they are finished. A game that has tipped off is kept
+    # (the injury job doesn't refresh the schedule, so its state can still read "pre"); finished games drop at
+    # the next full update, which marks them "post". New tracker picks are only logged before tip-off.
+    upcoming = [g for g in sched if g["state"] != "post"
+                and NOW - dt.timedelta(hours=12) <= uk(g["utc"]) <= NOW + dt.timedelta(hours=24)]
     team_game = {}
     for g in upcoming:
         team_game[g["home"]] = g
@@ -361,7 +365,7 @@ def main():
                                   "team": cur, "status": status_text(e), "true": val["true"], "season": val["season"],
                                   "l5": val["l5"], "start": val["start"], "n": n, "note": "; ".join(notes)})
                     lk = f"{g['id']}|{k}|{st}|{t}"
-                    if lk not in log:
+                    if lk not in log and NOW < uk(g["utc"]):
                         log[lk] = {"date": uk(g["utc"]).date().isoformat(), "utc": g["utc"], "game": gtxt,
                                    "pick": f"{names.get(k, k)} {MARKET[st]} {t}+", "key": k, "stat": st, "line": t,
                                    "true": val["true"], "season": val["season"], "n": n,
