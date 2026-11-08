@@ -1,4 +1,4 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Sun 08 Nov 05:49 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Sun 08 Nov 08:42 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 PHI @ CHI · Sun 20:30 UK,Anfernee Simons,PHI,10,40,30,20,0,30,0,0,10,0,0,80,40,40,30,
 PHI @ CHI · Sun 20:30 UK,Caleb Wilson,CHI,8,88,88,62,12,100,88,25,62,0,0,100,50,38,25,
@@ -43,23 +43,22 @@ UTA @ MIN · Mon 00:00 UK,LaMelo Ball,MIN,10,90,60,50,10,50,30,10,100,80,40,90,8
 UTA @ MIN · Mon 00:00 UK,Lauri Markkanen,UTA,8,88,75,50,12,88,88,62,50,0,0,88,75,62,62,Questionable (Wrist)
 UTA @ MIN · Mon 00:00 UK,Rudy Gobert,MIN,9,22,0,0,0,100,89,89,11,0,0,0,0,0,0,
 UTA @ MIN · Mon 00:00 UK,Terrence Shannon Jr.,MIN,7,86,29,0,0,86,14,0,43,14,0,86,71,29,0,
-BKN @ DAL · Mon 00:30 UK,Chaney Johnson,BKN,8,25,12,0,0,50,25,0,12,0,0,38,25,12,0,
 BKN @ DAL · Mon 00:30 UK,Cooper Flagg,DAL,8,100,88,62,50,100,88,38,88,88,38,62,38,0,0,
 BKN @ DAL · Mon 00:30 UK,Daniel Gafford,DAL,9,33,22,11,0,89,56,56,22,11,0,11,0,0,0,
-BKN @ DAL · Mon 00:30 UK,Day'Ron Sharpe,BKN,8,25,12,0,0,100,88,50,50,12,12,38,0,0,0,
+BKN @ DAL · Mon 00:30 UK,Day'Ron Sharpe,BKN,9,33,11,0,0,100,89,56,56,22,22,33,0,0,0,
 BKN @ DAL · Mon 00:30 UK,Egor Demin,BKN,4,25,25,25,0,50,0,0,25,25,0,50,25,25,25,Out (Leg) – est. return 11 Nov
-BKN @ DAL · Mon 00:30 UK,Julius Randle,BKN,8,100,88,75,12,100,88,62,88,50,25,62,62,38,12,
+BKN @ DAL · Mon 00:30 UK,Julius Randle,BKN,9,100,89,67,11,100,89,67,89,56,33,67,56,33,11,
 BKN @ DAL · Mon 00:30 UK,Keon Ellis,BKN,8,0,0,0,0,12,0,0,38,0,0,62,25,0,0,
 BKN @ DAL · Mon 00:30 UK,Kyrie Irving,DAL,7,100,86,43,29,57,29,14,71,43,14,86,71,57,43,
 BKN @ DAL · Mon 00:30 UK,Max Christie,DAL,8,38,12,0,0,62,38,0,25,0,0,62,38,25,0,
-BKN @ DAL · Mon 00:30 UK,Michael Porter Jr.,BKN,8,100,75,62,50,88,88,75,12,0,0,88,88,75,62,
-BKN @ DAL · Mon 00:30 UK,Mikel Brown Jr.,BKN,6,67,33,0,0,33,17,0,100,33,0,83,50,33,17,Out (Rest) – est. return 11 Nov
+BKN @ DAL · Mon 00:30 UK,Michael Porter Jr.,BKN,9,100,78,67,56,89,89,78,11,0,0,89,89,78,56,
+BKN @ DAL · Mon 00:30 UK,Mikel Brown Jr.,BKN,7,71,43,0,0,29,14,0,100,29,0,86,57,43,14,Out (Rest) – est. return 11 Nov
 BKN @ DAL · Mon 00:30 UK,Naji Marshall,DAL,6,67,50,17,0,50,17,0,100,83,17,50,33,17,0,
-BKN @ DAL · Mon 00:30 UK,Noah Clowney,BKN,8,0,0,0,0,88,38,12,0,0,0,62,0,0,0,
-BKN @ DAL · Mon 00:30 UK,Nolan Traore,BKN,8,62,62,0,0,25,0,0,50,25,0,62,50,25,25,
+BKN @ DAL · Mon 00:30 UK,Noah Clowney,BKN,9,0,0,0,0,89,44,22,0,0,0,67,0,0,0,
+BKN @ DAL · Mon 00:30 UK,Nolan Traore,BKN,9,67,67,0,0,22,0,0,44,22,0,67,56,22,22,
 BKN @ DAL · Mon 00:30 UK,P.J. Washington,DAL,9,89,56,44,11,100,78,56,11,0,0,89,78,33,22,
 BKN @ DAL · Mon 00:30 UK,Zaccharie Risacher,DAL,9,44,0,0,0,89,67,11,11,0,0,56,22,11,0,
-BOS @ MIL · Mon 01:00 UK,AJ Green,MIL,9,44,0,0,0,44,0,0,33,0,0,89,67,56,22,
+BOS @ MIL · Mon 01:00 UK,A.J. Green,MIL,9,44,0,0,0,44,0,0,33,0,0,89,67,56,22,
 BOS @ MIL · Mon 01:00 UK,Baylor Scheierman,BOS,9,22,0,0,0,78,33,11,11,0,0,67,44,22,0,
 BOS @ MIL · Mon 01:00 UK,Brayden Burries,MIL,9,56,11,11,0,78,67,22,33,11,0,67,11,0,0,
 BOS @ MIL · Mon 01:00 UK,Derrick White,BOS,9,67,44,11,0,56,22,0,89,56,33,100,44,22,11,

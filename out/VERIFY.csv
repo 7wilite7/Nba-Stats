@@ -1,10 +1,16 @@
-"Fact-check vs ESPN: 99.66% of 11,924 stats match (132 games)"
+"Fact-check vs ESPN: 99.63% of 12,532 stats match (139 games)"
 Game,Player,Stat,Basketball Reference,ESPN
 202610220OKC,Alpha Diallo,ast,3,2
 202610220OKC,Marvin Bagley III,ast,1,2
 202610220OKC,DaRon Holmes,reb,1,0
 202610220OKC,Bryce Hopkins,reb,1,2
 202610230SAS,Kevin Durant,ast,6,5
+202611060ATL,Kyshawn George,ast,8,7
+202611060ATL,Bub Carrington,ast,0,1
+202611060CHO,Luka Garza,reb,8,7
+202611060CHO,Baylor Scheierman,reb,3,4
+202611060MIL,RJ Barrett,ast,4,5
+202611060MIL,Jakob Poeltl,ast,2,1
 202610210POR,Ryan Dunn,reb,2,3
 202610210POR,Jamaree Bouyea,reb,2,1
 202610230CHO,CJ McCollum,ast,2,1
