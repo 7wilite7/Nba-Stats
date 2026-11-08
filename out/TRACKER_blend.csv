@@ -1,4 +1,4 @@
-"Updated Sat 07 Nov 23:10 UK · box scores to 2026-11-06 · fact-check vs ESPN: 99.66% of 11,924 stats match (132 games) · pick tracker: 85% hit from 2095 graded picks"
+"Updated Sun 08 Nov 00:07 UK · box scores to 2026-11-06 · fact-check vs ESPN: 99.66% of 11,924 stats match (132 games) · pick tracker: 85% hit from 2095 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -15,6 +15,20 @@ By true rate,Graded,Hit %,True % given
 95–100%,69,91,96
 
 Date,Game,Pick,True %,Season %,Games,Result,Source
+2026-11-09,UTA @ MIN,Rudy Gobert Rebounds 7+,87,92,38,Pending,Live
+2026-11-09,UTA @ MIN,Lauri Markkanen Threes 1+,91,95,21,Pending,Live
+2026-11-09,UTA @ MIN,Lauri Markkanen Rebounds 3+,91,95,21,Pending,Live
+2026-11-09,UTA @ MIN,Lauri Markkanen Points 15+,83,90,21,Pending,Live
+2026-11-09,UTA @ MIN,LaMelo Ball Threes 2+,90,94,36,Pending,Live
+2026-11-09,UTA @ MIN,LaMelo Ball Points 10+,94,97,36,Pending,Live
+2026-11-09,UTA @ MIN,LaMelo Ball Assists 3+,93,97,36,Pending,Live
+2026-11-09,UTA @ MIN,Keyonte George Points 10+,82,85,27,Pending,Live
+2026-11-09,UTA @ MIN,Jaxson Hayes Rebounds 3+,89,91,33,Pending,Live
+2026-11-09,UTA @ MIN,Ayo Dosunmu Threes 1+,81,83,35,Pending,Live
+2026-11-09,UTA @ MIN,Ayo Dosunmu Points 10+,80,83,35,Pending,Live
+2026-11-09,UTA @ MIN,Ace Bailey Threes 1+,89,92,36,Pending,Live
+2026-11-09,UTA @ MIN,Ace Bailey Rebounds 3+,82,83,36,Pending,Live
+2026-11-09,UTA @ MIN,Ace Bailey Points 10+,81,83,36,Pending,Live
 2026-11-08,LAL @ DET,Ziaire Williams Threes 1+,80,82,28,Pending,Live
 2026-11-08,ORL @ GSW,Yaxel Lendeborg Threes 1+,90,100,9,Pending,Live
 2026-11-08,ORL @ GSW,Yaxel Lendeborg Rebounds 3+,83,89,9,Pending,Live
@@ -401,17 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-06,MIA @ GSW,Bobby Portis Points 10+,80,82,34,Miss,Live
 2026-11-06,MIA @ GSW,Bam Adebayo Rebounds 7+,87,92,37,Hit,Live
 2026-11-06,MIA @ GSW,Bam Adebayo Points 15+,80,84,37,Hit,Live
-2026-11-06,MIA @ GSW,Andrew Wiggins Threes 1+,83,85,34,Miss,Live
-2026-11-05,UTA @ NOP,Zion Williamson Rebounds 3+,82,84,31,Hit,Live
-2026-11-05,UTA @ NOP,Zion Williamson Points 15+,85,90,31,Hit,Live
-2026-11-05,LAL @ SAC,Ziaire Williams Threes 1+,80,82,28,Hit,Live
-2026-11-05,LAL @ SAC,Zach LaVine Threes 1+,86,90,20,Hit,Live
-2026-11-05,LAL @ SAC,Zach LaVine Points 10+,90,95,20,Hit,Live
-2026-11-05,IND @ MEM,Zach Edey Rebounds 3+,89,100,6,Hit,Live
-2026-11-05,LAL @ SAC,Walker Kessler Rebounds 5+,84,100,8,Hit,Live
-2026-11-05,DAL @ SAS,Victor Wembanyama Threes 1+,82,84,32,Hit,Live
-2026-11-05,DAL @ SAS,Victor Wembanyama Rebounds 7+,90,97,32,Hit,Live
-2026-11-05,DAL @ SAS,Victor Wembanyama Points 15+,80,84,32,Hit,Live
-2026-11-05,PHI @ DET,VJ Edgecombe Rebounds 3+,93,95,38,Hit,Live
-2026-11-05,PHI @ DET,Tyrese Maxey Threes 1+,97,100,35,Hit,Live
-2026-11-05,PHI @ DET,Tyrese Maxey Points 20+,86,91,35,Miss,Live

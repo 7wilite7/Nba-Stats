@@ -1,4 +1,4 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Sat 07 Nov 23:10 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Sun 08 Nov 00:07 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 BKN @ ATL · Sun 00:30 UK,Aaron Wiggins,ATL,10,90,60,10,0,80,20,10,40,0,0,100,90,60,20,
 BKN @ ATL · Sun 00:30 UK,CJ McCollum,ATL,10,80,40,10,0,40,20,10,60,30,20,80,60,20,20,
@@ -14,7 +14,7 @@ BKN @ ATL · Sun 00:30 UK,Luguentz Dort,ATL,10,40,10,10,10,70,20,10,40,0,0,90,50
 BKN @ ATL · Sun 00:30 UK,Michael Porter Jr.,BKN,8,100,75,62,50,88,88,75,12,0,0,88,88,75,62,
 BKN @ ATL · Sun 00:30 UK,Mikel Brown Jr.,BKN,6,67,33,0,0,33,17,0,100,33,0,83,50,33,17,
 BKN @ ATL · Sun 00:30 UK,Nickeil Alexander-Walker,ATL,10,100,70,60,50,70,10,0,50,10,0,90,90,70,70,
-BKN @ ATL · Sun 00:30 UK,Noah Clowney,BKN,8,0,0,0,0,88,38,12,0,0,0,62,0,0,0,Questionable (Illness)
+BKN @ ATL · Sun 00:30 UK,Noah Clowney,BKN,8,0,0,0,0,88,38,12,0,0,0,62,0,0,0,
 BKN @ ATL · Sun 00:30 UK,Nolan Traore,BKN,8,62,62,0,0,25,0,0,50,25,0,62,50,25,25,
 BKN @ ATL · Sun 00:30 UK,Onyeka Okongwu,ATL,10,70,20,20,10,100,80,60,40,10,10,70,50,10,10,
 NYK @ CLE · Sun 01:00 UK,Donovan Mitchell,CLE,9,100,100,67,33,100,67,22,100,56,44,100,78,33,33,
@@ -35,7 +35,7 @@ NYK @ CLE · Sun 01:00 UK,Sam Merrill,CLE,9,22,11,0,0,67,22,11,33,0,0,89,44,11,1
 WAS @ OKC · Sun 01:00 UK,AJ Dybantsa,WAS,5,80,60,20,0,80,80,40,40,0,0,80,0,0,0,
 WAS @ OKC · Sun 01:00 UK,Ajay Mitchell,OKC,9,78,67,56,33,67,44,11,78,44,0,56,22,11,11,
 WAS @ OKC · Sun 01:00 UK,Alex Sarr,WAS,8,62,12,0,0,88,62,50,38,12,0,50,12,0,0,
-WAS @ OKC · Sun 01:00 UK,Anthony Davis,WAS,8,88,88,62,62,100,100,75,50,0,0,50,25,12,0,Questionable (Ankle)
+WAS @ OKC · Sun 01:00 UK,Anthony Davis,WAS,8,88,88,62,62,100,100,75,50,0,0,50,25,12,0,Out (Ankle) – est. return 9 Nov
 WAS @ OKC · Sun 01:00 UK,Bilal Coulibaly,WAS,9,33,11,0,0,56,44,0,0,0,0,44,0,0,0,
 WAS @ OKC · Sun 01:00 UK,Chet Holmgren,OKC,3,100,0,0,0,100,67,67,0,0,0,33,33,0,0,Out (Knee) – est. return 2 Jan
 WAS @ OKC · Sun 01:00 UK,Isaiah Hartenstein,OKC,9,44,11,0,0,100,89,67,67,11,11,0,0,0,0,
@@ -50,10 +50,10 @@ ORL @ GSW · Sun 01:30 UK,Anthony Black,ORL,5,80,60,20,0,80,60,40,80,60,20,80,40
 ORL @ GSW · Sun 01:30 UK,Brandin Podziemski,GSW,7,71,71,29,0,86,71,29,86,57,14,86,86,43,14,
 ORL @ GSW · Sun 01:30 UK,De'Anthony Melton,GSW,9,44,33,22,11,78,67,11,44,11,0,67,56,33,33,
 ORL @ GSW · Sun 01:30 UK,Desmond Bane,ORL,8,88,75,38,12,62,50,0,38,12,0,100,88,75,50,Out (Illness) – est. return 10 Nov
-ORL @ GSW · Sun 01:30 UK,Draymond Green,GSW,7,0,0,0,0,100,43,14,86,86,57,29,0,0,0,Questionable (Elbow)
+ORL @ GSW · Sun 01:30 UK,Draymond Green,GSW,7,0,0,0,0,100,43,14,86,86,57,29,0,0,0,
 ORL @ GSW · Sun 01:30 UK,Franz Wagner,ORL,8,100,88,50,12,100,75,25,100,100,50,62,25,0,0,
 ORL @ GSW · Sun 01:30 UK,Georges Niang,GSW,9,33,0,0,0,67,11,0,22,0,0,67,33,22,0,
-ORL @ GSW · Sun 01:30 UK,Gui Santos,GSW,6,33,0,0,0,100,33,0,17,0,0,67,0,0,0,Questionable (Knee)
+ORL @ GSW · Sun 01:30 UK,Gui Santos,GSW,6,33,0,0,0,100,33,0,17,0,0,67,0,0,0,
 ORL @ GSW · Sun 01:30 UK,Jalen Suggs,ORL,3,33,0,0,0,100,67,0,100,100,0,33,0,0,0,Out (Knee) – est. return 10 Nov
 ORL @ GSW · Sun 01:30 UK,Jase Richardson,ORL,8,25,0,0,0,12,12,0,62,12,0,50,38,0,0,
 ORL @ GSW · Sun 01:30 UK,Moses Moody,GSW,0,,,,,,,,,,,,,,,Out (Knee) – est. return 1 Dec
@@ -123,3 +123,17 @@ LAL @ DET · Sun 23:00 UK,Quentin Grimes,LAL,10,30,10,10,0,50,10,10,50,10,0,40,1
 LAL @ DET · Sun 23:00 UK,Sandro Mamukelashvili,LAL,10,40,10,0,0,90,40,20,20,0,0,60,30,10,0,
 LAL @ DET · Sun 23:00 UK,Walker Kessler,LAL,10,90,60,20,10,100,100,100,10,0,0,0,0,0,0,
 LAL @ DET · Sun 23:00 UK,Ziaire Williams,LAL,7,57,0,0,0,57,14,0,29,0,0,100,57,29,0,
+UTA @ MIN · Mon 00:00 UK,Ace Bailey,UTA,9,67,44,0,0,100,100,44,33,0,0,89,22,11,0,
+UTA @ MIN · Mon 00:00 UK,Anthony Edwards,MIN,4,100,100,75,75,75,25,25,100,0,0,100,100,50,50,Out (Knee) – est. return 21 Dec
+UTA @ MIN · Mon 00:00 UK,Ayo Dosunmu,MIN,10,80,70,30,20,70,50,40,80,30,20,90,40,30,10,
+UTA @ MIN · Mon 00:00 UK,Darryn Peterson,UTA,9,67,44,11,0,78,22,11,78,33,11,67,56,44,0,
+UTA @ MIN · Mon 00:00 UK,Donte DiVincenzo,MIN,0,,,,,,,,,,,,,,,Out (Achilles) – est. return 2 Apr
+UTA @ MIN · Mon 00:00 UK,Jaden McDaniels,MIN,10,100,60,20,0,100,90,30,90,20,10,90,50,0,0,
+UTA @ MIN · Mon 00:00 UK,Jaren Jackson Jr.,UTA,4,75,75,50,0,75,50,25,25,0,0,75,50,0,0,Out (Knee) – est. return 14 Dec
+UTA @ MIN · Mon 00:00 UK,Jaxson Hayes,UTA,8,12,12,0,0,100,100,38,38,0,0,0,0,0,0,
+UTA @ MIN · Mon 00:00 UK,Jonathan Kuminga,MIN,10,80,40,10,0,80,60,50,70,30,0,90,70,30,10,
+UTA @ MIN · Mon 00:00 UK,Keyonte George,UTA,9,78,78,56,33,78,33,22,89,67,44,78,56,33,22,
+UTA @ MIN · Mon 00:00 UK,LaMelo Ball,MIN,10,90,60,50,10,50,30,10,100,80,40,90,80,60,50,
+UTA @ MIN · Mon 00:00 UK,Lauri Markkanen,UTA,8,88,75,50,12,88,88,62,50,0,0,88,75,62,62,Questionable (Wrist)
+UTA @ MIN · Mon 00:00 UK,Rudy Gobert,MIN,9,22,0,0,0,100,89,89,11,0,0,0,0,0,0,
+UTA @ MIN · Mon 00:00 UK,Terrence Shannon Jr.,MIN,7,86,29,0,0,86,14,0,43,14,0,86,71,29,0,
