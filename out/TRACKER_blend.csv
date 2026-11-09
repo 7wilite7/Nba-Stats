@@ -1,4 +1,4 @@
-"Updated Mon 09 Nov 08:58 UK · box scores to 2026-11-08 · fact-check vs ESPN: 99.58% of 13,176 stats match (146 games) · pick tracker: 85% hit from 2339 graded picks"
+"Updated Mon 09 Nov 15:59 UK · box scores to 2026-11-08 · fact-check vs ESPN: 99.58% of 13,176 stats match (146 games) · pick tracker: 85% hit from 2339 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -74,6 +74,10 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-10,IND @ DAL,Max Christie Threes 1+,83,85,39,Pending,Live
 2026-11-10,LAL @ ATL,Matisse Thybulle Threes 1+,82,87,15,Pending,Live
 2026-11-10,CLE @ CHA,Mario Hezonja Rebounds 3+,92,100,10,Pending,Live
+2026-11-10,LAL @ ATL,Luka Doncic Threes 3+,82,88,32,Pending,Live
+2026-11-10,LAL @ ATL,Luka Doncic Rebounds 5+,89,94,32,Pending,Live
+2026-11-10,LAL @ ATL,Luka Doncic Points 25+,81,88,32,Pending,Live
+2026-11-10,LAL @ ATL,Luka Doncic Assists 3+,92,97,32,Pending,Live
 2026-11-10,LAL @ ATL,Luguentz Dort Threes 1+,84,86,35,Pending,Live
 2026-11-10,IND @ DAL,Kyrie Irving Threes 1+,80,88,8,Pending,Live
 2026-11-10,IND @ DAL,Kyrie Irving Points 10+,86,100,7,Pending,Live
@@ -411,7 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-08,HOU @ PHX,Alperen Sengun Rebounds 5+,85,89,36,Hit,Live
 2026-11-08,HOU @ PHX,Alperen Sengun Points 10+,94,97,36,Hit,Live
 2026-11-08,HOU @ PHX,Alperen Sengun Assists 3+,90,94,36,Hit,Live
-2026-11-08,WAS @ OKC,Alex Sarr Rebounds 3+,92,96,24,Hit,Live
-2026-11-07,MIN @ NOP,Zion Williamson Rebounds 3+,82,84,31,Hit,Live
-2026-11-07,MIN @ NOP,Zion Williamson Points 15+,85,90,31,Miss,Live
-2026-11-07,POR @ LAL,Ziaire Williams Threes 1+,80,82,28,Hit,Live
