@@ -1,20 +1,5 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Sun 08 Nov 23:10 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Mon 09 Nov 00:08 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
-LAL @ DET · Sun 23:00 UK,Ausar Thompson,DET,7,71,0,0,0,100,86,57,86,57,14,0,0,0,0,
-LAL @ DET · Sun 23:00 UK,Austin Reaves,LAL,10,100,100,80,50,70,10,0,80,50,20,100,50,40,30,
-LAL @ DET · Sun 23:00 UK,Cade Cunningham,DET,8,100,100,75,50,88,75,38,100,88,88,100,62,38,25,
-LAL @ DET · Sun 23:00 UK,Daniss Jenkins,DET,8,50,25,0,0,50,25,12,88,50,12,88,38,12,0,
-LAL @ DET · Sun 23:00 UK,Duncan Robinson,DET,8,100,75,50,12,25,0,0,25,0,0,100,100,75,62,
-LAL @ DET · Sun 23:00 UK,Jake LaRavia,LAL,9,22,0,0,0,44,22,22,22,0,0,78,56,0,0,
-LAL @ DET · Sun 23:00 UK,John Collins,DET,8,38,38,12,0,75,62,50,0,0,0,25,25,12,12,
-LAL @ DET · Sun 23:00 UK,Kevin Huerter,DET,8,0,0,0,0,38,12,0,38,0,0,100,38,12,0,
-LAL @ DET · Sun 23:00 UK,Luka Doncic,LAL,9,100,100,100,89,100,100,67,100,100,67,100,100,89,89,Out (Back) – est. return 9 Nov
-LAL @ DET · Sun 23:00 UK,Matisse Thybulle,LAL,10,40,10,0,0,20,0,0,10,0,0,90,50,30,10,
-LAL @ DET · Sun 23:00 UK,Paul Reed,DET,8,62,38,12,0,100,75,50,50,0,0,38,25,0,0,
-LAL @ DET · Sun 23:00 UK,Quentin Grimes,LAL,10,30,10,10,0,50,10,10,50,10,0,40,10,10,0,
-LAL @ DET · Sun 23:00 UK,Sandro Mamukelashvili,LAL,10,40,10,0,0,90,40,20,20,0,0,60,30,10,0,
-LAL @ DET · Sun 23:00 UK,Walker Kessler,LAL,10,90,60,20,10,100,100,100,10,0,0,0,0,0,0,
-LAL @ DET · Sun 23:00 UK,Ziaire Williams,LAL,7,57,0,0,0,57,14,0,29,0,0,100,57,29,0,
 UTA @ MIN · Mon 00:00 UK,Ace Bailey,UTA,9,67,44,0,0,100,100,44,33,0,0,89,22,11,0,
 UTA @ MIN · Mon 00:00 UK,Anthony Edwards,MIN,4,100,100,75,75,75,25,25,100,0,0,100,100,50,50,Out (Knee) – est. return 21 Dec
 UTA @ MIN · Mon 00:00 UK,Ayo Dosunmu,MIN,10,80,70,30,20,70,50,40,80,30,20,90,40,30,10,
@@ -24,9 +9,9 @@ UTA @ MIN · Mon 00:00 UK,Jaden McDaniels,MIN,10,100,60,20,0,100,90,30,90,20,10,
 UTA @ MIN · Mon 00:00 UK,Jaren Jackson Jr.,UTA,4,75,75,50,0,75,50,25,25,0,0,75,50,0,0,Out (Knee) – est. return 14 Dec
 UTA @ MIN · Mon 00:00 UK,Jaxson Hayes,UTA,8,12,12,0,0,100,100,38,38,0,0,0,0,0,0,
 UTA @ MIN · Mon 00:00 UK,Jonathan Kuminga,MIN,10,80,40,10,0,80,60,50,70,30,0,90,70,30,10,
-UTA @ MIN · Mon 00:00 UK,Keyonte George,UTA,9,78,78,56,33,78,33,22,89,67,44,78,56,33,22,Questionable (Illness)
+UTA @ MIN · Mon 00:00 UK,Keyonte George,UTA,9,78,78,56,33,78,33,22,89,67,44,78,56,33,22,
 UTA @ MIN · Mon 00:00 UK,LaMelo Ball,MIN,10,90,60,50,10,50,30,10,100,80,40,90,80,60,50,
-UTA @ MIN · Mon 00:00 UK,Lauri Markkanen,UTA,8,88,75,50,12,88,88,62,50,0,0,88,75,62,62,Questionable (Wrist)
+UTA @ MIN · Mon 00:00 UK,Lauri Markkanen,UTA,8,88,75,50,12,88,88,62,50,0,0,88,75,62,62,Out (Wrist) – est. return 10 Nov
 UTA @ MIN · Mon 00:00 UK,Rudy Gobert,MIN,9,22,0,0,0,100,89,89,11,0,0,0,0,0,0,
 UTA @ MIN · Mon 00:00 UK,Terrence Shannon Jr.,MIN,7,86,29,0,0,86,14,0,43,14,0,86,71,29,0,
 BKN @ DAL · Mon 00:30 UK,Cooper Flagg,DAL,8,100,88,62,50,100,88,38,88,88,38,62,38,0,0,
@@ -90,3 +75,49 @@ NOP @ LAC · Mon 02:00 UK,Rui Hachimura,LAC,6,83,50,33,0,100,83,50,17,17,17,100,
 NOP @ LAC · Mon 02:00 UK,Saddiq Bey,NOP,9,89,56,33,11,89,44,0,56,0,0,100,67,22,0,
 NOP @ LAC · Mon 02:00 UK,Trey Murphy III,NOP,8,75,50,12,12,88,62,0,88,38,0,100,62,25,12,
 NOP @ LAC · Mon 02:00 UK,Zion Williamson,NOP,9,100,89,67,22,89,67,22,44,0,0,22,11,0,0,
+CLE @ CHA · Tue 00:00 UK,Brandon Miller,CHA,10,80,70,40,30,70,50,30,40,10,0,90,70,70,20,Out (Groin) – est. return 12 Nov
+CLE @ CHA · Tue 00:00 UK,Dennis Schroder,CHA,9,33,22,11,11,67,22,0,89,56,22,44,22,11,0,Out (Hamstring) – est. return 25 Nov
+CLE @ CHA · Tue 00:00 UK,Donovan Mitchell,CLE,10,100,100,70,40,100,60,20,100,50,40,100,80,40,40,
+CLE @ CHA · Tue 00:00 UK,Evan Mobley,CLE,10,100,80,40,10,100,90,70,80,20,10,90,50,40,20,
+CLE @ CHA · Tue 00:00 UK,Grayson Allen,CHA,10,70,50,40,10,50,10,0,60,10,0,90,80,60,40,
+CLE @ CHA · Tue 00:00 UK,James Harden,CLE,10,90,60,10,0,80,60,20,100,80,30,100,80,70,0,
+CLE @ CHA · Tue 00:00 UK,Jarrett Allen,CLE,8,75,25,25,12,88,88,75,12,0,0,25,0,0,0,Questionable (Knee)
+CLE @ CHA · Tue 00:00 UK,Jaylon Tyson,CLE,5,40,20,0,0,60,40,0,40,20,0,60,20,20,0,Out (Ankle) – est. return 11 Nov
+CLE @ CHA · Tue 00:00 UK,Mario Hezonja,CLE,10,50,10,0,0,100,70,40,20,0,0,80,50,10,0,
+CLE @ CHA · Tue 00:00 UK,Meleek Thomas,CLE,7,71,29,0,0,43,14,0,14,0,0,86,86,71,14,
+CLE @ CHA · Tue 00:00 UK,Moussa Diabate,CHA,9,44,11,0,0,100,100,78,33,0,0,0,0,0,0,Questionable (Quadriceps)
+CLE @ CHA · Tue 00:00 UK,Naz Reid,CHA,10,90,50,30,10,100,100,50,10,10,10,90,80,30,20,
+CLE @ CHA · Tue 00:00 UK,Peyton Watson,CLE,8,62,25,12,0,75,50,25,50,12,0,62,12,0,0,
+CLE @ CHA · Tue 00:00 UK,Sam Merrill,CLE,9,22,11,0,0,67,22,11,33,0,0,89,44,11,11,Out (Elbow) – est. return 11 Nov
+CLE @ CHA · Tue 00:00 UK,Sion James,CHA,10,30,0,0,0,50,20,0,60,20,0,70,20,20,0,
+LAL @ ATL · Tue 00:00 UK,Aaron Wiggins,ATL,11,91,64,18,0,82,18,9,45,9,0,100,91,64,27,
+LAL @ ATL · Tue 00:00 UK,Austin Reaves,LAL,10,100,100,80,50,70,10,0,80,50,20,100,50,40,30,
+LAL @ ATL · Tue 00:00 UK,CJ McCollum,ATL,11,73,36,9,0,45,18,9,64,27,18,82,55,18,18,
+LAL @ ATL · Tue 00:00 UK,Dyson Daniels,ATL,11,36,18,9,0,91,64,55,100,45,36,9,0,0,0,
+LAL @ ATL · Tue 00:00 UK,Jake LaRavia,LAL,9,22,0,0,0,44,22,22,22,0,0,78,56,0,0,
+LAL @ ATL · Tue 00:00 UK,Jalen Johnson,ATL,8,100,75,50,25,100,100,100,100,75,50,62,38,0,0,
+LAL @ ATL · Tue 00:00 UK,Kingston Flemings,ATL,10,50,10,10,0,40,20,0,80,50,10,50,20,10,0,
+LAL @ ATL · Tue 00:00 UK,Luguentz Dort,ATL,11,36,9,9,9,73,18,9,36,0,0,91,45,18,18,
+LAL @ ATL · Tue 00:00 UK,Luka Doncic,LAL,9,100,100,100,89,100,100,67,100,100,67,100,100,89,89,Out (Back) – est. return 9 Nov
+LAL @ ATL · Tue 00:00 UK,Matisse Thybulle,LAL,10,40,10,0,0,20,0,0,10,0,0,90,50,30,10,
+LAL @ ATL · Tue 00:00 UK,Nickeil Alexander-Walker,ATL,11,100,73,64,45,73,9,0,45,9,0,91,91,64,64,
+LAL @ ATL · Tue 00:00 UK,Onyeka Okongwu,ATL,11,73,27,18,9,91,73,55,45,18,9,73,55,9,9,
+LAL @ ATL · Tue 00:00 UK,Quentin Grimes,LAL,10,30,10,10,0,50,10,10,50,10,0,40,10,10,0,
+LAL @ ATL · Tue 00:00 UK,Sandro Mamukelashvili,LAL,10,40,10,0,0,90,40,20,20,0,0,60,30,10,0,
+LAL @ ATL · Tue 00:00 UK,Walker Kessler,LAL,10,90,60,20,10,100,100,100,10,0,0,0,0,0,0,
+LAL @ ATL · Tue 00:00 UK,Ziaire Williams,LAL,7,57,0,0,0,57,14,0,29,0,0,100,57,29,0,
+WAS @ DET · Tue 00:00 UK,AJ Dybantsa,WAS,6,83,67,17,0,83,83,33,50,0,0,83,0,0,0,
+WAS @ DET · Tue 00:00 UK,Alex Sarr,WAS,9,67,22,0,0,89,67,56,33,11,0,56,11,0,0,
+WAS @ DET · Tue 00:00 UK,Anthony Davis,WAS,8,88,88,62,62,100,100,75,50,0,0,50,25,12,0,Questionable (Ankle)
+WAS @ DET · Tue 00:00 UK,Ausar Thompson,DET,7,71,0,0,0,100,86,57,86,57,14,0,0,0,0,
+WAS @ DET · Tue 00:00 UK,Bilal Coulibaly,WAS,10,30,10,0,0,60,50,0,0,0,0,40,0,0,0,
+WAS @ DET · Tue 00:00 UK,Cade Cunningham,DET,8,100,100,75,50,88,75,38,100,88,88,100,62,38,25,
+WAS @ DET · Tue 00:00 UK,Daniss Jenkins,DET,8,50,25,0,0,50,25,12,88,50,12,88,38,12,0,
+WAS @ DET · Tue 00:00 UK,Duncan Robinson,DET,8,100,75,50,12,25,0,0,25,0,0,100,100,75,62,
+WAS @ DET · Tue 00:00 UK,Jamir Watkins,WAS,0,,,,,,,,,,,,,,,Out (Knee) – est. return 2 Apr
+WAS @ DET · Tue 00:00 UK,John Collins,DET,8,38,38,12,0,75,62,50,0,0,0,25,25,12,12,
+WAS @ DET · Tue 00:00 UK,Kevin Huerter,DET,8,0,0,0,0,38,12,0,38,0,0,100,38,12,0,
+WAS @ DET · Tue 00:00 UK,Kyshawn George,WAS,10,90,60,50,20,90,30,20,90,60,30,80,60,40,30,
+WAS @ DET · Tue 00:00 UK,Paul Reed,DET,8,62,38,12,0,100,75,50,50,0,0,38,25,0,0,
+WAS @ DET · Tue 00:00 UK,Trae Young,WAS,10,90,80,60,10,60,40,0,100,90,80,80,50,30,20,
+WAS @ DET · Tue 00:00 UK,Tre Johnson,WAS,9,33,22,22,0,22,0,0,11,0,0,56,33,22,22,
