@@ -1,19 +1,5 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Mon 09 Nov 01:46 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Mon 09 Nov 02:52 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
-UTA @ MIN · Mon 00:00 UK,Ace Bailey,UTA,9,67,44,0,0,100,100,44,33,0,0,89,22,11,0,
-UTA @ MIN · Mon 00:00 UK,Anthony Edwards,MIN,4,100,100,75,75,75,25,25,100,0,0,100,100,50,50,Out (Knee) – est. return 21 Dec
-UTA @ MIN · Mon 00:00 UK,Ayo Dosunmu,MIN,10,80,70,30,20,70,50,40,80,30,20,90,40,30,10,
-UTA @ MIN · Mon 00:00 UK,Darryn Peterson,UTA,9,67,44,11,0,78,22,11,78,33,11,67,56,44,0,
-UTA @ MIN · Mon 00:00 UK,Donte DiVincenzo,MIN,0,,,,,,,,,,,,,,,Out (Achilles) – est. return 2 Apr
-UTA @ MIN · Mon 00:00 UK,Jaden McDaniels,MIN,10,100,60,20,0,100,90,30,90,20,10,90,50,0,0,
-UTA @ MIN · Mon 00:00 UK,Jaren Jackson Jr.,UTA,4,75,75,50,0,75,50,25,25,0,0,75,50,0,0,Out (Knee) – est. return 14 Dec
-UTA @ MIN · Mon 00:00 UK,Jaxson Hayes,UTA,8,12,12,0,0,100,100,38,38,0,0,0,0,0,0,
-UTA @ MIN · Mon 00:00 UK,Jonathan Kuminga,MIN,10,80,40,10,0,80,60,50,70,30,0,90,70,30,10,
-UTA @ MIN · Mon 00:00 UK,Keyonte George,UTA,9,78,78,56,33,78,33,22,89,67,44,78,56,33,22,
-UTA @ MIN · Mon 00:00 UK,LaMelo Ball,MIN,10,90,60,50,10,50,30,10,100,80,40,90,80,60,50,
-UTA @ MIN · Mon 00:00 UK,Lauri Markkanen,UTA,8,88,75,50,12,88,88,62,50,0,0,88,75,62,62,Out (Wrist) – est. return 10 Nov
-UTA @ MIN · Mon 00:00 UK,Rudy Gobert,MIN,9,22,0,0,0,100,89,89,11,0,0,0,0,0,0,
-UTA @ MIN · Mon 00:00 UK,Terrence Shannon Jr.,MIN,7,86,29,0,0,86,14,0,43,14,0,86,71,29,0,
 BKN @ DAL · Mon 00:30 UK,Day'Ron Sharpe,BKN,9,33,11,0,0,100,89,56,56,22,22,33,0,0,0,
 BKN @ DAL · Mon 00:30 UK,Egor Demin,BKN,4,25,25,25,0,50,0,0,25,25,0,50,25,25,25,Out (Leg) – est. return 11 Nov
 BKN @ DAL · Mon 00:30 UK,Julius Randle,BKN,9,100,89,67,11,100,89,56,89,56,33,67,56,33,11,
@@ -95,7 +81,7 @@ LAL @ ATL · Tue 00:00 UK,Luka Doncic,LAL,9,100,100,100,89,100,100,67,100,100,67
 LAL @ ATL · Tue 00:00 UK,Matisse Thybulle,LAL,10,40,10,0,0,20,0,0,10,0,0,90,50,30,10,
 LAL @ ATL · Tue 00:00 UK,Nickeil Alexander-Walker,ATL,11,100,73,64,45,73,9,0,45,9,0,91,91,64,64,
 LAL @ ATL · Tue 00:00 UK,Onyeka Okongwu,ATL,11,73,27,18,9,91,73,55,45,18,9,73,55,9,9,
-LAL @ ATL · Tue 00:00 UK,Quentin Grimes,LAL,10,30,10,10,0,50,10,10,50,10,0,40,10,10,0,Day-To-Day / GTD (Undisclosed) – est. return 8 Nov
+LAL @ ATL · Tue 00:00 UK,Quentin Grimes,LAL,10,30,10,10,0,50,10,10,50,10,0,40,10,10,0,Day-To-Day / GTD (Finger) – est. return 9 Nov
 LAL @ ATL · Tue 00:00 UK,Sandro Mamukelashvili,LAL,10,40,10,0,0,90,40,20,20,0,0,60,30,10,0,
 LAL @ ATL · Tue 00:00 UK,Walker Kessler,LAL,10,90,60,20,10,100,100,100,10,0,0,0,0,0,0,
 LAL @ ATL · Tue 00:00 UK,Ziaire Williams,LAL,7,57,0,0,0,57,14,0,29,0,0,100,57,29,0,
@@ -162,3 +148,18 @@ DEN @ HOU · Tue 01:30 UK,Reed Sheppard,HOU,7,43,14,0,0,29,14,0,57,14,14,100,71,
 DEN @ HOU · Tue 01:30 UK,Spencer Jones,DEN,1,100,0,0,0,100,100,0,0,0,0,100,100,100,0,
 DEN @ HOU · Tue 01:30 UK,Tari Eason,HOU,10,50,10,0,0,90,60,40,10,0,0,50,20,10,0,
 DEN @ HOU · Tue 01:30 UK,Trevon Brazile,DEN,8,25,12,0,0,88,62,50,0,0,0,62,12,12,0,
+SAS @ PHX · Tue 02:00 UK,Collin Gillespie,PHX,8,25,12,0,0,50,0,0,38,25,25,75,50,25,12,
+SAS @ PHX · Tue 02:00 UK,De'Aaron Fox,SAS,10,80,30,10,0,80,20,20,100,60,40,60,30,0,0,
+SAS @ PHX · Tue 02:00 UK,Devin Booker,PHX,8,88,88,88,50,38,12,12,75,62,38,75,75,25,12,
+SAS @ PHX · Tue 02:00 UK,Devin Vassell,SAS,10,70,30,10,0,70,30,10,40,20,10,70,40,20,20,Questionable (Groin)
+SAS @ PHX · Tue 02:00 UK,Dillon Brooks,PHX,8,100,75,25,0,62,38,12,38,25,0,88,62,50,25,
+SAS @ PHX · Tue 02:00 UK,Dylan Harper,SAS,10,100,70,40,10,90,80,40,70,50,20,80,30,10,0,
+SAS @ PHX · Tue 02:00 UK,Jalen Green,PHX,8,75,38,25,0,38,12,12,62,25,12,50,25,0,0,
+SAS @ PHX · Tue 02:00 UK,Julian Champagnie,SAS,10,40,10,10,10,90,40,10,30,0,0,90,90,40,20,
+SAS @ PHX · Tue 02:00 UK,Keldon Johnson,SAS,10,40,10,0,0,100,80,20,30,10,0,20,0,0,0,
+SAS @ PHX · Tue 02:00 UK,Mark Williams,PHX,0,,,,,,,,,,,,,,,Out (Shoulder) – est. return 3 Feb
+SAS @ PHX · Tue 02:00 UK,Miles Bridges,PHX,8,88,75,25,0,100,88,75,75,38,12,88,75,38,12,
+SAS @ PHX · Tue 02:00 UK,Oso Ighodaro,PHX,6,17,0,0,0,83,67,33,67,33,17,0,0,0,0,
+SAS @ PHX · Tue 02:00 UK,Stephon Castle,SAS,10,90,70,10,0,100,80,40,90,60,30,90,70,40,10,
+SAS @ PHX · Tue 02:00 UK,Tobias Harris,SAS,0,,,,,,,,,,,,,,,Out (Calf) – est. return 11 Nov
+SAS @ PHX · Tue 02:00 UK,Victor Wembanyama,SAS,10,100,80,80,70,100,100,100,50,20,0,70,60,40,20,
