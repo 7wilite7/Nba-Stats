@@ -1,27 +1,5 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Mon 09 Nov 02:52 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Mon 09 Nov 03:55 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
-BKN @ DAL · Mon 00:30 UK,Day'Ron Sharpe,BKN,9,33,11,0,0,100,89,56,56,22,22,33,0,0,0,
-BKN @ DAL · Mon 00:30 UK,Egor Demin,BKN,4,25,25,25,0,50,0,0,25,25,0,50,25,25,25,Out (Leg) – est. return 11 Nov
-BKN @ DAL · Mon 00:30 UK,Julius Randle,BKN,9,100,89,67,11,100,89,56,89,56,33,67,56,33,11,
-BKN @ DAL · Mon 00:30 UK,Keon Ellis,BKN,8,0,0,0,0,12,0,0,38,0,0,62,25,0,0,
-BKN @ DAL · Mon 00:30 UK,Michael Porter Jr.,BKN,9,100,78,67,56,89,89,78,11,0,0,89,89,78,56,
-BKN @ DAL · Mon 00:30 UK,Mikel Brown Jr.,BKN,7,71,43,0,0,29,14,0,100,29,0,86,57,43,14,Out (Rest) – est. return 11 Nov
-BKN @ DAL · Mon 00:30 UK,Noah Clowney,BKN,9,0,0,0,0,89,44,22,0,0,0,67,0,0,0,
-BKN @ DAL · Mon 00:30 UK,Nolan Traore,BKN,9,67,67,0,0,22,0,0,44,22,0,67,56,22,22,
-BOS @ MIL · Mon 01:00 UK,A.J. Green,MIL,9,44,0,0,0,44,0,0,33,0,0,89,67,56,22,
-BOS @ MIL · Mon 01:00 UK,Baylor Scheierman,BOS,9,22,0,0,0,78,33,11,11,0,0,67,44,22,0,
-BOS @ MIL · Mon 01:00 UK,Brayden Burries,MIL,9,56,11,11,0,78,67,22,33,11,0,67,11,0,0,
-BOS @ MIL · Mon 01:00 UK,Derrick White,BOS,9,67,44,11,0,56,22,0,89,56,33,100,44,22,11,
-BOS @ MIL · Mon 01:00 UK,Jaime Jaquez Jr.,MIL,9,78,67,22,0,89,67,56,44,22,0,89,67,22,11,
-BOS @ MIL · Mon 01:00 UK,Jayson Tatum,BOS,8,100,88,75,62,100,75,50,100,100,88,88,62,25,12,
-BOS @ MIL · Mon 01:00 UK,Kyle Kuzma,MIL,9,56,11,0,0,89,67,33,89,0,0,67,33,11,11,
-BOS @ MIL · Mon 01:00 UK,Myles Turner,MIL,9,56,0,0,0,89,78,44,33,11,0,56,44,22,11,
-BOS @ MIL · Mon 01:00 UK,Neemias Queta,BOS,9,33,22,0,0,100,67,22,11,0,0,22,0,0,0,
-BOS @ MIL · Mon 01:00 UK,Paul George,BOS,8,88,88,38,25,100,88,25,62,50,38,100,88,62,25,
-BOS @ MIL · Mon 01:00 UK,Payton Pritchard,BOS,9,56,33,22,22,56,22,11,89,33,0,56,44,33,22,
-BOS @ MIL · Mon 01:00 UK,Ryan Rollins,MIL,9,67,22,0,0,78,33,22,78,44,11,89,44,11,0,
-BOS @ MIL · Mon 01:00 UK,Sam Hauser,BOS,9,44,0,0,0,56,0,0,11,0,0,89,78,56,0,
-BOS @ MIL · Mon 01:00 UK,Tyler Herro,MIL,9,100,89,78,22,89,67,11,78,33,33,100,78,78,67,
 MIA @ SAC · Mon 02:00 UK,Andrew Wiggins,MIA,9,44,11,0,0,44,22,11,11,0,0,67,33,11,11,
 MIA @ SAC · Mon 02:00 UK,Bam Adebayo,MIA,9,78,78,44,22,100,100,89,89,0,0,44,11,0,0,
 MIA @ SAC · Mon 02:00 UK,Bobby Portis,MIA,9,44,0,0,0,100,67,56,22,11,0,67,44,22,0,
@@ -39,21 +17,14 @@ MIA @ SAC · Mon 02:00 UK,Zach LaVine,SAC,9,100,78,78,22,78,11,0,56,22,0,89,78,7
 NOP @ LAC · Mon 02:00 UK,Brandon Ingram,LAC,0,,,,,,,,,,,,,,,Out (Achilles) – est. return 10 Nov
 NOP @ LAC · Mon 02:00 UK,Brook Lopez,LAC,8,75,50,25,0,75,50,25,12,0,0,88,38,12,0,
 NOP @ LAC · Mon 02:00 UK,Darius Garland,LAC,8,100,88,50,38,25,0,0,100,88,50,100,62,50,38,
-NOP @ LAC · Mon 02:00 UK,Dejounte Murray,NOP,6,83,67,50,0,83,67,33,100,67,17,67,17,0,0,
-NOP @ LAC · Mon 02:00 UK,Derik Queen,NOP,9,67,33,22,0,89,78,78,44,22,0,33,0,0,0,
 NOP @ LAC · Mon 02:00 UK,Derrick Jones Jr.,LAC,7,71,29,0,0,86,71,29,14,14,0,100,71,43,0,
-NOP @ LAC · Mon 02:00 UK,Herbert Jones,NOP,9,22,11,0,0,67,11,0,11,0,0,44,11,11,0,
 NOP @ LAC · Mon 02:00 UK,Isaiah Jackson,LAC,8,50,12,0,0,100,88,38,38,0,0,12,0,0,0,Out (Groin) – est. return 10 Nov
-NOP @ LAC · Mon 02:00 UK,Jeremiah Fears,NOP,9,78,44,33,0,89,56,11,56,44,33,67,11,11,0,
 NOP @ LAC · Mon 02:00 UK,Jordan Miller,LAC,0,,,,,,,,,,,,,,,Out (Shoulder) – est. return 2 Mar
 NOP @ LAC · Mon 02:00 UK,Keaton Wagler,LAC,8,75,25,12,0,88,38,0,75,12,0,75,50,38,0,
 NOP @ LAC · Mon 02:00 UK,Kobe Sanders,LAC,8,38,25,12,12,75,0,0,38,12,0,75,38,25,25,
 NOP @ LAC · Mon 02:00 UK,Kris Dunn,LAC,8,38,12,0,0,88,38,0,88,50,25,75,12,0,0,
 NOP @ LAC · Mon 02:00 UK,Max Strus,LAC,2,50,0,0,0,100,50,0,100,100,0,100,100,100,0,
 NOP @ LAC · Mon 02:00 UK,Rui Hachimura,LAC,6,83,50,33,0,100,83,50,17,17,17,100,67,33,17,
-NOP @ LAC · Mon 02:00 UK,Saddiq Bey,NOP,9,89,56,33,11,89,44,0,56,0,0,100,67,22,0,
-NOP @ LAC · Mon 02:00 UK,Trey Murphy III,NOP,8,75,50,12,12,88,62,0,88,38,0,100,62,25,12,
-NOP @ LAC · Mon 02:00 UK,Zion Williamson,NOP,9,100,89,67,22,89,67,22,44,0,0,22,11,0,0,
 CLE @ CHA · Tue 00:00 UK,Brandon Miller,CHA,10,80,70,40,30,70,50,30,40,10,0,90,70,70,20,Out (Groin) – est. return 12 Nov
 CLE @ CHA · Tue 00:00 UK,Dennis Schroder,CHA,9,33,22,11,11,67,22,0,89,56,22,44,22,11,0,Out (Hamstring) – est. return 25 Nov
 CLE @ CHA · Tue 00:00 UK,Donovan Mitchell,CLE,10,100,100,70,40,100,60,20,100,50,40,100,80,40,40,
@@ -163,3 +134,17 @@ SAS @ PHX · Tue 02:00 UK,Oso Ighodaro,PHX,6,17,0,0,0,83,67,33,67,33,17,0,0,0,0,
 SAS @ PHX · Tue 02:00 UK,Stephon Castle,SAS,10,90,70,10,0,100,80,40,90,60,30,90,70,40,10,
 SAS @ PHX · Tue 02:00 UK,Tobias Harris,SAS,0,,,,,,,,,,,,,,,Out (Calf) – est. return 11 Nov
 SAS @ PHX · Tue 02:00 UK,Victor Wembanyama,SAS,10,100,80,80,70,100,100,100,50,20,0,70,60,40,20,
+NOP @ GSW · Tue 03:00 UK,Brandin Podziemski,GSW,8,75,75,25,0,88,75,38,75,50,12,88,88,50,25,
+NOP @ GSW · Tue 03:00 UK,De'Anthony Melton,GSW,10,40,30,20,10,70,60,10,40,10,0,70,50,30,30,
+NOP @ GSW · Tue 03:00 UK,Dejounte Murray,NOP,6,83,67,50,0,83,67,33,100,67,17,67,17,0,0,
+NOP @ GSW · Tue 03:00 UK,Derik Queen,NOP,9,67,33,22,0,89,78,78,44,22,0,33,0,0,0,
+NOP @ GSW · Tue 03:00 UK,Draymond Green,GSW,8,0,0,0,0,100,50,12,88,88,62,25,0,0,0,
+NOP @ GSW · Tue 03:00 UK,Georges Niang,GSW,10,40,0,0,0,60,10,0,20,0,0,70,40,30,0,
+NOP @ GSW · Tue 03:00 UK,Herbert Jones,NOP,9,22,11,0,0,67,11,0,11,0,0,44,11,11,0,
+NOP @ GSW · Tue 03:00 UK,Jeremiah Fears,NOP,9,78,44,33,0,89,56,11,56,44,33,67,11,11,0,
+NOP @ GSW · Tue 03:00 UK,Moses Moody,GSW,0,,,,,,,,,,,,,,,Out (Knee) – est. return 1 Dec
+NOP @ GSW · Tue 03:00 UK,Saddiq Bey,NOP,9,89,56,33,11,89,44,0,56,0,0,100,67,22,0,
+NOP @ GSW · Tue 03:00 UK,Stephen Curry,GSW,8,100,100,100,62,62,38,12,88,50,12,100,100,88,62,
+NOP @ GSW · Tue 03:00 UK,Trey Murphy III,NOP,8,75,50,12,12,88,62,0,88,38,0,100,62,25,12,
+NOP @ GSW · Tue 03:00 UK,Yaxel Lendeborg,GSW,10,90,80,50,40,90,70,60,70,60,0,100,50,20,20,
+NOP @ GSW · Tue 03:00 UK,Zion Williamson,NOP,9,100,89,67,22,89,67,22,44,0,0,22,11,0,0,
