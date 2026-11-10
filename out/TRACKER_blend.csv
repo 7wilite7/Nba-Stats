@@ -1,4 +1,4 @@
-"Updated Mon 09 Nov 23:40 UK · box scores to 2026-11-08 · fact-check vs ESPN: 99.58% of 13,176 stats match (146 games) · pick tracker: 85% hit from 2339 graded picks"
+"Updated Tue 10 Nov 00:58 UK · box scores to 2026-11-08 · fact-check vs ESPN: 99.58% of 13,176 stats match (146 games) · pick tracker: 85% hit from 2339 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -15,6 +15,28 @@ By true rate,Graded,Hit %,True % given
 95–100%,77,92,96
 
 Date,Game,Pick,True %,Season %,Games,Result,Source
+2026-11-11,MIL @ NYK,Tyler Herro Threes 1+,94,100,17,Pending,Live
+2026-11-11,MIL @ NYK,Tyler Herro Rebounds 3+,85,88,17,Pending,Live
+2026-11-11,MIL @ NYK,Tyler Herro Points 10+,88,94,17,Pending,Live
+2026-11-11,MIL @ NYK,Ryan Rollins Threes 1+,92,95,37,Pending,Live
+2026-11-11,MIL @ NYK,Ryan Rollins Rebounds 3+,80,81,37,Pending,Live
+2026-11-11,MIL @ NYK,Ryan Rollins Points 10+,84,86,37,Pending,Live
+2026-11-11,MIL @ NYK,Ryan Rollins Assists 3+,83,86,37,Pending,Live
+2026-11-11,MIL @ NYK,OG Anunoby Threes 1+,91,94,34,Pending,Live
+2026-11-11,MIL @ NYK,OG Anunoby Rebounds 3+,84,85,34,Pending,Live
+2026-11-11,MIL @ NYK,Myles Turner Threes 1+,81,83,36,Pending,Live
+2026-11-11,MIL @ NYK,Myles Turner Rebounds 3+,87,89,36,Pending,Live
+2026-11-11,MIL @ NYK,Landry Shamet Threes 1+,82,85,26,Pending,Live
+2026-11-11,MIL @ NYK,Kyle Kuzma Rebounds 3+,81,83,35,Pending,Live
+2026-11-11,MIL @ NYK,Karl-Anthony Towns Threes 1+,80,82,38,Pending,Live
+2026-11-11,MIL @ NYK,Karl-Anthony Towns Rebounds 7+,92,97,38,Pending,Live
+2026-11-11,MIL @ NYK,Karl-Anthony Towns Points 15+,83,87,38,Pending,Live
+2026-11-11,MIL @ NYK,Josh Hart Rebounds 5+,81,85,33,Pending,Live
+2026-11-11,MIL @ NYK,Josh Hart Assists 3+,81,85,33,Pending,Live
+2026-11-11,MIL @ NYK,Jalen Brunson Threes 1+,84,86,37,Pending,Live
+2026-11-11,MIL @ NYK,Jalen Brunson Points 15+,85,89,37,Pending,Live
+2026-11-11,MIL @ NYK,Jalen Brunson Assists 3+,93,97,37,Pending,Live
+2026-11-11,MIL @ NYK,AJ Green Threes 1+,88,90,39,Pending,Live
 2026-11-10,NOP @ GSW,Zion Williamson Rebounds 3+,82,84,31,Pending,Live
 2026-11-10,NOP @ GSW,Zion Williamson Points 15+,82,87,31,Pending,Live
 2026-11-10,LAL @ ATL,Ziaire Williams Threes 1+,80,82,28,Pending,Live
@@ -393,25 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-08,SAS @ POR,Damian Lillard Rebounds 3+,80,86,7,Miss,Live
 2026-11-08,HOU @ PHX,Collin Gillespie Threes 1+,83,85,40,Hit,Live
 2026-11-08,PHI @ CHI,Caleb Wilson Threes 1+,89,100,8,Hit,Live
-2026-11-08,PHI @ CHI,Caleb Wilson Rebounds 3+,90,100,8,Hit,Live
-2026-11-08,LAL @ DET,Cade Cunningham Rebounds 3+,83,84,32,Hit,Live
-2026-11-08,LAL @ DET,Cade Cunningham Points 10+,87,91,32,Hit,Live
-2026-11-08,LAL @ DET,Cade Cunningham Assists 7+,86,94,32,Hit,Live
-2026-11-08,BKN @ ATL,CJ McCollum Threes 1+,82,84,38,Hit,Live
-2026-11-08,BKN @ ATL,CJ McCollum Points 10+,84,87,38,Miss,Live
-2026-11-08,ORL @ GSW,Brandin Podziemski Threes 1+,88,90,41,Hit,Live
-2026-11-08,ORL @ GSW,Brandin Podziemski Rebounds 3+,82,83,41,Hit,Live
-2026-11-08,ORL @ GSW,Brandin Podziemski Points 10+,81,83,41,Hit,Live
-2026-11-08,LAL @ DET,Austin Reaves Threes 1+,89,92,26,Hit,Live
-2026-11-08,LAL @ DET,Austin Reaves Points 15+,89,96,26,Hit,Live
-2026-11-08,LAL @ DET,Austin Reaves Assists 3+,84,88,26,Hit,Live
-2026-11-08,LAL @ DET,Ausar Thompson Rebounds 3+,92,95,37,Hit,Live
-2026-11-08,WAS @ OKC,Anthony Davis Rebounds 5+,86,100,10,Did not play,Live
-2026-11-08,WAS @ OKC,Anthony Davis Points 10+,81,90,10,Did not play,Live
-2026-11-08,PHI @ CHI,Anfernee Simons Threes 1+,86,89,28,Hit,Live
-2026-11-08,HOU @ PHX,Amen Thompson Rebounds 3+,98,100,40,Hit,Live
-2026-11-08,HOU @ PHX,Amen Thompson Points 10+,87,90,40,Hit,Live
-2026-11-08,HOU @ PHX,Amen Thompson Assists 3+,82,85,40,Miss,Live
-2026-11-08,HOU @ PHX,Alperen Sengun Rebounds 5+,85,89,36,Hit,Live
-2026-11-08,HOU @ PHX,Alperen Sengun Points 10+,94,97,36,Hit,Live
-2026-11-08,HOU @ PHX,Alperen Sengun Assists 3+,90,94,36,Hit,Live

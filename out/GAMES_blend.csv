@@ -1,4 +1,4 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Mon 09 Nov 23:40 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Tue 10 Nov 00:58 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 CLE @ CHA · Tue 00:00 UK,Brandon Miller,CHA,33,88,76,52,24,82,58,30,61,15,3,97,88,67,33,Out (Groin) – est. return 12 Nov
 CLE @ CHA · Tue 00:00 UK,Dennis Schroder,CHA,35,31,14,9,6,43,17,0,83,51,14,46,14,6,0,Out (Hamstring) – est. return 25 Nov
@@ -77,19 +77,19 @@ IND @ DAL · Tue 01:00 UK,Pascal Siakam,IND,31,100,90,81,48,94,77,32,74,42,3,77,
 IND @ DAL · Tue 01:00 UK,Quenton Jackson,IND,10,40,20,20,0,60,20,20,40,10,0,50,30,20,0,
 IND @ DAL · Tue 01:00 UK,Tyrese Haliburton,IND,4,100,100,75,0,75,50,0,100,100,100,75,75,50,50,Out (Hamstring) – est. return 13 Nov
 IND @ DAL · Tue 01:00 UK,Zaccharie Risacher,DAL,34,35,9,0,0,74,50,15,9,0,0,65,26,18,3,
-DEN @ HOU · Tue 01:30 UK,Aaron Gordon,DEN,18,72,56,17,6,83,67,17,50,17,0,78,39,17,11,Probable (Lower Body)
+DEN @ HOU · Tue 01:30 UK,Aaron Gordon,DEN,18,72,56,17,6,83,67,17,50,17,0,78,39,17,11,Probable
 DEN @ HOU · Tue 01:30 UK,Alperen Sengun,HOU,36,97,78,42,31,94,89,61,94,72,50,44,11,3,3,
 DEN @ HOU · Tue 01:30 UK,Amen Thompson,HOU,40,90,72,38,8,100,80,62,82,45,22,22,2,0,0,
-DEN @ HOU · Tue 01:30 UK,Cameron Johnson,DEN,27,70,44,4,0,74,33,15,48,11,4,89,63,37,22,Probable (Ankle)
-DEN @ HOU · Tue 01:30 UK,Christian Braun,DEN,22,77,36,18,9,82,41,18,41,5,0,73,27,14,9,Probable (Calf)
-DEN @ HOU · Tue 01:30 UK,DeMar DeRozan,DEN,39,72,49,36,21,44,8,0,67,49,18,31,8,0,0,Probable (Back)
+DEN @ HOU · Tue 01:30 UK,Cameron Johnson,DEN,27,70,44,4,0,74,33,15,48,11,4,89,63,37,22,Probable (Right Ankle Sprain)
+DEN @ HOU · Tue 01:30 UK,Christian Braun,DEN,22,77,36,18,9,82,41,18,41,5,0,73,27,14,9,Probable
+DEN @ HOU · Tue 01:30 UK,DeMar DeRozan,DEN,39,72,49,36,21,44,8,0,67,49,18,31,8,0,0,Probable (Low Back Spasms)
 DEN @ HOU · Tue 01:30 UK,Fred VanVleet,HOU,8,62,50,12,0,75,25,0,100,75,25,88,88,62,38,
 DEN @ HOU · Tue 01:30 UK,Jabari Smith Jr.,HOU,39,92,67,33,8,92,77,46,28,5,0,95,74,44,23,
-DEN @ HOU · Tue 01:30 UK,Jamal Murray,DEN,38,92,84,71,47,71,61,21,95,79,45,92,76,55,39,Probable (Lower Leg)
+DEN @ HOU · Tue 01:30 UK,Jamal Murray,DEN,38,92,84,71,47,71,61,21,95,79,45,92,76,55,39,Probable
 DEN @ HOU · Tue 01:30 UK,Julian Strawther,DEN,29,48,28,10,3,34,17,0,10,0,0,69,48,17,14,Out (Knee) – est. return 29 Nov
 DEN @ HOU · Tue 01:30 UK,Kevin Durant,HOU,39,100,92,79,49,100,74,33,85,49,21,85,72,41,18,
 DEN @ HOU · Tue 01:30 UK,Marcus Smart,HOU,31,32,13,6,0,48,10,0,58,16,10,74,42,23,10,
-DEN @ HOU · Tue 01:30 UK,Nikola Jokic,DEN,33,97,91,76,48,100,100,100,97,97,85,70,39,18,6,Probable (Elbow)
+DEN @ HOU · Tue 01:30 UK,Nikola Jokic,DEN,33,97,91,76,48,100,100,100,97,97,85,70,39,18,6,Probable (Right Elbow Sprain)
 DEN @ HOU · Tue 01:30 UK,Reed Sheppard,HOU,41,76,41,15,7,59,24,7,68,27,10,100,80,56,39,
 DEN @ HOU · Tue 01:30 UK,Spencer Jones,DEN,32,19,6,0,0,69,47,9,3,0,0,47,22,12,6,
 DEN @ HOU · Tue 01:30 UK,Tari Eason,HOU,30,47,23,3,0,90,67,53,13,0,0,50,20,13,0,
@@ -123,3 +123,16 @@ NOP @ GSW · Tue 03:00 UK,Stephen Curry,GSW,22,95,86,73,50,68,23,5,77,50,23,100,
 NOP @ GSW · Tue 03:00 UK,Trey Murphy III,NOP,33,91,73,42,24,82,67,24,79,36,12,97,79,58,39,Out (Knee) – est. return 11 Nov
 NOP @ GSW · Tue 03:00 UK,Yaxel Lendeborg,GSW,10,90,80,50,40,90,70,60,70,60,0,100,50,20,20,
 NOP @ GSW · Tue 03:00 UK,Zion Williamson,NOP,31,97,87,61,19,87,58,19,48,6,3,10,3,0,0,Out (Rest) – est. return 11 Nov
+MIL @ NYK · Wed 00:30 UK,AJ Green,MIL,39,41,23,5,3,49,18,3,26,5,0,90,67,41,33,
+MIL @ NYK · Wed 00:30 UK,Brayden Burries,MIL,10,60,10,10,0,80,70,30,40,10,0,70,10,0,0,
+MIL @ NYK · Wed 00:30 UK,Jaime Jaquez Jr.,MIL,38,71,53,26,5,71,47,26,74,42,18,71,42,13,5,
+MIL @ NYK · Wed 00:30 UK,Jalen Brunson,NYK,37,95,89,73,51,65,32,3,97,73,62,86,68,41,24,
+MIL @ NYK · Wed 00:30 UK,Josh Hart,NYK,33,64,24,6,6,97,85,48,85,39,15,70,48,15,9,Questionable (Ankle)
+MIL @ NYK · Wed 00:30 UK,Karl-Anthony Towns,NYK,38,100,87,61,21,100,97,97,53,24,8,82,39,18,3,
+MIL @ NYK · Wed 00:30 UK,Kyle Kuzma,MIL,35,66,37,14,9,83,40,17,57,20,6,71,46,26,14,
+MIL @ NYK · Wed 00:30 UK,Landry Shamet,NYK,26,38,8,4,0,23,4,0,23,4,0,85,62,27,12,
+MIL @ NYK · Wed 00:30 UK,Mikal Bridges,NYK,41,61,24,12,2,61,29,5,51,24,2,78,37,17,7,
+MIL @ NYK · Wed 00:30 UK,Myles Turner,MIL,36,47,19,3,0,89,56,31,25,6,3,83,44,22,11,
+MIL @ NYK · Wed 00:30 UK,OG Anunoby,NYK,34,79,59,38,12,85,53,24,29,9,3,94,68,41,24,
+MIL @ NYK · Wed 00:30 UK,Ryan Rollins,MIL,37,86,54,35,11,81,35,24,86,57,35,95,70,43,22,
+MIL @ NYK · Wed 00:30 UK,Tyler Herro,MIL,17,94,71,53,24,88,47,12,82,41,29,100,65,65,47,Questionable (Knee)

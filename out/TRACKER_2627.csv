@@ -1,4 +1,4 @@
-"Updated Mon 09 Nov 23:40 UK · box scores to 2026-11-08 · fact-check vs ESPN: 99.58% of 13,176 stats match (146 games) · pick tracker: 86% hit from 1368 graded picks"
+"Updated Tue 10 Nov 00:58 UK · box scores to 2026-11-08 · fact-check vs ESPN: 99.58% of 13,176 stats match (146 games) · pick tracker: 86% hit from 1368 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -15,6 +15,23 @@ By true rate,Graded,Hit %,True % given
 95–100%,0,,
 
 Date,Game,Pick,True %,Season %,Games,Result,Source
+2026-11-11,MIL @ NYK,Tyler Herro Threes 1+,91,100,10,Pending,Live
+2026-11-11,MIL @ NYK,Tyler Herro Points 10+,89,100,10,Pending,Live
+2026-11-11,MIL @ NYK,Ryan Rollins Threes 1+,83,90,10,Pending,Live
+2026-11-11,MIL @ NYK,OG Anunoby Threes 1+,90,100,9,Pending,Live
+2026-11-11,MIL @ NYK,OG Anunoby Rebounds 3+,91,100,9,Pending,Live
+2026-11-11,MIL @ NYK,OG Anunoby Points 10+,80,89,9,Pending,Live
+2026-11-11,MIL @ NYK,Myles Turner Rebounds 3+,84,90,10,Pending,Live
+2026-11-11,MIL @ NYK,Landry Shamet Threes 1+,82,89,9,Pending,Live
+2026-11-11,MIL @ NYK,Kyle Kuzma Rebounds 3+,84,90,10,Pending,Live
+2026-11-11,MIL @ NYK,Karl-Anthony Towns Threes 1+,82,89,9,Pending,Live
+2026-11-11,MIL @ NYK,Karl-Anthony Towns Rebounds 7+,80,100,9,Pending,Live
+2026-11-11,MIL @ NYK,Karl-Anthony Towns Points 10+,88,100,9,Pending,Live
+2026-11-11,MIL @ NYK,Josh Hart Rebounds 3+,89,100,7,Pending,Live
+2026-11-11,MIL @ NYK,Jalen Brunson Threes 1+,82,89,9,Pending,Live
+2026-11-11,MIL @ NYK,Jalen Brunson Points 15+,83,100,9,Pending,Live
+2026-11-11,MIL @ NYK,Jalen Brunson Assists 3+,85,100,9,Pending,Live
+2026-11-11,MIL @ NYK,AJ Green Threes 1+,83,90,10,Pending,Live
 2026-11-10,NOP @ GSW,Zion Williamson Rebounds 3+,83,89,9,Pending,Live
 2026-11-10,NOP @ GSW,Zion Williamson Points 10+,88,100,9,Pending,Live
 2026-11-10,LAL @ ATL,Ziaire Williams Threes 1+,88,100,7,Pending,Live
@@ -398,20 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-08,HOU @ PHX,Alperen Sengun Points 15+,80,100,7,Hit,Live
 2026-11-08,HOU @ PHX,Alperen Sengun Points 10+,86,100,7,Hit,Live
 2026-11-08,HOU @ PHX,Alperen Sengun Assists 3+,82,100,7,Hit,Live
-2026-11-08,WAS @ OKC,Alex Sarr Rebounds 3+,80,86,7,Hit,Live
-2026-11-08,BKN @ ATL,Aaron Wiggins Threes 1+,90,100,9,Hit,Live
-2026-11-08,BKN @ ATL,Aaron Wiggins Points 10+,80,89,9,Hit,Live
-2026-11-07,MIN @ NOP,Zion Williamson Rebounds 3+,81,88,8,Hit,Live
-2026-11-07,MIN @ NOP,Zion Williamson Points 15+,81,100,8,Miss,Live
-2026-11-07,POR @ LAL,Ziaire Williams Threes 1+,87,100,6,Hit,Live
-2026-11-07,SAS @ SAC,Zach LaVine Threes 1+,80,88,8,Hit,Live
-2026-11-07,SAS @ SAC,Zach LaVine Points 10+,87,100,8,Hit,Live
-2026-11-07,OKC @ MEM,Zach Edey Rebounds 3+,90,100,7,Hit,Live
-2026-11-07,UTA @ DAL,Zaccharie Risacher Rebounds 3+,81,88,8,Hit,Live
-2026-11-07,POR @ LAL,Walker Kessler Rebounds 7+,80,100,9,Hit,Live
-2026-11-07,POR @ LAL,Walker Kessler Points 10+,80,89,9,Hit,Live
-2026-11-07,SAS @ SAC,Victor Wembanyama Rebounds 5+,84,100,8,Hit,Live
-2026-11-07,SAS @ SAC,Victor Wembanyama Points 10+,87,100,8,Hit,Live
-2026-11-07,PHI @ CLE,VJ Edgecombe Threes 1+,80,88,8,Hit,Live
-2026-11-07,PHI @ CLE,VJ Edgecombe Rebounds 3+,90,100,8,Hit,Live
-2026-11-07,PHI @ CLE,Tyrese Maxey Threes 1+,90,100,9,Hit,Live
