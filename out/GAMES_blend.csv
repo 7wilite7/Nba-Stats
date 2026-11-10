@@ -1,4 +1,4 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Tue 10 Nov 00:58 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Tue 10 Nov 02:02 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 CLE @ CHA · Tue 00:00 UK,Brandon Miller,CHA,33,88,76,52,24,82,58,30,61,15,3,97,88,67,33,Out (Groin) – est. return 12 Nov
 CLE @ CHA · Tue 00:00 UK,Dennis Schroder,CHA,35,31,14,9,6,43,17,0,83,51,14,46,14,6,0,Out (Hamstring) – est. return 25 Nov
@@ -77,35 +77,28 @@ IND @ DAL · Tue 01:00 UK,Pascal Siakam,IND,31,100,90,81,48,94,77,32,74,42,3,77,
 IND @ DAL · Tue 01:00 UK,Quenton Jackson,IND,10,40,20,20,0,60,20,20,40,10,0,50,30,20,0,
 IND @ DAL · Tue 01:00 UK,Tyrese Haliburton,IND,4,100,100,75,0,75,50,0,100,100,100,75,75,50,50,Out (Hamstring) – est. return 13 Nov
 IND @ DAL · Tue 01:00 UK,Zaccharie Risacher,DAL,34,35,9,0,0,74,50,15,9,0,0,65,26,18,3,
-DEN @ HOU · Tue 01:30 UK,Aaron Gordon,DEN,18,72,56,17,6,83,67,17,50,17,0,78,39,17,11,Probable
+DEN @ HOU · Tue 01:30 UK,Aaron Gordon,DEN,18,72,56,17,6,83,67,17,50,17,0,78,39,17,11,
 DEN @ HOU · Tue 01:30 UK,Alperen Sengun,HOU,36,97,78,42,31,94,89,61,94,72,50,44,11,3,3,
 DEN @ HOU · Tue 01:30 UK,Amen Thompson,HOU,40,90,72,38,8,100,80,62,82,45,22,22,2,0,0,
-DEN @ HOU · Tue 01:30 UK,Cameron Johnson,DEN,27,70,44,4,0,74,33,15,48,11,4,89,63,37,22,Probable (Right Ankle Sprain)
-DEN @ HOU · Tue 01:30 UK,Christian Braun,DEN,22,77,36,18,9,82,41,18,41,5,0,73,27,14,9,Probable
-DEN @ HOU · Tue 01:30 UK,DeMar DeRozan,DEN,39,72,49,36,21,44,8,0,67,49,18,31,8,0,0,Probable (Low Back Spasms)
+DEN @ HOU · Tue 01:30 UK,Cameron Johnson,DEN,27,70,44,4,0,74,33,15,48,11,4,89,63,37,22,
+DEN @ HOU · Tue 01:30 UK,Christian Braun,DEN,22,77,36,18,9,82,41,18,41,5,0,73,27,14,9,
+DEN @ HOU · Tue 01:30 UK,DeMar DeRozan,DEN,39,72,49,36,21,44,8,0,67,49,18,31,8,0,0,
 DEN @ HOU · Tue 01:30 UK,Fred VanVleet,HOU,8,62,50,12,0,75,25,0,100,75,25,88,88,62,38,
 DEN @ HOU · Tue 01:30 UK,Jabari Smith Jr.,HOU,39,92,67,33,8,92,77,46,28,5,0,95,74,44,23,
-DEN @ HOU · Tue 01:30 UK,Jamal Murray,DEN,38,92,84,71,47,71,61,21,95,79,45,92,76,55,39,Probable
+DEN @ HOU · Tue 01:30 UK,Jamal Murray,DEN,38,92,84,71,47,71,61,21,95,79,45,92,76,55,39,
 DEN @ HOU · Tue 01:30 UK,Julian Strawther,DEN,29,48,28,10,3,34,17,0,10,0,0,69,48,17,14,Out (Knee) – est. return 29 Nov
 DEN @ HOU · Tue 01:30 UK,Kevin Durant,HOU,39,100,92,79,49,100,74,33,85,49,21,85,72,41,18,
 DEN @ HOU · Tue 01:30 UK,Marcus Smart,HOU,31,32,13,6,0,48,10,0,58,16,10,74,42,23,10,
-DEN @ HOU · Tue 01:30 UK,Nikola Jokic,DEN,33,97,91,76,48,100,100,100,97,97,85,70,39,18,6,Probable (Right Elbow Sprain)
+DEN @ HOU · Tue 01:30 UK,Nikola Jokic,DEN,33,97,91,76,48,100,100,100,97,97,85,70,39,18,6,
 DEN @ HOU · Tue 01:30 UK,Reed Sheppard,HOU,41,76,41,15,7,59,24,7,68,27,10,100,80,56,39,
 DEN @ HOU · Tue 01:30 UK,Spencer Jones,DEN,32,19,6,0,0,69,47,9,3,0,0,47,22,12,6,
 DEN @ HOU · Tue 01:30 UK,Tari Eason,HOU,30,47,23,3,0,90,67,53,13,0,0,50,20,13,0,
 DEN @ HOU · Tue 01:30 UK,Trevon Brazile,DEN,8,25,12,0,0,88,62,50,0,0,0,62,12,12,0,
-SAS @ PHX · Tue 02:00 UK,Collin Gillespie,PHX,40,52,28,10,2,78,28,10,70,40,25,85,68,48,30,
 SAS @ PHX · Tue 02:00 UK,De'Aaron Fox,SAS,36,89,50,28,11,69,31,14,97,69,36,75,36,14,8,
-SAS @ PHX · Tue 02:00 UK,Devin Booker,PHX,32,94,91,84,62,72,22,6,84,69,38,88,72,38,22,
 SAS @ PHX · Tue 02:00 UK,Devin Vassell,SAS,34,68,38,15,3,71,41,21,53,9,3,88,62,41,29,Out (Groin) – est. return 11 Nov
-SAS @ PHX · Tue 02:00 UK,Dillon Brooks,PHX,28,89,64,46,25,75,46,7,36,7,0,89,54,32,21,
 SAS @ PHX · Tue 02:00 UK,Dylan Harper,SAS,35,80,43,20,3,74,43,11,80,51,11,77,34,14,0,
-SAS @ PHX · Tue 02:00 UK,Jalen Green,PHX,16,75,56,44,19,56,25,6,56,25,12,56,44,25,6,
 SAS @ PHX · Tue 02:00 UK,Julian Champagnie,SAS,41,51,20,7,5,85,54,32,20,0,0,83,63,39,22,
 SAS @ PHX · Tue 02:00 UK,Keldon Johnson,SAS,41,59,32,12,0,80,54,17,20,5,0,54,29,7,2,
-SAS @ PHX · Tue 02:00 UK,Mark Williams,PHX,30,60,17,7,3,97,93,67,3,0,0,0,0,0,0,Out (Shoulder) – est. return 3 Feb
-SAS @ PHX · Tue 02:00 UK,Miles Bridges,PHX,39,82,49,21,10,90,64,41,49,23,8,74,44,28,15,
-SAS @ PHX · Tue 02:00 UK,Oso Ighodaro,PHX,41,32,7,0,0,88,66,34,51,27,10,0,0,0,0,
 SAS @ PHX · Tue 02:00 UK,Stephon Castle,SAS,34,91,74,26,3,88,62,47,94,76,50,79,53,26,6,
 SAS @ PHX · Tue 02:00 UK,Tobias Harris,SAS,32,78,38,12,0,88,72,31,47,25,3,75,31,9,3,Out (Calf) – est. return 11 Nov
 SAS @ PHX · Tue 02:00 UK,Victor Wembanyama,SAS,32,100,84,75,59,100,100,97,66,25,6,84,59,28,19,
@@ -136,3 +129,49 @@ MIL @ NYK · Wed 00:30 UK,Myles Turner,MIL,36,47,19,3,0,89,56,31,25,6,3,83,44,22
 MIL @ NYK · Wed 00:30 UK,OG Anunoby,NYK,34,79,59,38,12,85,53,24,29,9,3,94,68,41,24,
 MIL @ NYK · Wed 00:30 UK,Ryan Rollins,MIL,37,86,54,35,11,81,35,24,86,57,35,95,70,43,22,
 MIL @ NYK · Wed 00:30 UK,Tyler Herro,MIL,17,94,71,53,24,88,47,12,82,41,29,100,65,65,47,Questionable (Knee)
+BOS @ PHI · Wed 01:00 UK,Anfernee Simons,PHI,28,61,43,29,7,50,4,0,25,11,4,89,57,39,32,
+BOS @ PHI · Wed 01:00 UK,Baylor Scheierman,BOS,39,33,8,5,3,72,44,18,28,10,3,87,49,23,8,
+BOS @ PHI · Wed 01:00 UK,Dean Wade,PHI,30,17,0,0,0,73,43,13,17,3,3,60,33,10,0,
+BOS @ PHI · Wed 01:00 UK,Derrick White,BOS,39,74,46,26,8,72,41,5,90,62,33,87,64,44,28,
+BOS @ PHI · Wed 01:00 UK,Jaylen Brown,PHI,36,97,97,86,58,94,72,58,89,53,33,86,58,22,8,
+BOS @ PHI · Wed 01:00 UK,Jayson Tatum,BOS,9,100,89,78,56,100,67,44,100,100,78,89,67,33,22,
+BOS @ PHI · Wed 01:00 UK,Joel Embiid,PHI,19,95,84,68,53,100,100,79,68,42,26,63,37,16,5,
+BOS @ PHI · Wed 01:00 UK,Kentavious Caldwell-Pope,PHI,26,35,8,0,0,46,8,0,27,0,0,69,15,4,4,
+BOS @ PHI · Wed 01:00 UK,LeBron James,PHI,30,97,70,37,13,93,90,50,93,87,57,60,27,10,3,
+BOS @ PHI · Wed 01:00 UK,Neemias Queta,BOS,38,47,24,5,3,95,79,55,26,5,0,8,0,0,0,
+BOS @ PHI · Wed 01:00 UK,Paul George,BOS,19,89,84,53,32,100,74,16,53,32,16,95,84,74,42,
+BOS @ PHI · Wed 01:00 UK,Payton Pritchard,BOS,40,75,55,32,22,68,25,8,88,48,22,80,70,52,40,
+BOS @ PHI · Wed 01:00 UK,Sam Hauser,BOS,39,41,13,5,0,77,23,5,18,3,0,87,69,41,21,
+BOS @ PHI · Wed 01:00 UK,Tyrese Maxey,PHI,35,100,97,89,71,74,29,17,89,63,37,100,77,46,23,
+BOS @ PHI · Wed 01:00 UK,VJ Edgecombe,PHI,38,82,50,32,5,95,74,39,68,26,13,79,45,29,13,
+LAC @ PHX · Wed 02:00 UK,Brandon Ingram,LAC,39,95,79,51,28,87,69,23,72,33,8,77,51,31,13,Out (Achilles) – est. return 13 Nov
+LAC @ PHX · Wed 02:00 UK,Brook Lopez,LAC,38,61,42,13,3,82,58,32,26,0,0,76,39,26,11,
+LAC @ PHX · Wed 02:00 UK,Collin Gillespie,PHX,40,52,28,10,2,78,28,10,70,40,25,85,68,48,30,
+LAC @ PHX · Wed 02:00 UK,Darius Garland,LAC,23,100,87,52,30,30,4,0,100,83,43,100,74,57,35,
+LAC @ PHX · Wed 02:00 UK,Derrick Jones Jr.,LAC,25,52,16,4,0,88,44,16,28,8,0,60,36,16,0,
+LAC @ PHX · Wed 02:00 UK,Devin Booker,PHX,32,94,91,84,62,72,22,6,84,69,38,88,72,38,22,
+LAC @ PHX · Wed 02:00 UK,Dillon Brooks,PHX,28,89,64,46,25,75,46,7,36,7,0,89,54,32,21,
+LAC @ PHX · Wed 02:00 UK,Isaiah Jackson,LAC,28,43,4,0,0,86,68,25,25,0,0,4,0,0,0,
+LAC @ PHX · Wed 02:00 UK,Jalen Green,PHX,16,75,56,44,19,56,25,6,56,25,12,56,44,25,6,
+LAC @ PHX · Wed 02:00 UK,Jordan Miller,LAC,30,67,17,3,0,50,17,7,50,23,7,33,13,3,0,Out (Shoulder) – est. return 2 Mar
+LAC @ PHX · Wed 02:00 UK,Keaton Wagler,LAC,9,78,33,11,0,78,33,0,78,11,0,78,56,44,0,
+LAC @ PHX · Wed 02:00 UK,Kobe Sanders,LAC,34,32,15,3,3,38,6,0,21,3,0,74,44,24,6,
+LAC @ PHX · Wed 02:00 UK,Kris Dunn,LAC,41,24,10,0,0,66,46,15,83,44,17,59,27,5,2,
+LAC @ PHX · Wed 02:00 UK,Mark Williams,PHX,30,60,17,7,3,97,93,67,3,0,0,0,0,0,0,Out (Shoulder) – est. return 3 Feb
+LAC @ PHX · Wed 02:00 UK,Max Strus,LAC,3,33,0,0,0,100,33,0,67,67,0,100,67,67,0,
+LAC @ PHX · Wed 02:00 UK,Miles Bridges,PHX,39,82,49,21,10,90,64,41,49,23,8,74,44,28,15,
+LAC @ PHX · Wed 02:00 UK,Oso Ighodaro,PHX,41,32,7,0,0,88,66,34,51,27,10,0,0,0,0,
+LAC @ PHX · Wed 02:00 UK,Rui Hachimura,LAC,34,59,26,15,0,59,32,18,9,3,3,79,56,24,6,
+MIA @ UTA · Wed 02:00 UK,Ace Bailey,UTA,36,81,58,25,11,81,64,33,39,3,0,92,53,31,17,
+MIA @ UTA · Wed 02:00 UK,Andrew Wiggins,MIA,34,71,29,15,9,68,38,21,26,9,0,85,59,38,21,
+MIA @ UTA · Wed 02:00 UK,Bam Adebayo,MIA,37,92,84,59,24,100,97,92,78,24,11,76,41,19,11,
+MIA @ UTA · Wed 02:00 UK,Bobby Portis,MIA,34,74,32,9,3,82,68,44,29,6,3,74,59,38,9,
+MIA @ UTA · Wed 02:00 UK,Darryn Peterson,UTA,10,70,50,20,10,80,30,10,80,30,10,70,60,50,10,
+MIA @ UTA · Wed 02:00 UK,Davion Mitchell,MIA,35,66,31,11,0,43,14,3,91,71,43,74,57,26,9,
+MIA @ UTA · Wed 02:00 UK,Giannis Antetokounmpo,MIA,18,100,94,83,56,100,100,72,89,50,39,22,6,0,0,Probable (Wrist)
+MIA @ UTA · Wed 02:00 UK,Jaren Jackson Jr.,UTA,24,96,88,58,25,92,62,38,25,0,0,83,67,17,8,Out (Knee) – est. return 14 Dec
+MIA @ UTA · Wed 02:00 UK,Jaxson Hayes,UTA,33,36,21,6,0,91,61,27,15,0,0,6,0,0,0,
+MIA @ UTA · Wed 02:00 UK,Keyonte George,UTA,27,89,85,56,41,59,22,11,81,59,33,78,52,41,33,Out (Ankle) – est. return 11 Nov
+MIA @ UTA · Wed 02:00 UK,Klay Thompson,MIA,35,57,34,14,6,17,3,0,14,0,0,97,74,57,43,
+MIA @ UTA · Wed 02:00 UK,Lauri Markkanen,UTA,21,95,90,57,38,95,76,57,33,0,0,95,76,57,24,Questionable (Wrist)
+MIA @ UTA · Wed 02:00 UK,Pelle Larsson,MIA,35,77,37,11,3,69,31,9,74,29,3,60,29,6,0,

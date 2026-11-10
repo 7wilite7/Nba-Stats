@@ -1,4 +1,4 @@
-"Updated Tue 10 Nov 00:58 UK · box scores to 2026-11-08 · fact-check vs ESPN: 99.58% of 13,176 stats match (146 games) · pick tracker: 85% hit from 2339 graded picks"
+"Updated Tue 10 Nov 02:02 UK · box scores to 2026-11-08 · fact-check vs ESPN: 99.58% of 13,176 stats match (146 games) · pick tracker: 85% hit from 2339 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -15,27 +15,86 @@ By true rate,Graded,Hit %,True % given
 95–100%,77,92,96
 
 Date,Game,Pick,True %,Season %,Games,Result,Source
+2026-11-11,BOS @ PHI,VJ Edgecombe Rebounds 3+,93,95,38,Pending,Live
+2026-11-11,BOS @ PHI,Tyrese Maxey Threes 1+,97,100,35,Pending,Live
+2026-11-11,BOS @ PHI,Tyrese Maxey Points 20+,83,89,35,Pending,Live
+2026-11-11,BOS @ PHI,Tyrese Maxey Assists 3+,85,89,35,Pending,Live
 2026-11-11,MIL @ NYK,Tyler Herro Threes 1+,94,100,17,Pending,Live
 2026-11-11,MIL @ NYK,Tyler Herro Rebounds 3+,85,88,17,Pending,Live
 2026-11-11,MIL @ NYK,Tyler Herro Points 10+,88,94,17,Pending,Live
+2026-11-11,BOS @ PHI,Sam Hauser Threes 1+,85,87,39,Pending,Live
 2026-11-11,MIL @ NYK,Ryan Rollins Threes 1+,92,95,37,Pending,Live
 2026-11-11,MIL @ NYK,Ryan Rollins Rebounds 3+,80,81,37,Pending,Live
 2026-11-11,MIL @ NYK,Ryan Rollins Points 10+,84,86,37,Pending,Live
 2026-11-11,MIL @ NYK,Ryan Rollins Assists 3+,83,86,37,Pending,Live
+2026-11-11,BOS @ PHI,Payton Pritchard Assists 3+,84,88,40,Pending,Live
+2026-11-11,BOS @ PHI,Paul George Threes 1+,90,95,19,Pending,Live
+2026-11-11,BOS @ PHI,Paul George Rebounds 3+,95,100,19,Pending,Live
+2026-11-11,BOS @ PHI,Paul George Points 10+,84,89,19,Pending,Live
+2026-11-11,LAC @ PHX,Oso Ighodaro Rebounds 3+,86,88,41,Pending,Live
 2026-11-11,MIL @ NYK,OG Anunoby Threes 1+,91,94,34,Pending,Live
 2026-11-11,MIL @ NYK,OG Anunoby Rebounds 3+,84,85,34,Pending,Live
+2026-11-11,BOS @ PHI,Neemias Queta Rebounds 3+,93,95,38,Pending,Live
 2026-11-11,MIL @ NYK,Myles Turner Threes 1+,81,83,36,Pending,Live
 2026-11-11,MIL @ NYK,Myles Turner Rebounds 3+,87,89,36,Pending,Live
+2026-11-11,LAC @ PHX,Miles Bridges Rebounds 3+,88,90,39,Pending,Live
+2026-11-11,LAC @ PHX,Miles Bridges Points 10+,80,82,39,Pending,Live
+2026-11-11,LAC @ PHX,Max Strus Threes 1+,80,100,3,Pending,Live
+2026-11-11,LAC @ PHX,Max Strus Rebounds 3+,82,100,3,Pending,Live
+2026-11-11,BOS @ PHI,LeBron James Rebounds 5+,85,90,30,Pending,Live
+2026-11-11,BOS @ PHI,LeBron James Points 10+,93,97,30,Pending,Live
+2026-11-11,BOS @ PHI,LeBron James Assists 5+,81,87,30,Pending,Live
+2026-11-11,MIA @ UTA,Lauri Markkanen Threes 1+,91,95,21,Pending,Live
+2026-11-11,MIA @ UTA,Lauri Markkanen Rebounds 3+,91,95,21,Pending,Live
+2026-11-11,MIA @ UTA,Lauri Markkanen Points 15+,83,90,21,Pending,Live
 2026-11-11,MIL @ NYK,Landry Shamet Threes 1+,82,85,26,Pending,Live
 2026-11-11,MIL @ NYK,Kyle Kuzma Rebounds 3+,81,83,35,Pending,Live
+2026-11-11,LAC @ PHX,Kris Dunn Assists 3+,80,83,41,Pending,Live
+2026-11-11,MIA @ UTA,Klay Thompson Threes 1+,94,97,35,Pending,Live
 2026-11-11,MIL @ NYK,Karl-Anthony Towns Threes 1+,80,82,38,Pending,Live
 2026-11-11,MIL @ NYK,Karl-Anthony Towns Rebounds 7+,92,97,38,Pending,Live
 2026-11-11,MIL @ NYK,Karl-Anthony Towns Points 15+,83,87,38,Pending,Live
 2026-11-11,MIL @ NYK,Josh Hart Rebounds 5+,81,85,33,Pending,Live
 2026-11-11,MIL @ NYK,Josh Hart Assists 3+,81,85,33,Pending,Live
+2026-11-11,BOS @ PHI,Joel Embiid Rebounds 5+,92,100,19,Pending,Live
+2026-11-11,BOS @ PHI,Joel Embiid Points 10+,89,95,19,Pending,Live
+2026-11-11,BOS @ PHI,Jayson Tatum Threes 1+,82,89,9,Pending,Live
+2026-11-11,BOS @ PHI,Jayson Tatum Rebounds 3+,91,100,9,Pending,Live
+2026-11-11,BOS @ PHI,Jayson Tatum Points 10+,88,100,9,Pending,Live
+2026-11-11,BOS @ PHI,Jayson Tatum Assists 5+,80,100,9,Pending,Live
+2026-11-11,BOS @ PHI,Jaylen Brown Threes 1+,84,86,36,Pending,Live
+2026-11-11,BOS @ PHI,Jaylen Brown Rebounds 3+,92,94,36,Pending,Live
+2026-11-11,BOS @ PHI,Jaylen Brown Points 20+,81,86,36,Pending,Live
+2026-11-11,BOS @ PHI,Jaylen Brown Assists 3+,85,89,36,Pending,Live
+2026-11-11,MIA @ UTA,Jaxson Hayes Rebounds 3+,89,91,33,Pending,Live
 2026-11-11,MIL @ NYK,Jalen Brunson Threes 1+,84,86,37,Pending,Live
 2026-11-11,MIL @ NYK,Jalen Brunson Points 15+,85,89,37,Pending,Live
 2026-11-11,MIL @ NYK,Jalen Brunson Assists 3+,93,97,37,Pending,Live
+2026-11-11,LAC @ PHX,Isaiah Jackson Rebounds 3+,84,86,28,Pending,Live
+2026-11-11,MIA @ UTA,Giannis Antetokounmpo Rebounds 5+,91,100,18,Pending,Live
+2026-11-11,MIA @ UTA,Giannis Antetokounmpo Points 15+,85,94,18,Pending,Live
+2026-11-11,MIA @ UTA,Giannis Antetokounmpo Assists 3+,82,89,18,Pending,Live
+2026-11-11,LAC @ PHX,Dillon Brooks Threes 1+,86,89,28,Pending,Live
+2026-11-11,LAC @ PHX,Dillon Brooks Points 10+,86,89,28,Pending,Live
+2026-11-11,LAC @ PHX,Devin Booker Threes 1+,85,88,32,Pending,Live
+2026-11-11,LAC @ PHX,Devin Booker Points 15+,86,91,32,Pending,Live
+2026-11-11,LAC @ PHX,Devin Booker Assists 3+,81,84,32,Pending,Live
+2026-11-11,BOS @ PHI,Derrick White Threes 1+,85,87,39,Pending,Live
+2026-11-11,BOS @ PHI,Derrick White Assists 3+,86,90,39,Pending,Live
+2026-11-11,LAC @ PHX,Derrick Jones Jr. Rebounds 3+,85,88,25,Pending,Live
+2026-11-11,MIA @ UTA,Davion Mitchell Assists 3+,87,91,35,Pending,Live
+2026-11-11,LAC @ PHX,Darius Garland Threes 1+,95,100,23,Pending,Live
+2026-11-11,LAC @ PHX,Darius Garland Points 15+,81,87,23,Pending,Live
+2026-11-11,LAC @ PHX,Darius Garland Assists 3+,93,100,23,Pending,Live
+2026-11-11,LAC @ PHX,Collin Gillespie Threes 1+,83,85,40,Pending,Live
+2026-11-11,LAC @ PHX,Brook Lopez Rebounds 3+,80,82,38,Pending,Live
+2026-11-11,MIA @ UTA,Bobby Portis Rebounds 3+,81,82,34,Pending,Live
+2026-11-11,BOS @ PHI,Baylor Scheierman Threes 1+,85,87,39,Pending,Live
+2026-11-11,MIA @ UTA,Bam Adebayo Rebounds 7+,87,92,37,Pending,Live
+2026-11-11,MIA @ UTA,Bam Adebayo Points 15+,80,84,37,Pending,Live
+2026-11-11,BOS @ PHI,Anfernee Simons Threes 1+,86,89,28,Pending,Live
+2026-11-11,MIA @ UTA,Andrew Wiggins Threes 1+,83,85,34,Pending,Live
+2026-11-11,MIA @ UTA,Ace Bailey Threes 1+,89,92,36,Pending,Live
 2026-11-11,MIL @ NYK,AJ Green Threes 1+,88,90,39,Pending,Live
 2026-11-10,NOP @ GSW,Zion Williamson Rebounds 3+,82,84,31,Pending,Live
 2026-11-10,NOP @ GSW,Zion Williamson Points 15+,82,87,31,Pending,Live
@@ -356,62 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-08,SAS @ POR,Julian Champagnie Threes 1+,81,83,41,Hit,Live
 2026-11-08,SAS @ POR,Julian Champagnie Rebounds 3+,84,85,41,Hit,Live
 2026-11-08,SAS @ POR,Jrue Holiday Threes 1+,86,89,27,Hit,Live
-2026-11-08,SAS @ POR,Jrue Holiday Rebounds 3+,83,85,27,Miss,Live
-2026-11-08,PHI @ CHI,Josh Giddey Rebounds 3+,80,81,27,Hit,Live
-2026-11-08,PHI @ CHI,Josh Giddey Assists 5+,82,89,27,Hit,Live
-2026-11-08,LAL @ DET,John Collins Rebounds 3+,84,86,35,Hit,Live
-2026-11-08,PHI @ CHI,Joel Embiid Rebounds 5+,92,100,19,Hit,Live
-2026-11-08,PHI @ CHI,Joel Embiid Points 10+,89,95,19,Hit,Live
-2026-11-08,PHI @ CHI,Jaylen Brown Threes 1+,84,86,36,Hit,Live
-2026-11-08,PHI @ CHI,Jaylen Brown Rebounds 3+,92,94,36,Hit,Live
-2026-11-08,PHI @ CHI,Jaylen Brown Points 20+,81,86,36,Hit,Live
-2026-11-08,PHI @ CHI,Jaylen Brown Assists 3+,83,86,36,Hit,Live
-2026-11-08,NYK @ CLE,Jarrett Allen Rebounds 5+,84,89,28,Did not play,Live
-2026-11-08,NYK @ CLE,Jarrett Allen Points 10+,86,89,28,Did not play,Live
-2026-11-08,NYK @ CLE,James Harden Threes 2+,84,89,35,Miss,Live
-2026-11-08,NYK @ CLE,James Harden Rebounds 3+,81,83,35,Miss,Live
-2026-11-08,NYK @ CLE,James Harden Points 10+,96,100,35,Miss,Live
-2026-11-08,NYK @ CLE,James Harden Assists 5+,83,89,35,Hit,Live
-2026-11-08,PHI @ CHI,Jalen Smith Rebounds 3+,90,93,27,Hit,Live
-2026-11-08,BKN @ ATL,Jalen Johnson Rebounds 7+,81,86,36,Hit,Live
-2026-11-08,BKN @ ATL,Jalen Johnson Points 10+,91,94,36,Hit,Live
-2026-11-08,BKN @ ATL,Jalen Johnson Assists 3+,90,94,36,Hit,Live
-2026-11-08,NYK @ CLE,Jalen Brunson Threes 1+,84,86,37,Hit,Live
-2026-11-08,NYK @ CLE,Jalen Brunson Points 15+,85,89,37,Hit,Live
-2026-11-08,NYK @ CLE,Jalen Brunson Assists 3+,93,97,37,Hit,Live
-2026-11-08,HOU @ PHX,Jabari Smith Jr. Threes 1+,92,95,39,Hit,Live
-2026-11-08,HOU @ PHX,Jabari Smith Jr. Rebounds 3+,90,92,39,Hit,Live
-2026-11-08,HOU @ PHX,Jabari Smith Jr. Points 10+,89,92,39,Hit,Live
-2026-11-08,WAS @ OKC,Isaiah Hartenstein Rebounds 3+,90,100,8,Hit,Live
-2026-11-08,ORL @ GSW,Gui Santos Rebounds 3+,94,97,34,Miss,Live
-2026-11-08,HOU @ PHX,Fred VanVleet Assists 3+,82,100,7,Hit,Live
-2026-11-08,ORL @ GSW,Franz Wagner Points 10+,88,94,17,Hit,Live
-2026-11-08,NYK @ CLE,Evan Mobley Rebounds 5+,87,91,33,Hit,Live
-2026-11-08,NYK @ CLE,Evan Mobley Points 10+,90,94,33,Hit,Live
-2026-11-08,BKN @ ATL,Dyson Daniels Rebounds 3+,93,95,38,Hit,Live
-2026-11-08,BKN @ ATL,Dyson Daniels Assists 3+,91,95,38,Hit,Live
-2026-11-08,LAL @ DET,Duncan Robinson Threes 2+,81,85,39,Hit,Live
-2026-11-08,ORL @ GSW,Draymond Green Rebounds 3+,86,88,34,Hit,Live
-2026-11-08,ORL @ GSW,Draymond Green Assists 3+,84,88,34,Hit,Live
-2026-11-08,NYK @ CLE,Donovan Mitchell Threes 1+,86,89,35,Hit,Live
-2026-11-08,NYK @ CLE,Donovan Mitchell Points 15+,87,91,35,Hit,Live
-2026-11-08,NYK @ CLE,Donovan Mitchell Assists 3+,95,100,35,Hit,Live
-2026-11-08,SAS @ POR,Donovan Clingan Rebounds 7+,90,95,39,Miss,Live
-2026-11-08,HOU @ PHX,Dillon Brooks Threes 1+,86,89,28,Hit,Live
-2026-11-08,HOU @ PHX,Dillon Brooks Points 10+,83,86,28,Hit,Live
-2026-11-08,SAS @ POR,Devin Vassell Threes 1+,86,88,34,Hit,Live
-2026-11-08,HOU @ PHX,Devin Booker Threes 1+,85,88,32,Hit,Live
-2026-11-08,HOU @ PHX,Devin Booker Points 15+,86,91,32,Hit,Live
-2026-11-08,HOU @ PHX,Devin Booker Assists 3+,81,84,32,Hit,Live
-2026-11-08,ORL @ GSW,Desmond Bane Threes 1+,93,95,41,Did not play,Live
-2026-11-08,ORL @ GSW,Desmond Bane Points 10+,90,93,41,Did not play,Live
-2026-11-08,SAS @ POR,Deni Avdija Rebounds 3+,94,97,33,Hit,Live
-2026-11-08,SAS @ POR,Deni Avdija Points 15+,86,91,33,Hit,Live
-2026-11-08,SAS @ POR,Deni Avdija Assists 3+,87,91,33,Miss,Live
-2026-11-08,SAS @ POR,De'Aaron Fox Points 10+,91,94,36,Miss,Live
-2026-11-08,SAS @ POR,De'Aaron Fox Assists 3+,93,97,36,Hit,Live
-2026-11-08,BKN @ ATL,Day'Ron Sharpe Rebounds 5+,86,90,31,Hit,Live
-2026-11-08,SAS @ POR,Damian Lillard Threes 1+,88,100,7,Hit,Live
-2026-11-08,SAS @ POR,Damian Lillard Rebounds 3+,80,86,7,Miss,Live
-2026-11-08,HOU @ PHX,Collin Gillespie Threes 1+,83,85,40,Hit,Live
-2026-11-08,PHI @ CHI,Caleb Wilson Threes 1+,89,100,8,Hit,Live
