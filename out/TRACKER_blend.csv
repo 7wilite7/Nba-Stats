@@ -1,4 +1,4 @@
-"Updated Tue 10 Nov 02:02 UK · box scores to 2026-11-08 · fact-check vs ESPN: 99.58% of 13,176 stats match (146 games) · pick tracker: 85% hit from 2339 graded picks"
+"Updated Tue 10 Nov 03:50 UK · box scores to 2026-11-08 · fact-check vs ESPN: 99.58% of 13,176 stats match (146 games) · pick tracker: 85% hit from 2339 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -15,6 +15,9 @@ By true rate,Graded,Hit %,True % given
 95–100%,77,92,96
 
 Date,Game,Pick,True %,Season %,Games,Result,Source
+2026-11-11,ORL @ SAC,Zach LaVine Threes 1+,86,90,20,Pending,Live
+2026-11-11,ORL @ SAC,Zach LaVine Points 10+,89,95,20,Pending,Live
+2026-11-11,ORL @ SAC,Wendell Carter Jr. Rebounds 5+,89,92,39,Pending,Live
 2026-11-11,BOS @ PHI,VJ Edgecombe Rebounds 3+,93,95,38,Pending,Live
 2026-11-11,BOS @ PHI,Tyrese Maxey Threes 1+,97,100,35,Pending,Live
 2026-11-11,BOS @ PHI,Tyrese Maxey Points 20+,83,89,35,Pending,Live
@@ -22,11 +25,13 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-11,MIL @ NYK,Tyler Herro Threes 1+,94,100,17,Pending,Live
 2026-11-11,MIL @ NYK,Tyler Herro Rebounds 3+,85,88,17,Pending,Live
 2026-11-11,MIL @ NYK,Tyler Herro Points 10+,88,94,17,Pending,Live
+2026-11-11,ORL @ SAC,Tristan Da Silva Threes 1+,83,85,39,Pending,Live
 2026-11-11,BOS @ PHI,Sam Hauser Threes 1+,85,87,39,Pending,Live
 2026-11-11,MIL @ NYK,Ryan Rollins Threes 1+,92,95,37,Pending,Live
 2026-11-11,MIL @ NYK,Ryan Rollins Rebounds 3+,80,81,37,Pending,Live
 2026-11-11,MIL @ NYK,Ryan Rollins Points 10+,84,86,37,Pending,Live
 2026-11-11,MIL @ NYK,Ryan Rollins Assists 3+,83,86,37,Pending,Live
+2026-11-11,ORL @ SAC,Precious Achiuwa Rebounds 5+,83,86,37,Pending,Live
 2026-11-11,BOS @ PHI,Payton Pritchard Assists 3+,84,88,40,Pending,Live
 2026-11-11,BOS @ PHI,Paul George Threes 1+,90,95,19,Pending,Live
 2026-11-11,BOS @ PHI,Paul George Rebounds 3+,95,100,19,Pending,Live
@@ -74,18 +79,27 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-11,MIA @ UTA,Giannis Antetokounmpo Rebounds 5+,91,100,18,Pending,Live
 2026-11-11,MIA @ UTA,Giannis Antetokounmpo Points 15+,85,94,18,Pending,Live
 2026-11-11,MIA @ UTA,Giannis Antetokounmpo Assists 3+,82,89,18,Pending,Live
+2026-11-11,ORL @ SAC,Franz Wagner Points 10+,88,94,17,Pending,Live
+2026-11-11,ORL @ SAC,Domantas Sabonis Rebounds 7+,82,100,10,Pending,Live
 2026-11-11,LAC @ PHX,Dillon Brooks Threes 1+,86,89,28,Pending,Live
 2026-11-11,LAC @ PHX,Dillon Brooks Points 10+,86,89,28,Pending,Live
 2026-11-11,LAC @ PHX,Devin Booker Threes 1+,85,88,32,Pending,Live
 2026-11-11,LAC @ PHX,Devin Booker Points 15+,86,91,32,Pending,Live
 2026-11-11,LAC @ PHX,Devin Booker Assists 3+,81,84,32,Pending,Live
+2026-11-11,ORL @ SAC,Desmond Bane Threes 1+,93,95,41,Pending,Live
+2026-11-11,ORL @ SAC,Desmond Bane Points 10+,90,93,41,Pending,Live
 2026-11-11,BOS @ PHI,Derrick White Threes 1+,85,87,39,Pending,Live
 2026-11-11,BOS @ PHI,Derrick White Assists 3+,86,90,39,Pending,Live
 2026-11-11,LAC @ PHX,Derrick Jones Jr. Rebounds 3+,85,88,25,Pending,Live
+2026-11-11,ORL @ SAC,De'Andre Hunter Rebounds 3+,83,89,9,Pending,Live
 2026-11-11,MIA @ UTA,Davion Mitchell Assists 3+,87,91,35,Pending,Live
 2026-11-11,LAC @ PHX,Darius Garland Threes 1+,95,100,23,Pending,Live
 2026-11-11,LAC @ PHX,Darius Garland Points 15+,81,87,23,Pending,Live
 2026-11-11,LAC @ PHX,Darius Garland Assists 3+,93,100,23,Pending,Live
+2026-11-11,ORL @ SAC,Darius Acuff Jr. Threes 1+,83,90,10,Pending,Live
+2026-11-11,ORL @ SAC,Darius Acuff Jr. Rebounds 3+,84,90,10,Pending,Live
+2026-11-11,ORL @ SAC,Darius Acuff Jr. Points 10+,89,100,10,Pending,Live
+2026-11-11,ORL @ SAC,Darius Acuff Jr. Assists 3+,86,100,10,Pending,Live
 2026-11-11,LAC @ PHX,Collin Gillespie Threes 1+,83,85,40,Pending,Live
 2026-11-11,LAC @ PHX,Brook Lopez Rebounds 3+,80,82,38,Pending,Live
 2026-11-11,MIA @ UTA,Bobby Portis Rebounds 3+,81,82,34,Pending,Live
@@ -401,17 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-08,LAL @ DET,Luka Doncic Assists 3+,92,97,32,Did not play,Live
 2026-11-08,BKN @ ATL,Luguentz Dort Threes 1+,84,86,35,Hit,Live
 2026-11-08,PHI @ CHI,LeBron James Rebounds 5+,85,90,30,Hit,Live
-2026-11-08,PHI @ CHI,LeBron James Points 10+,93,97,30,Hit,Live
-2026-11-08,PHI @ CHI,LeBron James Assists 3+,89,93,30,Hit,Live
-2026-11-08,HOU @ PHX,Kevin Durant Threes 1+,83,85,39,Hit,Live
-2026-11-08,HOU @ PHX,Kevin Durant Rebounds 3+,98,100,39,Hit,Live
-2026-11-08,HOU @ PHX,Kevin Durant Points 15+,88,92,39,Hit,Live
-2026-11-08,HOU @ PHX,Kevin Durant Assists 3+,81,85,39,Hit,Live
-2026-11-08,NYK @ CLE,Karl-Anthony Towns Rebounds 7+,92,97,38,Hit,Live
-2026-11-08,NYK @ CLE,Karl-Anthony Towns Points 15+,80,84,38,Hit,Live
-2026-11-08,BKN @ ATL,Julius Randle Rebounds 3+,93,95,40,Hit,Live
-2026-11-08,BKN @ ATL,Julius Randle Points 10+,92,95,40,Hit,Live
-2026-11-08,BKN @ ATL,Julius Randle Assists 3+,80,82,40,Hit,Live
-2026-11-08,SAS @ POR,Julian Champagnie Threes 1+,81,83,41,Hit,Live
-2026-11-08,SAS @ POR,Julian Champagnie Rebounds 3+,84,85,41,Hit,Live
-2026-11-08,SAS @ POR,Jrue Holiday Threes 1+,86,89,27,Hit,Live
