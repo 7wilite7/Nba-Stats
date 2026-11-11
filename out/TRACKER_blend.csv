@@ -1,4 +1,4 @@
-"Updated Wed 11 Nov 17:55 UK · box scores to 2026-11-10 · fact-check vs ESPN: 99.6% of 14,480 stats match (160 games) · pick tracker: 85% hit from 2569 graded picks"
+"Updated Wed 11 Nov 18:55 UK · box scores to 2026-11-10 · fact-check vs ESPN: 99.6% of 14,480 stats match (160 games) · pick tracker: 85% hit from 2569 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -112,6 +112,8 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-12,SAS @ CHI,Julian Champagnie Threes 1+,81,83,41,Pending,Live
 2026-11-12,SAS @ CHI,Julian Champagnie Rebounds 3+,84,85,41,Pending,Live
 2026-11-12,OKC @ POR,Jrue Holiday Threes 1+,86,89,27,Pending,Live
+2026-11-12,CLE @ NYK,Josh Hart Rebounds 5+,81,85,33,Pending,Live
+2026-11-12,CLE @ NYK,Josh Hart Assists 3+,81,85,33,Pending,Live
 2026-11-12,SAS @ CHI,Josh Giddey Rebounds 3+,80,81,27,Pending,Live
 2026-11-12,SAS @ CHI,Josh Giddey Assists 5+,85,93,27,Pending,Live
 2026-11-12,DEN @ MEM,Jerami Grant Threes 1+,87,90,29,Pending,Live
@@ -413,5 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-10,DEN @ HOU,Fred VanVleet Threes 1+,80,88,8,Hit,Live
 2026-11-10,DEN @ HOU,Fred VanVleet Assists 3+,84,100,8,Miss,Live
 2026-11-10,CLE @ CHA,Evan Mobley Rebounds 5+,87,91,33,Miss,Live
-2026-11-10,CLE @ CHA,Evan Mobley Points 10+,90,94,33,Miss,Live
-2026-11-10,LAL @ ATL,Dyson Daniels Rebounds 3+,93,95,38,Hit,Live
