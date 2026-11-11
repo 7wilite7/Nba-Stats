@@ -1,4 +1,4 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Wed 11 Nov 18:55 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Wed 11 Nov 19:58 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 BOS @ TOR · Thu 00:00 UK,Baylor Scheierman,BOS,11,18,0,0,0,73,27,9,9,0,0,73,36,18,0,
 BOS @ TOR · Thu 00:00 UK,Collin Murray-Boyles,TOR,9,56,33,0,0,89,56,44,11,0,0,44,11,0,0,Questionable (Illness)
@@ -83,11 +83,11 @@ LAL @ MIL · Thu 01:00 UK,Jake LaRavia,LAL,11,18,0,0,0,45,18,18,27,0,0,64,45,0,0
 LAL @ MIL · Thu 01:00 UK,Kyle Kuzma,MIL,11,55,18,9,9,91,64,27,82,0,0,73,36,18,18,
 LAL @ MIL · Thu 01:00 UK,Luka Doncic,LAL,10,100,100,100,90,100,100,70,100,100,70,100,100,90,80,
 LAL @ MIL · Thu 01:00 UK,Matisse Thybulle,LAL,12,33,8,0,0,17,0,0,8,0,0,83,50,25,8,
-LAL @ MIL · Thu 01:00 UK,Myles Turner,MIL,11,45,0,0,0,91,73,36,36,18,9,55,36,18,9,
-LAL @ MIL · Thu 01:00 UK,Quentin Grimes,LAL,11,36,9,9,0,45,9,9,55,9,0,45,18,9,0,Questionable (Finger)
+LAL @ MIL · Thu 01:00 UK,Myles Turner,MIL,11,45,0,0,0,91,73,36,36,18,9,55,36,18,9,Out (Rest) – est. return 13 Nov
+LAL @ MIL · Thu 01:00 UK,Quentin Grimes,LAL,11,36,9,9,0,45,9,9,55,9,0,45,18,9,0,Out (Finger) – est. return 15 Nov
 LAL @ MIL · Thu 01:00 UK,Ryan Rollins,MIL,11,64,18,0,0,82,45,18,73,45,9,91,55,18,9,
 LAL @ MIL · Thu 01:00 UK,Sandro Mamukelashvili,LAL,12,42,17,8,0,92,42,25,25,0,0,67,33,17,8,
-LAL @ MIL · Thu 01:00 UK,Tyler Herro,MIL,10,100,80,70,20,80,60,10,70,30,30,100,70,70,60,Day-To-Day / GTD (Knee) – est. return 11 Nov
+LAL @ MIL · Thu 01:00 UK,Tyler Herro,MIL,10,100,80,70,20,80,60,10,70,30,30,100,70,70,60,Questionable (Knee)
 LAL @ MIL · Thu 01:00 UK,Walker Kessler,LAL,12,92,58,25,8,100,100,100,25,0,0,0,0,0,0,
 LAL @ MIL · Thu 01:00 UK,Ziaire Williams,LAL,9,67,11,0,0,44,11,0,22,0,0,100,67,33,11,
 SAS @ CHI · Thu 01:00 UK,Caleb Wilson,CHI,9,89,89,56,11,100,89,22,56,0,0,100,56,33,22,Questionable (Hip)
@@ -116,7 +116,7 @@ ORL @ UTA · Thu 02:00 UK,Jaxson Hayes,UTA,10,20,20,0,0,90,90,30,30,0,0,0,0,0,0,
 ORL @ UTA · Thu 02:00 UK,Keyonte George,UTA,10,80,80,50,30,80,40,20,90,70,50,70,50,30,20,Day-To-Day / GTD (Ankle) – est. return 11 Nov
 ORL @ UTA · Thu 02:00 UK,Lauri Markkanen,UTA,8,88,75,50,12,88,88,62,50,0,0,88,75,62,62,Out (Hand) – est. return 4 Jan
 ORL @ UTA · Thu 02:00 UK,Paolo Banchero,ORL,2,100,50,50,50,100,100,50,100,100,50,50,50,50,0,Out (Ankle) – est. return 22 Nov
-ORL @ UTA · Thu 02:00 UK,Tristan Da Silva,ORL,9,78,56,22,0,56,22,22,22,0,0,100,89,67,67,Day-To-Day / GTD (Calf) – est. return 11 Nov
+ORL @ UTA · Thu 02:00 UK,Tristan Da Silva,ORL,9,78,56,22,0,56,22,22,22,0,0,100,89,67,67,Questionable (Calf)
 ORL @ UTA · Thu 02:00 UK,Wendell Carter Jr.,ORL,10,50,50,40,10,100,100,100,10,0,0,60,30,20,0,
 GSW @ HOU · Thu 02:30 UK,Alperen Sengun,HOU,9,100,100,56,33,100,100,89,100,100,78,78,22,0,0,
 GSW @ HOU · Thu 02:30 UK,Amen Thompson,HOU,11,82,64,18,0,100,64,55,64,18,0,18,0,0,0,
