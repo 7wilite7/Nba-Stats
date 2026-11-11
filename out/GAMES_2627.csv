@@ -1,9 +1,9 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Wed 11 Nov 21:34 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Wed 11 Nov 22:31 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 BOS @ TOR · Thu 00:00 UK,Baylor Scheierman,BOS,11,18,0,0,0,73,27,9,9,0,0,73,36,18,0,
 BOS @ TOR · Thu 00:00 UK,Collin Murray-Boyles,TOR,9,56,33,0,0,89,56,44,11,0,0,44,11,0,0,Questionable (Illness)
 BOS @ TOR · Thu 00:00 UK,Derrick White,BOS,11,55,36,9,0,55,18,0,91,55,36,100,36,18,9,
-BOS @ TOR · Thu 00:00 UK,Immanuel Quickley,TOR,8,100,62,25,12,75,25,0,75,75,62,88,75,62,38,Questionable (Hamstring)
+BOS @ TOR · Thu 00:00 UK,Immanuel Quickley,TOR,8,100,62,25,12,75,25,0,75,75,62,88,75,62,38,Questionable
 BOS @ TOR · Thu 00:00 UK,Ja'Kobe Walter,TOR,10,60,10,10,0,90,40,0,20,10,0,90,60,40,10,
 BOS @ TOR · Thu 00:00 UK,Jakob Poeltl,TOR,8,38,25,0,0,75,75,50,12,0,0,0,0,0,0,
 BOS @ TOR · Thu 00:00 UK,Jamal Shead,TOR,10,30,10,10,0,40,0,0,90,90,40,50,20,10,10,
@@ -22,7 +22,7 @@ CLE @ NYK · Thu 00:00 UK,James Harden,CLE,11,91,55,9,0,82,55,18,100,82,27,100,8
 CLE @ NYK · Thu 00:00 UK,Jarrett Allen,CLE,9,78,22,22,11,89,89,78,11,0,0,33,0,0,0,
 CLE @ NYK · Thu 00:00 UK,Jaylon Tyson,CLE,5,40,20,0,0,60,40,0,40,20,0,60,20,20,0,Questionable (Ankle)
 CLE @ NYK · Thu 00:00 UK,Josh Hart,NYK,7,43,0,0,0,100,86,57,86,29,14,86,86,14,0,Probable (Illness)
-CLE @ NYK · Thu 00:00 UK,Karl-Anthony Towns,NYK,10,100,90,60,20,100,100,100,80,20,0,90,70,30,0,Questionable (Calf)
+CLE @ NYK · Thu 00:00 UK,Karl-Anthony Towns,NYK,10,100,90,60,20,100,100,100,80,20,0,90,70,30,0,Questionable (Left Sore Calf)
 CLE @ NYK · Thu 00:00 UK,Landry Shamet,NYK,10,40,10,10,0,10,0,0,30,10,0,90,70,40,20,
 CLE @ NYK · Thu 00:00 UK,Meleek Thomas,CLE,8,75,38,0,0,50,12,0,25,0,0,88,88,75,25,
 CLE @ NYK · Thu 00:00 UK,Mikal Bridges,NYK,10,20,0,0,0,70,40,0,40,0,0,50,20,10,10,
@@ -57,7 +57,7 @@ BKN @ NOP · Thu 01:00 UK,Julius Randle,BKN,10,100,80,60,10,100,80,50,90,50,30,6
 BKN @ NOP · Thu 01:00 UK,Keon Ellis,BKN,9,0,0,0,0,11,0,0,44,0,0,67,22,0,0,
 BKN @ NOP · Thu 01:00 UK,Michael Porter Jr.,BKN,10,100,80,60,50,90,90,80,10,0,0,90,90,80,60,
 BKN @ NOP · Thu 01:00 UK,Mikel Brown Jr.,BKN,7,71,43,0,0,29,14,0,100,29,0,86,57,43,14,Out (Illness) – est. return 14 Nov
-BKN @ NOP · Thu 01:00 UK,Nolan Traore,BKN,10,70,60,0,0,20,0,0,40,20,0,70,60,20,20,Questionable (Calf)
+BKN @ NOP · Thu 01:00 UK,Nolan Traore,BKN,10,70,60,0,0,20,0,0,40,20,0,70,60,20,20,Out (Calf) – est. return 14 Nov
 BKN @ NOP · Thu 01:00 UK,Saddiq Bey,NOP,11,82,45,27,9,82,36,0,64,0,0,100,55,18,0,
 BKN @ NOP · Thu 01:00 UK,Trey Murphy III,NOP,9,78,56,22,22,89,67,11,89,33,0,100,67,33,22,Doubtful (Knee)
 BKN @ NOP · Thu 01:00 UK,Zion Williamson,NOP,10,100,90,70,30,90,60,20,40,0,0,20,10,0,0,
