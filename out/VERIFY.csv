@@ -1,4 +1,4 @@
-"Fact-check vs ESPN: 99.6% of 13,916 stats match (154 games)"
+"Fact-check vs ESPN: 99.6% of 14,480 stats match (160 games)"
 Game,Player,Stat,Basketball Reference,ESPN
 202610220OKC,Alpha Diallo,ast,3,2
 202610220OKC,Marvin Bagley III,ast,1,2
@@ -55,3 +55,6 @@ Game,Player,Stat,Basketball Reference,ESPN
 202611070OKC,Bennett Stirtz,ast,2,3
 202611070PHO,Amen Thompson,reb,8,7
 202611070POR,Dylan Harper,ast,4,3
+202611090TOR,Jakob Poeltl,reb,7,8
+202611090TOR,Jamal Shead,reb,3,2
+202611090HOU,Alperen Sengun,reb,11,12
