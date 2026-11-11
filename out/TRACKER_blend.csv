@@ -1,4 +1,4 @@
-"Updated Wed 11 Nov 14:54 UK · box scores to 2026-11-10 · fact-check vs ESPN: 99.6% of 14,480 stats match (160 games) · pick tracker: 85% hit from 2569 graded picks"
+"Updated Wed 11 Nov 15:51 UK · box scores to 2026-11-10 · fact-check vs ESPN: 99.6% of 14,480 stats match (160 games) · pick tracker: 85% hit from 2569 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -28,8 +28,12 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-12,SAS @ CHI,Victor Wembanyama Threes 1+,82,84,32,Pending,Live
 2026-11-12,SAS @ CHI,Victor Wembanyama Rebounds 7+,90,97,32,Pending,Live
 2026-11-12,SAS @ CHI,Victor Wembanyama Points 15+,80,84,32,Pending,Live
+2026-11-12,LAL @ MIL,Tyler Herro Threes 1+,94,100,17,Pending,Live
+2026-11-12,LAL @ MIL,Tyler Herro Rebounds 3+,85,88,17,Pending,Live
+2026-11-12,LAL @ MIL,Tyler Herro Points 10+,88,94,17,Pending,Live
 2026-11-12,DEN @ MEM,Ty Jerome Threes 1+,90,100,9,Pending,Live
 2026-11-12,DEN @ MEM,Ty Jerome Points 10+,88,100,9,Pending,Live
+2026-11-12,ORL @ UTA,Tristan Da Silva Threes 1+,83,85,39,Pending,Live
 2026-11-12,BKN @ NOP,Trey Murphy III Threes 1+,94,97,33,Pending,Live
 2026-11-12,BKN @ NOP,Trey Murphy III Rebounds 3+,80,82,33,Pending,Live
 2026-11-12,BKN @ NOP,Trey Murphy III Points 10+,88,91,33,Pending,Live
@@ -94,6 +98,7 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-12,ORL @ UTA,Lauri Markkanen Points 15+,83,90,21,Pending,Live
 2026-11-12,CLE @ NYK,Landry Shamet Threes 1+,82,85,26,Pending,Live
 2026-11-12,LAL @ MIL,Kyle Kuzma Rebounds 3+,81,83,35,Pending,Live
+2026-11-12,ORL @ UTA,Keyonte George Points 15+,80,85,27,Pending,Live
 2026-11-12,GSW @ HOU,Kevin Durant Threes 1+,83,85,39,Pending,Live
 2026-11-12,GSW @ HOU,Kevin Durant Rebounds 3+,97,100,39,Pending,Live
 2026-11-12,GSW @ HOU,Kevin Durant Points 15+,88,92,39,Pending,Live
@@ -410,8 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-10,CLE @ CHA,Evan Mobley Rebounds 5+,87,91,33,Miss,Live
 2026-11-10,CLE @ CHA,Evan Mobley Points 10+,90,94,33,Miss,Live
 2026-11-10,LAL @ ATL,Dyson Daniels Rebounds 3+,93,95,38,Hit,Live
-2026-11-10,LAL @ ATL,Dyson Daniels Assists 3+,91,95,38,Hit,Live
-2026-11-10,WAS @ DET,Duncan Robinson Threes 2+,81,85,39,Hit,Live
-2026-11-10,NOP @ GSW,Draymond Green Rebounds 3+,86,88,34,Hit,Live
-2026-11-10,NOP @ GSW,Draymond Green Assists 3+,84,88,34,Hit,Live
-2026-11-10,CLE @ CHA,Donovan Mitchell Threes 1+,86,89,35,Hit,Live

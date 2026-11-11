@@ -1,4 +1,4 @@
-"Updated Wed 11 Nov 14:54 UK · box scores to 2026-11-10 · fact-check vs ESPN: 99.6% of 14,480 stats match (160 games) · pick tracker: 86% hit from 1595 graded picks"
+"Updated Wed 11 Nov 15:51 UK · box scores to 2026-11-10 · fact-check vs ESPN: 99.6% of 14,480 stats match (160 games) · pick tracker: 86% hit from 1595 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -27,8 +27,11 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-12,LAL @ MIL,Walker Kessler Points 10+,84,92,12,Pending,Live
 2026-11-12,SAS @ CHI,Victor Wembanyama Rebounds 7+,83,100,11,Pending,Live
 2026-11-12,SAS @ CHI,Victor Wembanyama Points 10+,90,100,11,Pending,Live
+2026-11-12,LAL @ MIL,Tyler Herro Threes 1+,91,100,10,Pending,Live
+2026-11-12,LAL @ MIL,Tyler Herro Points 10+,89,100,10,Pending,Live
 2026-11-12,DEN @ MEM,Ty Jerome Threes 1+,90,100,9,Pending,Live
 2026-11-12,DEN @ MEM,Ty Jerome Points 10+,88,100,9,Pending,Live
+2026-11-12,ORL @ UTA,Tristan Da Silva Threes 1+,90,100,9,Pending,Live
 2026-11-12,BKN @ NOP,Trey Murphy III Threes 1+,90,100,9,Pending,Live
 2026-11-12,BKN @ NOP,Trey Murphy III Rebounds 3+,83,89,9,Pending,Live
 2026-11-12,WAS @ IND,Trae Young Points 10+,83,91,11,Pending,Live
@@ -412,6 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-10,WAS @ DET,Cade Cunningham Assists 3+,84,100,8,Hit,Live
 2026-11-10,NOP @ GSW,Brandin Podziemski Threes 1+,80,88,8,Hit,Live
 2026-11-10,NOP @ GSW,Brandin Podziemski Rebounds 3+,81,88,8,Miss,Live
-2026-11-10,LAL @ ATL,Austin Reaves Threes 1+,91,100,10,Did not play,Live
-2026-11-10,LAL @ ATL,Austin Reaves Points 15+,84,100,10,Did not play,Live
-2026-11-10,WAS @ DET,Ausar Thompson Rebounds 3+,89,100,7,Hit,Live

@@ -1,4 +1,4 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Wed 11 Nov 14:54 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Wed 11 Nov 15:51 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 BOS @ TOR · Thu 00:00 UK,Baylor Scheierman,BOS,11,18,0,0,0,73,27,9,9,0,0,73,36,18,0,
 BOS @ TOR · Thu 00:00 UK,Collin Murray-Boyles,TOR,9,56,33,0,0,89,56,44,11,0,0,44,11,0,0,Questionable (Illness)
@@ -21,7 +21,7 @@ CLE @ NYK · Thu 00:00 UK,Jalen Brunson,NYK,10,100,100,80,40,50,30,0,90,50,30,90
 CLE @ NYK · Thu 00:00 UK,James Harden,CLE,11,91,55,9,0,82,55,18,100,82,27,100,82,64,0,
 CLE @ NYK · Thu 00:00 UK,Jarrett Allen,CLE,9,78,22,22,11,89,89,78,11,0,0,33,0,0,0,
 CLE @ NYK · Thu 00:00 UK,Jaylon Tyson,CLE,5,40,20,0,0,60,40,0,40,20,0,60,20,20,0,Questionable (Ankle)
-CLE @ NYK · Thu 00:00 UK,Josh Hart,NYK,7,43,0,0,0,100,86,57,86,29,14,86,86,14,0,Out (Illness) – est. return 11 Nov
+CLE @ NYK · Thu 00:00 UK,Josh Hart,NYK,7,43,0,0,0,100,86,57,86,29,14,86,86,14,0,Out / GTD (Illness) – est. return 11 Nov
 CLE @ NYK · Thu 00:00 UK,Karl-Anthony Towns,NYK,10,100,90,60,20,100,100,100,80,20,0,90,70,30,0,
 CLE @ NYK · Thu 00:00 UK,Landry Shamet,NYK,10,40,10,10,0,10,0,0,30,10,0,90,70,40,20,
 CLE @ NYK · Thu 00:00 UK,Meleek Thomas,CLE,8,75,38,0,0,50,12,0,25,0,0,88,88,75,25,
@@ -87,7 +87,7 @@ LAL @ MIL · Thu 01:00 UK,Myles Turner,MIL,11,45,0,0,0,91,73,36,36,18,9,55,36,18
 LAL @ MIL · Thu 01:00 UK,Quentin Grimes,LAL,11,36,9,9,0,45,9,9,55,9,0,45,18,9,0,Questionable (Finger)
 LAL @ MIL · Thu 01:00 UK,Ryan Rollins,MIL,11,64,18,0,0,82,45,18,73,45,9,91,55,18,9,
 LAL @ MIL · Thu 01:00 UK,Sandro Mamukelashvili,LAL,12,42,17,8,0,92,42,25,25,0,0,67,33,17,8,
-LAL @ MIL · Thu 01:00 UK,Tyler Herro,MIL,10,100,80,70,20,80,60,10,70,30,30,100,70,70,60,Out (Knee) – est. return 11 Nov
+LAL @ MIL · Thu 01:00 UK,Tyler Herro,MIL,10,100,80,70,20,80,60,10,70,30,30,100,70,70,60,Day-To-Day / GTD (Knee) – est. return 11 Nov
 LAL @ MIL · Thu 01:00 UK,Walker Kessler,LAL,12,92,58,25,8,100,100,100,25,0,0,0,0,0,0,
 LAL @ MIL · Thu 01:00 UK,Ziaire Williams,LAL,9,67,11,0,0,44,11,0,22,0,0,100,67,33,11,
 SAS @ CHI · Thu 01:00 UK,Caleb Wilson,CHI,9,89,89,56,11,100,89,22,56,0,0,100,56,33,22,
@@ -113,10 +113,10 @@ ORL @ UTA · Thu 02:00 UK,Jalen Suggs,ORL,3,33,0,0,0,100,67,0,100,100,0,33,0,0,0
 ORL @ UTA · Thu 02:00 UK,Jaren Jackson Jr.,UTA,4,75,75,50,0,75,50,25,25,0,0,75,50,0,0,Out (Knee) – est. return 14 Dec
 ORL @ UTA · Thu 02:00 UK,Jase Richardson,ORL,10,20,0,0,0,20,10,0,60,10,0,40,30,0,0,
 ORL @ UTA · Thu 02:00 UK,Jaxson Hayes,UTA,10,20,20,0,0,90,90,30,30,0,0,0,0,0,0,
-ORL @ UTA · Thu 02:00 UK,Keyonte George,UTA,10,80,80,50,30,80,40,20,90,70,50,70,50,30,20,Out (Ankle) – est. return 11 Nov
+ORL @ UTA · Thu 02:00 UK,Keyonte George,UTA,10,80,80,50,30,80,40,20,90,70,50,70,50,30,20,Day-To-Day / GTD (Ankle) – est. return 11 Nov
 ORL @ UTA · Thu 02:00 UK,Lauri Markkanen,UTA,8,88,75,50,12,88,88,62,50,0,0,88,75,62,62,Day-To-Day / GTD (Wrist) – est. return 11 Nov
 ORL @ UTA · Thu 02:00 UK,Paolo Banchero,ORL,2,100,50,50,50,100,100,50,100,100,50,50,50,50,0,Out (Ankle) – est. return 22 Nov
-ORL @ UTA · Thu 02:00 UK,Tristan Da Silva,ORL,9,78,56,22,0,56,22,22,22,0,0,100,89,67,67,Out (Calf) – est. return 11 Nov
+ORL @ UTA · Thu 02:00 UK,Tristan Da Silva,ORL,9,78,56,22,0,56,22,22,22,0,0,100,89,67,67,Day-To-Day / GTD (Calf) – est. return 11 Nov
 ORL @ UTA · Thu 02:00 UK,Wendell Carter Jr.,ORL,10,50,50,40,10,100,100,100,10,0,0,60,30,20,0,
 GSW @ HOU · Thu 02:30 UK,Alperen Sengun,HOU,9,100,100,56,33,100,100,89,100,100,78,78,22,0,0,
 GSW @ HOU · Thu 02:30 UK,Amen Thompson,HOU,11,82,64,18,0,100,64,55,64,18,0,18,0,0,0,
