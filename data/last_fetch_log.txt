@@ -1,8 +1,8 @@
 rosters: 30 teams, 520 players
 injury report entries: 91
-official injury report: Injury-Report_2026-11-11_03_00AM.pdf 58 players
+official injury report: Injury-Report_2026-11-11_03_30AM.pdf 58 players
 ESPN schedule entries: 222
-new ESPN box scores: 6
+new ESPN box scores: 0
 Basketball Reference 2026-11-09: 8 games
 WARN 2026-11-10: B-Ref list page missing 6 finished games; fetching them directly
 WARN box 202611100NYK HTTP Error 404: Not Found
@@ -11,11 +11,5 @@ WARN box 202611100PHO HTTP Error 404: Not Found
 WARN box 202611100POR HTTP Error 404: Not Found
 WARN box 202611100SAC HTTP Error 404: Not Found
 WARN box 202611100UTA HTTP Error 404: Not Found
-filled 202611100NYK from ESPN (Basketball Reference not posted yet)
-filled 202611100PHI from ESPN (Basketball Reference not posted yet)
-filled 202611100PHO from ESPN (Basketball Reference not posted yet)
-filled 202611100POR from ESPN (Basketball Reference not posted yet)
-filled 202611100SAC from ESPN (Basketball Reference not posted yet)
-filled 202611100UTA from ESPN (Basketball Reference not posted yet)
 Basketball Reference 2026-11-10: 6 games
-new or changed box scores: 14
+new or changed box scores: 0
