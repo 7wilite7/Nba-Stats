@@ -1,4 +1,4 @@
-"Updated Wed 11 Nov 08:47 UK · box scores to 2026-11-10 · fact-check vs ESPN: 99.6% of 14,480 stats match (160 games) · pick tracker: 85% hit from 2569 graded picks"
+"Updated Wed 11 Nov 14:54 UK · box scores to 2026-11-10 · fact-check vs ESPN: 99.6% of 14,480 stats match (160 games) · pick tracker: 85% hit from 2569 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -89,6 +89,9 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-12,LAL @ MIL,Luka Doncic Rebounds 5+,92,97,32,Pending,Live
 2026-11-12,LAL @ MIL,Luka Doncic Points 25+,84,91,32,Pending,Live
 2026-11-12,LAL @ MIL,Luka Doncic Assists 3+,95,100,32,Pending,Live
+2026-11-12,ORL @ UTA,Lauri Markkanen Threes 1+,91,95,21,Pending,Live
+2026-11-12,ORL @ UTA,Lauri Markkanen Rebounds 3+,91,95,21,Pending,Live
+2026-11-12,ORL @ UTA,Lauri Markkanen Points 15+,83,90,21,Pending,Live
 2026-11-12,CLE @ NYK,Landry Shamet Threes 1+,82,85,26,Pending,Live
 2026-11-12,LAL @ MIL,Kyle Kuzma Rebounds 3+,81,83,35,Pending,Live
 2026-11-12,GSW @ HOU,Kevin Durant Threes 1+,83,85,39,Pending,Live
@@ -412,6 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-10,NOP @ GSW,Draymond Green Rebounds 3+,86,88,34,Hit,Live
 2026-11-10,NOP @ GSW,Draymond Green Assists 3+,84,88,34,Hit,Live
 2026-11-10,CLE @ CHA,Donovan Mitchell Threes 1+,86,89,35,Hit,Live
-2026-11-10,CLE @ CHA,Donovan Mitchell Points 15+,87,91,35,Miss,Live
-2026-11-10,CLE @ CHA,Donovan Mitchell Assists 3+,95,100,35,Hit,Live
-2026-11-10,SAS @ PHX,Dillon Brooks Threes 1+,86,89,28,Hit,Live
