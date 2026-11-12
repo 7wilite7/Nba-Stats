@@ -1,63 +1,5 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Thu 12 Nov 02:51 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Thu 12 Nov 03:54 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
-BKN @ NOP · Thu 01:00 UK,Danny Wolf,BKN,29,52,14,3,0,93,62,31,34,14,3,83,52,7,0,
-BKN @ NOP · Thu 01:00 UK,Day'Ron Sharpe,BKN,31,42,19,0,0,97,90,58,48,16,6,19,0,0,0,
-BKN @ NOP · Thu 01:00 UK,Dejounte Murray,NOP,8,75,50,38,0,88,50,25,88,50,12,62,25,0,0,
-BKN @ NOP · Thu 01:00 UK,Derik Queen,NOP,41,54,24,10,5,90,71,46,46,17,7,32,2,2,2,
-BKN @ NOP · Thu 01:00 UK,Egor Demin,BKN,26,50,27,12,8,50,31,4,50,23,4,85,62,42,23,
-BKN @ NOP · Thu 01:00 UK,Herbert Jones,NOP,28,43,7,0,0,61,14,4,36,7,0,68,36,18,7,
-BKN @ NOP · Thu 01:00 UK,Jeremiah Fears,NOP,41,73,44,29,15,66,37,15,76,51,17,78,34,24,5,
-BKN @ NOP · Thu 01:00 UK,Julius Randle,BKN,40,95,70,45,18,95,78,58,82,40,22,65,32,20,5,
-BKN @ NOP · Thu 01:00 UK,Keon Ellis,BKN,36,25,11,3,0,50,6,0,31,3,3,61,28,17,8,
-BKN @ NOP · Thu 01:00 UK,Michael Porter Jr.,BKN,26,92,81,62,46,81,77,58,38,8,0,88,73,58,38,
-BKN @ NOP · Thu 01:00 UK,Mikel Brown Jr.,BKN,7,71,43,0,0,29,14,0,100,29,0,86,57,43,14,Out (Illness) – est. return 14 Nov
-BKN @ NOP · Thu 01:00 UK,Nolan Traore,BKN,28,61,36,4,0,29,4,0,57,32,14,71,50,14,14,Out (Calf) – est. return 14 Nov
-BKN @ NOP · Thu 01:00 UK,Saddiq Bey,NOP,36,89,69,39,11,86,58,8,53,8,3,94,64,44,19,
-BKN @ NOP · Thu 01:00 UK,Trey Murphy III,NOP,33,91,73,42,24,82,67,24,79,36,12,97,79,58,39,Out (Knee) – est. return 13 Nov
-BKN @ NOP · Thu 01:00 UK,Zion Williamson,NOP,31,97,87,61,19,87,58,19,48,6,3,10,3,0,0,
-DEN @ MEM · Thu 01:00 UK,Aaron Gordon,DEN,18,67,50,11,0,83,67,17,50,17,0,72,33,11,6,
-DEN @ MEM · Thu 01:00 UK,Cameron Boozer,MEM,10,80,60,30,20,100,100,90,100,50,20,70,60,30,20,
-DEN @ MEM · Thu 01:00 UK,Cameron Johnson,DEN,27,67,41,4,0,70,33,15,44,11,4,89,63,37,22,
-DEN @ MEM · Thu 01:00 UK,Cedric Coward,MEM,31,74,42,10,3,81,65,48,52,13,0,81,58,19,6,
-DEN @ MEM · Thu 01:00 UK,Christian Braun,DEN,22,73,36,18,9,82,41,14,45,5,0,68,23,14,9,
-DEN @ MEM · Thu 01:00 UK,DeMar DeRozan,DEN,39,69,46,33,21,44,8,0,64,49,18,31,8,0,0,
-DEN @ MEM · Thu 01:00 UK,Jamal Murray,DEN,38,92,84,71,47,71,61,21,92,76,42,92,76,55,39,
-DEN @ MEM · Thu 01:00 UK,Javon Small,MEM,3,33,0,0,0,33,0,0,67,67,0,100,33,0,0,
-DEN @ MEM · Thu 01:00 UK,Jaylen Wells,MEM,35,74,40,9,3,57,14,0,26,0,0,80,71,37,17,
-DEN @ MEM · Thu 01:00 UK,Jerami Grant,MEM,29,76,52,34,10,55,17,3,24,3,0,90,72,38,14,
-DEN @ MEM · Thu 01:00 UK,Julian Strawther,DEN,29,48,28,10,3,34,17,0,10,0,0,69,48,17,14,Out (Knee) – est. return 29 Nov
-DEN @ MEM · Thu 01:00 UK,Nikola Jokic,DEN,33,97,91,76,48,100,100,100,97,97,85,70,36,15,6,
-DEN @ MEM · Thu 01:00 UK,Trevon Brazile,DEN,9,22,11,0,0,78,56,44,0,0,0,56,11,11,0,
-DEN @ MEM · Thu 01:00 UK,Ty Jerome,MEM,9,100,89,78,56,56,33,11,89,67,11,100,67,44,33,
-DEN @ MEM · Thu 01:00 UK,Zach Edey,MEM,9,33,0,0,0,100,89,67,11,0,0,11,0,0,0,
-LAL @ MIL · Thu 01:00 UK,Austin Reaves,LAL,26,100,96,65,50,77,35,15,88,65,27,92,65,38,27,
-LAL @ MIL · Thu 01:00 UK,Brayden Burries,MIL,11,55,9,9,0,82,64,27,45,9,0,73,9,0,0,
-LAL @ MIL · Thu 01:00 UK,Jaime Jaquez Jr.,MIL,38,71,55,26,5,71,47,24,74,39,16,71,45,13,5,
-LAL @ MIL · Thu 01:00 UK,Jake LaRavia,LAL,41,22,5,0,0,61,32,20,22,0,0,46,22,5,2,
-LAL @ MIL · Thu 01:00 UK,Kyle Kuzma,MIL,35,63,34,14,9,83,40,17,60,20,6,71,43,26,14,
-LAL @ MIL · Thu 01:00 UK,Luka Doncic,LAL,32,100,97,97,91,100,97,62,100,84,69,100,97,91,75,
-LAL @ MIL · Thu 01:00 UK,Matisse Thybulle,LAL,15,27,7,0,0,13,0,0,7,0,0,80,40,20,7,
-LAL @ MIL · Thu 01:00 UK,Myles Turner,MIL,36,44,17,3,0,89,56,31,25,6,3,83,42,22,11,Out (Rest) – est. return 13 Nov
-LAL @ MIL · Thu 01:00 UK,Quentin Grimes,LAL,38,63,34,24,13,61,24,5,47,16,5,68,34,16,5,Out (Finger) – est. return 15 Nov
-LAL @ MIL · Thu 01:00 UK,Ryan Rollins,MIL,37,86,51,32,11,81,35,22,84,54,32,95,70,43,22,
-LAL @ MIL · Thu 01:00 UK,Sandro Mamukelashvili,LAL,40,48,25,5,0,90,45,20,28,2,0,75,42,20,2,
-LAL @ MIL · Thu 01:00 UK,Tyler Herro,MIL,17,94,71,53,24,88,47,12,82,41,29,100,65,65,47,
-LAL @ MIL · Thu 01:00 UK,Walker Kessler,LAL,12,92,58,25,8,100,100,100,25,0,0,0,0,0,0,
-LAL @ MIL · Thu 01:00 UK,Ziaire Williams,LAL,28,61,36,4,0,39,7,0,25,4,0,86,46,18,11,
-SAS @ CHI · Thu 01:00 UK,Caleb Wilson,CHI,9,89,89,56,11,100,89,22,56,0,0,100,56,33,22,
-SAS @ CHI · Thu 01:00 UK,De'Aaron Fox,SAS,36,89,50,28,11,72,33,17,97,69,36,75,39,14,8,
-SAS @ CHI · Thu 01:00 UK,Devin Vassell,SAS,34,68,38,15,3,71,41,21,53,9,3,88,62,41,29,Out (Groin) – est. return 13 Nov
-SAS @ CHI · Thu 01:00 UK,Dylan Harper,SAS,35,80,46,20,3,74,43,11,80,49,11,77,34,14,0,
-SAS @ CHI · Thu 01:00 UK,Jalen Smith,CHI,27,78,26,0,0,93,74,52,15,4,0,81,63,26,0,
-SAS @ CHI · Thu 01:00 UK,Josh Giddey,CHI,27,63,41,19,4,81,70,59,100,93,70,78,48,26,15,
-SAS @ CHI · Thu 01:00 UK,Julian Champagnie,SAS,41,51,20,7,5,85,51,29,20,0,0,83,63,41,22,
-SAS @ CHI · Thu 01:00 UK,Keldon Johnson,SAS,41,59,32,12,0,80,56,17,22,5,0,54,29,7,2,
-SAS @ CHI · Thu 01:00 UK,Matas Buzelis,CHI,39,90,69,33,10,95,82,41,41,3,0,85,74,46,23,
-SAS @ CHI · Thu 01:00 UK,Norman Powell,CHI,29,93,83,48,17,55,14,3,28,7,0,86,66,38,17,Out (Shoulder) – est. return 13 Nov
-SAS @ CHI · Thu 01:00 UK,Patrick Williams,CHI,36,28,11,3,0,56,19,11,22,11,3,67,42,19,3,
-SAS @ CHI · Thu 01:00 UK,Stephon Castle,SAS,34,88,71,24,3,91,65,50,94,79,53,76,50,26,6,
-SAS @ CHI · Thu 01:00 UK,Tobias Harris,SAS,32,78,38,12,0,88,72,31,47,25,3,75,31,9,3,Out (Calf) – est. return 19 Nov
-SAS @ CHI · Thu 01:00 UK,Victor Wembanyama,SAS,32,100,84,75,62,100,100,97,66,25,6,84,59,28,19,
 ORL @ UTA · Thu 02:00 UK,Ace Bailey,UTA,36,81,58,28,11,81,64,33,39,3,0,94,56,33,17,
 ORL @ UTA · Thu 02:00 UK,Anthony Black,ORL,32,75,47,28,16,72,38,16,62,41,9,78,53,25,12,
 ORL @ UTA · Thu 02:00 UK,Darryn Peterson,UTA,11,73,55,27,18,82,27,9,82,27,9,73,64,55,18,
@@ -84,7 +26,7 @@ GSW @ HOU · Thu 02:30 UK,Kevin Durant,HOU,39,100,92,79,49,100,74,33,85,49,23,85
 GSW @ HOU · Thu 02:30 UK,Marcus Smart,HOU,31,32,13,6,0,48,10,0,55,16,10,74,42,23,10,
 GSW @ HOU · Thu 02:30 UK,Moses Moody,GSW,30,73,30,20,7,60,23,10,27,3,0,90,73,60,37,Out (Knee) – est. return 1 Dec
 GSW @ HOU · Thu 02:30 UK,Reed Sheppard,HOU,41,76,41,15,7,59,24,7,68,27,10,100,80,54,39,
-GSW @ HOU · Thu 02:30 UK,Stephen Curry,GSW,22,95,86,73,50,68,27,5,73,45,23,100,100,77,64,
+GSW @ HOU · Thu 02:30 UK,Stephen Curry,GSW,22,95,86,73,50,68,27,5,73,45,23,100,100,77,64,Day-To-Day / GTD (Abdomen) – est. return 13 Nov
 GSW @ HOU · Thu 02:30 UK,Tari Eason,HOU,30,50,23,3,0,90,67,53,13,0,0,53,23,13,0,
 GSW @ HOU · Thu 02:30 UK,Yaxel Lendeborg,GSW,11,91,82,55,36,91,73,64,73,55,0,100,55,27,27,
 OKC @ POR · Thu 03:00 UK,Aday Mara,OKC,11,36,9,0,0,91,64,55,18,0,0,9,0,0,0,
