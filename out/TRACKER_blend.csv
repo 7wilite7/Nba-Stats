@@ -1,4 +1,4 @@
-"Updated Thu 12 Nov 00:24 UK · box scores to 2026-11-10 · fact-check vs ESPN: 99.6% of 14,480 stats match (160 games) · pick tracker: 85% hit from 2569 graded picks"
+"Updated Thu 12 Nov 01:51 UK · box scores to 2026-11-10 · fact-check vs ESPN: 99.6% of 14,480 stats match (160 games) · pick tracker: 85% hit from 2569 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -21,12 +21,21 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-13,TOR @ PHI,Tyrese Maxey Assists 3+,85,89,35,Pending,Live
 2026-11-13,DET @ WAS,Trae Young Points 10+,82,91,11,Pending,Live
 2026-11-13,DET @ WAS,Trae Young Assists 3+,87,100,11,Pending,Live
+2026-11-13,DAL @ MIN,Terrence Shannon Jr. Rebounds 3+,81,88,8,Pending,Live
+2026-11-13,DAL @ MIN,Rudy Gobert Rebounds 7+,87,92,38,Pending,Live
 2026-11-13,TOR @ PHI,RJ Barrett Rebounds 3+,90,93,29,Pending,Live
 2026-11-13,TOR @ PHI,RJ Barrett Points 15+,84,90,29,Pending,Live
 2026-11-13,DET @ WAS,Paul Reed Rebounds 3+,86,88,33,Pending,Live
+2026-11-13,DAL @ MIN,P.J. Washington Threes 1+,83,86,28,Pending,Live
+2026-11-13,DAL @ MIN,P.J. Washington Rebounds 3+,93,96,28,Pending,Live
 2026-11-13,TOR @ PHI,LeBron James Rebounds 5+,85,90,30,Pending,Live
 2026-11-13,TOR @ PHI,LeBron James Points 10+,93,97,30,Pending,Live
 2026-11-13,TOR @ PHI,LeBron James Assists 5+,80,87,30,Pending,Live
+2026-11-13,DAL @ MIN,LaMelo Ball Threes 2+,90,94,36,Pending,Live
+2026-11-13,DAL @ MIN,LaMelo Ball Points 10+,94,97,36,Pending,Live
+2026-11-13,DAL @ MIN,LaMelo Ball Assists 3+,93,97,36,Pending,Live
+2026-11-13,DAL @ MIN,Kyrie Irving Threes 1+,81,89,9,Pending,Live
+2026-11-13,DAL @ MIN,Kyrie Irving Points 10+,88,100,9,Pending,Live
 2026-11-13,DET @ WAS,John Collins Rebounds 3+,87,89,35,Pending,Live
 2026-11-13,TOR @ PHI,Joel Embiid Rebounds 5+,92,100,19,Pending,Live
 2026-11-13,TOR @ PHI,Joel Embiid Points 10+,89,95,19,Pending,Live
@@ -38,10 +47,15 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-13,TOR @ PHI,Immanuel Quickley Threes 1+,89,91,35,Pending,Live
 2026-11-13,TOR @ PHI,Immanuel Quickley Points 10+,86,89,35,Pending,Live
 2026-11-13,DET @ WAS,Duncan Robinson Threes 2+,81,85,39,Pending,Live
+2026-11-13,DAL @ MIN,Daniel Gafford Rebounds 3+,90,93,28,Pending,Live
+2026-11-13,DAL @ MIN,Cooper Flagg Rebounds 3+,97,100,35,Pending,Live
+2026-11-13,DAL @ MIN,Cooper Flagg Points 10+,96,100,35,Pending,Live
 2026-11-13,TOR @ PHI,Collin Murray-Boyles Rebounds 3+,84,86,29,Pending,Live
 2026-11-13,DET @ WAS,Cade Cunningham Rebounds 3+,83,84,32,Pending,Live
 2026-11-13,DET @ WAS,Cade Cunningham Points 10+,87,91,32,Pending,Live
 2026-11-13,DET @ WAS,Cade Cunningham Assists 7+,86,94,32,Pending,Live
+2026-11-13,DAL @ MIN,Ayo Dosunmu Threes 1+,81,83,35,Pending,Live
+2026-11-13,DAL @ MIN,Ayo Dosunmu Points 10+,80,83,35,Pending,Live
 2026-11-13,DET @ WAS,Ausar Thompson Rebounds 3+,92,95,37,Pending,Live
 2026-11-13,DET @ WAS,Anthony Davis Rebounds 5+,86,100,10,Pending,Live
 2026-11-13,DET @ WAS,Anthony Davis Points 10+,81,90,10,Pending,Live
@@ -401,17 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-10,LAL @ ATL,Nickeil Alexander-Walker Points 15+,81,85,39,Hit,Live
 2026-11-10,CLE @ CHA,Naz Reid Rebounds 3+,95,97,39,Hit,Live
 2026-11-10,CLE @ CHA,Moussa Diabate Rebounds 5+,93,97,37,Did not play,Live
-2026-11-10,SAS @ PHX,Miles Bridges Rebounds 3+,88,90,39,Hit,Live
-2026-11-10,SAS @ PHX,Miles Bridges Points 10+,80,82,39,Miss,Live
-2026-11-10,IND @ DAL,Max Christie Threes 1+,83,85,39,Miss,Live
-2026-11-10,LAL @ ATL,Matisse Thybulle Threes 1+,82,87,15,Hit,Live
-2026-11-10,CLE @ CHA,Mario Hezonja Rebounds 3+,92,100,10,Hit,Live
-2026-11-10,LAL @ ATL,Luka Doncic Threes 3+,82,88,32,Hit,Live
-2026-11-10,LAL @ ATL,Luka Doncic Rebounds 5+,89,94,32,Hit,Live
-2026-11-10,LAL @ ATL,Luka Doncic Points 25+,81,88,32,Hit,Live
-2026-11-10,LAL @ ATL,Luka Doncic Assists 3+,92,97,32,Hit,Live
-2026-11-10,LAL @ ATL,Luguentz Dort Threes 1+,84,86,35,Hit,Live
-2026-11-10,IND @ DAL,Kyrie Irving Threes 1+,80,88,8,Hit,Live
-2026-11-10,IND @ DAL,Kyrie Irving Points 10+,86,100,7,Hit,Live
-2026-11-10,DEN @ HOU,Kevin Durant Threes 1+,83,85,39,Hit,Live
-2026-11-10,DEN @ HOU,Kevin Durant Rebounds 3+,97,100,39,Hit,Live

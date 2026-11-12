@@ -1,4 +1,4 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Thu 12 Nov 00:24 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Thu 12 Nov 01:51 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 BOS @ TOR · Thu 00:00 UK,Baylor Scheierman,BOS,11,18,0,0,0,73,27,9,9,0,0,73,36,18,0,
 BOS @ TOR · Thu 00:00 UK,Derrick White,BOS,11,55,36,9,0,55,18,0,91,55,36,100,36,18,9,
@@ -71,10 +71,10 @@ LAL @ MIL · Thu 01:00 UK,Myles Turner,MIL,11,45,0,0,0,91,73,36,36,18,9,55,36,18
 LAL @ MIL · Thu 01:00 UK,Quentin Grimes,LAL,11,36,9,9,0,45,9,9,55,9,0,45,18,9,0,Out (Finger) – est. return 15 Nov
 LAL @ MIL · Thu 01:00 UK,Ryan Rollins,MIL,11,64,18,0,0,82,45,18,73,45,9,91,55,18,9,
 LAL @ MIL · Thu 01:00 UK,Sandro Mamukelashvili,LAL,12,42,17,8,0,92,42,25,25,0,0,67,33,17,8,
-LAL @ MIL · Thu 01:00 UK,Tyler Herro,MIL,10,100,80,70,20,80,60,10,70,30,30,100,70,70,60,Questionable (Knee)
+LAL @ MIL · Thu 01:00 UK,Tyler Herro,MIL,10,100,80,70,20,80,60,10,70,30,30,100,70,70,60,
 LAL @ MIL · Thu 01:00 UK,Walker Kessler,LAL,12,92,58,25,8,100,100,100,25,0,0,0,0,0,0,
 LAL @ MIL · Thu 01:00 UK,Ziaire Williams,LAL,9,67,11,0,0,44,11,0,22,0,0,100,67,33,11,
-SAS @ CHI · Thu 01:00 UK,Caleb Wilson,CHI,9,89,89,56,11,100,89,22,56,0,0,100,56,33,22,Questionable (Hip)
+SAS @ CHI · Thu 01:00 UK,Caleb Wilson,CHI,9,89,89,56,11,100,89,22,56,0,0,100,56,33,22,
 SAS @ CHI · Thu 01:00 UK,De'Aaron Fox,SAS,11,82,36,9,0,82,27,27,100,64,36,64,36,0,0,
 SAS @ CHI · Thu 01:00 UK,Devin Vassell,SAS,10,70,30,10,0,70,30,10,40,20,10,70,40,20,20,Out (Groin) – est. return 13 Nov
 SAS @ CHI · Thu 01:00 UK,Dylan Harper,SAS,11,100,73,36,9,91,82,36,73,45,18,73,27,9,0,
@@ -97,10 +97,10 @@ ORL @ UTA · Thu 02:00 UK,Jalen Suggs,ORL,3,33,0,0,0,100,67,0,100,100,0,33,0,0,0
 ORL @ UTA · Thu 02:00 UK,Jaren Jackson Jr.,UTA,4,75,75,50,0,75,50,25,25,0,0,75,50,0,0,Out (Knee) – est. return 14 Dec
 ORL @ UTA · Thu 02:00 UK,Jase Richardson,ORL,10,20,0,0,0,20,10,0,60,10,0,40,30,0,0,
 ORL @ UTA · Thu 02:00 UK,Jaxson Hayes,UTA,10,20,20,0,0,90,90,30,30,0,0,0,0,0,0,
-ORL @ UTA · Thu 02:00 UK,Keyonte George,UTA,10,80,80,50,30,80,40,20,90,70,50,70,50,30,20,Questionable (Ankle)
+ORL @ UTA · Thu 02:00 UK,Keyonte George,UTA,10,80,80,50,30,80,40,20,90,70,50,70,50,30,20,
 ORL @ UTA · Thu 02:00 UK,Lauri Markkanen,UTA,8,88,75,50,12,88,88,62,50,0,0,88,75,62,62,Out (Hand) – est. return 4 Jan
 ORL @ UTA · Thu 02:00 UK,Paolo Banchero,ORL,2,100,50,50,50,100,100,50,100,100,50,50,50,50,0,Out (Ankle) – est. return 22 Nov
-ORL @ UTA · Thu 02:00 UK,Tristan Da Silva,ORL,9,78,56,22,0,56,22,22,22,0,0,100,89,67,67,Questionable (Calf)
+ORL @ UTA · Thu 02:00 UK,Tristan Da Silva,ORL,9,78,56,22,0,56,22,22,22,0,0,100,89,67,67,Out (Calf) – est. return 13 Nov
 ORL @ UTA · Thu 02:00 UK,Wendell Carter Jr.,ORL,10,50,50,40,10,100,100,100,10,0,0,60,30,20,0,
 GSW @ HOU · Thu 02:30 UK,Alperen Sengun,HOU,9,100,100,56,33,100,100,89,100,100,78,78,22,0,0,
 GSW @ HOU · Thu 02:30 UK,Amen Thompson,HOU,11,82,64,18,0,100,64,55,64,18,0,18,0,0,0,
@@ -164,3 +164,17 @@ TOR @ PHI · Fri 00:00 UK,RJ Barrett,TOR,10,90,90,80,30,90,60,40,80,30,0,70,40,3
 TOR @ PHI · Fri 00:00 UK,Scottie Barnes,TOR,8,88,88,75,50,100,88,25,100,75,12,50,0,0,0,Out (Groin) – est. return 12 Nov
 TOR @ PHI · Fri 00:00 UK,Tyrese Maxey,PHI,12,100,100,83,75,83,17,0,100,42,25,100,83,58,17,
 TOR @ PHI · Fri 00:00 UK,VJ Edgecombe,PHI,11,73,27,9,0,100,64,45,55,27,0,82,45,27,9,
+DAL @ MIN · Fri 01:00 UK,Anthony Edwards,MIN,4,100,100,75,75,75,25,25,100,0,0,100,100,50,50,Out (Knee) – est. return 21 Dec
+DAL @ MIN · Fri 01:00 UK,Ayo Dosunmu,MIN,11,82,73,36,27,73,45,36,73,27,18,91,45,36,18,
+DAL @ MIN · Fri 01:00 UK,Cooper Flagg,DAL,10,100,90,70,60,100,90,40,90,90,40,70,50,20,0,
+DAL @ MIN · Fri 01:00 UK,Daniel Gafford,DAL,11,36,27,9,0,82,55,45,27,9,0,9,0,0,0,
+DAL @ MIN · Fri 01:00 UK,Donte DiVincenzo,MIN,0,,,,,,,,,,,,,,,Out (Achilles) – est. return 2 Apr
+DAL @ MIN · Fri 01:00 UK,Jaden McDaniels,MIN,11,100,64,18,0,100,91,27,91,18,9,91,55,0,0,
+DAL @ MIN · Fri 01:00 UK,Jonathan Kuminga,MIN,11,73,36,9,0,73,55,45,64,27,0,82,64,27,9,
+DAL @ MIN · Fri 01:00 UK,Kyrie Irving,DAL,9,100,89,56,33,56,22,11,78,33,11,89,78,56,44,
+DAL @ MIN · Fri 01:00 UK,LaMelo Ball,MIN,11,91,64,55,9,55,27,9,100,82,36,91,82,64,55,
+DAL @ MIN · Fri 01:00 UK,Naji Marshall,DAL,8,50,38,12,0,50,25,0,75,62,12,50,25,12,0,
+DAL @ MIN · Fri 01:00 UK,P.J. Washington,DAL,11,82,45,36,9,100,82,55,9,0,0,91,82,27,18,
+DAL @ MIN · Fri 01:00 UK,Rudy Gobert,MIN,10,30,0,0,0,100,90,90,10,0,0,0,0,0,0,
+DAL @ MIN · Fri 01:00 UK,Terrence Shannon Jr.,MIN,8,75,25,0,0,88,12,0,50,12,0,75,62,25,0,
+DAL @ MIN · Fri 01:00 UK,Zaccharie Risacher,DAL,11,45,0,0,0,82,64,9,9,0,0,55,18,9,0,
