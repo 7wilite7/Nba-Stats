@@ -1,35 +1,5 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Thu 12 Nov 01:51 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Thu 12 Nov 02:51 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
-BOS @ TOR · Thu 00:00 UK,Baylor Scheierman,BOS,39,31,8,5,3,72,41,18,28,10,3,87,46,23,8,
-BOS @ TOR · Thu 00:00 UK,Derrick White,BOS,39,72,44,23,5,72,41,5,90,59,31,87,62,41,26,
-BOS @ TOR · Thu 00:00 UK,Jayson Tatum,BOS,10,100,90,80,50,100,70,40,100,90,70,90,70,40,20,
-BOS @ TOR · Thu 00:00 UK,Neemias Queta,BOS,38,47,24,5,3,95,79,53,29,5,0,8,0,0,0,
-BOS @ TOR · Thu 00:00 UK,Paul George,BOS,19,89,84,53,32,100,74,16,47,32,16,95,84,74,42,Out (Illness) – est. return 15 Nov
-BOS @ TOR · Thu 00:00 UK,Payton Pritchard,BOS,40,75,55,30,20,68,28,8,88,48,20,80,70,52,40,
-BOS @ TOR · Thu 00:00 UK,Sam Hauser,BOS,39,44,13,5,0,77,26,5,18,3,0,90,72,44,23,
-CLE @ NYK · Thu 00:00 UK,Donovan Mitchell,CLE,35,97,89,71,54,77,49,20,100,57,26,89,71,40,23,
-CLE @ NYK · Thu 00:00 UK,Evan Mobley,CLE,33,91,76,39,15,94,88,70,67,12,3,55,30,15,9,
-CLE @ NYK · Thu 00:00 UK,Jalen Brunson,NYK,37,95,92,76,51,65,32,3,95,73,62,89,68,41,24,
-CLE @ NYK · Thu 00:00 UK,James Harden,CLE,35,97,77,37,14,83,60,17,100,86,57,100,86,63,23,
-CLE @ NYK · Thu 00:00 UK,Jarrett Allen,CLE,28,89,57,36,21,96,89,82,18,4,0,11,0,0,0,
-CLE @ NYK · Thu 00:00 UK,Jaylon Tyson,CLE,33,67,42,6,0,79,48,21,45,9,0,79,55,36,12,
-CLE @ NYK · Thu 00:00 UK,Josh Hart,NYK,33,64,24,6,6,97,85,48,85,39,15,70,48,15,9,
-CLE @ NYK · Thu 00:00 UK,Karl-Anthony Towns,NYK,38,100,87,63,21,100,97,97,53,24,8,82,42,18,3,
-CLE @ NYK · Thu 00:00 UK,Landry Shamet,NYK,26,38,4,4,0,27,4,0,19,4,0,85,62,23,8,
-CLE @ NYK · Thu 00:00 UK,Meleek Thomas,CLE,8,75,38,0,0,50,12,0,25,0,0,88,88,75,25,
-CLE @ NYK · Thu 00:00 UK,Mikal Bridges,NYK,41,59,22,10,2,61,32,5,49,22,2,76,34,15,7,
-CLE @ NYK · Thu 00:00 UK,OG Anunoby,NYK,34,82,62,38,12,88,53,24,29,9,3,94,71,44,26,
-CLE @ NYK · Thu 00:00 UK,Peyton Watson,CLE,27,81,48,26,11,85,56,19,56,15,0,78,41,15,15,
-CLE @ NYK · Thu 00:00 UK,Sam Merrill,CLE,26,50,31,8,0,58,23,8,46,8,0,88,65,35,19,Out (Elbow) – est. return 16 Nov
-WAS @ IND · Thu 00:00 UK,Aaron Nesmith,IND,9,67,33,0,0,44,11,0,11,0,0,89,67,33,11,
-WAS @ IND · Thu 00:00 UK,Andrew Nembhard,IND,29,83,59,38,7,41,14,3,93,76,69,90,62,34,17,
-WAS @ IND · Thu 00:00 UK,Ivica Zubac,IND,24,67,29,4,0,96,88,75,17,4,0,0,0,0,0,
-WAS @ IND · Thu 00:00 UK,Jarace Walker,IND,38,71,39,13,0,92,79,42,47,26,5,89,53,21,13,
-WAS @ IND · Thu 00:00 UK,Kelly Oubre Jr.,IND,25,64,32,16,4,72,40,20,16,0,0,76,32,16,4,
-WAS @ IND · Thu 00:00 UK,Obi Toppin,IND,12,92,33,25,8,83,67,25,17,0,0,75,42,25,25,
-WAS @ IND · Thu 00:00 UK,Pascal Siakam,IND,31,100,90,81,48,94,77,35,74,42,6,77,48,23,10,
-WAS @ IND · Thu 00:00 UK,Quenton Jackson,IND,11,45,18,18,0,64,27,18,45,9,0,55,36,18,0,
-WAS @ IND · Thu 00:00 UK,Tyrese Haliburton,IND,4,100,100,75,0,75,50,0,100,100,100,75,75,50,50,Out (Hamstring) – est. return 22 Nov
 BKN @ NOP · Thu 01:00 UK,Danny Wolf,BKN,29,52,14,3,0,93,62,31,34,14,3,83,52,7,0,
 BKN @ NOP · Thu 01:00 UK,Day'Ron Sharpe,BKN,31,42,19,0,0,97,90,58,48,16,6,19,0,0,0,
 BKN @ NOP · Thu 01:00 UK,Dejounte Murray,NOP,8,75,50,38,0,88,50,25,88,50,12,62,25,0,0,
@@ -178,3 +148,16 @@ DAL @ MIN · Fri 01:00 UK,P.J. Washington,DAL,28,75,46,29,4,96,82,50,14,0,0,86,6
 DAL @ MIN · Fri 01:00 UK,Rudy Gobert,MIN,38,50,18,5,0,100,97,92,16,3,0,0,0,0,0,
 DAL @ MIN · Fri 01:00 UK,Terrence Shannon Jr.,MIN,8,75,25,0,0,88,12,0,50,12,0,75,62,25,0,
 DAL @ MIN · Fri 01:00 UK,Zaccharie Risacher,DAL,34,35,9,0,0,71,50,15,9,0,0,62,26,18,3,
+CHA @ PHX · Fri 02:00 UK,Brandon Miller,CHA,33,88,76,52,24,82,58,30,61,15,3,97,88,67,33,Out (Groin) – est. return 15 Nov
+CHA @ PHX · Fri 02:00 UK,Collin Gillespie,PHX,40,50,25,8,0,72,28,10,72,40,25,85,68,45,28,
+CHA @ PHX · Fri 02:00 UK,Dennis Schroder,CHA,35,31,14,9,6,43,17,0,83,51,14,46,14,6,0,Out (Hamstring) – est. return 25 Nov
+CHA @ PHX · Fri 02:00 UK,Devin Booker,PHX,32,94,91,81,62,72,22,6,84,69,34,88,75,38,19,
+CHA @ PHX · Fri 02:00 UK,Dillon Brooks,PHX,28,86,61,43,21,75,39,7,36,7,0,89,50,29,18,
+CHA @ PHX · Fri 02:00 UK,Grayson Allen,CHA,26,77,46,31,12,54,12,0,58,27,8,92,73,46,38,
+CHA @ PHX · Fri 02:00 UK,Jalen Green,PHX,16,69,44,31,12,56,25,6,50,19,12,50,38,19,0,
+CHA @ PHX · Fri 02:00 UK,Mark Williams,PHX,30,60,17,7,3,97,93,67,3,0,0,0,0,0,0,Out (Shoulder) – est. return 3 Feb
+CHA @ PHX · Fri 02:00 UK,Miles Bridges,PHX,39,77,44,18,10,90,62,38,44,21,5,72,44,26,13,
+CHA @ PHX · Fri 02:00 UK,Moussa Diabate,CHA,37,32,5,0,0,100,97,73,46,14,0,0,0,0,0,Probable (Quadriceps)
+CHA @ PHX · Fri 02:00 UK,Naz Reid,CHA,39,77,33,15,5,97,79,44,26,8,3,79,46,23,18,
+CHA @ PHX · Fri 02:00 UK,Oso Ighodaro,PHX,41,32,7,0,0,88,63,34,51,27,10,0,0,0,0,
+CHA @ PHX · Fri 02:00 UK,Sion James,CHA,41,20,0,0,0,66,29,5,46,7,2,66,32,15,2,
