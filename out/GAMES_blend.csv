@@ -1,4 +1,4 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Thu 12 Nov 23:42 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Fri 13 Nov 01:04 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 DET @ WAS · Fri 00:00 UK,AJ Dybantsa,WAS,8,88,62,25,0,88,75,38,38,0,0,75,0,0,0,
 DET @ WAS · Fri 00:00 UK,Alex Sarr,WAS,24,62,29,8,8,96,75,50,38,17,4,67,21,8,4,
@@ -58,3 +58,74 @@ CHA @ PHX · Fri 02:00 UK,Moussa Diabate,CHA,37,32,5,0,0,100,97,73,46,14,0,0,0,0
 CHA @ PHX · Fri 02:00 UK,Naz Reid,CHA,39,77,33,15,5,97,79,44,26,8,3,79,46,23,18,
 CHA @ PHX · Fri 02:00 UK,Oso Ighodaro,PHX,41,32,7,0,0,88,63,34,51,27,10,0,0,0,0,
 CHA @ PHX · Fri 02:00 UK,Sion James,CHA,41,20,0,0,0,66,29,5,46,7,2,66,32,15,2,
+MIL @ ORL · Sat 00:00 UK,Anthony Black,ORL,32,75,47,28,12,72,38,19,62,41,9,78,53,25,12,
+MIL @ ORL · Sat 00:00 UK,Brayden Burries,MIL,12,50,8,8,0,83,67,25,42,8,0,75,8,0,0,
+MIL @ ORL · Sat 00:00 UK,Desmond Bane,ORL,41,93,83,51,32,71,39,10,63,32,7,95,71,51,29,
+MIL @ ORL · Sat 00:00 UK,Franz Wagner,ORL,17,100,82,53,29,82,59,24,65,59,35,65,35,18,0,
+MIL @ ORL · Sat 00:00 UK,Jaime Jaquez Jr.,MIL,38,74,58,29,8,71,50,24,74,37,16,74,47,13,5,
+MIL @ ORL · Sat 00:00 UK,Jalen Suggs,ORL,29,69,24,14,3,76,31,7,90,62,34,79,66,45,21,Questionable (Knee)
+MIL @ ORL · Sat 00:00 UK,Jase Richardson,ORL,27,7,0,0,0,11,4,0,30,4,0,33,11,0,0,
+MIL @ ORL · Sat 00:00 UK,Kyle Kuzma,MIL,35,60,31,11,6,80,37,14,57,17,6,71,40,23,14,
+MIL @ ORL · Sat 00:00 UK,Myles Turner,MIL,36,44,17,3,0,89,56,31,25,6,3,83,42,22,11,
+MIL @ ORL · Sat 00:00 UK,Paolo Banchero,ORL,36,97,83,58,39,100,89,64,94,69,33,69,31,17,6,Out (Ankle) – est. return 22 Nov
+MIL @ ORL · Sat 00:00 UK,Ryan Rollins,MIL,37,84,49,30,8,81,38,24,84,54,32,95,70,41,22,
+MIL @ ORL · Sat 00:00 UK,Tristan Da Silva,ORL,39,64,33,13,3,72,36,18,33,10,0,85,59,44,21,Questionable (Calf)
+MIL @ ORL · Sat 00:00 UK,Tyler Herro,MIL,17,94,76,59,29,82,47,12,82,41,35,100,71,65,47,
+MIL @ ORL · Sat 00:00 UK,Wendell Carter Jr.,ORL,39,64,41,15,5,100,92,67,28,0,0,44,18,5,0,
+NYK @ IND · Sat 00:00 UK,Aaron Nesmith,IND,10,60,30,0,0,40,10,0,10,0,0,80,60,30,10,Questionable (Knee)
+NYK @ IND · Sat 00:00 UK,Andrew Nembhard,IND,29,83,59,38,7,38,10,3,93,76,69,90,62,38,17,
+NYK @ IND · Sat 00:00 UK,Ivica Zubac,IND,24,67,29,4,0,96,88,75,17,4,0,0,0,0,0,
+NYK @ IND · Sat 00:00 UK,Jalen Brunson,NYK,37,95,92,76,51,65,32,3,95,73,59,89,68,41,22,
+NYK @ IND · Sat 00:00 UK,Jarace Walker,IND,38,68,39,13,0,89,79,42,47,26,5,87,50,21,13,
+NYK @ IND · Sat 00:00 UK,Josh Hart,NYK,33,61,21,6,6,97,82,48,85,39,15,67,45,15,9,
+NYK @ IND · Sat 00:00 UK,Karl-Anthony Towns,NYK,38,100,87,63,21,100,97,97,55,26,11,82,42,18,3,
+NYK @ IND · Sat 00:00 UK,Kelly Oubre Jr.,IND,25,64,28,16,4,72,40,20,16,0,0,72,28,12,4,
+NYK @ IND · Sat 00:00 UK,Landry Shamet,NYK,26,42,4,4,0,27,4,0,19,4,0,85,65,23,8,
+NYK @ IND · Sat 00:00 UK,Mikal Bridges,NYK,41,59,22,10,2,59,32,5,46,22,2,73,34,15,7,
+NYK @ IND · Sat 00:00 UK,OG Anunoby,NYK,34,82,59,35,12,91,56,24,29,9,3,94,71,44,26,
+NYK @ IND · Sat 00:00 UK,Obi Toppin,IND,12,83,33,25,8,83,67,25,17,0,0,75,50,25,25,
+NYK @ IND · Sat 00:00 UK,Pascal Siakam,IND,31,100,90,81,52,94,77,39,74,42,3,77,48,19,6,
+NYK @ IND · Sat 00:00 UK,Quenton Jackson,IND,12,42,17,17,0,58,25,17,42,8,0,58,33,17,0,
+NYK @ IND · Sat 00:00 UK,Tyrese Haliburton,IND,4,100,100,75,0,75,50,0,100,100,100,75,75,50,50,Out (Hamstring) – est. return 22 Nov
+ATL @ CHI · Sat 01:00 UK,Aaron Wiggins,ATL,33,52,33,9,0,52,12,9,36,9,0,76,48,27,12,
+ATL @ CHI · Sat 01:00 UK,CJ McCollum,ATL,38,84,63,34,13,50,18,8,74,42,21,84,63,34,18,
+ATL @ CHI · Sat 01:00 UK,Caleb Wilson,CHI,10,90,90,50,10,100,90,20,50,0,0,100,60,30,20,Out (Hand) – est. return 13 Dec
+ATL @ CHI · Sat 01:00 UK,Dyson Daniels,ATL,38,66,29,8,3,97,79,55,95,47,29,32,8,0,0,
+ATL @ CHI · Sat 01:00 UK,Jalen Johnson,ATL,36,94,83,58,33,100,97,86,94,81,58,69,53,17,8,
+ATL @ CHI · Sat 01:00 UK,Jalen Smith,CHI,27,78,30,4,0,93,70,48,19,4,0,81,63,30,4,
+ATL @ CHI · Sat 01:00 UK,Josh Giddey,CHI,27,63,41,19,4,81,70,59,100,93,74,81,48,26,15,
+ATL @ CHI · Sat 01:00 UK,Kingston Flemings,ATL,11,45,9,9,0,45,18,0,82,45,9,55,18,9,0,Questionable (Back)
+ATL @ CHI · Sat 01:00 UK,Luguentz Dort,ATL,35,31,9,3,3,66,23,3,17,0,0,86,54,20,11,
+ATL @ CHI · Sat 01:00 UK,Matas Buzelis,CHI,39,90,67,33,10,95,79,38,38,3,0,85,74,49,23,
+ATL @ CHI · Sat 01:00 UK,Nickeil Alexander-Walker,ATL,39,100,85,64,31,67,10,5,64,28,5,97,90,69,54,
+ATL @ CHI · Sat 01:00 UK,Norman Powell,CHI,29,93,83,48,17,55,14,3,28,7,0,86,66,38,17,Questionable (Shoulder)
+ATL @ CHI · Sat 01:00 UK,Onyeka Okongwu,ATL,37,76,41,16,5,95,81,62,51,16,5,73,54,22,11,
+ATL @ CHI · Sat 01:00 UK,Patrick Williams,CHI,36,28,11,3,0,56,22,14,25,11,3,64,42,19,3,
+CLE @ MIA · Sat 01:00 UK,Andrew Wiggins,MIA,34,71,29,15,9,65,38,21,26,9,0,85,62,38,21,
+CLE @ MIA · Sat 01:00 UK,Bam Adebayo,MIA,37,92,81,57,24,100,97,92,78,22,11,73,41,19,11,
+CLE @ MIA · Sat 01:00 UK,Bobby Portis,MIA,34,71,32,9,3,79,65,41,29,6,3,74,56,35,9,
+CLE @ MIA · Sat 01:00 UK,Davion Mitchell,MIA,35,69,34,11,0,46,17,3,91,71,46,74,57,29,9,
+CLE @ MIA · Sat 01:00 UK,Donovan Mitchell,CLE,35,97,91,74,54,80,51,23,100,57,23,89,71,40,23,
+CLE @ MIA · Sat 01:00 UK,Evan Mobley,CLE,33,91,73,39,15,97,91,70,70,12,3,52,30,15,9,Out (Toe) – est. return 14 Nov
+CLE @ MIA · Sat 01:00 UK,Giannis Antetokounmpo,MIA,18,100,94,89,61,100,100,72,89,44,33,28,6,0,0,Probable (Wrist)
+CLE @ MIA · Sat 01:00 UK,James Harden,CLE,35,97,80,40,17,80,60,17,100,83,54,100,89,66,26,
+CLE @ MIA · Sat 01:00 UK,Jarrett Allen,CLE,28,89,57,36,21,96,89,82,18,4,0,11,0,0,0,
+CLE @ MIA · Sat 01:00 UK,Jaylon Tyson,CLE,33,64,39,6,0,76,45,18,42,9,0,79,52,36,12,
+CLE @ MIA · Sat 01:00 UK,Klay Thompson,MIA,35,60,34,14,6,17,3,0,14,0,0,97,74,54,43,Questionable (Ankle)
+CLE @ MIA · Sat 01:00 UK,Meleek Thomas,CLE,9,78,33,0,0,56,11,0,22,0,0,89,89,67,22,
+CLE @ MIA · Sat 01:00 UK,Pelle Larsson,MIA,35,77,37,11,3,69,31,11,74,29,3,63,31,6,0,Questionable (Illness)
+CLE @ MIA · Sat 01:00 UK,Peyton Watson,CLE,27,78,44,26,11,85,56,15,56,11,0,78,41,11,11,
+CLE @ MIA · Sat 01:00 UK,Sam Merrill,CLE,26,50,31,8,0,58,23,8,46,8,0,88,65,35,19,Out (Elbow) – est. return 16 Nov
+MEM @ NOP · Sat 01:00 UK,Cameron Boozer,MEM,11,82,55,27,18,100,100,91,100,55,18,73,64,27,18,
+MEM @ NOP · Sat 01:00 UK,Cedric Coward,MEM,31,77,45,10,3,81,65,48,55,13,0,84,58,19,6,
+MEM @ NOP · Sat 01:00 UK,Dejounte Murray,NOP,9,67,44,33,0,78,44,22,89,44,11,67,22,0,0,
+MEM @ NOP · Sat 01:00 UK,Derik Queen,NOP,41,54,24,10,5,88,71,46,44,15,5,34,2,2,2,
+MEM @ NOP · Sat 01:00 UK,Herbert Jones,NOP,28,43,7,0,0,57,11,4,36,4,0,68,36,18,7,
+MEM @ NOP · Sat 01:00 UK,Jaylen Wells,MEM,35,77,43,11,3,57,14,0,26,0,0,83,74,40,20,
+MEM @ NOP · Sat 01:00 UK,Jerami Grant,MEM,29,76,52,34,10,52,17,3,24,3,0,90,76,38,14,
+MEM @ NOP · Sat 01:00 UK,Jeremiah Fears,NOP,41,73,44,29,15,68,37,15,76,54,17,78,34,22,5,
+MEM @ NOP · Sat 01:00 UK,Saddiq Bey,NOP,36,89,72,39,11,83,58,8,53,8,3,94,67,47,19,
+MEM @ NOP · Sat 01:00 UK,Trey Murphy III,NOP,33,91,73,42,24,82,67,24,79,36,12,97,79,58,39,Doubtful (Knee)
+MEM @ NOP · Sat 01:00 UK,Ty Jerome,MEM,10,100,90,80,50,50,30,10,90,70,10,100,60,40,30,
+MEM @ NOP · Sat 01:00 UK,Zach Edey,MEM,10,30,0,0,0,100,90,60,10,0,0,10,0,0,0,Out (Ankle) – est. return 14 Nov
+MEM @ NOP · Sat 01:00 UK,Zion Williamson,NOP,31,97,87,61,23,87,55,19,45,3,0,13,3,0,0,
