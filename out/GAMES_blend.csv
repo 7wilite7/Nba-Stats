@@ -1,34 +1,5 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Sat 14 Nov 02:00 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Sat 14 Nov 02:50 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
-MIL @ ORL · Sat 00:00 UK,Anthony Black,ORL,32,75,47,28,12,72,38,19,62,41,9,78,53,25,12,
-MIL @ ORL · Sat 00:00 UK,Brayden Burries,MIL,12,50,8,8,0,83,67,25,42,8,0,75,8,0,0,
-MIL @ ORL · Sat 00:00 UK,Desmond Bane,ORL,41,93,83,51,32,71,39,10,63,32,7,95,71,51,29,
-MIL @ ORL · Sat 00:00 UK,Franz Wagner,ORL,17,100,82,53,29,82,59,24,65,59,35,65,35,18,0,
-MIL @ ORL · Sat 00:00 UK,Jaime Jaquez Jr.,MIL,38,74,58,29,8,71,50,24,74,37,16,74,47,13,5,
-MIL @ ORL · Sat 00:00 UK,Jalen Suggs,ORL,29,69,24,14,3,76,31,7,90,62,34,79,66,45,21,
-MIL @ ORL · Sat 00:00 UK,Jase Richardson,ORL,27,7,0,0,0,11,4,0,30,4,0,33,11,0,0,
-MIL @ ORL · Sat 00:00 UK,Kyle Kuzma,MIL,35,60,31,11,6,80,37,14,57,17,6,71,40,23,14,
-MIL @ ORL · Sat 00:00 UK,Myles Turner,MIL,36,44,17,3,0,89,56,31,25,6,3,83,42,22,11,
-MIL @ ORL · Sat 00:00 UK,Paolo Banchero,ORL,36,97,83,58,39,100,89,64,94,69,33,69,31,17,6,Out (Ankle) – est. return 22 Nov
-MIL @ ORL · Sat 00:00 UK,Ryan Rollins,MIL,37,84,49,30,8,81,38,24,84,54,32,95,70,41,22,
-MIL @ ORL · Sat 00:00 UK,Tristan Da Silva,ORL,39,64,33,13,3,72,36,18,33,10,0,85,59,44,21,
-MIL @ ORL · Sat 00:00 UK,Tyler Herro,MIL,17,94,76,59,29,82,47,12,82,41,35,100,71,65,47,
-MIL @ ORL · Sat 00:00 UK,Wendell Carter Jr.,ORL,39,64,41,15,5,100,92,67,28,0,0,44,18,5,0,
-NYK @ IND · Sat 00:00 UK,Aaron Nesmith,IND,10,60,30,0,0,40,10,0,10,0,0,80,60,30,10,
-NYK @ IND · Sat 00:00 UK,Andrew Nembhard,IND,29,83,59,38,7,38,10,3,93,76,69,90,62,38,17,
-NYK @ IND · Sat 00:00 UK,Ivica Zubac,IND,24,67,29,4,0,96,88,75,17,4,0,0,0,0,0,
-NYK @ IND · Sat 00:00 UK,Jalen Brunson,NYK,37,95,92,76,51,65,32,3,95,73,59,89,68,41,22,
-NYK @ IND · Sat 00:00 UK,Jarace Walker,IND,38,68,39,13,0,89,79,42,47,26,5,87,50,21,13,
-NYK @ IND · Sat 00:00 UK,Josh Hart,NYK,33,61,21,6,6,97,82,48,85,39,15,67,45,15,9,
-NYK @ IND · Sat 00:00 UK,Karl-Anthony Towns,NYK,38,100,87,63,21,100,97,97,55,26,11,82,42,18,3,
-NYK @ IND · Sat 00:00 UK,Kelly Oubre Jr.,IND,25,64,28,16,4,72,40,20,16,0,0,72,28,12,4,
-NYK @ IND · Sat 00:00 UK,Landry Shamet,NYK,26,42,4,4,0,27,4,0,19,4,0,85,65,23,8,
-NYK @ IND · Sat 00:00 UK,Mikal Bridges,NYK,41,59,22,10,2,59,32,5,46,22,2,73,34,15,7,
-NYK @ IND · Sat 00:00 UK,OG Anunoby,NYK,34,82,59,35,12,91,56,24,29,9,3,94,71,44,26,
-NYK @ IND · Sat 00:00 UK,Obi Toppin,IND,12,83,33,25,8,83,67,25,17,0,0,75,50,25,25,
-NYK @ IND · Sat 00:00 UK,Pascal Siakam,IND,31,100,90,81,52,94,77,39,74,42,3,77,48,19,6,
-NYK @ IND · Sat 00:00 UK,Quenton Jackson,IND,12,42,17,17,0,58,25,17,42,8,0,58,33,17,0,
-NYK @ IND · Sat 00:00 UK,Tyrese Haliburton,IND,4,100,100,75,0,75,50,0,100,100,100,75,75,50,50,Out (Hamstring) – est. return 22 Nov
 ATL @ CHI · Sat 01:00 UK,Aaron Wiggins,ATL,33,52,33,9,0,52,12,9,36,9,0,76,48,27,12,
 ATL @ CHI · Sat 01:00 UK,CJ McCollum,ATL,38,84,63,34,13,50,18,8,74,42,21,84,63,34,18,
 ATL @ CHI · Sat 01:00 UK,Dyson Daniels,ATL,38,66,29,8,3,97,79,55,95,47,29,32,8,0,0,
@@ -84,7 +55,7 @@ POR @ SAC · Sat 03:00 UK,Sidy Cissoko,POR,38,11,8,0,0,39,8,3,26,0,0,32,16,5,3,
 POR @ SAC · Sat 03:00 UK,Toumani Camara,POR,41,71,39,12,7,80,46,20,32,7,0,93,76,51,34,
 POR @ SAC · Sat 03:00 UK,Zach LaVine,SAC,20,95,75,45,20,55,10,0,45,20,0,90,70,55,15,
 OKC @ LAC · Sat 03:30 UK,Aday Mara,OKC,12,42,8,0,0,92,67,50,17,0,0,8,0,0,0,
-OKC @ LAC · Sat 03:30 UK,Ajay Mitchell,OKC,29,72,45,21,10,66,24,7,72,31,7,62,24,7,3,Questionable (Ankle)
+OKC @ LAC · Sat 03:30 UK,Ajay Mitchell,OKC,29,72,45,21,10,66,24,7,72,31,7,62,24,7,3,Out (Ankle) – est. return 15 Nov
 OKC @ LAC · Sat 03:30 UK,Brandon Ingram,LAC,39,95,79,51,28,87,69,23,72,33,8,77,51,31,13,Out (Achilles) – est. return 19 Nov
 OKC @ LAC · Sat 03:30 UK,Brook Lopez,LAC,38,58,39,13,3,84,58,32,24,0,0,76,37,24,11,
 OKC @ LAC · Sat 03:30 UK,Chet Holmgren,OKC,35,94,57,23,11,97,86,80,23,3,0,66,23,14,9,Out (Knee) – est. return 2 Jan
