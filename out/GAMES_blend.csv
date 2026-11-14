@@ -1,4 +1,4 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Sat 14 Nov 22:11 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Sat 14 Nov 23:10 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 DEN @ NOP · Sun 00:00 UK,Aaron Gordon,DEN,18,61,50,11,0,83,61,17,50,17,0,72,28,11,6,
 DEN @ NOP · Sun 00:00 UK,Cameron Johnson,DEN,27,70,44,7,0,70,33,15,48,11,4,93,67,41,26,
@@ -14,20 +14,14 @@ DEN @ NOP · Sun 00:00 UK,Nikola Jokic,DEN,33,97,91,76,48,100,100,100,97,97,85,7
 DEN @ NOP · Sun 00:00 UK,Saddiq Bey,NOP,36,89,75,42,14,83,58,8,50,8,3,94,67,47,19,
 DEN @ NOP · Sun 00:00 UK,Trey Murphy III,NOP,33,91,73,42,24,82,67,24,79,36,12,97,79,58,39,Out (Knee) – est. return 16 Nov
 DEN @ NOP · Sun 00:00 UK,Zion Williamson,NOP,31,97,87,61,19,87,55,19,48,3,0,10,3,0,0,
-DAL @ CLE · Sun 00:30 UK,Cooper Flagg,DAL,35,100,77,54,46,100,80,43,83,69,31,60,31,11,3,
-DAL @ CLE · Sun 00:30 UK,Daniel Gafford,DAL,28,46,29,21,0,93,68,54,14,7,0,4,0,0,0,
-DAL @ CLE · Sun 00:30 UK,Donovan Mitchell,CLE,35,97,91,74,54,80,49,23,100,57,23,89,71,40,26,Questionable (Knee)
+DAL @ CLE · Sun 00:30 UK,Donovan Mitchell,CLE,35,97,91,74,54,80,49,23,100,57,23,89,71,40,26,Out (Knee) – est. return 16 Nov
 DAL @ CLE · Sun 00:30 UK,Evan Mobley,CLE,33,91,73,39,15,97,91,70,70,12,3,52,30,15,9,Out (Toe) – est. return 16 Nov
-DAL @ CLE · Sun 00:30 UK,James Harden,CLE,35,97,80,43,17,80,60,17,100,83,54,100,89,63,26,Questionable (Calf)
-DAL @ CLE · Sun 00:30 UK,Jarrett Allen,CLE,28,86,54,32,18,96,89,82,14,0,0,11,0,0,0,Questionable (Knee)
+DAL @ CLE · Sun 00:30 UK,James Harden,CLE,35,97,80,43,17,80,60,17,100,83,54,100,89,63,26,Out (Calf) – est. return 16 Nov
+DAL @ CLE · Sun 00:30 UK,Jarrett Allen,CLE,28,86,54,32,18,96,89,82,14,0,0,11,0,0,0,Out (Knee) – est. return 16 Nov
 DAL @ CLE · Sun 00:30 UK,Jaylon Tyson,CLE,33,64,42,6,0,76,42,15,39,9,0,79,55,39,15,
-DAL @ CLE · Sun 00:30 UK,Kyrie Irving,DAL,10,100,80,50,30,60,20,10,80,30,10,90,80,50,40,
 DAL @ CLE · Sun 00:30 UK,Meleek Thomas,CLE,10,80,30,0,0,50,10,0,30,0,0,90,90,60,20,
-DAL @ CLE · Sun 00:30 UK,Naji Marshall,DAL,37,62,49,24,16,65,41,14,73,35,16,49,22,5,3,
-DAL @ CLE · Sun 00:30 UK,P.J. Washington,DAL,28,75,46,29,4,96,79,46,14,0,0,86,57,29,11,
-DAL @ CLE · Sun 00:30 UK,Peyton Watson,CLE,27,74,41,22,7,85,52,11,52,7,0,74,41,11,11,Questionable (Hamstring)
+DAL @ CLE · Sun 00:30 UK,Peyton Watson,CLE,27,74,41,22,7,85,52,11,52,7,0,74,41,11,11,Out (Hamstring) – est. return 16 Nov
 DAL @ CLE · Sun 00:30 UK,Sam Merrill,CLE,26,50,31,8,0,58,23,8,46,8,0,88,65,35,19,Out (Elbow) – est. return 16 Nov
-DAL @ CLE · Sun 00:30 UK,Zaccharie Risacher,DAL,34,38,12,3,0,74,53,15,12,0,0,62,29,21,6,
 BKN @ MEM · Sun 01:00 UK,Cameron Boozer,MEM,12,83,50,25,17,100,100,92,100,50,17,75,58,25,17,
 BKN @ MEM · Sun 01:00 UK,Cedric Coward,MEM,31,77,42,10,3,84,68,52,55,13,0,81,55,16,6,
 BKN @ MEM · Sun 01:00 UK,Danny Wolf,BKN,29,55,14,3,0,93,62,31,34,14,3,86,52,7,0,
@@ -80,7 +74,7 @@ IND @ PHI · Sun 18:00 UK,Jaylen Brown,PHI,36,97,94,81,53,94,72,53,86,53,33,83,5
 IND @ PHI · Sun 18:00 UK,Joel Embiid,PHI,19,95,84,63,47,100,95,74,63,37,21,58,37,16,5,Out (Foot) – est. return 16 Nov
 IND @ PHI · Sun 18:00 UK,Kelly Oubre Jr.,IND,25,64,32,16,4,72,44,20,16,0,0,72,24,12,4,
 IND @ PHI · Sun 18:00 UK,Kentavious Caldwell-Pope,PHI,26,35,8,0,0,46,8,0,31,4,0,69,15,8,4,
-IND @ PHI · Sun 18:00 UK,LeBron James,PHI,30,97,67,37,13,93,90,53,93,87,57,63,27,10,3,Day-To-Day / GTD (Back) – est. return 15 Nov
+IND @ PHI · Sun 18:00 UK,LeBron James,PHI,30,97,67,37,13,93,90,53,93,87,57,63,27,10,3,
 IND @ PHI · Sun 18:00 UK,Obi Toppin,IND,12,75,25,17,0,83,58,17,8,0,0,83,50,25,25,
 IND @ PHI · Sun 18:00 UK,Pascal Siakam,IND,31,100,90,77,48,94,74,35,71,42,3,77,48,16,3,
 IND @ PHI · Sun 18:00 UK,Quenton Jackson,IND,13,38,15,15,0,62,31,15,46,8,0,62,31,15,0,
@@ -133,3 +127,30 @@ SAS @ UTA · Sun 22:00 UK,Lauri Markkanen,UTA,21,95,90,57,38,95,76,57,33,0,0,95,
 SAS @ UTA · Sun 22:00 UK,Stephon Castle,SAS,34,88,68,26,6,88,65,47,94,79,50,79,53,29,9,
 SAS @ UTA · Sun 22:00 UK,Tobias Harris,SAS,32,78,38,12,0,88,72,31,47,25,3,75,31,9,3,Out (Calf) – est. return 19 Nov
 SAS @ UTA · Sun 22:00 UK,Victor Wembanyama,SAS,32,100,88,78,66,100,100,97,62,25,6,84,62,28,19,
+DAL @ BOS · Sun 23:00 UK,Baylor Scheierman,BOS,39,31,8,5,3,72,41,21,31,10,3,87,49,26,8,
+DAL @ BOS · Sun 23:00 UK,Cooper Flagg,DAL,35,100,77,54,46,100,80,43,83,69,31,60,31,11,3,
+DAL @ BOS · Sun 23:00 UK,Daniel Gafford,DAL,28,46,29,21,0,93,68,54,14,7,0,4,0,0,0,
+DAL @ BOS · Sun 23:00 UK,Derrick White,BOS,39,72,44,21,5,69,41,5,90,59,33,87,62,41,23,
+DAL @ BOS · Sun 23:00 UK,Jayson Tatum,BOS,11,100,91,82,45,100,73,45,100,91,73,91,73,36,18,
+DAL @ BOS · Sun 23:00 UK,Kyrie Irving,DAL,10,100,80,50,30,60,20,10,80,30,10,90,80,50,40,
+DAL @ BOS · Sun 23:00 UK,Naji Marshall,DAL,37,62,49,24,16,65,41,14,73,35,16,49,22,5,3,
+DAL @ BOS · Sun 23:00 UK,Neemias Queta,BOS,38,50,24,5,3,95,79,55,32,5,0,11,0,0,0,
+DAL @ BOS · Sun 23:00 UK,P.J. Washington,DAL,28,75,46,29,4,96,79,46,14,0,0,86,57,29,11,
+DAL @ BOS · Sun 23:00 UK,Paul George,BOS,19,89,84,53,32,100,74,16,47,32,16,95,84,74,42,
+DAL @ BOS · Sun 23:00 UK,Payton Pritchard,BOS,40,75,52,28,20,68,28,8,88,48,20,80,70,50,38,
+DAL @ BOS · Sun 23:00 UK,Sam Hauser,BOS,39,41,13,5,0,79,26,8,18,3,0,90,72,41,21,
+DAL @ BOS · Sun 23:00 UK,Zaccharie Risacher,DAL,34,38,12,3,0,74,53,15,12,0,0,62,29,21,6,
+NYK @ TOR · Sun 23:00 UK,Collin Murray-Boyles,TOR,29,52,24,3,0,83,48,24,21,3,0,28,3,0,0,
+NYK @ TOR · Sun 23:00 UK,Immanuel Quickley,TOR,35,89,51,26,14,71,17,3,86,63,40,91,71,54,20,
+NYK @ TOR · Sun 23:00 UK,Ja'Kobe Walter,TOR,36,50,19,6,0,64,28,8,19,3,0,81,61,42,19,
+NYK @ TOR · Sun 23:00 UK,Jakob Poeltl,TOR,23,52,26,4,0,78,70,39,26,0,0,0,0,0,0,
+NYK @ TOR · Sun 23:00 UK,Jalen Brunson,NYK,37,95,92,76,51,62,30,3,95,73,59,89,68,41,22,
+NYK @ TOR · Sun 23:00 UK,Jamal Shead,TOR,41,22,5,2,0,22,2,0,93,59,27,54,22,5,2,
+NYK @ TOR · Sun 23:00 UK,Josh Hart,NYK,33,58,18,6,6,97,82,45,85,36,12,64,42,15,9,
+NYK @ TOR · Sun 23:00 UK,Karl-Anthony Towns,NYK,38,100,89,66,21,100,97,97,58,29,11,84,45,21,3,
+NYK @ TOR · Sun 23:00 UK,Kawhi Leonard,TOR,33,100,100,97,67,100,79,55,73,30,6,94,70,36,24,Out (Knee) – est. return 23 Nov
+NYK @ TOR · Sun 23:00 UK,Landry Shamet,NYK,26,38,4,4,0,31,4,0,19,4,0,85,62,23,8,
+NYK @ TOR · Sun 23:00 UK,Mikal Bridges,NYK,41,59,22,10,2,61,32,5,49,22,2,73,34,12,7,
+NYK @ TOR · Sun 23:00 UK,OG Anunoby,NYK,34,85,59,35,12,88,53,21,29,9,3,97,74,44,26,
+NYK @ TOR · Sun 23:00 UK,RJ Barrett,TOR,29,97,86,66,28,93,66,28,69,28,3,76,38,24,14,
+NYK @ TOR · Sun 23:00 UK,Scottie Barnes,TOR,40,90,65,32,15,95,72,38,90,70,35,48,15,0,0,Questionable (Groin)
