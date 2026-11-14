@@ -1,4 +1,4 @@
-"Updated Sat 14 Nov 08:42 UK · box scores to 2026-11-13 · fact-check vs ESPN: 99.63% of 16,504 stats match (183 games) · pick tracker: 86% hit from 1950 graded picks"
+"Updated Sat 14 Nov 15:38 UK · box scores to 2026-11-13 · fact-check vs ESPN: 99.63% of 16,504 stats match (183 games) · pick tracker: 86% hit from 1950 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -17,6 +17,7 @@ By true rate,Graded,Hit %,True % given
 Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-15,DEN @ NOP,Zion Williamson Rebounds 3+,85,91,11,Pending,Live
 2026-11-15,DEN @ NOP,Zion Williamson Points 10+,90,100,11,Pending,Live
+2026-11-15,BKN @ MEM,Zach Edey Rebounds 3+,92,100,10,Pending,Live
 2026-11-15,BKN @ MEM,Ty Jerome Threes 1+,91,100,10,Pending,Live
 2026-11-15,BKN @ MEM,Ty Jerome Points 10+,89,100,10,Pending,Live
 2026-11-15,BKN @ MEM,Ty Jerome Assists 3+,80,91,11,Pending,Live
@@ -41,6 +42,7 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-15,CHI @ MIN,LaMelo Ball Assists 3+,88,100,12,Pending,Live
 2026-11-15,DAL @ CLE,Kyrie Irving Threes 1+,83,90,10,Pending,Live
 2026-11-15,DAL @ CLE,Kyrie Irving Points 10+,89,100,10,Pending,Live
+2026-11-15,DET @ MIA,Klay Thompson Threes 1+,91,100,11,Pending,Live
 2026-11-15,DET @ MIA,Kevin Huerter Threes 1+,84,91,11,Pending,Live
 2026-11-15,BKN @ MEM,Julius Randle Rebounds 3+,92,100,11,Pending,Live
 2026-11-15,BKN @ MEM,Julius Randle Points 10+,90,100,11,Pending,Live
@@ -62,6 +64,8 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-15,DET @ MIA,Giannis Antetokounmpo Rebounds 5+,87,100,11,Pending,Live
 2026-11-15,DET @ MIA,Giannis Antetokounmpo Points 10+,90,100,11,Pending,Live
 2026-11-15,DET @ MIA,Giannis Antetokounmpo Assists 3+,80,91,11,Pending,Live
+2026-11-15,DAL @ CLE,Evan Mobley Rebounds 3+,86,92,12,Pending,Live
+2026-11-15,DAL @ CLE,Evan Mobley Points 10+,84,92,12,Pending,Live
 2026-11-15,DET @ MIA,Duncan Robinson Threes 2+,86,100,11,Pending,Live
 2026-11-15,DET @ MIA,Duncan Robinson Points 10+,90,100,11,Pending,Live
 2026-11-15,DAL @ CLE,Donovan Mitchell Threes 1+,92,100,12,Pending,Live
@@ -411,7 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-12,ORL @ UTA,Franz Wagner Rebounds 3+,91,100,9,Hit,Live
 2026-11-12,ORL @ UTA,Franz Wagner Points 10+,88,100,9,Hit,Live
 2026-11-12,ORL @ UTA,Franz Wagner Assists 5+,80,100,9,Miss,Live
-2026-11-12,CLE @ NYK,Evan Mobley Threes 1+,84,91,11,Miss,Live
-2026-11-12,CLE @ NYK,Evan Mobley Rebounds 3+,85,91,11,Hit,Live
-2026-11-12,CLE @ NYK,Evan Mobley Points 10+,83,91,11,Hit,Live
-2026-11-12,SAS @ CHI,Dylan Harper Rebounds 3+,85,91,11,Hit,Live
