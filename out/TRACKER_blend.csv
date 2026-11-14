@@ -1,4 +1,4 @@
-"Updated Sat 14 Nov 17:36 UK · box scores to 2026-11-13 · fact-check vs ESPN: 99.63% of 16,504 stats match (183 games) · pick tracker: 85% hit from 2950 graded picks"
+"Updated Sat 14 Nov 18:12 UK · box scores to 2026-11-13 · fact-check vs ESPN: 99.63% of 16,504 stats match (183 games) · pick tracker: 85% hit from 2950 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -18,6 +18,10 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-15,DEN @ NOP,Zion Williamson Rebounds 3+,85,87,31,Pending,Live
 2026-11-15,DEN @ NOP,Zion Williamson Points 15+,82,87,31,Pending,Live
 2026-11-15,BKN @ MEM,Zach Edey Rebounds 3+,92,100,10,Pending,Live
+2026-11-15,IND @ PHI,VJ Edgecombe Rebounds 3+,92,95,38,Pending,Live
+2026-11-15,IND @ PHI,Tyrese Maxey Threes 1+,97,100,35,Pending,Live
+2026-11-15,IND @ PHI,Tyrese Maxey Points 20+,86,91,35,Pending,Live
+2026-11-15,IND @ PHI,Tyrese Maxey Assists 3+,85,89,35,Pending,Live
 2026-11-15,BKN @ MEM,Ty Jerome Threes 1+,91,100,10,Pending,Live
 2026-11-15,BKN @ MEM,Ty Jerome Points 10+,89,100,10,Pending,Live
 2026-11-15,BKN @ MEM,Ty Jerome Assists 3+,80,91,11,Pending,Live
@@ -27,6 +31,8 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-15,CHI @ MIN,Rudy Gobert Rebounds 7+,84,89,38,Pending,Live
 2026-11-15,DAL @ CLE,Peyton Watson Rebounds 3+,83,85,27,Pending,Live
 2026-11-15,DET @ MIA,Paul Reed Rebounds 3+,86,88,33,Pending,Live
+2026-11-15,IND @ PHI,Pascal Siakam Rebounds 3+,91,94,31,Pending,Live
+2026-11-15,IND @ PHI,Pascal Siakam Points 15+,85,90,31,Pending,Live
 2026-11-15,DAL @ CLE,P.J. Washington Threes 1+,83,86,28,Pending,Live
 2026-11-15,DAL @ CLE,P.J. Washington Rebounds 3+,93,96,28,Pending,Live
 2026-11-15,CHI @ MIN,Norman Powell Threes 1+,84,86,29,Pending,Live
@@ -41,6 +47,9 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-15,CHI @ MIN,Matas Buzelis Threes 1+,83,85,39,Pending,Live
 2026-11-15,CHI @ MIN,Matas Buzelis Rebounds 3+,93,95,39,Pending,Live
 2026-11-15,CHI @ MIN,Matas Buzelis Points 10+,87,90,39,Pending,Live
+2026-11-15,IND @ PHI,LeBron James Rebounds 5+,85,90,30,Pending,Live
+2026-11-15,IND @ PHI,LeBron James Points 10+,93,97,30,Pending,Live
+2026-11-15,IND @ PHI,LeBron James Assists 5+,80,87,30,Pending,Live
 2026-11-15,CHI @ MIN,LaMelo Ball Threes 2+,90,94,36,Pending,Live
 2026-11-15,CHI @ MIN,LaMelo Ball Points 10+,94,97,36,Pending,Live
 2026-11-15,CHI @ MIN,LaMelo Ball Assists 3+,93,97,36,Pending,Live
@@ -54,10 +63,18 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-15,CHI @ MIN,Josh Giddey Rebounds 3+,80,81,27,Pending,Live
 2026-11-15,CHI @ MIN,Josh Giddey Assists 5+,85,93,27,Pending,Live
 2026-11-15,DET @ MIA,John Collins Rebounds 3+,87,89,35,Pending,Live
+2026-11-15,IND @ PHI,Joel Embiid Rebounds 5+,87,95,19,Pending,Live
+2026-11-15,IND @ PHI,Joel Embiid Points 10+,89,95,19,Pending,Live
 2026-11-15,BKN @ MEM,Jerami Grant Threes 1+,87,90,29,Pending,Live
 2026-11-15,BKN @ MEM,Jaylen Wells Threes 1+,81,83,35,Pending,Live
+2026-11-15,IND @ PHI,Jaylen Brown Threes 1+,81,83,36,Pending,Live
+2026-11-15,IND @ PHI,Jaylen Brown Rebounds 3+,92,94,36,Pending,Live
+2026-11-15,IND @ PHI,Jaylen Brown Points 15+,90,94,36,Pending,Live
+2026-11-15,IND @ PHI,Jaylen Brown Assists 3+,83,86,36,Pending,Live
 2026-11-15,DAL @ CLE,Jarrett Allen Rebounds 5+,84,89,28,Pending,Live
 2026-11-15,DAL @ CLE,Jarrett Allen Points 10+,86,89,28,Pending,Live
+2026-11-15,IND @ PHI,Jarace Walker Threes 1+,85,87,38,Pending,Live
+2026-11-15,IND @ PHI,Jarace Walker Rebounds 3+,88,89,38,Pending,Live
 2026-11-15,DAL @ CLE,James Harden Threes 2+,84,89,35,Pending,Live
 2026-11-15,DAL @ CLE,James Harden Points 10+,94,97,35,Pending,Live
 2026-11-15,DAL @ CLE,James Harden Assists 3+,95,100,35,Pending,Live
@@ -65,6 +82,7 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-15,DEN @ NOP,Jamal Murray Points 15+,80,84,38,Pending,Live
 2026-11-15,DEN @ NOP,Jamal Murray Assists 3+,88,92,38,Pending,Live
 2026-11-15,CHI @ MIN,Jalen Smith Rebounds 3+,90,93,27,Pending,Live
+2026-11-15,IND @ PHI,Ivica Zubac Rebounds 5+,82,88,24,Pending,Live
 2026-11-15,DET @ MIA,Giannis Antetokounmpo Rebounds 5+,91,100,18,Pending,Live
 2026-11-15,DET @ MIA,Giannis Antetokounmpo Points 15+,85,94,18,Pending,Live
 2026-11-15,DET @ MIA,Giannis Antetokounmpo Assists 3+,82,89,18,Pending,Live
@@ -97,7 +115,11 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-15,CHI @ MIN,Ayo Dosunmu Threes 1+,81,83,35,Pending,Live
 2026-11-15,CHI @ MIN,Ayo Dosunmu Points 10+,80,83,35,Pending,Live
 2026-11-15,DET @ MIA,Ausar Thompson Rebounds 3+,92,95,37,Pending,Live
+2026-11-15,IND @ PHI,Anfernee Simons Threes 1+,86,89,28,Pending,Live
 2026-11-15,DET @ MIA,Andrew Wiggins Threes 1+,83,85,34,Pending,Live
+2026-11-15,IND @ PHI,Andrew Nembhard Threes 1+,87,90,29,Pending,Live
+2026-11-15,IND @ PHI,Andrew Nembhard Points 10+,80,83,29,Pending,Live
+2026-11-15,IND @ PHI,Andrew Nembhard Assists 3+,88,93,29,Pending,Live
 2026-11-15,DEN @ NOP,Aaron Gordon Rebounds 3+,81,83,18,Pending,Live
 2026-11-14,MEM @ NOP,Zion Williamson Rebounds 3+,85,87,31,Hit,Live
 2026-11-14,MEM @ NOP,Zion Williamson Points 15+,82,87,31,Hit,Live
@@ -393,25 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-12,SAS @ CHI,Matas Buzelis Points 10+,87,90,39,Hit,Live
 2026-11-12,LAL @ MIL,Luka Doncic Threes 3+,84,91,32,Hit,Live
 2026-11-12,LAL @ MIL,Luka Doncic Rebounds 5+,92,97,32,Hit,Live
-2026-11-12,LAL @ MIL,Luka Doncic Points 25+,84,91,32,Hit,Live
-2026-11-12,LAL @ MIL,Luka Doncic Assists 3+,95,100,32,Hit,Live
-2026-11-12,ORL @ UTA,Lauri Markkanen Threes 1+,91,95,21,Did not play,Live
-2026-11-12,ORL @ UTA,Lauri Markkanen Rebounds 3+,91,95,21,Did not play,Live
-2026-11-12,ORL @ UTA,Lauri Markkanen Points 15+,83,90,21,Did not play,Live
-2026-11-12,CLE @ NYK,Landry Shamet Threes 1+,82,85,26,Hit,Live
-2026-11-12,LAL @ MIL,Kyle Kuzma Rebounds 3+,81,83,35,Miss,Live
-2026-11-12,ORL @ UTA,Keyonte George Points 15+,80,85,27,Miss,Live
-2026-11-12,GSW @ HOU,Kevin Durant Threes 1+,83,85,39,Hit,Live
-2026-11-12,GSW @ HOU,Kevin Durant Rebounds 3+,97,100,39,Hit,Live
-2026-11-12,GSW @ HOU,Kevin Durant Points 15+,88,92,39,Hit,Live
-2026-11-12,GSW @ HOU,Kevin Durant Assists 3+,81,85,39,Hit,Live
-2026-11-12,CLE @ NYK,Karl-Anthony Towns Threes 1+,80,82,38,Hit,Live
-2026-11-12,CLE @ NYK,Karl-Anthony Towns Rebounds 7+,92,97,38,Hit,Live
-2026-11-12,CLE @ NYK,Karl-Anthony Towns Points 15+,83,87,38,Hit,Live
-2026-11-12,BKN @ NOP,Julius Randle Rebounds 3+,93,95,40,Hit,Live
-2026-11-12,BKN @ NOP,Julius Randle Points 10+,92,95,40,Hit,Live
-2026-11-12,BKN @ NOP,Julius Randle Assists 3+,80,82,40,Hit,Live
-2026-11-12,SAS @ CHI,Julian Champagnie Threes 1+,81,83,41,Hit,Live
-2026-11-12,SAS @ CHI,Julian Champagnie Rebounds 3+,84,85,41,Miss,Live
-2026-11-12,OKC @ POR,Jrue Holiday Threes 1+,86,89,27,Hit,Live
-2026-11-12,CLE @ NYK,Josh Hart Rebounds 5+,81,85,33,Miss,Live
