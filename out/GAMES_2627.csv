@@ -1,4 +1,4 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Sat 14 Nov 20:12 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Sat 14 Nov 21:13 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 DEN @ NOP · Sun 00:00 UK,Aaron Gordon,DEN,10,50,40,10,0,90,60,10,30,10,0,70,30,10,0,
 DEN @ NOP · Sun 00:00 UK,Cameron Johnson,DEN,7,57,29,14,0,57,14,14,29,0,0,100,71,29,29,
@@ -87,3 +87,18 @@ IND @ PHI · Sun 18:00 UK,Quenton Jackson,IND,13,38,15,15,0,62,31,15,46,8,0,62,3
 IND @ PHI · Sun 18:00 UK,Tyrese Haliburton,IND,4,100,100,75,0,75,50,0,100,100,100,75,75,50,50,Out (Hamstring) – est. return 22 Nov
 IND @ PHI · Sun 18:00 UK,Tyrese Maxey,PHI,13,100,100,85,77,77,15,0,100,46,31,100,77,54,15,
 IND @ PHI · Sun 18:00 UK,VJ Edgecombe,PHI,12,75,33,8,0,100,67,50,58,33,8,83,42,25,8,
+LAL @ PHX · Sun 21:00 UK,Austin Reaves,LAL,12,100,100,75,50,75,17,0,83,50,17,100,50,42,33,Day-To-Day / GTD (Heel) – est. return 15 Nov
+LAL @ PHX · Sun 21:00 UK,Collin Gillespie,PHX,11,36,9,0,0,36,0,0,45,27,27,82,64,36,18,
+LAL @ PHX · Sun 21:00 UK,Devin Booker,PHX,11,91,91,82,55,36,9,9,82,64,36,82,82,36,18,
+LAL @ PHX · Sun 21:00 UK,Dillon Brooks,PHX,11,82,64,18,0,73,27,9,27,18,0,82,55,45,18,
+LAL @ PHX · Sun 21:00 UK,Jake LaRavia,LAL,12,17,0,0,0,50,25,25,33,8,0,58,42,0,0,
+LAL @ PHX · Sun 21:00 UK,Jalen Green,PHX,11,73,27,18,0,55,27,9,55,18,9,55,27,9,0,
+LAL @ PHX · Sun 21:00 UK,Luka Doncic,LAL,11,100,100,100,91,100,100,64,100,100,64,100,100,91,82,
+LAL @ PHX · Sun 21:00 UK,Mark Williams,PHX,0,,,,,,,,,,,,,,,Out (Shoulder) – est. return 3 Feb
+LAL @ PHX · Sun 21:00 UK,Matisse Thybulle,LAL,13,31,8,0,0,23,8,0,8,0,0,85,54,23,8,
+LAL @ PHX · Sun 21:00 UK,Miles Bridges,PHX,11,73,55,18,0,100,82,55,64,27,9,73,64,27,9,
+LAL @ PHX · Sun 21:00 UK,Oso Ighodaro,PHX,9,11,0,0,0,89,56,33,56,33,22,0,0,0,0,
+LAL @ PHX · Sun 21:00 UK,Quentin Grimes,LAL,11,36,9,9,0,45,9,9,55,9,0,45,18,9,0,Day-To-Day / GTD (Finger) – est. return 15 Nov
+LAL @ PHX · Sun 21:00 UK,Sandro Mamukelashvili,LAL,13,46,23,15,0,92,38,23,23,0,0,69,38,23,15,
+LAL @ PHX · Sun 21:00 UK,Walker Kessler,LAL,13,92,54,23,8,100,100,100,31,0,0,0,0,0,0,
+LAL @ PHX · Sun 21:00 UK,Ziaire Williams,LAL,10,60,10,0,0,40,10,0,30,10,0,100,60,30,10,
