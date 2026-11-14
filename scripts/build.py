@@ -283,10 +283,11 @@ def main():
     # the next full update, which marks them "post". New tracker picks are only logged before tip-off.
     upcoming = [g for g in sched if g["state"] != "post"
                 and NOW - dt.timedelta(hours=12) <= uk(g["utc"]) <= NOW + dt.timedelta(hours=24)]
+    # A team on a back-to-back can have two games in the window: keep every one, not just the last.
     team_game = {}
-    for g in upcoming:
-        team_game[g["home"]] = g
-        team_game[g["away"]] = g
+    for g in sorted(upcoming, key=lambda g: g["utc"]):
+        team_game.setdefault(g["home"], []).append(g)
+        team_game.setdefault(g["away"], []).append(g)
 
     layout = {}
     for v in VARIANTS:
@@ -339,16 +340,14 @@ def main():
                 fld = {"True": "true", "Season": "season", "Last 5": "l5", "Start": "start"}[gname]
                 row += ["" if ls[(st, t)][fld] is None else ls[(st, t)][fld] for st, t, _ in LINES]  # 0 kept; the sheet hides zeros
             rows.append(row)
-            tg = team_game.get(cur)
-            if tg:
+            for tg in team_game.get(cur, []):
                 order = (tg["utc"], f"{tg['away']} @ {tg['home']}", names.get(k, k))   # by game, then alphabetical
                 game_rows.append((order, [f"{tg['away']} @ {tg['home']} · {uk(tg['utc']).strftime('%a %H:%M')} UK",
                                           names.get(k, k), team_txt, n] +
                                   [nz(ls[(st, t)]["season"]) for st, t, _ in LINES] + [status_text(e)]))
 
             # ---------- today's picks ----------
-            g = team_game.get(cur)
-            if g and n and not status_text(e).lower().startswith("out"):
+            for g in (team_game.get(cur, []) if n and not status_text(e).lower().startswith("out") else []):
                 for st, t, val in best_picks(ls):
                     notes = []
                     if e:
