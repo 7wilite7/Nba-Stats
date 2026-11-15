@@ -1,4 +1,4 @@
-"Updated Sat 14 Nov 23:48 UK · box scores to 2026-11-13 · fact-check vs ESPN: 99.63% of 16,504 stats match (183 games) · pick tracker: 85% hit from 2950 graded picks"
+"Updated Sun 15 Nov 00:08 UK · box scores to 2026-11-13 · fact-check vs ESPN: 99.63% of 16,504 stats match (183 games) · pick tracker: 85% hit from 2950 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -15,6 +15,28 @@ By true rate,Graded,Hit %,True % given
 95–100%,102,94,96
 
 Date,Game,Pick,True %,Season %,Games,Result,Source
+2026-11-16,HOU @ WAS,Trae Young Threes 1+,80,85,13,Pending,Live
+2026-11-16,HOU @ WAS,Trae Young Points 10+,85,92,13,Pending,Live
+2026-11-16,HOU @ WAS,Trae Young Assists 3+,89,100,13,Pending,Live
+2026-11-16,HOU @ WAS,Tari Eason Rebounds 3+,88,90,30,Pending,Live
+2026-11-16,HOU @ WAS,Reed Sheppard Threes 2+,80,83,41,Pending,Live
+2026-11-16,HOU @ WAS,Kevin Durant Threes 1+,83,85,39,Pending,Live
+2026-11-16,HOU @ WAS,Kevin Durant Rebounds 3+,97,100,39,Pending,Live
+2026-11-16,HOU @ WAS,Kevin Durant Points 15+,88,92,39,Pending,Live
+2026-11-16,HOU @ WAS,Kevin Durant Assists 3+,81,85,39,Pending,Live
+2026-11-16,HOU @ WAS,Jabari Smith Jr. Threes 1+,92,95,39,Pending,Live
+2026-11-16,HOU @ WAS,Jabari Smith Jr. Rebounds 3+,90,92,39,Pending,Live
+2026-11-16,HOU @ WAS,Jabari Smith Jr. Points 10+,87,90,39,Pending,Live
+2026-11-16,HOU @ WAS,Anthony Davis Rebounds 5+,87,100,11,Pending,Live
+2026-11-16,HOU @ WAS,Anthony Davis Points 10+,82,91,11,Pending,Live
+2026-11-16,HOU @ WAS,Amen Thompson Rebounds 3+,97,100,40,Pending,Live
+2026-11-16,HOU @ WAS,Amen Thompson Points 10+,87,90,40,Pending,Live
+2026-11-16,HOU @ WAS,Amen Thompson Assists 3+,82,85,40,Pending,Live
+2026-11-16,HOU @ WAS,Alperen Sengun Rebounds 5+,88,92,36,Pending,Live
+2026-11-16,HOU @ WAS,Alperen Sengun Points 10+,94,97,36,Pending,Live
+2026-11-16,HOU @ WAS,Alperen Sengun Assists 3+,90,94,36,Pending,Live
+2026-11-16,HOU @ WAS,Alex Sarr Rebounds 3+,92,96,24,Pending,Live
+2026-11-16,HOU @ WAS,AJ Dybantsa Rebounds 3+,83,89,9,Pending,Live
 2026-11-15,DEN @ NOP,Zion Williamson Rebounds 3+,85,87,31,Pending,Live
 2026-11-15,DEN @ NOP,Zion Williamson Points 15+,82,87,31,Pending,Live
 2026-11-15,LAL @ PHX,Ziaire Williams Threes 1+,83,86,28,Pending,Live
@@ -393,25 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-13,TOR @ PHI,LeBron James Points 10+,93,97,30,Did not play,Live
 2026-11-13,TOR @ PHI,LeBron James Assists 5+,80,87,30,Did not play,Live
 2026-11-13,DAL @ MIN,LaMelo Ball Threes 2+,90,94,36,Hit,Live
-2026-11-13,DAL @ MIN,LaMelo Ball Points 10+,94,97,36,Hit,Live
-2026-11-13,DAL @ MIN,LaMelo Ball Assists 3+,93,97,36,Hit,Live
-2026-11-13,DAL @ MIN,Kyrie Irving Threes 1+,81,89,9,Hit,Live
-2026-11-13,DAL @ MIN,Kyrie Irving Points 10+,88,100,9,Hit,Live
-2026-11-13,DET @ WAS,John Collins Rebounds 3+,87,89,35,Hit,Live
-2026-11-13,TOR @ PHI,Joel Embiid Rebounds 5+,92,100,19,Miss,Live
-2026-11-13,TOR @ PHI,Joel Embiid Points 10+,89,95,19,Hit,Live
-2026-11-13,TOR @ PHI,Jaylen Brown Threes 1+,84,86,36,Miss,Live
-2026-11-13,TOR @ PHI,Jaylen Brown Rebounds 3+,92,94,36,Hit,Live
-2026-11-13,TOR @ PHI,Jaylen Brown Points 15+,90,94,36,Hit,Live
-2026-11-13,TOR @ PHI,Jaylen Brown Assists 3+,83,86,36,Miss,Live
-2026-11-13,TOR @ PHI,Jamal Shead Assists 3+,89,93,41,Hit,Live
-2026-11-13,TOR @ PHI,Immanuel Quickley Threes 1+,89,91,35,Hit,Live
-2026-11-13,TOR @ PHI,Immanuel Quickley Points 10+,86,89,35,Hit,Live
-2026-11-13,CHA @ PHX,Grayson Allen Threes 1+,89,92,26,Hit,Live
-2026-11-13,DET @ WAS,Duncan Robinson Threes 2+,81,85,39,Hit,Live
-2026-11-13,CHA @ PHX,Dillon Brooks Threes 1+,86,89,28,Hit,Live
-2026-11-13,CHA @ PHX,Dillon Brooks Points 10+,82,86,28,Hit,Live
-2026-11-13,CHA @ PHX,Devin Booker Threes 1+,85,88,32,Hit,Live
-2026-11-13,CHA @ PHX,Devin Booker Points 15+,86,91,32,Hit,Live
-2026-11-13,CHA @ PHX,Devin Booker Assists 3+,81,84,32,Hit,Live
-2026-11-13,DAL @ MIN,Daniel Gafford Rebounds 3+,90,93,28,Hit,Live
