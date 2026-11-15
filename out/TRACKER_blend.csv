@@ -1,4 +1,4 @@
-"Updated Sun 15 Nov 01:45 UK · box scores to 2026-11-13 · fact-check vs ESPN: 99.63% of 16,504 stats match (183 games) · pick tracker: 85% hit from 2950 graded picks"
+"Updated Sun 15 Nov 02:50 UK · box scores to 2026-11-13 · fact-check vs ESPN: 99.63% of 16,504 stats match (183 games) · pick tracker: 85% hit from 2950 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -15,15 +15,22 @@ By true rate,Graded,Hit %,True % given
 95–100%,102,94,96
 
 Date,Game,Pick,True %,Season %,Games,Result,Source
+2026-11-16,OKC @ SAC,Zach LaVine Threes 1+,86,90,20,Pending,Live
+2026-11-16,OKC @ SAC,Zach LaVine Points 10+,89,95,20,Pending,Live
 2026-11-16,ATL @ MIL,Tyler Herro Threes 1+,94,100,17,Pending,Live
 2026-11-16,ATL @ MIL,Tyler Herro Points 10+,88,94,17,Pending,Live
 2026-11-16,HOU @ WAS,Trae Young Threes 1+,80,85,13,Pending,Live
 2026-11-16,HOU @ WAS,Trae Young Points 10+,85,92,13,Pending,Live
 2026-11-16,HOU @ WAS,Trae Young Assists 3+,89,100,13,Pending,Live
 2026-11-16,HOU @ WAS,Tari Eason Rebounds 3+,88,90,30,Pending,Live
+2026-11-16,OKC @ SAC,Shai Gilgeous-Alexander Threes 1+,83,85,34,Pending,Live
+2026-11-16,OKC @ SAC,Shai Gilgeous-Alexander Rebounds 3+,81,82,34,Pending,Live
+2026-11-16,OKC @ SAC,Shai Gilgeous-Alexander Points 20+,91,97,34,Pending,Live
+2026-11-16,OKC @ SAC,Shai Gilgeous-Alexander Assists 3+,87,91,34,Pending,Live
 2026-11-16,ATL @ MIL,Ryan Rollins Threes 1+,89,92,37,Pending,Live
 2026-11-16,ATL @ MIL,Ryan Rollins Rebounds 3+,80,81,37,Pending,Live
 2026-11-16,HOU @ WAS,Reed Sheppard Threes 2+,80,83,41,Pending,Live
+2026-11-16,OKC @ SAC,Precious Achiuwa Rebounds 5+,83,86,37,Pending,Live
 2026-11-16,ATL @ MIL,Onyeka Okongwu Rebounds 5+,80,84,37,Pending,Live
 2026-11-16,ATL @ MIL,Nickeil Alexander-Walker Threes 2+,83,87,39,Pending,Live
 2026-11-16,ATL @ MIL,Nickeil Alexander-Walker Points 15+,83,87,39,Pending,Live
@@ -40,8 +47,16 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-16,HOU @ WAS,Jabari Smith Jr. Threes 1+,92,95,39,Pending,Live
 2026-11-16,HOU @ WAS,Jabari Smith Jr. Rebounds 3+,90,92,39,Pending,Live
 2026-11-16,HOU @ WAS,Jabari Smith Jr. Points 10+,87,90,39,Pending,Live
+2026-11-16,OKC @ SAC,Isaiah Hartenstein Rebounds 5+,82,92,13,Pending,Live
 2026-11-16,ATL @ MIL,Dyson Daniels Rebounds 3+,95,97,38,Pending,Live
 2026-11-16,ATL @ MIL,Dyson Daniels Assists 3+,91,95,38,Pending,Live
+2026-11-16,OKC @ SAC,Domantas Sabonis Rebounds 5+,80,91,11,Pending,Live
+2026-11-16,OKC @ SAC,Domantas Sabonis Assists 3+,80,91,11,Pending,Live
+2026-11-16,OKC @ SAC,De'Andre Hunter Rebounds 3+,85,91,11,Pending,Live
+2026-11-16,OKC @ SAC,Darius Acuff Jr. Threes 2+,80,92,12,Pending,Live
+2026-11-16,OKC @ SAC,Darius Acuff Jr. Rebounds 3+,86,92,12,Pending,Live
+2026-11-16,OKC @ SAC,Darius Acuff Jr. Points 10+,90,100,12,Pending,Live
+2026-11-16,OKC @ SAC,Darius Acuff Jr. Assists 3+,88,100,12,Pending,Live
 2026-11-16,ATL @ MIL,CJ McCollum Threes 1+,82,84,38,Pending,Live
 2026-11-16,ATL @ MIL,CJ McCollum Points 10+,82,84,38,Pending,Live
 2026-11-16,ATL @ MIL,Brayden Burries Rebounds 3+,81,85,13,Pending,Live
@@ -54,6 +69,7 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-16,HOU @ WAS,Alperen Sengun Points 10+,94,97,36,Pending,Live
 2026-11-16,HOU @ WAS,Alperen Sengun Assists 3+,90,94,36,Pending,Live
 2026-11-16,HOU @ WAS,Alex Sarr Rebounds 3+,92,96,24,Pending,Live
+2026-11-16,OKC @ SAC,Aday Mara Rebounds 3+,87,92,13,Pending,Live
 2026-11-16,HOU @ WAS,AJ Dybantsa Rebounds 3+,83,89,9,Pending,Live
 2026-11-15,DEN @ NOP,Zion Williamson Rebounds 3+,85,87,31,Pending,Live
 2026-11-15,DEN @ NOP,Zion Williamson Points 15+,82,87,31,Pending,Live
@@ -399,19 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-14,GSW @ SAS,Brandin Podziemski Rebounds 3+,82,83,41,Hit,Live
 2026-11-14,GSW @ SAS,Brandin Podziemski Points 10+,83,85,41,Miss,Live
 2026-11-14,CLE @ MIA,Bam Adebayo Rebounds 7+,87,92,37,Hit,Live
-2026-11-14,CLE @ MIA,Bam Adebayo Points 10+,89,92,37,Hit,Live
-2026-11-14,CLE @ MIA,Andrew Wiggins Threes 1+,83,85,34,Hit,Live
-2026-11-14,NYK @ IND,Andrew Nembhard Threes 1+,87,90,29,Hit,Live
-2026-11-14,NYK @ IND,Andrew Nembhard Points 10+,80,83,29,Hit,Live
-2026-11-14,NYK @ IND,Andrew Nembhard Assists 3+,88,93,29,Hit,Live
-2026-11-14,UTA @ HOU,Amen Thompson Rebounds 3+,97,100,40,Hit,Live
-2026-11-14,UTA @ HOU,Amen Thompson Points 10+,87,90,40,Hit,Live
-2026-11-14,UTA @ HOU,Amen Thompson Assists 3+,82,85,40,Hit,Live
-2026-11-14,UTA @ HOU,Alperen Sengun Rebounds 5+,85,89,36,Hit,Live
-2026-11-14,UTA @ HOU,Alperen Sengun Points 10+,94,97,36,Hit,Live
-2026-11-14,UTA @ HOU,Alperen Sengun Assists 3+,90,94,36,Hit,Live
-2026-11-14,OKC @ LAC,Aday Mara Rebounds 3+,86,92,12,Hit,Live
-2026-11-14,UTA @ HOU,Ace Bailey Threes 1+,92,94,36,Hit,Live
-2026-11-13,TOR @ PHI,VJ Edgecombe Rebounds 3+,93,95,38,Hit,Live
-2026-11-13,TOR @ PHI,Tyrese Maxey Threes 1+,97,100,35,Hit,Live
-2026-11-13,TOR @ PHI,Tyrese Maxey Points 20+,83,89,35,Hit,Live
