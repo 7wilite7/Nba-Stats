@@ -1,4 +1,4 @@
-"Updated Sun 15 Nov 14:43 UK · box scores to 2026-11-14 · fact-check vs ESPN: 99.64% of 16,932 stats match (188 games) · pick tracker: 86% hit from 2011 graded picks"
+"Updated Sun 15 Nov 15:39 UK · box scores to 2026-11-14 · fact-check vs ESPN: 99.64% of 16,932 stats match (188 games) · pick tracker: 86% hit from 2011 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -229,6 +229,7 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-15,CHA @ LAC,Darius Garland Assists 3+,87,100,11,Pending,Live
 2026-11-15,BKN @ MEM,Danny Wolf Threes 1+,86,100,6,Hit,Live
 2026-11-15,DET @ MIA,Daniss Jenkins Threes 1+,84,91,11,Hit,Live
+2026-11-15,DAL @ BOS,Daniel Gafford Rebounds 3+,81,85,13,Pending,Live
 2026-11-15,DAL @ CLE,Cooper Flagg Rebounds 5+,80,91,11,Hit,Live
 2026-11-15,DAL @ BOS,Cooper Flagg Rebounds 5+,80,91,11,Pending,Live
 2026-11-15,DAL @ CLE,Cooper Flagg Points 10+,90,100,11,Hit,Live
@@ -414,4 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-13,DAL @ MIN,P.J. Washington Threes 1+,84,91,11,Hit,Live
 2026-11-13,DAL @ MIN,P.J. Washington Rebounds 3+,92,100,11,Hit,Live
 2026-11-13,CHA @ PHX,Oso Ighodaro Rebounds 3+,81,88,8,Hit,Live
-2026-11-13,CHA @ PHX,Naz Reid Threes 1+,84,91,11,Hit,Live
