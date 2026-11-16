@@ -44,6 +44,9 @@ def main():
             if raw:
                 rows = [[cell(v) for v in r] for r in rows]
             book = gc.open_by_key(sid)
+            if tab == "Rosters" and len(rows) < 2:     # positions not downloaded in this checkout: keep the sheet as is
+                print(f"{name} -> {tab}: empty, left unchanged")
+                continue
             if tab in ("Game logs", "Rosters"):                     # whole tab rebuilt every run, sized to fit, row 1 frozen
                 try:
                     ws = book.worksheet(tab)
