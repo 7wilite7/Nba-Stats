@@ -1,4 +1,4 @@
-"Updated Mon 16 Nov 14:33 UK · box scores to 2026-11-15 · fact-check vs ESPN: 99.64% of 17,728 stats match (197 games) · pick tracker: 86% hit from 2158 graded picks"
+"Updated Mon 16 Nov 16:07 UK · box scores to 2026-11-15 · fact-check vs ESPN: 99.64% of 17,728 stats match (197 games) · pick tracker: 86% hit from 2158 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -103,6 +103,8 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-17,HOU @ MIA,Jabari Smith Jr. Rebounds 3+,87,92,13,Pending,Live
 2026-11-17,HOU @ MIA,Giannis Antetokounmpo Rebounds 5+,88,100,13,Pending,Live
 2026-11-17,HOU @ MIA,Giannis Antetokounmpo Points 15+,81,92,13,Pending,Live
+2026-11-17,HOU @ MIA,Fred VanVleet Threes 1+,84,91,11,Pending,Live
+2026-11-17,HOU @ MIA,Fred VanVleet Assists 3+,80,91,11,Pending,Live
 2026-11-17,ORL @ BOS,Franz Wagner Rebounds 3+,93,100,12,Pending,Live
 2026-11-17,ORL @ BOS,Franz Wagner Points 10+,90,100,12,Pending,Live
 2026-11-17,ORL @ BOS,Franz Wagner Assists 3+,81,92,12,Pending,Live
@@ -413,5 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-14,MEM @ NOP,Ty Jerome Threes 1+,91,100,10,Hit,Live
 2026-11-14,MEM @ NOP,Ty Jerome Points 10+,89,100,10,Hit,Live
 2026-11-14,MIL @ ORL,Tristan Da Silva Threes 1+,90,100,9,Hit,Live
-2026-11-14,MEM @ NOP,Trey Murphy III Threes 1+,90,100,9,Did not play,Live
-2026-11-14,MEM @ NOP,Trey Murphy III Rebounds 3+,83,89,9,Did not play,Live
