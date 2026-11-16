@@ -1,4 +1,4 @@
-"Updated Mon 16 Nov 04:11 UK · box scores to 2026-11-14 · fact-check vs ESPN: 99.64% of 16,932 stats match (188 games) · pick tracker: 85% hit from 3015 graded picks"
+"Updated Mon 16 Nov 05:52 UK · box scores to 2026-11-14 · fact-check vs ESPN: 99.64% of 16,932 stats match (188 games) · pick tracker: 85% hit from 3015 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -77,6 +77,8 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-17,CHI @ CLE,Josh Giddey Threes 1+,83,85,27,Pending,Live
 2026-11-17,CHI @ CLE,Josh Giddey Rebounds 3+,83,85,27,Pending,Live
 2026-11-17,CHI @ CLE,Josh Giddey Assists 5+,85,93,27,Pending,Live
+2026-11-17,PHI @ BKN,Joel Embiid Rebounds 5+,87,95,19,Pending,Live
+2026-11-17,PHI @ BKN,Joel Embiid Points 10+,89,95,19,Pending,Live
 2026-11-17,MEM @ WAS,Jerami Grant Threes 1+,87,90,29,Pending,Live
 2026-11-17,ORL @ BOS,Jayson Tatum Threes 1+,84,91,11,Pending,Live
 2026-11-17,ORL @ BOS,Jayson Tatum Rebounds 3+,92,100,11,Pending,Live
@@ -413,5 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-15,IND @ PHI,Andrew Nembhard Assists 3+,88,93,29,Pending,Live
 2026-11-15,SAS @ UTA,Ace Bailey Threes 1+,92,94,36,Pending,Live
 2026-11-15,DEN @ NOP,Aaron Gordon Rebounds 3+,81,83,18,Hit,Live
-2026-11-14,MEM @ NOP,Zion Williamson Rebounds 3+,85,87,31,Hit,Live
-2026-11-14,MEM @ NOP,Zion Williamson Points 15+,82,87,31,Hit,Live

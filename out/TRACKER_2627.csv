@@ -1,4 +1,4 @@
-"Updated Mon 16 Nov 04:11 UK · box scores to 2026-11-14 · fact-check vs ESPN: 99.64% of 16,932 stats match (188 games) · pick tracker: 86% hit from 2011 graded picks"
+"Updated Mon 16 Nov 05:52 UK · box scores to 2026-11-14 · fact-check vs ESPN: 99.64% of 16,932 stats match (188 games) · pick tracker: 86% hit from 2011 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -71,6 +71,8 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-17,PHI @ BKN,Julius Randle Points 10+,90,100,12,Pending,Live
 2026-11-17,PHI @ BKN,Julius Randle Assists 3+,81,92,12,Pending,Live
 2026-11-17,CHI @ CLE,Josh Giddey Assists 3+,88,100,12,Pending,Live
+2026-11-17,PHI @ BKN,Joel Embiid Rebounds 5+,80,91,11,Pending,Live
+2026-11-17,PHI @ BKN,Joel Embiid Points 10+,82,91,11,Pending,Live
 2026-11-17,GSW @ NOP,Jeremiah Fears Rebounds 3+,88,93,14,Pending,Live
 2026-11-17,GSW @ NOP,Jeremiah Fears Points 10+,80,86,14,Pending,Live
 2026-11-17,MEM @ WAS,Jerami Grant Threes 1+,85,92,12,Pending,Live
@@ -413,5 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-14,GSW @ SAS,Stephon Castle Rebounds 3+,86,92,12,Hit,Live
 2026-11-14,GSW @ SAS,Stephon Castle Assists 3+,81,92,12,Hit,Live
 2026-11-14,OKC @ LAC,Shai Gilgeous-Alexander Points 15+,86,100,12,Hit,Live
-2026-11-14,MEM @ NOP,Saddiq Bey Threes 1+,92,100,12,Hit,Live
-2026-11-14,MIL @ ORL,Ryan Rollins Threes 1+,85,92,12,Miss,Live
