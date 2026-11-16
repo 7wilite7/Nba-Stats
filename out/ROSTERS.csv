@@ -19,8 +19,8 @@ Alijah Martin,TOR,G
 Allen Graves,TOR,F
 Alperen Sengun,HOU,C
 Alpha Diallo,DEN,F
-Amari Williams,BOS,F
-Amen Thompson,HOU,F
+Amari Williams,BOS,F-C
+Amen Thompson,HOU,G-F
 Andre Drummond,NYK,C
 Andrew Nembhard,IND,G
 Andrew Wiggins,MIA,F
@@ -36,15 +36,15 @@ Ausar Thompson,DET,F
 Austin Reaves,LAL,G
 Ayo Dosunmu,MIN,G
 Baba Miller,LAC,F
-Bam Adebayo,MIA,C
-Baylor Scheierman,BOS,F
+Bam Adebayo,MIA,F-C
+Baylor Scheierman,BOS,G-F
 Ben Saraf,BKN,G
 Ben Sheppard,IND,G
 Ben Simmons,SAC,G
-Bennedict Mathurin,NOP,F
+Bennedict Mathurin,NOP,G-F
 Bennett Stirtz,OKC,G
 Bilal Coulibaly,WAS,F
-Bobby Portis,MIA,F
+Bobby Portis,MIA,F-C
 Bogdan Bogdanovic,HOU,G
 Bogoljub Markovic,MIL,F
 Bones Hyland,MIN,G
@@ -64,11 +64,11 @@ Bruce Thornton,HOU,G
 Bryce Hopkins,DEN,F
 Bryce McGowens,NOP,G
 Bub Carrington,WAS,G
-Buddy Hield,CHI,G
+Buddy Hield,CHI,G-F
 CJ McCollum,ATL,G
 Cade Cunningham,DET,G
 Caleb Love,PHI,G
-Caleb Martin,DAL,G
+Caleb Martin,DAL,G-F
 Caleb Wilson,CHI,F
 Cam Christie,LAC,G
 Cam Spencer,MEM,G
@@ -76,7 +76,7 @@ Cam Whitmore,DEN,F
 Cameron Boozer,MEM,F
 Cameron Carr,LAL,G
 Cameron Johnson,DEN,F
-Caris LeVert,MIL,G
+Caris LeVert,MIL,G-F
 Carson Cooper,LAL,F
 Carter Bryant,SAS,F
 Cason Wallace,OKC,G
@@ -106,20 +106,20 @@ Daeqwon Plowden,SAC,G
 Dailyn Swain,CHI,G
 Dalton Knecht,NYK,F
 Damian Lillard,POR,G
-Daniel Gafford,DAL,C
+Daniel Gafford,DAL,F-C
 Daniss Jenkins,DET,G
-Danny Wolf,BKN,C
+Danny Wolf,BKN,F-C
 Darius Acuff Jr.,SAC,G
 Darius Garland,LAC,G
 Darryn Peterson,UTA,G
 David Jones Garcia,SAS,F
 Davion Mitchell,MIA,G
-Day'Ron Sharpe,BKN,C
+Day'Ron Sharpe,BKN,F-C
 De'Aaron Fox,SAS,G
 De'Andre Hunter,SAC,F
 De'Anthony Melton,GSW,G
 DeAndre Jordan,NOP,C
-DeMar DeRozan,DEN,F
+DeMar DeRozan,DEN,G-F
 Dean Wade,PHI,F
 Deandre Ayton,WAS,C
 Dejounte Murray,NOP,G
@@ -145,10 +145,10 @@ Drake Powell,BKN,G
 Draymond Green,GSW,F
 Drew Timme,PHX,F
 Dru Smith,MIA,G
-Duncan Robinson,DET,F
+Duncan Robinson,DET,G-F
 Duop Reath,PHX,C
 Dylan Harper,SAS,G
-Dyson Daniels,ATL,F
+Dyson Daniels,ATL,G-F
 Ebuka Okorie,DET,G
 Egor Demin,BKN,G
 Elijah Harkless,DET,G
@@ -159,10 +159,10 @@ Felix Okpara,WAS,C
 Franz Wagner,ORL,F
 Fred VanVleet,HOU,G
 GG Jackson II,MEM,F
-Gary Payton II,GSW,G
-Gary Trent Jr.,MIL,G
+Gary Payton II,GSW,G-F
+Gary Trent Jr.,MIL,G-F
 Georges Niang,GSW,F
-Giannis Antetokounmpo,MIA,F
+Giannis Antetokounmpo,MIA,G-F
 Goga Bitadze,ORL,C
 Gradey Dick,LAC,G
 Graham Ike,GSW,C
@@ -175,17 +175,17 @@ Harrison Barnes,SAS,F
 Harrison Ingram,UTA,F
 Henri Veesaar,ATL,C
 Herbert Jones,NOP,F
-Hugo Gonzalez,BOS,G
+Hugo Gonzalez,BOS,G-F
 Immanuel Quickley,TOR,G
 Isaac Jones,DET,F
-Isaac Okoro,CHI,G
+Isaac Okoro,CHI,G-F
 Isaiah Collier,UTA,G
 Isaiah Crawford,HOU,F
 Isaiah Evans,MIN,G
 Isaiah Hartenstein,OKC,C
 Isaiah Jackson,LAC,C
 Isaiah Joe,DET,G
-Isaiah Stewart,MEM,C
+Isaiah Stewart,MEM,F-C
 Ivica Zubac,IND,C
 Izaiyah Nelson,ORL,F
 Ja Morant,POR,G
@@ -209,7 +209,7 @@ Jalen Green,PHX,G
 Jalen Johnson,ATL,F
 Jalen Pickett,LAC,G
 Jalen Slawson,IND,F
-Jalen Smith,CHI,C
+Jalen Smith,CHI,F-C
 Jalen Suggs,ORL,G
 Jalen Williams,OKC,F
 Jalen Wilson,ATL,F
@@ -229,25 +229,25 @@ Jarred Vanderbilt,LAL,F
 Jarrett Allen,CLE,C
 Jase Richardson,ORL,G
 Javon Small,MEM,G
-Javonte Green,DET,G
+Javonte Green,DET,G-F
 Jaxson Hayes,UTA,C
 Jay Huff,IND,C
 Jayden Quaintance,SAS,F
 Jaylen Brown,PHI,F
 Jaylen Clark,MIN,G
-Jaylen Wells,MEM,G
+Jaylen Wells,MEM,G-F
 Jaylin Sellers,CHI,G
 Jaylin Williams,OKC,C
-Jaylon Tyson,CLE,F
+Jaylon Tyson,CLE,G-F
 Jayson Kent,POR,F
 Jayson Tatum,BOS,F
 Jerami Grant,MEM,F
 Jeremiah Fears,NOP,G
-Jericho Sims,MIL,C
+Jericho Sims,MIL,F-C
 Jett Howard,DAL,F
 Jevon Carter,ORL,G
-Jimmy Butler,GSW,F
-Joan Beringer,MIN,C
+Jimmy Butler,GSW,G-F
+Joan Beringer,MIN,F-C
 Jock Landale,ATL,C
 Joel Embiid,PHI,C
 John Collins,DET,F
@@ -265,7 +265,7 @@ Jordan Poole,NOP,G
 Jordan Walsh,BOS,F
 Jose Alvarado,NYK,G
 Josh Dix,OKC,G
-Josh Giddey,CHI,G
+Josh Giddey,CHI,G-F
 Josh Green,UTA,G
 Josh Hart,NYK,F
 Josh Minott,BKN,F
@@ -275,8 +275,8 @@ Jrue Holiday,POR,G
 Julian Champagnie,SAS,F
 Julian Phillips,HOU,F
 Julian Reese,NOP,C
-Julian Strawther,DEN,G
-Julius Randle,BKN,F
+Julian Strawther,DEN,G-F
+Julius Randle,BKN,F-C
 Justin Champagnie,WAS,F
 Justin Edwards,PHI,F
 Jusuf Nurkic,UTA,C
@@ -296,17 +296,17 @@ Kentavious Caldwell-Pope,PHI,F
 Keon Ellis,BKN,G
 Keshad Johnson,MIA,F
 Keshon Gilbert,ATL,G
-Kevin Durant,HOU,F
-Kevin Huerter,DET,G
+Kevin Durant,HOU,G-F
+Kevin Huerter,DET,G-F
 Kevin McCullar Jr.,TOR,F
-Kevon Looney,LAL,C
+Kevon Looney,LAL,F-C
 Keyonte George,UTA,G
 Khalifa Diop,CLE,C
 Khaman Maluach,PHX,C
 Khris Middleton,WAS,F
 Killian Hayes,SAC,G
 Kingston Flemings,ATL,G
-Klay Thompson,MIA,F
+Klay Thompson,MIA,G-F
 Koa Peat,PHX,F
 Kobe Brown,IND,F
 Kobe Bufkin,UTA,G
@@ -314,7 +314,7 @@ Kobe Sanders,LAC,G
 Kon Knueppel,CHA,F
 Kris Dunn,LAC,G
 Kris Murray,MEM,F
-Kristaps Porzingis,GSW,C
+Kristaps Porzingis,GSW,F-C
 Kylan Boswell,CHA,G
 Kyle Anderson,TOR,F
 Kyle Filipowski,UTA,C
@@ -325,13 +325,13 @@ LJ Cryer,GSW,G
 LaMelo Ball,MIN,G
 Labaron Philon Jr.,PHI,G
 Landry Shamet,NYK,G
-Larry Nance Jr.,IND,F
+Larry Nance Jr.,IND,F-C
 Lauri Markkanen,UTA,F
 LeBron James,PHI,F
 Leaky Black,SAC,F
 Leonard Miller,CHI,F
 Liam McNeeley,CHA,F
-Luguentz Dort,ATL,F
+Luguentz Dort,ATL,G-F
 Luka Doncic,LAL,G
 Luka Garza,BOS,C
 Luke Kennard,PHX,G
@@ -345,10 +345,10 @@ Marcus Sasser,DAL,G
 Marcus Smart,HOU,G
 Mario Hezonja,CLE,F
 Mark Williams,PHX,C
-Marvin Bagley III,DEN,F
+Marvin Bagley III,DEN,F-C
 Mason Plumlee,SAC,C
 Matas Buzelis,CHI,F
-Matisse Thybulle,LAL,F
+Matisse Thybulle,LAL,G-F
 Max Christie,DAL,G
 Max Strus,LAC,F
 Maxime Raynaud,SAC,C
@@ -365,7 +365,7 @@ Miles McBride,NYK,G
 Mitchell Robinson,BOS,C
 Mo Bamba,UTA,C
 Mohamed Diawara,NYK,F
-Morez Johnson Jr.,DAL,C
+Morez Johnson Jr.,DAL,F-C
 Moritz Wagner,BKN,C
 Moses Moody,GSW,G
 Mouhamed Gueye,ATL,F
@@ -377,11 +377,11 @@ Nae'Qwan Tomlin,CLE,F
 Naji Marshall,DAL,F
 Nate Ament,MIL,F
 Nate Bittle,TOR,C
-Naz Reid,CHA,C
+Naz Reid,CHA,F-C
 Neemias Queta,BOS,C
 Nic Claxton,CHI,C
 Nick Martinelli,LAC,F
-Nick Richards,MIA,C
+Nick Richards,MIA,F-C
 Nick Smith Jr.,LAL,G
 Nickeil Alexander-Walker,ATL,G
 Nicolas Batum,LAC,G-F
@@ -395,32 +395,32 @@ Noah Clowney,BKN,F
 Noah Penda,ORL,F
 Nolan Traore,BKN,G
 Norchad Omier,CLE,F
-Norman Powell,CHI,G
+Norman Powell,CHI,G-F
 OG Anunoby,NYK,F
 Obi Toppin,IND,F
 Olivier-Maxence Prosper,MEM,F
 Onyeka Okongwu,ATL,C
-Oscar Tshiebwe,HOU,C
+Oscar Tshiebwe,HOU,F-C
 Oso Ighodaro,PHX,C
-Ousmane Dieng,MIL,C
-P.J. Washington,DAL,F
+Ousmane Dieng,MIL,F-C
+P.J. Washington,DAL,F-C
 PJ Hall,CHA,C
 Pacome Dadiet,NYK,G
 Paolo Banchero,ORL,F
 Pascal Siakam,IND,F
 Pat Spencer,PHX,G
 Patrick Williams,CHI,F
-Paul George,BOS,F
-Paul Reed,DET,C
+Paul George,BOS,G-F
+Paul Reed,DET,F-C
 Payton Pritchard,BOS,G
 Pelle Larsson,MIA,G
-Pete Nance,MIL,F
-Peyton Watson,CLE,F
+Pete Nance,MIL,F-C
+Peyton Watson,CLE,G-F
 Precious Achiuwa,SAC,C
 Quadir Copeland,HOU,G
 Quentin Grimes,LAL,G
 Quenton Jackson,IND,G
-Quinten Post,MEM,C
+Quinten Post,MEM,F-C
 RJ Barrett,TOR,F
 Rasheer Fleming,PHX,F
 RayJ Dennis,ATL,G
@@ -444,7 +444,7 @@ Ryan Rollins,MIL,G
 Saddiq Bey,NOP,F
 Sam Hauser,BOS,F
 Sam Merrill,CLE,G
-Sandro Mamukelashvili,LAL,C
+Sandro Mamukelashvili,LAL,F-C
 Santi Aldama,DAL,F
 Scoot Henderson,POR,G
 Scottie Barnes,TOR,F
@@ -468,12 +468,12 @@ Tarik Biberovic,DAL,F
 Tarris Reed Jr.,SAS,C
 Taurean Prince,DET,F
 Taylor Hendricks,MEM,F
-Terance Mann,BKN,G
+Terance Mann,BKN,G-F
 Terrence Shannon Jr.,MIN,G
 Thomas Bryant,CLE,C
 Thomas Sorber,OKC,C
 Tidjane Salaun,CHA,F
-Tim Hardaway Jr.,MIA,G
+Tim Hardaway Jr.,MIA,G-F
 Tobe Awaka,CHI,F
 Tobi Lawal,DAL,F
 Tobias Harris,SAS,F
@@ -517,7 +517,7 @@ Yanic Konan Niederhauser,LAC,C
 Yaxel Lendeborg,GSW,F
 Yves Missi,NOP,C
 Zaccharie Risacher,DAL,F
-Zach Collins,CHI,C
+Zach Collins,CHI,F-C
 Zach Edey,MEM,C
 Zach LaVine,SAC,G
 Zeke Nnaji,DEN,F
