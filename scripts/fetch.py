@@ -230,7 +230,7 @@ def fetch_bref_rosters():
             for row in re.findall(r"<tr[^>]*>.*?</tr>", m.group(1), re.S):
                 pm = re.search(r'data-stat="player"[^>]*>(?:<a[^>]*>)?([^<]+)', row)
                 qm = re.search(r'data-stat="pos"[^>]*>([^<]*)<', row)
-                im = re.search(r'href="/players/[a-z]/([a-z0-9]+)\.html"', row)
+                im = re.search(r'(?:data-append-csv="|/players/[a-z]/)([a-z][a-z0-9.\'-]*\d\d)(?:"|\.html)', row)
                 if pm and qm and pos_group(qm.group(1)):
                     nm = ascii_name(pm.group(1)).replace(" (TW)", "").strip()
                     ps[nm] = pos_group(qm.group(1))
@@ -238,6 +238,8 @@ def fetch_bref_rosters():
                         rb.setdefault("ids", {})[nm] = im.group(1)
             if not ps:
                 raise ValueError("roster table empty")
+            if not any(n in rb.get("ids", {}) for n in ps):
+                log("WARN roster ids not found", t, re.sub(r"\s+", " ", re.findall(r"<tr[^>]*>.*?</tr>", m.group(1), re.S)[1][:400]))
             teams[BREF_TO_STD.get(t, t)] = ps
             fetched[t] = today
         except Exception as e:  # noqa: BLE001
