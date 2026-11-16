@@ -1,4 +1,4 @@
-"Updated Mon 16 Nov 01:21 UK · box scores to 2026-11-14 · fact-check vs ESPN: 99.64% of 16,932 stats match (188 games) · pick tracker: 85% hit from 3015 graded picks"
+"Updated Mon 16 Nov 02:38 UK · box scores to 2026-11-14 · fact-check vs ESPN: 99.64% of 16,932 stats match (188 games) · pick tracker: 85% hit from 3015 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -43,10 +43,15 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-17,ORL @ BOS,Paul George Threes 1+,90,95,19,Pending,Live
 2026-11-17,ORL @ BOS,Paul George Rebounds 3+,95,100,19,Pending,Live
 2026-11-17,ORL @ BOS,Paul George Points 10+,84,89,19,Pending,Live
+2026-11-17,PHX @ DEN,Oso Ighodaro Rebounds 3+,88,90,41,Pending,Live
 2026-11-17,CHI @ CLE,Norman Powell Threes 1+,87,90,29,Pending,Live
 2026-11-17,CHI @ CLE,Norman Powell Points 10+,89,93,29,Pending,Live
 2026-11-17,PHI @ BKN,Noah Clowney Rebounds 3+,80,82,33,Pending,Live
+2026-11-17,PHX @ DEN,Nikola Jokic Rebounds 7+,93,100,33,Pending,Live
+2026-11-17,PHX @ DEN,Nikola Jokic Points 15+,86,91,33,Pending,Live
+2026-11-17,PHX @ DEN,Nikola Jokic Assists 7+,81,88,33,Pending,Live
 2026-11-17,ORL @ BOS,Neemias Queta Rebounds 3+,92,95,38,Pending,Live
+2026-11-17,PHX @ DEN,Miles Bridges Rebounds 3+,88,90,39,Pending,Live
 2026-11-17,PHI @ BKN,Mikel Brown Jr. Threes 1+,80,88,8,Pending,Live
 2026-11-17,PHI @ BKN,Michael Porter Jr. Threes 1+,85,88,26,Pending,Live
 2026-11-17,PHI @ BKN,Michael Porter Jr. Points 10+,88,92,26,Pending,Live
@@ -88,6 +93,9 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-17,CHI @ CLE,James Harden Threes 2+,84,89,35,Pending,Live
 2026-11-17,CHI @ CLE,James Harden Points 10+,94,97,35,Pending,Live
 2026-11-17,CHI @ CLE,James Harden Assists 3+,95,100,35,Pending,Live
+2026-11-17,PHX @ DEN,Jamal Murray Threes 1+,87,89,38,Pending,Live
+2026-11-17,PHX @ DEN,Jamal Murray Points 15+,80,84,38,Pending,Live
+2026-11-17,PHX @ DEN,Jamal Murray Assists 3+,88,92,38,Pending,Live
 2026-11-17,ORL @ BOS,Jalen Suggs Assists 3+,85,90,29,Pending,Live
 2026-11-17,CHI @ CLE,Jalen Smith Rebounds 3+,90,93,27,Pending,Live
 2026-11-17,HOU @ MIA,Jabari Smith Jr. Threes 1+,92,95,39,Pending,Live
@@ -105,6 +113,11 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-17,CHI @ CLE,Donovan Mitchell Points 15+,87,91,35,Pending,Live
 2026-11-17,CHI @ CLE,Donovan Mitchell Assists 3+,95,100,35,Pending,Live
 2026-11-17,POR @ MIN,Donovan Clingan Rebounds 7+,87,92,39,Pending,Live
+2026-11-17,PHX @ DEN,Dillon Brooks Threes 1+,86,89,28,Pending,Live
+2026-11-17,PHX @ DEN,Dillon Brooks Points 10+,82,86,28,Pending,Live
+2026-11-17,PHX @ DEN,Devin Booker Threes 1+,85,88,32,Pending,Live
+2026-11-17,PHX @ DEN,Devin Booker Points 15+,85,91,32,Pending,Live
+2026-11-17,PHX @ DEN,Devin Booker Assists 3+,81,84,32,Pending,Live
 2026-11-17,ORL @ BOS,Desmond Bane Threes 1+,93,95,41,Pending,Live
 2026-11-17,ORL @ BOS,Desmond Bane Points 10+,90,93,41,Pending,Live
 2026-11-17,ORL @ BOS,Derrick White Threes 1+,85,87,39,Pending,Live
@@ -119,7 +132,10 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-17,PHI @ BKN,Danny Wolf Rebounds 3+,90,93,29,Pending,Live
 2026-11-17,POR @ MIN,Damian Lillard Threes 1+,92,100,12,Pending,Live
 2026-11-17,POR @ MIN,Damian Lillard Points 10+,84,92,12,Pending,Live
+2026-11-17,PHX @ DEN,Collin Gillespie Threes 1+,83,85,40,Pending,Live
+2026-11-17,PHX @ DEN,Christian Braun Rebounds 3+,84,86,22,Pending,Live
 2026-11-17,MEM @ WAS,Cedric Coward Rebounds 3+,82,84,31,Pending,Live
+2026-11-17,PHX @ DEN,Cameron Johnson Threes 1+,89,93,27,Pending,Live
 2026-11-17,MEM @ WAS,Cameron Boozer Rebounds 5+,88,100,13,Pending,Live
 2026-11-17,MEM @ WAS,Cameron Boozer Assists 3+,89,100,13,Pending,Live
 2026-11-17,MEM @ WAS,Cam Spencer Threes 1+,84,86,36,Pending,Live
@@ -142,6 +158,7 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-17,HOU @ MIA,Alperen Sengun Points 10+,94,97,36,Pending,Live
 2026-11-17,HOU @ MIA,Alperen Sengun Assists 3+,90,94,36,Pending,Live
 2026-11-17,MEM @ WAS,Alex Sarr Rebounds 3+,92,96,24,Pending,Live
+2026-11-17,PHX @ DEN,Aaron Gordon Rebounds 3+,81,83,18,Pending,Live
 2026-11-17,MEM @ WAS,AJ Dybantsa Rebounds 3+,83,89,9,Pending,Live
 2026-11-16,OKC @ SAC,Zach LaVine Threes 1+,86,90,20,Pending,Live
 2026-11-16,OKC @ SAC,Zach LaVine Points 10+,89,95,20,Pending,Live
@@ -398,20 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-15,DEN @ NOP,Aaron Gordon Rebounds 3+,81,83,18,Hit,Live
 2026-11-14,MEM @ NOP,Zion Williamson Rebounds 3+,85,87,31,Hit,Live
 2026-11-14,MEM @ NOP,Zion Williamson Points 15+,82,87,31,Hit,Live
-2026-11-14,POR @ SAC,Zach LaVine Threes 1+,86,90,20,Hit,Live
-2026-11-14,POR @ SAC,Zach LaVine Points 10+,89,95,20,Hit,Live
-2026-11-14,GSW @ SAS,Yaxel Lendeborg Threes 1+,92,100,12,Miss,Live
-2026-11-14,GSW @ SAS,Yaxel Lendeborg Rebounds 3+,86,92,12,Hit,Live
-2026-11-14,GSW @ SAS,Yaxel Lendeborg Points 10+,84,92,12,Miss,Live
-2026-11-14,MIL @ ORL,Wendell Carter Jr. Rebounds 5+,88,92,39,Hit,Live
-2026-11-14,GSW @ SAS,Victor Wembanyama Threes 1+,82,84,32,Miss,Live
-2026-11-14,GSW @ SAS,Victor Wembanyama Rebounds 7+,90,97,32,Hit,Live
-2026-11-14,GSW @ SAS,Victor Wembanyama Points 15+,83,88,32,Miss,Live
-2026-11-14,MIL @ ORL,Tyler Herro Threes 1+,94,100,17,Hit,Live
-2026-11-14,MIL @ ORL,Tyler Herro Rebounds 3+,80,82,17,Miss,Live
-2026-11-14,MIL @ ORL,Tyler Herro Points 10+,88,94,17,Hit,Live
-2026-11-14,MEM @ NOP,Ty Jerome Threes 1+,91,100,10,Hit,Live
-2026-11-14,MEM @ NOP,Ty Jerome Points 10+,89,100,10,Hit,Live
-2026-11-14,MIL @ ORL,Tristan Da Silva Threes 1+,83,85,39,Hit,Live
-2026-11-14,MEM @ NOP,Trey Murphy III Threes 1+,94,97,33,Did not play,Live
-2026-11-14,MEM @ NOP,Trey Murphy III Rebounds 3+,80,82,33,Did not play,Live
