@@ -65,15 +65,35 @@ def parse_box(page, gid):
             mins = round(int(mp.group(1)) + int(mp.group(2)) / 60, 1) if mp else 0.0
             players.append({"name": ascii_name(pm.group(1)), "team": BREF_TO_STD.get(team, team), "min": mins,
                             "pts": num(row, "pts"), "reb": num(row, "trb"), "ast": num(row, "ast"),
-                            "fg3": num(row, "fg3"), "start": starter})
+                            "fg3": num(row, "fg3"), "start": starter,
+                            "fga": num(row, "fga"), "fta": num(row, "fta"), "tov": num(row, "tov")})
     if len(teams) != 2 or not players:
         raise ValueError(f"box {gid}: found {len(teams)} team tables, {len(players)} players")
+    # USG% from the advanced box score on the same page (blank if the table or value is missing)
+    usg = {}
+    for m in re.finditer(r'<table[^>]*id="box-([A-Z]{3})-game-advanced"(.*?)</table>', page, re.S):
+        for row in re.findall(r"<tr[^>]*>.*?</tr>", m.group(2), re.S):
+            pm = re.search(r'data-stat="player"[^>]*>(?:<a[^>]*>)?([^<]+)', row)
+            um = re.search(r'data-stat="usg_pct"[^>]*>(-?[\d.]+)<', row)
+            if pm and um:
+                usg[(BREF_TO_STD.get(m.group(1), m.group(1)), ascii_name(pm.group(1)))] = float(um.group(1))
+    for p in players:
+        p["usg"] = usg.get((p["team"], p["name"]))
     std = [BREF_TO_STD.get(t, t) for t in teams]
     return {"id": gid, "date": date, "away": std[0] if teams[1] == home else std[1],
             "home": BREF_TO_STD.get(home, home), "players": players}
 
 
-def fetch_bref():
+def needs_upgrade(ds):
+    """True if a stored Basketball Reference game that day predates the FGA/FTA/TOV/USG% fields."""
+    for p_ in glob.glob(os.path.join(DATA, "games", ds.replace("-", "") + "*.json")):
+        g = jload(p_) or {}
+        if g.get("source") != "espn" and g.get("players") and "fga" not in g["players"][0]:
+            return True
+    return False
+
+
+def fetch_bref(upgrade=True):
     state = jload(os.path.join(DATA, "state.json"), {}) or {}
     done = set(state.get("dates_done", []))
     today_et = dt.datetime.now(ET).date()
@@ -87,7 +107,7 @@ def fetch_bref():
     while d < today_et:
         ds = d.isoformat()
         recent = (today_et - d).days <= 2          # re-check the last two days for late or corrected box scores
-        if ds in done and not recent:
+        if ds in done and not recent and not (upgrade and needs_upgrade(ds)):
             d += dt.timedelta(days=1)
             continue
         try:
@@ -109,8 +129,8 @@ def fetch_bref():
         ok = True
         for gid in ids:
             path = os.path.join(DATA, "games", gid + ".json")
-            if os.path.exists(path) and not recent:
-                continue
+            if os.path.exists(path) and not recent and (not upgrade or "fga" in ((jload(path) or {}).get("players") or [{}])[0]):
+                continue                          # (older files without FGA/FTA/TOV/USG% are re-read once)
             try:
                 g = parse_box(bref(f"https://www.basketball-reference.com/boxscores/{gid}.html?cb={int(time.time())}"), gid)
                 old = jload(path)
@@ -130,7 +150,8 @@ def fetch_bref():
             e = espn_by_gid.get(gid)
             if e and e.get("players"):
                 g = {"id": gid, "date": ds, "away": e["away"], "home": e["home"], "source": "espn",
-                     "players": [{k: x[k] for k in ("name", "team", "min", "pts", "reb", "ast", "fg3", "start")}
+                     "players": [{**{k: x[k] for k in ("name", "team", "min", "pts", "reb", "ast", "fg3", "start")},
+                                  **{k: x.get(k) for k in ("fga", "fta", "tov")}, "usg": None}
                                  for x in e["players"] if x.get("min", 0) > 0]}
                 if have != g:
                     jsave(path, g)
@@ -143,6 +164,64 @@ def fetch_bref():
     state["dates_done"] = sorted(done)
     jsave(os.path.join(DATA, "state.json"), state)
     log("new or changed box scores:", new)
+
+
+BREF_TEAMS = ["ATL", "BOS", "BRK", "CHO", "CHI", "CLE", "DAL", "DEN", "DET", "GSW", "HOU", "IND", "LAC", "LAL", "MEM",
+              "MIA", "MIL", "MIN", "NOP", "NYK", "OKC", "ORL", "PHI", "PHO", "POR", "SAC", "SAS", "TOR", "UTA", "WAS"]
+
+
+def pos_group(p):
+    """Basketball Reference position (PG, SG, SF, PF, C, or combos) -> G, F, C, G-F or F-C."""
+    out = []
+    for part in re.split(r"[-/ ,]+", p.strip().upper()):
+        g = {"PG": "G", "SG": "G", "G": "G", "SF": "F", "PF": "F", "F": "F", "C": "C"}.get(part)
+        if g and g not in out:
+            out.append(g)
+    out.sort(key="GFC".index)
+    return "-".join(out[:2]) if out else ""
+
+
+def fetch_bref_rosters():
+    """Positions from each team's Basketball Reference roster page -> data/rosters_bref.json.
+    Every team weekly; a single team again (at most once a day) when one of its game-log players is missing."""
+    path = os.path.join(DATA, "rosters_bref.json")
+    rb = jload(path, {}) or {}
+    today = dt.date.today().isoformat()
+    teams = rb.setdefault("teams", {})
+    fetched = rb.setdefault("fetched", {})
+    stale = [t for t in BREF_TEAMS if not fetched.get(t) or
+             (dt.date.today() - dt.date.fromisoformat(fetched[t])).days >= 7]
+    known = {(p, t) for t, ps in teams.items() for p in ps}
+    missing = set()
+    year = int(SEASON_START[:4]) + 1
+    for p_ in glob.glob(os.path.join(DATA, "games", "*.json")):
+        g = jload(p_) or {}
+        if g.get("source") == "espn":
+            continue
+        for pl in g.get("players", []):
+            if (pl["name"], pl["team"]) not in known:
+                missing.add(STD_TO_BREF.get(pl["team"], pl["team"]))
+    todo = sorted(set(stale) | {t for t in missing if fetched.get(t) != today})
+    for t in todo:
+        try:
+            page = bref(f"https://www.basketball-reference.com/teams/{t}/{year}.html?cb={int(time.time())}")
+            m = re.search(r'<table[^>]*id="roster"(.*?)</table>', page, re.S)
+            if not m:
+                raise ValueError("no roster table")
+            ps = {}
+            for row in re.findall(r"<tr[^>]*>.*?</tr>", m.group(1), re.S):
+                pm = re.search(r'data-stat="player"[^>]*>(?:<a[^>]*>)?([^<]+)', row)
+                qm = re.search(r'data-stat="pos"[^>]*>([^<]*)<', row)
+                if pm and qm and pos_group(qm.group(1)):
+                    ps[ascii_name(pm.group(1)).replace(" (TW)", "").strip()] = pos_group(qm.group(1))
+            if not ps:
+                raise ValueError("roster table empty")
+            teams[BREF_TO_STD.get(t, t)] = ps
+            fetched[t] = today
+        except Exception as e:  # noqa: BLE001
+            log("WARN roster", t, e)
+    jsave(path, rb)
+    log(f"Basketball Reference rosters: {len(todo)} teams refreshed")
 
 
 # ---------------- ESPN ----------------
@@ -331,14 +410,17 @@ def fetch_espn_boxes(schedule):
                     if a.get("didNotPlay") or not a.get("stats"):
                         continue
                     v = dict(zip(keys, a["stats"]))
-                    def i(x):
-                        try: return int(str(x).split("-")[0])
+                    def i(x, part=0):
+                        try: return int(str(x).split("-")[part])
                         except Exception: return 0
                     players.append({"name": ascii_name(a["athlete"]["displayName"]), "team": code,
                                     "min": i(v.get("minutes")), "pts": i(v.get("points")), "reb": i(v.get("rebounds")),
                                     "ast": i(v.get("assists")),
                                     "fg3": i(v.get("threePointFieldGoalsMade-threePointFieldGoalsAttempted")),
-                                    "start": bool(a.get("starter"))})
+                                    "start": bool(a.get("starter")),
+                                    "fga": i(v.get("fieldGoalsMade-fieldGoalsAttempted"), 1),
+                                    "fta": i(v.get("freeThrowsMade-freeThrowsAttempted"), 1),
+                                    "tov": i(v.get("turnovers"))})
             jsave(path, {"id": g["id"], "us_date": g["us_date"], "home": g["home"], "away": g["away"], "players": players})
             n += 1
         except Exception as e:  # noqa: BLE001
@@ -365,7 +447,7 @@ if __name__ == "__main__":
             if want - have:
                 log("finished games not loaded yet:", len(want - have), "- fetching box scores")
                 fetch_espn_boxes(sched)
-                fetch_bref()
+                fetch_bref(upgrade=False)          # the one-off re-read of older games is left to the daily run
             else:
                 log("all finished games loaded")
         except Exception as e:  # noqa: BLE001
@@ -385,6 +467,9 @@ if __name__ == "__main__":
         try: fetch_bref()
         except Exception as e:  # noqa: BLE001
             log("ERROR bref", e); failed.append("bref")
+        try: fetch_bref_rosters()
+        except Exception as e:  # noqa: BLE001
+            log("ERROR bref rosters", e); failed.append("bref rosters")
     with open(os.path.join(DATA, "last_fetch_log.txt"), "w") as f:
         f.write("\n".join(LOG) + "\n")
     if failed:

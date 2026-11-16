@@ -52,7 +52,8 @@ def load():
             names[k] = p["name"]
             logs[k].append({"date": g["date"], "gid": g["id"], "team": p["team"], "min": p["min"],
                             "s": (p["pts"], p["reb"], p["ast"], p["fg3"]), "start": p["start"],
-                            "opp": g["home"] if p["team"] == g["away"] else g["away"], "home": p["team"] == g["home"]})
+                            "opp": g["home"] if p["team"] == g["away"] else g["away"], "home": p["team"] == g["home"],
+                            "fga": p.get("fga"), "fta": p.get("fta"), "tov": p.get("tov"), "usg": p.get("usg")})
     h2 = {}
     for row in jload(os.path.join(DATA, "h2_2025_26.json"), []):
         seqs = [list(map(int, row[i].split())) for i in range(1, 5)]

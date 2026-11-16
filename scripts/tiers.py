@@ -4,9 +4,11 @@ One row per listed player. For every line: last 5, last 10, season, true rate, h
 second night of a back-to-back, and vs the next opponent. Tier sheets pick the columns they sell.
 Writes out/MASTER_2627.csv (rows) and returns them for push_sheets.py.
 """
-import datetime as dt
+import datetime as dt, os
 import build
-from build import load, base_rates, next_games, pool, records, team_info, status_text, pct, write_csv
+from common import jload
+from config import DATA
+from build import load, base_rates, next_games, pool, records, team_info, status_text, pct, write_csv, nz
 from config import LINES, TRUE_K
 
 PRA = [20, 25, 30, 35, 40]
@@ -89,10 +91,20 @@ def game_logs():
             b2b = (d - dt.timedelta(days=1)).isoformat() in team_dates.get(r["team"], ())
             pts, reb, ast, fg3 = r["s"]
             out.append([r["date"], name, r["team"], r["opp"], "H" if r["home"] else "A", "Y" if b2b else "N",
-                        r["min"], pts, reb, ast, fg3, pts + reb + ast, source.get(r["gid"], "BBR")])
+                        r["min"], pts, reb, ast, fg3, pts + reb + ast,
+                        "" if r["start"] is None else ("Y" if r["start"] else "N"),
+                        nz(r.get("fga")), nz(r.get("fta")), nz(r.get("tov")), nz(r.get("usg")),
+                        source.get(r["gid"], "BBR")])
     out.sort(key=lambda x: (x[1], x[0]))
     return [["Date", "Player", "Team", "Opp", "Home/Away", "Back-to-back", "MIN", "PTS", "REB", "AST", "3PM",
-             "PRA", "Source"]] + out
+             "PRA", "Starter", "FGA", "FTA", "TOV", "USG%", "Source"]] + out
+
+
+def rosters_tab():
+    """Player, Team, Position (G, F, C, G-F, F-C) from Basketball Reference roster pages."""
+    rb = jload(os.path.join(DATA, "rosters_bref.json"), {}) or {}
+    out = sorted([n, t, p] for t, ps in rb.get("teams", {}).items() for n, p in ps.items())
+    return [["Player", "Team", "Position"]] + out
 
 
 if __name__ == "__main__":
@@ -102,3 +114,6 @@ if __name__ == "__main__":
     gl = game_logs()
     write_csv("GAMELOGS_2627.csv", gl)
     print(len(gl) - 1, "game-log rows")
+    ro = rosters_tab()
+    write_csv("ROSTERS.csv", ro)
+    print(len(ro) - 1, "roster rows")
