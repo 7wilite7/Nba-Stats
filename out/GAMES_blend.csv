@@ -1,4 +1,4 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Mon 16 Nov 17:18 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Mon 16 Nov 18:25 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,REB 3+,REB 5+,REB 7+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 CHI @ CLE · Tue 00:00 UK,Caleb Wilson,CHI,10,90,90,50,10,100,90,20,50,0,0,100,60,30,20,Out (Hand) – est. return 13 Dec
 CHI @ CLE · Tue 00:00 UK,Donovan Mitchell,CLE,35,97,91,74,54,80,49,23,100,57,23,89,71,40,26,
@@ -7,7 +7,7 @@ CHI @ CLE · Tue 00:00 UK,Isaac Okoro,CHI,32,47,12,3,0,47,12,3,28,3,0,53,28,19,0
 CHI @ CLE · Tue 00:00 UK,Jalen Smith,CHI,27,78,30,4,0,93,74,52,22,4,0,81,59,26,4,Questionable (Finger)
 CHI @ CLE · Tue 00:00 UK,James Harden,CLE,35,97,80,43,17,80,60,17,100,83,54,100,89,63,26,
 CHI @ CLE · Tue 00:00 UK,Jarrett Allen,CLE,28,86,54,32,18,96,89,82,14,0,0,11,0,0,0,
-CHI @ CLE · Tue 00:00 UK,Jaylon Tyson,CLE,33,64,42,6,0,76,39,12,39,9,0,79,55,39,15,Questionable (Ankle)
+CHI @ CLE · Tue 00:00 UK,Jaylon Tyson,CLE,33,64,42,6,0,76,39,12,39,9,0,79,55,39,15,Doubtful (Ankle)
 CHI @ CLE · Tue 00:00 UK,Josh Giddey,CHI,27,63,41,19,4,85,74,67,100,93,74,85,52,30,15,
 CHI @ CLE · Tue 00:00 UK,Matas Buzelis,CHI,39,92,67,31,10,95,82,38,36,3,0,87,77,49,23,
 CHI @ CLE · Tue 00:00 UK,Meleek Thomas,CLE,11,82,36,9,0,55,9,0,27,0,0,91,91,64,18,
@@ -28,7 +28,7 @@ MEM @ WAS · Tue 00:00 UK,Jaylen Wells,MEM,35,74,40,11,3,51,11,0,23,0,0,83,74,40
 MEM @ WAS · Tue 00:00 UK,Jerami Grant,MEM,29,76,52,38,10,48,17,3,24,3,0,90,76,41,14,
 MEM @ WAS · Tue 00:00 UK,Kyshawn George,WAS,24,79,38,25,12,62,21,12,67,29,12,79,54,38,17,
 MEM @ WAS · Tue 00:00 UK,Trae Young,WAS,14,86,79,57,14,50,29,0,100,86,79,79,57,43,21,
-MEM @ WAS · Tue 00:00 UK,Tre Johnson,WAS,30,53,20,10,0,47,13,3,17,0,0,77,37,17,13,Day-To-Day / GTD (Back) – est. return 16 Nov
+MEM @ WAS · Tue 00:00 UK,Tre Johnson,WAS,30,53,20,10,0,47,13,3,17,0,0,77,37,17,13,Questionable (Back)
 MEM @ WAS · Tue 00:00 UK,Ty Jerome,MEM,11,100,91,73,45,45,27,9,91,73,18,100,64,36,27,Out (Hip) – est. return 18 Nov
 MEM @ WAS · Tue 00:00 UK,Zach Edey,MEM,10,30,0,0,0,100,90,60,10,0,0,10,0,0,0,Questionable (Ankle)
 ORL @ BOS · Tue 00:00 UK,Anthony Black,ORL,32,72,44,25,12,69,34,19,62,41,6,78,50,22,9,
@@ -39,7 +39,7 @@ ORL @ BOS · Tue 00:00 UK,Franz Wagner,ORL,17,100,88,59,35,88,65,29,71,65,41,71,
 ORL @ BOS · Tue 00:00 UK,Jalen Suggs,ORL,29,69,24,14,3,72,31,7,90,59,31,79,66,45,21,
 ORL @ BOS · Tue 00:00 UK,Jase Richardson,ORL,27,7,0,0,0,11,4,0,30,4,0,33,11,0,0,
 ORL @ BOS · Tue 00:00 UK,Jayson Tatum,BOS,12,100,92,83,50,100,75,42,100,92,67,92,75,42,25,
-ORL @ BOS · Tue 00:00 UK,Neemias Queta,BOS,38,50,24,5,3,95,79,55,32,5,0,13,0,0,0,
+ORL @ BOS · Tue 00:00 UK,Neemias Queta,BOS,38,50,24,5,3,95,79,55,32,5,0,13,0,0,0,Questionable (Rest)
 ORL @ BOS · Tue 00:00 UK,Paolo Banchero,ORL,36,97,83,58,39,100,89,64,94,69,33,69,31,17,6,Out (Ankle) – est. return 22 Nov
 ORL @ BOS · Tue 00:00 UK,Paul George,BOS,19,84,79,47,26,100,74,16,53,37,16,95,79,68,37,
 ORL @ BOS · Tue 00:00 UK,Payton Pritchard,BOS,40,78,52,28,20,68,28,8,88,48,18,80,72,50,38,
@@ -47,17 +47,17 @@ ORL @ BOS · Tue 00:00 UK,Sam Hauser,BOS,39,38,10,5,0,77,26,8,15,0,0,90,72,38,18
 ORL @ BOS · Tue 00:00 UK,Tristan Da Silva,ORL,39,67,33,13,3,72,38,18,33,10,0,85,62,44,21,
 ORL @ BOS · Tue 00:00 UK,Wendell Carter Jr.,ORL,39,67,41,15,5,100,92,67,26,0,0,46,18,5,0,
 HOU @ MIA · Tue 00:30 UK,Alperen Sengun,HOU,36,97,81,44,33,97,92,67,94,72,56,50,11,3,3,
-HOU @ MIA · Tue 00:30 UK,Amen Thompson,HOU,40,92,75,40,10,100,80,70,88,42,22,22,5,2,0,
+HOU @ MIA · Tue 00:30 UK,Amen Thompson,HOU,40,92,75,40,10,100,80,70,88,42,22,22,5,2,0,Questionable (Knee)
 HOU @ MIA · Tue 00:30 UK,Andrew Wiggins,MIA,34,68,26,15,9,65,38,21,26,9,0,82,59,35,21,
 HOU @ MIA · Tue 00:30 UK,Bam Adebayo,MIA,37,92,81,59,24,100,97,89,78,19,11,73,41,19,11,
 HOU @ MIA · Tue 00:30 UK,Davion Mitchell,MIA,35,74,40,14,0,46,14,3,91,71,46,74,60,34,9,
-HOU @ MIA · Tue 00:30 UK,Fred VanVleet,HOU,11,73,55,9,0,55,18,0,91,64,18,91,91,73,36,Day-To-Day / GTD (Knee) – est. return 16 Nov
+HOU @ MIA · Tue 00:30 UK,Fred VanVleet,HOU,11,73,55,9,0,55,18,0,91,64,18,91,91,73,36,
 HOU @ MIA · Tue 00:30 UK,Giannis Antetokounmpo,MIA,18,100,94,94,72,100,100,72,89,44,33,39,6,0,0,
 HOU @ MIA · Tue 00:30 UK,Jabari Smith Jr.,HOU,39,87,59,31,8,92,74,41,31,8,0,95,72,41,23,
 HOU @ MIA · Tue 00:30 UK,Kevin Durant,HOU,39,100,92,82,46,100,67,31,85,54,21,85,67,33,13,
 HOU @ MIA · Tue 00:30 UK,Klay Thompson,MIA,35,63,37,17,9,17,3,0,17,0,0,97,77,57,46,
 HOU @ MIA · Tue 00:30 UK,Marcus Smart,HOU,31,32,13,6,0,45,10,0,55,16,10,77,45,23,10,Out (Suspension) – est. return 18 Nov
-HOU @ MIA · Tue 00:30 UK,Pelle Larsson,MIA,35,77,37,11,3,69,31,11,74,29,3,63,31,6,0,Questionable (Illness)
+HOU @ MIA · Tue 00:30 UK,Pelle Larsson,MIA,35,77,37,11,3,69,31,11,74,29,3,63,31,6,0,Doubtful (Illness)
 HOU @ MIA · Tue 00:30 UK,Reed Sheppard,HOU,41,76,37,15,7,54,22,7,68,27,10,98,83,56,37,
 HOU @ MIA · Tue 00:30 UK,Tari Eason,HOU,30,57,27,7,3,90,67,53,13,0,0,60,30,17,0,
 PHI @ BKN · Tue 00:30 UK,Anfernee Simons,PHI,28,61,43,25,4,50,4,0,18,11,4,89,54,39,29,
@@ -66,11 +66,11 @@ PHI @ BKN · Tue 00:30 UK,Day'Ron Sharpe,BKN,31,48,26,0,0,97,87,58,55,23,6,23,3,
 PHI @ BKN · Tue 00:30 UK,Dean Wade,PHI,30,17,0,0,0,73,47,17,20,3,3,63,40,13,0,
 PHI @ BKN · Tue 00:30 UK,Egor Demin,BKN,26,50,23,15,8,42,27,4,42,19,4,85,62,42,19,
 PHI @ BKN · Tue 00:30 UK,Jaylen Brown,PHI,36,97,94,81,53,94,72,53,83,53,33,86,58,25,8,
-PHI @ BKN · Tue 00:30 UK,Joel Embiid,PHI,19,95,84,63,47,100,95,74,63,37,21,58,37,16,5,Day-To-Day / GTD (Foot) – est. return 16 Nov
+PHI @ BKN · Tue 00:30 UK,Joel Embiid,PHI,19,95,84,63,47,100,95,74,63,37,21,58,37,16,5,Questionable (Foot)
 PHI @ BKN · Tue 00:30 UK,Julius Randle,BKN,40,95,70,45,15,95,72,52,82,40,18,62,32,20,2,
 PHI @ BKN · Tue 00:30 UK,Kentavious Caldwell-Pope,PHI,26,35,8,0,0,50,12,0,31,4,0,73,19,8,4,
 PHI @ BKN · Tue 00:30 UK,Keon Ellis,BKN,36,28,11,3,0,47,6,0,31,3,3,61,31,17,8,
-PHI @ BKN · Tue 00:30 UK,LeBron James,PHI,30,97,67,33,13,93,90,53,93,87,57,60,23,7,0,
+PHI @ BKN · Tue 00:30 UK,LeBron James,PHI,30,97,67,33,13,93,90,53,93,87,57,60,23,7,0,Out (Back) – est. return 18 Nov
 PHI @ BKN · Tue 00:30 UK,Michael Porter Jr.,BKN,26,92,81,62,42,81,77,58,38,8,0,88,73,58,38,
 PHI @ BKN · Tue 00:30 UK,Mikel Brown Jr.,BKN,8,62,38,0,0,25,12,0,88,25,0,88,62,38,12,
 PHI @ BKN · Tue 00:30 UK,Noah Clowney,BKN,33,45,27,6,0,82,39,18,9,0,0,79,36,21,12,
