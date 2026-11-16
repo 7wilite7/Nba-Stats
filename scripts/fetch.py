@@ -181,6 +181,22 @@ def pos_group(p):
     return "-".join(out[:2]) if out else ""
 
 
+PAGE_CAP = 330
+
+
+def page_pos(text):
+    """'Point Guard and Shooting Guard' -> G; 'Small Forward and Power Forward' -> F; 'Power Forward and Center' -> F-C."""
+    out = []
+    for part in re.split(r"\s*(?:,|\band\b)\s*", text.strip()):
+        p = part.lower()
+        g = "G" if "guard" in p else "F" if "forward" in p else "C" if "center" in p or "centre" in p else None
+        if g and g not in out:
+            out.append(g)
+    out = out[:2]
+    out.sort(key="GFC".index)
+    return "-".join(out)
+
+
 def fetch_bref_rosters():
     """Positions from each team's Basketball Reference roster page -> data/rosters_bref.json.
     Every team weekly; a single team again (at most once a day) when one of its game-log players is missing."""
@@ -212,16 +228,40 @@ def fetch_bref_rosters():
             for row in re.findall(r"<tr[^>]*>.*?</tr>", m.group(1), re.S):
                 pm = re.search(r'data-stat="player"[^>]*>(?:<a[^>]*>)?([^<]+)', row)
                 qm = re.search(r'data-stat="pos"[^>]*>([^<]*)<', row)
+                im = re.search(r'href="/players/[a-z]/([a-z0-9]+)\.html"', row)
                 if pm and qm and pos_group(qm.group(1)):
-                    ps[ascii_name(pm.group(1)).replace(" (TW)", "").strip()] = pos_group(qm.group(1))
+                    nm = ascii_name(pm.group(1)).replace(" (TW)", "").strip()
+                    ps[nm] = pos_group(qm.group(1))
+                    if im:
+                        rb.setdefault("ids", {})[nm] = im.group(1)
             if not ps:
                 raise ValueError("roster table empty")
             teams[BREF_TO_STD.get(t, t)] = ps
             fetched[t] = today
         except Exception as e:  # noqa: BLE001
             log("WARN roster", t, e)
+    # Fuller positions from each player's own page ("Shooting Guard and Small Forward" -> G-F), cached forever;
+    # at most PAGE_CAP new pages a run (about 20 minutes), so the first fill takes two runs.
+    ppath = os.path.join(DATA, "positions_bref.json")
+    pcache = jload(ppath, {}) or {}
+    ids = rb.get("ids", {})
+    todo_p = [pid for t, ps in teams.items() for n in ps for pid in [ids.get(n)] if pid and pid not in pcache]
+    for pid in todo_p[:PAGE_CAP]:
+        try:
+            page = bref(f"https://www.basketball-reference.com/players/{pid[0]}/{pid}.html")
+            m = re.search(r"Position:\s*</strong>\s*([^<]+?)\s*(?:&#9642;|\u25aa|<)", page)
+            pcache[pid] = page_pos(m.group(1)) if m else ""
+        except Exception as e:  # noqa: BLE001
+            log("WARN player page", pid, e)
+    jsave(ppath, pcache)
+    for t, ps in teams.items():
+        for n in ps:
+            full = pcache.get(ids.get(n) or "")
+            if full:
+                ps[n] = full
     jsave(path, rb)
-    log(f"Basketball Reference rosters: {len(todo)} teams refreshed")
+    log(f"Basketball Reference rosters: {len(todo)} teams refreshed, {min(len(todo_p), PAGE_CAP)} player pages "
+        f"read ({max(0, len(todo_p) - PAGE_CAP)} left)")
 
 
 # ---------------- ESPN ----------------

@@ -316,7 +316,7 @@ def main():
                   "Start": "WHEN STARTING % (3+ starts)"}
         for gname, _pre in groups:
             grp_row += [labels[gname]] + [""] * (len(LINES) - 1)
-        grp_row[0] = "Points 10/15/20/25 · Rebounds 3/5/7 · Assists 3/5/7 · Threes 1/2/3/4"
+        grp_row[0] = "Points 10/15/20/25/30 · Rebounds 3/5/7/10 · Assists 3/5/7 · Threes 1/2/3/4"
 
         rows, picks, game_rows = [], [], []
         for k in keep:

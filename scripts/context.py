@@ -223,8 +223,8 @@ class Data:
                 continue
             st = (sum(1 for r in w if r["start"]), len(w), sum(1 for r in wo if r["start"]), len(wo))
             rows.append((k, len(wo), a, st, dmin))
-        rows = sorted(rows, key=lambda r: -abs(r[4]))[:6]
-        return sorted(rows, key=lambda r: -r[4])
+        rows = sorted(rows, key=lambda r: (r[1] < 3, -abs(r[4])))[:6]     # 3+ game samples first
+        return sorted(rows, key=lambda r: (r[1] < 3, -r[4]))
 
     def projected(self, team, out_keys):
         """Most recent starting five, with anyone out or doubtful swapped for the teammate who started most often
@@ -232,8 +232,18 @@ class Data:
         tg = self.team_games[team]
         if not tg:
             return []
-        last = tg[-1]
-        five = [key(p["name"]) for p in last["players"] if p["team"] == team and p["start"]]
+        # Base five = the players who started most of the team's last 5 games (ties: most recent start, then
+        # minutes), so one rest-day lineup doesn't decide it. Traded-away players are skipped.
+        recent = tg[-5:]
+        cnt0 = defaultdict(lambda: [0, "", 0.0])
+        for g in recent:
+            for p in g["players"]:
+                q = key(p["name"])
+                if p["team"] == team and p["start"] and self.cur.get(q) == team:
+                    cnt0[q][0] += 1
+                    cnt0[q][1] = max(cnt0[q][1], g["date"])
+                    cnt0[q][2] += p["min"]
+        five = sorted(cnt0, key=lambda q: (cnt0[q][0], cnt0[q][1], cnt0[q][2]), reverse=True)[:5]
         res = []
         used = set(five)
         for k in five:
@@ -299,7 +309,8 @@ def build_context(mode="morning", now=None):
            f"Statuses updated {now.strftime('%H:%M')} UK. Times are UK."], fg=GREY)
     S.add(["Ranks: 1st = allows the most in the NBA (good for overs); 1st-5th green, 26th-30th red. Role: starts in "
            "the last 5. Trend: last-5 minutes vs season (3+ = rising/falling). Usage = USG% (Basketball Reference). "
-           "Projected starters are not confirmed."], fg=GREY)
+           "Without tables: grey rows come from under 3 games. Projected starters (most starts in the last 5, minus anyone out "
+           "or doubtful) are not confirmed."], fg=GREY)
     for r in range(3):
         S.merge(r, 0, NCOL)
     if not games:
@@ -414,7 +425,10 @@ def build_context(mode="morning", now=None):
                           [f"{f1(a[s][0])} → {f1(a[s][1])}" for s in ("min", "pts", "reb", "ast", "fg3")] +
                           [f"{sts[0]}/{sts[1]} → {sts[2]}/{sts[3]}",
                            f"{f1(a['usg'][0])} → {f1(a['usg'][1])}" if a["usg"][0] is not None and a["usg"][1] is not None else ""])
-                S.style(r, 0, 1, fg=UP if dmin > 0 else DOWN, bold=True)
+                if n < 3:                               # small sample: greyed out
+                    S.style(r, 0, NCOL, fg="#9a9a9f")
+                else:
+                    S.style(r, 0, 1, fg=UP if dmin > 0 else DOWN, bold=True)
 
         # players
         S.header("Players", ["Team", "Role", "Min season", "Min last 5", "Trend", "Usage season", "Usage last 5",

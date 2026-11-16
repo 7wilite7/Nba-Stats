@@ -59,7 +59,12 @@ def main():
                 print(f"{name} -> {tab}: {len(rows)} rows")
                 continue
             ws = book.worksheet(tab)
-            ws.batch_clear(["A:FZ"])
+            width = max(len(r) for r in rows)
+            if ws.col_count < width:                   # e.g. new lines added: grow the tab instead of failing
+                ws.add_cols(width - ws.col_count)
+            if ws.row_count < len(rows):
+                ws.add_rows(len(rows) - ws.row_count)
+            ws.batch_clear(["A:GZ"])
             ws.update(rows, "A1", value_input_option="RAW" if raw else "USER_ENTERED")
             print(f"{name} -> {tab}: {len(rows)} rows")
         except Exception as e:  # noqa: BLE001  - never block the data update

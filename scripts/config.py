@@ -17,8 +17,8 @@ UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.3
 BREF_DELAY = 3.6                     # seconds between Basketball Reference requests (their limit is 20/minute)
 
 # stat, column index in a game record, line, market name
-LINES = ([("PTS", t, "Points") for t in (10, 15, 20, 25)] +
-         [("REB", t, "Rebounds") for t in (3, 5, 7)] +
+LINES = ([("PTS", t, "Points") for t in (10, 15, 20, 25, 30)] +
+         [("REB", t, "Rebounds") for t in (3, 5, 7, 10)] +
          [("AST", t, "Assists") for t in (3, 5, 7)] +
          [("3PM", t, "Threes") for t in (1, 2, 3, 4)])
 STATS = ["PTS", "REB", "AST", "3PM"]

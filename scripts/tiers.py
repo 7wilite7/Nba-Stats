@@ -12,8 +12,10 @@ from build import load, base_rates, next_games, pool, records, team_info, status
 from config import LINES, TRUE_K
 
 PRA = [20, 25, 30, 35, 40]
-ALL_LINES = [(st, t) for st, t, _ in LINES] + [("PRA", t) for t in PRA]
+NEW_LINES = [("PTS", 30), ("REB", 10)]   # added Nov 2026: kept at the far right so tier sheets' column numbers don't move
+ALL_LINES = [(st, t) for st, t, _ in LINES if (st, t) not in NEW_LINES] + [("PRA", t) for t in PRA]
 WINDOWS = ["L5", "L10", "Season", "True", "Home", "Away", "B2B", "vsOpp"]
+COLS = [(w, st, t) for w in WINDOWS for st, t in ALL_LINES] + [(w, st, t) for w in WINDOWS for st, t in NEW_LINES]
 
 
 def val(s, st):
@@ -38,7 +40,7 @@ def rows():
     nxt = next_games(sched)
     keep = sorted(pool(logs, h2, roster_team), key=lambda k: names.get(k, k))
     head = ["Player", "Team", "Status", "Next game", "Next opp", "GP", "MPG", "PPG", "RPG", "APG", "3PM/G", "PRA/G"]
-    head += [f"{w}: {st} {t}+" for w in WINDOWS for st, t in ALL_LINES]
+    head += [f"{w}: {st} {t}+" for w, st, t in COLS]
     out = [head]
     for k in keep:
         lg = logs.get(k, [])
@@ -61,15 +63,14 @@ def rows():
         avg = [round(sum(val(r["s"], st) for r in lg) / n, 1) if n else "" for st in ("PTS", "REB", "AST", "3PM", "PRA")]
         row = [names.get(k, k), team_txt, status_text(e), ng, opp, n,
                round(sum(r["min"] for r in lg) / n, 1) if n else ""] + avg
-        for w in WINDOWS:
-            for st, t in ALL_LINES:
-                if w == "True":
-                    h = sum(val(r["s"], st) >= t for r in lg)
-                    v = round(100 * (h + TRUE_K * base[(st, t)]) / (n + TRUE_K)) if n else None
-                else:
-                    s = sets[w]
-                    v = pct(sum(val(r["s"], st) >= t for r in s), len(s))
-                row.append("" if v is None else v)
+        for w, st, t in COLS:
+            if w == "True":
+                h = sum(val(r["s"], st) >= t for r in lg)
+                v = round(100 * (h + TRUE_K * base[(st, t)]) / (n + TRUE_K)) if n else None
+            else:
+                s = sets[w]
+                v = pct(sum(val(r["s"], st) >= t for r in s), len(s))
+            row.append("" if v is None else v)
         out.append(row)
     return out
 
