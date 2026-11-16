@@ -205,8 +205,10 @@ def fetch_bref_rosters():
     today = dt.date.today().isoformat()
     teams = rb.setdefault("teams", {})
     fetched = rb.setdefault("fetched", {})
+    ids0 = rb.get("ids", {})
     stale = [t for t in BREF_TEAMS if not fetched.get(t) or
-             (dt.date.today() - dt.date.fromisoformat(fetched[t])).days >= 7]
+             (dt.date.today() - dt.date.fromisoformat(fetched[t])).days >= 7 or
+             not any(n in ids0 for n in teams.get(BREF_TO_STD.get(t, t), {}))]   # player-page ids not saved yet
     known = {(p, t) for t, ps in teams.items() for p in ps}
     missing = set()
     year = int(SEASON_START[:4]) + 1
