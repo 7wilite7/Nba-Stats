@@ -2,7 +2,7 @@
 matchups (with ranks by position) and schedule for every game on the next slate.
 
   python scripts/context.py morning        build after the daily update, save the morning statuses, push
-  python scripts/context.py status-if-due  pre-tip refresh: runs at first tip minus 60 min (and again before
+  python scripts/context.py status-if-due  pre-tip refresh: every injury check in the 90 min before first tip (and
                                            later games that start 2+ hours after the first), re-reading only
                                            the injury statuses; marks anything changed since the morning
   python scripts/context.py build          build out/CONTEXT.json only (no push)
@@ -542,14 +542,16 @@ def main():
         slate, targets = due_targets(now)
         runs = jload(RUNS, {}) or {}
         done = runs.get(slate, [])
-        due = [a for a, tip in targets if a - dt.timedelta(minutes=15) <= now < tip and a.strftime("%H:%M") not in done]
+        # Every injury check from 90 minutes before a group's first tip until tip-off refreshes the statuses
+        # (GitHub starts checks 5-20 minutes late, so this guarantees one by about tip-60 and keeps them fresh).
+        due = [a for a, tip in targets if a - dt.timedelta(minutes=30) <= now < tip]
         if not due:
             print("No pre-tip status refresh due", [(a.strftime("%H:%M"), t.strftime("%H:%M")) for a, t in targets])
             return
         S, snap, slate = build_context("status", now)
         save_out(S)
         push(S)
-        runs = {slate: done + [a.strftime("%H:%M") for a in due]}
+        runs = {slate: done + [now.strftime("%H:%M")]}
         jsave(RUNS, runs)
         print("Pre-tip status refresh done for", [a.strftime("%H:%M") for a in due])
         return
