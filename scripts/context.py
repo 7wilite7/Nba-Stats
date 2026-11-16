@@ -386,7 +386,8 @@ def build_context(mode="morning", now=None):
             S.style(r, 0, 3, fg=col, bold=True)
             if gm is not None and gm <= 2:
                 S.style(r, 3, 4, fg=RED, bold=True)
-            if morning and morning["status"].get(name) != lab:
+            was = morning["status"].get(name) if morning else None
+            if morning and (was or "").split(" (")[0] != lab.split(" (")[0]:     # status change, not wording
                 S.rows[r][6] = "changed" + ("" if name in morning["status"] else " (new)")
                 S.style(r, 6, 7, bg=YELLOW, bold=True)
         for n in gone:
