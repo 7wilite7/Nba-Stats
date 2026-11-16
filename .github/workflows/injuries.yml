@@ -15,12 +15,12 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
       - run: pip install -q pdfplumber
-      - name: Fetch the injury report
-        run: python scripts/fetch.py inj
-      - name: Rebuild only if the injury report changed
+      - name: Fetch the injury report, plus box scores for any finished game not loaded yet
+        run: python scripts/fetch.py inj missing
+      - name: Rebuild only if the injury report or box scores changed
         run: |
-          if [ -z "$(git status --porcelain -- data/injuries.json data/injuries_official.json)" ]; then echo "No injury changes"; exit 0; fi
-          git status --short -- data/injuries.json data/injuries_official.json
+          if [ -z "$(git status --porcelain -- data/injuries.json data/injuries_official.json data/games)" ]; then echo "No injury or box-score changes"; exit 0; fi
+          git status --short -- data/injuries.json data/injuries_official.json data/games | head -20
           python scripts/build.py
           pip install -q gspread && python scripts/tiers.py && python scripts/push_sheets.py || echo "sheet push failed"
           git config user.name "github-actions[bot]"

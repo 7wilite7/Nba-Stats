@@ -14,7 +14,7 @@ PERSONAL = {"2627": "1OmsjE9qkgA8IAY5TMty4MYfXY4em3Fh47hKgB2OxoIM",    # NBA Hit
 TABS = {"PLAYERS": "Hit Rates", "TODAY": "Today", "PHONE": "Phone", "GAMES": "Today games", "TRACKER": "Pick tracker"}
 # (csv file in out/, spreadsheet id, tab, raw). Personal sheets are skipped until shared with the service account;
 # once shared, their IMPORTDATA formulas are replaced by values written here, so the repo can be private.
-TARGETS = [("MASTER_2627.csv", MASTER, "Master", True)]
+TARGETS = [("MASTER_2627.csv", MASTER, "Master", True), ("GAMELOGS_2627.csv", MASTER, "Game logs", True)]
 for v, sid in PERSONAL.items():
     TARGETS += [(f"{c}_{v}.csv", sid, tab, False) for c, tab in TABS.items()] + [("VERIFY.csv", sid, "Fact-check", False)]
 
@@ -42,7 +42,19 @@ def main():
             rows = list(csv.reader(open(os.path.join(OUT, name))))
             if raw:
                 rows = [[cell(v) for v in r] for r in rows]
-            ws = gc.open_by_key(sid).worksheet(tab)
+            book = gc.open_by_key(sid)
+            if tab == "Game logs":                     # whole tab rebuilt every run, sized to fit, row 1 frozen
+                try:
+                    ws = book.worksheet(tab)
+                except gspread.exceptions.WorksheetNotFound:
+                    ws = book.add_worksheet(tab, rows=len(rows) + 10, cols=len(rows[0]))
+                ws.resize(rows=len(rows) + 10, cols=len(rows[0]))
+                ws.batch_clear(["A:Z"])
+                ws.update(rows, "A1", value_input_option="RAW")
+                ws.freeze(rows=1)
+                print(f"{name} -> {tab}: {len(rows)} rows")
+                continue
+            ws = book.worksheet(tab)
             ws.batch_clear(["A:FZ"])
             ws.update(rows, "A1", value_input_option="RAW" if raw else "USER_ENTERED")
             print(f"{name} -> {tab}: {len(rows)} rows")

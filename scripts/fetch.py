@@ -355,6 +355,21 @@ if __name__ == "__main__":
             try: fn()
             except Exception as e:  # noqa: BLE001
                 log("ERROR", name, e); failed.append(name)
+    if "missing" in steps:                  # injury runs: pull box scores for any finished game not loaded yet
+        try:
+            today = dt.datetime.now(ET).date().isoformat()
+            sched = jload(os.path.join(DATA, "schedule.json"), []) or []
+            want = {g["us_date"].replace("-", "") + "0" + STD_TO_BREF.get(g["home"], g["home"])
+                    for g in sched if g.get("state") == "post" and SEASON_START <= g["us_date"] <= today}
+            have = {f[:-5] for f in os.listdir(os.path.join(DATA, "games"))}
+            if want - have:
+                log("finished games not loaded yet:", len(want - have), "- fetching box scores")
+                fetch_espn_boxes(sched)
+                fetch_bref()
+            else:
+                log("all finished games loaded")
+        except Exception as e:  # noqa: BLE001
+            log("ERROR missing games", e); failed.append("missing games")
     if "espn" in steps:
         for name, fn in (("rosters", fetch_rosters), ("injuries", fetch_injuries),
                          ("official injuries", fetch_official_injuries)):

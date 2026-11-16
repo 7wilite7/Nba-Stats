@@ -72,7 +72,33 @@ def rows():
     return out
 
 
+def game_logs():
+    """One row per player per 2026-27 game, rebuilt from scratch every run (ESPN-filled games are
+    replaced automatically once Basketball Reference posts them)."""
+    games, logs, names, h2, roster_team, inj, sched = load()
+    source = {g["id"]: ("ESPN" if g.get("source") == "espn" else "BBR") for g in games}
+    team_dates = {}
+    for g in games:
+        for t in (g["home"], g["away"]):
+            team_dates.setdefault(t, set()).add(g["date"])
+    out = []
+    for k, lg in logs.items():
+        name = names.get(k, k)
+        for r in lg:
+            d = dt.date.fromisoformat(r["date"])
+            b2b = (d - dt.timedelta(days=1)).isoformat() in team_dates.get(r["team"], ())
+            pts, reb, ast, fg3 = r["s"]
+            out.append([r["date"], name, r["team"], r["opp"], "H" if r["home"] else "A", "Y" if b2b else "N",
+                        r["min"], pts, reb, ast, fg3, pts + reb + ast, source.get(r["gid"], "BBR")])
+    out.sort(key=lambda x: (x[1], x[0]))
+    return [["Date", "Player", "Team", "Opp", "Home/Away", "Back-to-back", "MIN", "PTS", "REB", "AST", "3PM",
+             "PRA", "Source"]] + out
+
+
 if __name__ == "__main__":
     r = rows()
     write_csv("MASTER_2627.csv", r)
     print(len(r) - 1, "players,", len(r[0]), "columns")
+    gl = game_logs()
+    write_csv("GAMELOGS_2627.csv", gl)
+    print(len(gl) - 1, "game-log rows")
