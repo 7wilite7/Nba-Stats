@@ -1,4 +1,4 @@
-"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Tue 17 Nov 00:17 UK"
+"Every listed player in games over the next 24 hours, by game, A–Z within each game · updated Tue 17 Nov 01:51 UK"
 Game,Player,Team,GP,PTS 10+,PTS 15+,PTS 20+,PTS 25+,PTS 30+,REB 3+,REB 5+,REB 7+,REB 10+,AST 3+,AST 5+,AST 7+,3PM 1+,3PM 2+,3PM 3+,3PM 4+,status
 CHI @ CLE · Tue 00:00 UK,Caleb Wilson,CHI,10,90,90,50,10,10,100,90,20,10,50,0,0,100,60,30,20,Out (Hand) – est. return 13 Dec
 CHI @ CLE · Tue 00:00 UK,Donovan Mitchell,CLE,35,97,91,74,54,31,80,49,23,3,100,57,23,89,71,40,26,
@@ -124,3 +124,49 @@ PHX @ DEN · Tue 02:00 UK,Mark Williams,PHX,30,60,17,7,3,0,97,93,67,23,3,0,0,0,0
 PHX @ DEN · Tue 02:00 UK,Miles Bridges,PHX,39,79,44,18,10,0,90,62,38,13,49,21,5,72,46,26,13,
 PHX @ DEN · Tue 02:00 UK,Nikola Jokic,DEN,33,97,91,76,48,27,100,100,100,70,97,97,88,70,30,9,3,
 PHX @ DEN · Tue 02:00 UK,Oso Ighodaro,PHX,41,32,7,0,0,0,88,61,34,15,54,27,12,0,0,0,0,
+NYK @ TOR · Wed 00:30 UK,Collin Murray-Boyles,TOR,29,52,24,3,0,0,83,48,28,7,21,3,0,28,3,0,0,
+NYK @ TOR · Wed 00:30 UK,Immanuel Quickley,TOR,35,91,54,26,14,3,71,20,3,0,86,66,40,91,74,57,20,
+NYK @ TOR · Wed 00:30 UK,Ja'Kobe Walter,TOR,36,50,19,6,0,0,61,25,6,0,19,3,0,83,61,42,19,
+NYK @ TOR · Wed 00:30 UK,Jakob Poeltl,TOR,23,52,22,0,0,0,78,70,35,13,26,0,0,0,0,0,0,
+NYK @ TOR · Wed 00:30 UK,Jalen Brunson,NYK,37,97,95,78,54,24,59,30,3,0,95,76,62,89,68,43,22,
+NYK @ TOR · Wed 00:30 UK,Jamal Shead,TOR,41,24,7,2,0,0,22,2,0,0,93,59,27,54,24,7,2,
+NYK @ TOR · Wed 00:30 UK,Josh Hart,NYK,33,58,18,6,6,3,97,82,42,18,82,33,9,61,42,15,9,
+NYK @ TOR · Wed 00:30 UK,Karl-Anthony Towns,NYK,38,100,89,66,24,3,100,97,97,87,58,29,11,84,47,24,3,
+NYK @ TOR · Wed 00:30 UK,Kawhi Leonard,TOR,33,100,100,97,67,27,100,79,55,3,73,30,6,94,70,36,24,Out (Knee) – est. return 23 Nov
+NYK @ TOR · Wed 00:30 UK,Landry Shamet,NYK,26,38,8,8,0,0,27,4,0,0,19,4,0,88,65,27,12,
+NYK @ TOR · Wed 00:30 UK,Mikal Bridges,NYK,41,56,22,10,2,0,61,34,7,0,51,22,2,71,34,12,7,
+NYK @ TOR · Wed 00:30 UK,OG Anunoby,NYK,34,88,62,38,12,3,88,56,24,6,29,9,3,97,76,44,26,
+NYK @ TOR · Wed 00:30 UK,RJ Barrett,TOR,29,97,83,66,28,3,93,66,24,7,72,31,3,72,38,24,14,
+NYK @ TOR · Wed 00:30 UK,Scottie Barnes,TOR,40,90,65,35,18,5,95,72,38,15,90,68,35,50,18,2,2,
+DET @ SAS · Wed 01:00 UK,Ausar Thompson,DET,37,46,11,0,0,0,95,68,41,14,78,43,14,0,0,0,0,
+DET @ SAS · Wed 01:00 UK,Cade Cunningham,DET,32,91,75,56,47,22,88,66,31,3,97,94,94,81,59,38,22,
+DET @ SAS · Wed 01:00 UK,Daniss Jenkins,DET,36,58,42,19,8,6,56,31,8,0,81,58,33,78,36,14,8,
+DET @ SAS · Wed 01:00 UK,De'Aaron Fox,SAS,36,86,50,25,11,0,75,33,14,0,97,69,36,75,39,14,8,
+DET @ SAS · Wed 01:00 UK,Devin Vassell,SAS,34,62,32,9,0,0,71,41,21,3,50,9,3,82,56,35,24,
+DET @ SAS · Wed 01:00 UK,Duncan Robinson,DET,39,79,44,15,3,0,49,8,3,0,36,3,0,95,87,62,33,Out (Quadriceps) – est. return 18 Nov
+DET @ SAS · Wed 01:00 UK,Dylan Harper,SAS,35,80,49,23,6,3,77,46,14,0,80,46,9,80,40,14,0,
+DET @ SAS · Wed 01:00 UK,John Collins,DET,35,69,46,14,3,0,89,66,49,9,14,0,0,54,26,14,6,
+DET @ SAS · Wed 01:00 UK,Julian Champagnie,SAS,41,54,20,7,5,0,88,56,32,0,22,0,0,85,66,44,22,
+DET @ SAS · Wed 01:00 UK,Keldon Johnson,SAS,41,63,32,10,0,0,83,59,20,2,27,5,0,56,29,7,2,
+DET @ SAS · Wed 01:00 UK,Kevin Huerter,DET,35,37,17,9,0,0,57,20,0,0,49,14,3,80,37,17,6,
+DET @ SAS · Wed 01:00 UK,Paul Reed,DET,33,48,21,9,3,0,88,55,36,15,30,3,0,21,9,3,0,
+DET @ SAS · Wed 01:00 UK,Stephon Castle,SAS,34,88,71,29,6,6,88,65,47,12,94,79,53,76,50,29,9,
+DET @ SAS · Wed 01:00 UK,Tobias Harris,SAS,32,78,38,12,0,0,88,72,31,9,47,25,3,75,31,9,3,Out (Calf) – est. return 3 Dec
+DET @ SAS · Wed 01:00 UK,Victor Wembanyama,SAS,32,100,88,78,66,44,100,100,97,72,66,28,6,84,66,31,22,
+POR @ MIN · Wed 01:00 UK,Anthony Edwards,MIN,31,97,90,81,61,52,77,48,23,6,81,29,0,97,81,65,45,Out (Knee) – est. return 21 Dec
+POR @ MIN · Wed 01:00 UK,Ayo Dosunmu,MIN,35,83,57,20,9,0,63,43,26,9,60,23,14,80,40,23,11,
+POR @ MIN · Wed 01:00 UK,Damian Lillard,POR,12,92,83,67,33,0,67,33,0,0,83,42,8,100,83,50,42,
+POR @ MIN · Wed 01:00 UK,Deni Avdija,POR,33,97,94,70,39,9,97,73,36,9,88,79,48,76,42,12,9,
+POR @ MIN · Wed 01:00 UK,Donovan Clingan,POR,39,62,36,15,3,0,100,97,92,72,33,13,3,67,33,21,3,
+POR @ MIN · Wed 01:00 UK,Donte DiVincenzo,MIN,41,59,34,7,0,0,76,34,7,0,56,27,10,93,78,61,32,Out (Achilles) – est. return 2 Apr
+POR @ MIN · Wed 01:00 UK,Ja Morant,POR,10,100,70,50,10,10,50,20,0,0,100,70,70,70,40,20,0,Out (Hamstring) – est. return 1 Dec
+POR @ MIN · Wed 01:00 UK,Jaden McDaniels,MIN,37,81,65,16,5,0,68,62,22,0,62,14,3,65,35,11,3,
+POR @ MIN · Wed 01:00 UK,Jonathan Kuminga,MIN,18,78,33,11,0,0,72,56,33,11,56,22,0,72,50,22,6,
+POR @ MIN · Wed 01:00 UK,Jrue Holiday,POR,27,78,37,19,7,4,78,44,19,4,74,44,30,89,67,44,26,
+POR @ MIN · Wed 01:00 UK,LaMelo Ball,MIN,36,97,83,56,19,14,81,47,17,0,97,81,44,97,94,81,67,
+POR @ MIN · Wed 01:00 UK,Rudy Gobert,MIN,38,47,18,5,0,0,100,97,89,71,18,3,0,0,0,0,0,
+POR @ MIN · Wed 01:00 UK,Scoot Henderson,POR,12,42,8,0,0,0,17,0,0,0,17,0,0,67,25,8,0,
+POR @ MIN · Wed 01:00 UK,Shaedon Sharpe,POR,25,80,76,64,28,4,76,44,20,0,56,16,4,84,64,32,24,Out (Knee) – est. return 2 Mar
+POR @ MIN · Wed 01:00 UK,Sidy Cissoko,POR,38,11,8,0,0,0,39,5,3,0,26,0,0,34,16,5,3,
+POR @ MIN · Wed 01:00 UK,Terrence Shannon Jr.,MIN,10,70,20,0,0,0,80,20,0,0,50,10,0,60,50,20,0,
+POR @ MIN · Wed 01:00 UK,Toumani Camara,POR,41,73,39,12,7,7,76,44,17,5,32,7,0,93,78,51,34,
