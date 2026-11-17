@@ -53,6 +53,11 @@ jobs:
         continue-on-error: true
         env: {GOOGLE_SA_JSON: "${{ secrets.GOOGLE_SA_JSON }}"}
         run: pip install -q gspread && python scripts/context.py morning
+      - name: Post last night's results card to #results
+        if: env.SKIP != '1' && github.event_name == 'schedule'
+        continue-on-error: true
+        env: {DISCORD_WEBHOOK_RESULTS: "${{ secrets.DISCORD_WEBHOOK_RESULTS }}"}
+        run: python scripts/results_post.py
       - name: Commit results
         if: env.SKIP != '1'
         run: |
