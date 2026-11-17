@@ -8,14 +8,12 @@ import csv, datetime as dt, json, os, sys
 from zoneinfo import ZoneInfo
 from config import OUT
 
-MASTER = "1H74LsbUfLAbgsEJxoyIdvcNHqLsWXJBPys8ugJrNiWo"   # NBA Master (private, never share)
-PERSONAL = {"2627": "1OmsjE9qkgA8IAY5TMty4MYfXY4em3Fh47hKgB2OxoIM",    # NBA Hit Rates 2026-27
-            "blend": "1aKIjTmT8PYKZuXIWbDUPStX4lW2qaaw-A9Mk0i8ypqk"}   # NBA Hit Rates Blended
+# NBA Master and NBA Hit Rates Blended were deleted on 17 Nov 2026 and are no longer pushed.
+PERSONAL = {"2627": "1OmsjE9qkgA8IAY5TMty4MYfXY4em3Fh47hKgB2OxoIM"}    # NBA Hit Rates 2026-27
 TABS = {"PLAYERS": "Hit Rates", "TODAY": "Today", "PHONE": "Phone", "GAMES": "Today games", "TRACKER": "Pick tracker"}
 # (csv file in out/, spreadsheet id, tab, raw). Personal sheets are skipped until shared with the service account;
 # once shared, their IMPORTDATA formulas are replaced by values written here, so the repo can be private.
-TARGETS = [("MASTER_2627.csv", MASTER, "Master", True), ("GAMELOGS_2627.csv", MASTER, "Game logs", True),
-           ("ROSTERS.csv", MASTER, "Rosters", True)]
+TARGETS = []
 for v, sid in PERSONAL.items():
     TARGETS += [(f"{c}_{v}.csv", sid, tab, False) for c, tab in TABS.items()] + [("VERIFY.csv", sid, "Fact-check", False)]
 
@@ -69,13 +67,7 @@ def main():
             print(f"{name} -> {tab}: {len(rows)} rows")
         except Exception as e:  # noqa: BLE001  - never block the data update
             print(f"{name} -> {tab}: skipped ({type(e).__name__}: {str(e)[:200]})")
-            failed += sid == MASTER
-    now = dt.datetime.now(ZoneInfo("Europe/London")).strftime("%a %d %b %H:%M")
-    games = sorted(f[:8] for f in os.listdir(os.path.join(os.path.dirname(OUT), "data", "games")))
-    last = f"{games[-1][:4]}-{games[-1][4:6]}-{games[-1][6:8]}" if games else "n/a"
-    if not failed:
-        gc.open_by_key(MASTER).worksheet("Info").update(
-            [[f"Updated {now} UK · box scores to {last}"]], "A1", value_input_option="RAW")
+            failed += 1
     return 1 if failed else 0
 
 

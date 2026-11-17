@@ -42,16 +42,11 @@ jobs:
       - name: Build CSVs
         if: env.SKIP != '1'
         run: python scripts/build.py && python scripts/tiers.py
-      - name: Push tier master to the private Google Sheet
+      - name: Push to the NBA Hit Rates 2026-27 Google Sheet
         if: env.SKIP != '1'
         continue-on-error: true
         env: {GOOGLE_SA_JSON: "${{ secrets.GOOGLE_SA_JSON }}"}
         run: pip install -q gspread && python scripts/push_sheets.py
-      - name: Build and push the Context tab (next slate; saves the morning statuses)
-        if: env.SKIP != '1'
-        continue-on-error: true
-        env: {GOOGLE_SA_JSON: "${{ secrets.GOOGLE_SA_JSON }}"}
-        run: pip install -q gspread && python scripts/context.py morning
       - name: Commit results
         if: env.SKIP != '1'
         run: |
