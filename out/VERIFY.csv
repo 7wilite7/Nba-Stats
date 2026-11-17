@@ -1,4 +1,4 @@
-"Fact-check vs ESPN: 99.75% of 18,460 stats match (205 games)"
+"Fact-check vs ESPN: 99.72% of 18,472 stats match (205 games)"
 Game,Player,Stat,Basketball Reference,ESPN
 202610220OKC,Cason Wallace,reb,2,1
 202610220OKC,Jaylin Williams,reb,6,7
@@ -47,3 +47,7 @@ Game,Player,Stat,Basketball Reference,ESPN
 202611140CLE,P.J. Washington,reb,3,4
 202611140MIN,Zach Collins,reb,6,5
 202611140MIN,Ayo Dosunmu,reb,4,5
+202611160MIN,Rudy Gobert,ast,4,3
+202611160NOP,Malik Dia,ast,0,1
+202611160NOP,Jaron Pierre Jr.,reb,3,4
+202611160NOP,AJ Johnson,ast,1,0

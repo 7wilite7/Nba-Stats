@@ -23,13 +23,13 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,AJ Dybantsa,WAS,IND,A,N,34.3,13,4,2,0,19,Y,15,4,3,24.1,BBR
 2026-11-12,AJ Dybantsa,WAS,DET,H,Y,44.2,5,8,4,1,17,Y,10,0,4,13.8,BBR
 2026-11-15,AJ Dybantsa,WAS,HOU,H,N,30.3,16,7,1,2,24,Y,18,4,2,29.7,BBR
-2026-11-16,AJ Dybantsa,WAS,MEM,H,Y,32,21,5,3,1,29,Y,16,8,1,,ESPN
+2026-11-16,AJ Dybantsa,WAS,MEM,H,Y,32.1,21,5,3,1,29,Y,16,8,1,27.2,BBR
 2026-10-31,AJ Johnson,NOP,ATL,H,N,3.1,0,0,0,0,0,N,1,0,1,26.9,BBR
 2026-11-08,AJ Johnson,NOP,LAC,A,N,3.4,2,0,0,0,2,N,1,0,0,12.4,BBR
 2026-11-09,AJ Johnson,NOP,GSW,A,Y,12.0,2,2,3,0,7,N,3,0,0,11.6,BBR
 2026-11-11,AJ Johnson,NOP,BKN,H,N,6.6,2,1,0,0,3,N,2,0,0,13.2,BBR
 2026-11-13,AJ Johnson,NOP,MEM,H,N,4.2,1,0,0,0,1,N,0,2,1,18.4,BBR
-2026-11-16,AJ Johnson,NOP,GSW,H,N,6,0,0,0,0,0,N,1,0,0,,ESPN
+2026-11-16,AJ Johnson,NOP,GSW,H,N,5.7,0,0,1,0,1,N,1,0,0,7.1,BBR
 2026-10-22,Aaron Gordon,DEN,OKC,A,N,29.5,20,6,1,3,27,Y,9,6,2,19.5,BBR
 2026-10-24,Aaron Gordon,DEN,NOP,H,N,36.8,7,5,4,1,16,Y,9,4,1,13.2,BBR
 2026-10-26,Aaron Gordon,DEN,GSW,H,N,24.8,7,4,2,0,13,Y,10,3,1,22.5,BBR
@@ -41,7 +41,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Aaron Gordon,DEN,HOU,A,N,30.1,3,5,2,0,10,Y,6,2,3,14.8,BBR
 2026-11-11,Aaron Gordon,DEN,MEM,A,N,27.1,9,3,2,1,14,Y,11,2,1,20.6,BBR
 2026-11-14,Aaron Gordon,DEN,NOP,A,N,32.5,11,5,1,1,17,Y,6,5,0,11.0,BBR
-2026-11-16,Aaron Gordon,DEN,PHX,H,N,24,11,1,1,2,13,Y,6,2,2,,ESPN
+2026-11-16,Aaron Gordon,DEN,PHX,H,N,24.2,11,1,1,2,13,Y,6,2,2,16.1,BBR
 2026-10-23,Aaron Nesmith,IND,DAL,H,N,20.1,9,4,1,1,14,N,7,6,1,21.0,BBR
 2026-10-25,Aaron Nesmith,IND,BKN,A,N,19.4,13,1,2,2,16,Y,10,1,2,28.0,BBR
 2026-10-26,Aaron Nesmith,IND,MIL,A,Y,20.8,13,0,1,3,14,Y,11,0,1,23.7,BBR
@@ -132,7 +132,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Al Horford,GSW,NOP,H,N,15.0,5,2,6,1,13,N,5,0,0,14.5,BBR
 2026-11-11,Al Horford,GSW,HOU,A,N,20.9,2,1,4,0,7,Y,7,0,0,14.3,BBR
 2026-11-13,Al Horford,GSW,SAS,A,N,9.8,0,3,1,0,4,N,2,0,0,8.7,BBR
-2026-11-16,Al Horford,GSW,NOP,A,N,14,0,5,0,0,5,Y,4,0,0,,ESPN
+2026-11-16,Al Horford,GSW,NOP,A,N,14.5,0,5,0,0,5,Y,4,0,0,11.7,BBR
 2026-10-20,Alex Caruso,OKC,SAS,A,N,24.7,9,6,1,2,16,N,4,2,0,8.0,BBR
 2026-10-22,Alex Caruso,OKC,DEN,H,N,19.6,7,4,5,1,16,N,7,0,0,15.1,BBR
 2026-10-25,Alex Caruso,OKC,LAC,H,N,22.4,12,7,6,2,25,N,7,2,1,16.1,BBR
@@ -171,7 +171,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Alex Sarr,WAS,IND,A,N,25.0,5,8,0,1,13,Y,6,0,2,13.4,BBR
 2026-11-12,Alex Sarr,WAS,DET,H,Y,44.3,30,9,2,4,41,Y,14,4,2,17.5,BBR
 2026-11-15,Alex Sarr,WAS,HOU,H,N,27.0,25,9,2,3,36,Y,13,8,1,26.8,BBR
-2026-11-16,Alex Sarr,WAS,MEM,H,Y,31,6,4,1,1,11,Y,9,2,2,,ESPN
+2026-11-16,Alex Sarr,WAS,MEM,H,Y,30.7,6,4,1,1,11,Y,9,2,2,16.4,BBR
 2026-10-21,Alijah Martin,TOR,CHI,H,N,5.0,3,0,0,0,3,N,1,2,2,28.9,BBR
 2026-10-23,Alijah Martin,TOR,WAS,A,N,0.6,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-25,Alijah Martin,TOR,MIN,A,N,6.6,2,2,1,0,5,N,2,0,2,24.8,BBR
@@ -209,7 +209,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Alperen Sengun,HOU,GSW,H,N,37.1,19,13,9,1,41,Y,14,4,2,21.4,BBR
 2026-11-13,Alperen Sengun,HOU,UTA,H,N,37.1,43,12,5,1,60,Y,24,12,1,34.4,BBR
 2026-11-15,Alperen Sengun,HOU,WAS,A,N,28.2,19,8,8,1,35,Y,8,9,1,18.5,BBR
-2026-11-16,Alperen Sengun,HOU,MIA,A,Y,30,23,7,2,1,32,Y,11,7,3,,ESPN
+2026-11-16,Alperen Sengun,HOU,MIA,A,Y,29.8,23,7,2,1,32,Y,11,7,3,23.1,BBR
 2026-10-22,Alpha Diallo,DEN,OKC,A,N,22.2,4,2,2,0,8,N,4,0,2,11.4,BBR
 2026-11-02,Alpha Diallo,DEN,POR,H,N,5.6,0,1,0,0,1,N,1,0,0,8.2,BBR
 2026-11-04,Alpha Diallo,DEN,TOR,H,N,3.8,0,0,0,0,0,N,1,0,1,24.4,BBR
@@ -265,7 +265,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Andrew Wiggins,MIA,UTA,A,N,18.5,13,0,0,2,13,N,8,1,0,18.8,BBR
 2026-11-13,Andrew Wiggins,MIA,CLE,H,N,31.6,8,3,4,1,15,N,5,4,0,9.1,BBR
 2026-11-14,Andrew Wiggins,MIA,DET,H,Y,22.9,10,2,1,0,13,N,8,4,0,17.2,BBR
-2026-11-16,Andrew Wiggins,MIA,HOU,H,N,34,17,5,1,3,23,N,9,3,0,,ESPN
+2026-11-16,Andrew Wiggins,MIA,HOU,H,N,34.2,17,5,1,3,23,N,9,3,0,12.9,BBR
 2026-10-20,Anfernee Simons,PHI,NYK,A,N,25.3,13,2,0,3,15,N,10,0,0,16.8,BBR
 2026-10-22,Anfernee Simons,PHI,CLE,H,N,16.7,2,3,0,0,5,N,4,3,1,14.9,BBR
 2026-10-24,Anfernee Simons,PHI,MIL,H,N,20.3,4,1,2,1,7,N,7,2,1,16.9,BBR
@@ -280,7 +280,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Anfernee Simons,PHI,BOS,H,N,17.9,17,3,0,3,20,N,13,0,0,33.0,BBR
 2026-11-12,Anfernee Simons,PHI,TOR,H,N,23.3,17,3,2,5,22,N,9,0,0,17.1,BBR
 2026-11-15,Anfernee Simons,PHI,IND,H,N,15.5,12,0,0,1,12,N,9,1,0,26.9,BBR
-2026-11-16,Anfernee Simons,PHI,BKN,A,Y,26,9,1,2,1,12,N,8,0,1,,ESPN
+2026-11-16,Anfernee Simons,PHI,BKN,A,Y,25.9,9,1,2,1,12,N,8,0,1,14.4,BBR
 2026-10-25,Anthony Black,ORL,NYK,A,N,26.0,18,3,5,5,26,N,11,2,0,19.4,BBR
 2026-10-28,Anthony Black,ORL,TOR,A,N,21.8,8,2,1,0,11,Y,9,0,4,25.4,BBR
 2026-10-30,Anthony Black,ORL,TOR,A,N,31.2,17,6,10,3,33,Y,8,6,1,18.0,BBR
@@ -290,7 +290,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Anthony Black,ORL,SAC,A,N,33.2,26,7,5,2,38,Y,17,4,4,29.4,BBR
 2026-11-11,Anthony Black,ORL,UTA,A,Y,38.5,22,7,8,3,37,Y,14,9,3,23.3,BBR
 2026-11-13,Anthony Black,ORL,MIL,H,N,36.6,5,2,5,1,12,Y,9,2,5,18.2,BBR
-2026-11-16,Anthony Black,ORL,BOS,A,N,33,20,2,7,3,29,Y,13,4,4,,ESPN
+2026-11-16,Anthony Black,ORL,BOS,A,N,32.9,20,2,7,3,29,Y,13,4,4,25.6,BBR
 2026-10-21,Anthony Davis,WAS,MIL,H,N,33.8,34,12,4,1,50,Y,20,14,3,35.4,BBR
 2026-10-23,Anthony Davis,WAS,TOR,H,N,32.4,9,9,0,0,18,Y,12,4,4,22.4,BBR
 2026-10-24,Anthony Davis,WAS,CHI,A,Y,30.9,19,6,5,0,30,Y,21,5,3,33.8,BBR
@@ -303,7 +303,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Anthony Davis,WAS,IND,A,N,33.6,21,13,0,0,34,Y,20,9,1,31.1,BBR
 2026-11-12,Anthony Davis,WAS,DET,H,Y,43.6,30,15,4,0,49,Y,21,4,2,24.8,BBR
 2026-11-15,Anthony Davis,WAS,HOU,H,N,30.6,14,8,5,0,27,Y,11,6,2,21.2,BBR
-2026-11-16,Anthony Davis,WAS,MEM,H,Y,35,23,4,0,0,27,Y,15,8,1,,ESPN
+2026-11-16,Anthony Davis,WAS,MEM,H,Y,34.7,23,4,0,0,27,Y,15,8,1,23.9,BBR
 2026-10-21,Anthony Edwards,MIN,MIA,A,N,32.6,45,10,3,9,58,Y,29,5,4,40.9,BBR
 2026-10-23,Anthony Edwards,MIN,ORL,A,N,33.2,15,4,4,2,23,Y,23,4,2,31.4,BBR
 2026-10-25,Anthony Edwards,MIN,TOR,H,N,27.7,26,1,3,2,30,Y,18,5,4,37.4,BBR
@@ -312,7 +312,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-07,Anthony Gill,WAS,OKC,A,Y,9.1,1,1,0,0,2,N,4,2,0,22.0,BBR
 2026-11-09,Anthony Gill,WAS,DET,A,N,1.6,0,2,0,0,2,N,0,0,0,0.0,BBR
 2026-11-15,Anthony Gill,WAS,HOU,H,N,5.8,5,1,0,0,6,N,2,1,0,17.6,BBR
-2026-11-16,Anthony Gill,WAS,MEM,H,Y,2,2,0,0,0,2,N,0,2,1,,ESPN
+2026-11-16,Anthony Gill,WAS,MEM,H,Y,2.2,2,0,0,0,2,N,0,2,1,36.4,BBR
 2026-10-23,Asa Newell,ATL,CHA,A,N,8.1,3,1,0,1,4,N,2,2,0,14.4,BBR
 2026-10-26,Asa Newell,ATL,HOU,A,N,1.4,0,1,0,0,1,N,0,0,0,0.0,BBR
 2026-10-31,Asa Newell,ATL,NOP,A,N,18.7,13,4,1,1,18,N,11,2,1,27.5,BBR
@@ -354,7 +354,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-08,Ayo Dosunmu,MIN,UTA,H,N,29.9,26,4,1,4,31,Y,13,8,5,30.6,BBR
 2026-11-12,Ayo Dosunmu,MIN,DAL,H,N,26.9,18,2,1,2,21,Y,15,0,1,24.7,BBR
 2026-11-14,Ayo Dosunmu,MIN,CHI,H,N,33.1,24,4,0,0,28,Y,16,4,2,24.2,BBR
-2026-11-16,Ayo Dosunmu,MIN,POR,H,N,30,8,5,2,2,15,Y,11,0,1,,ESPN
+2026-11-16,Ayo Dosunmu,MIN,POR,H,N,29.5,8,5,2,2,15,Y,11,0,1,16.6,BBR
 2026-10-21,Baba Miller,LAC,SAC,H,N,9.4,4,3,1,0,8,N,2,0,1,13.5,BBR
 2026-10-25,Baba Miller,LAC,OKC,A,N,2.5,0,1,0,0,1,N,0,0,2,34.3,BBR
 2026-10-28,Baba Miller,LAC,LAL,H,N,16.9,4,7,1,0,12,N,3,0,2,12.9,BBR
@@ -378,7 +378,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Bam Adebayo,MIA,UTA,A,N,37.1,11,8,4,0,23,Y,8,12,0,14.8,BBR
 2026-11-13,Bam Adebayo,MIA,CLE,H,N,38.1,37,14,3,2,54,Y,19,10,0,26.0,BBR
 2026-11-14,Bam Adebayo,MIA,DET,H,Y,36.1,20,5,4,1,29,Y,8,13,1,16.5,BBR
-2026-11-16,Bam Adebayo,MIA,HOU,H,N,16,4,1,2,0,7,Y,3,4,1,,ESPN
+2026-11-16,Bam Adebayo,MIA,HOU,H,N,15.5,4,1,2,0,7,Y,3,4,1,15.9,BBR
 2026-10-20,Baylor Scheierman,BOS,DET,A,N,18.2,8,3,0,2,11,N,4,0,1,11.8,BBR
 2026-10-23,Baylor Scheierman,BOS,NYK,H,N,11.1,2,0,0,0,2,N,4,0,1,20.6,BBR
 2026-10-26,Baylor Scheierman,BOS,CHI,H,N,18.2,2,6,2,0,10,N,4,0,3,14.1,BBR
@@ -392,7 +392,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Baylor Scheierman,BOS,PHI,A,N,17.7,5,3,2,1,10,N,3,0,0,7.7,BBR
 2026-11-11,Baylor Scheierman,BOS,TOR,A,Y,28.9,9,7,3,3,19,Y,5,0,0,8.0,BBR
 2026-11-15,Baylor Scheierman,BOS,DAL,H,N,18.0,12,5,3,2,20,N,6,4,1,20.3,BBR
-2026-11-16,Baylor Scheierman,BOS,ORL,H,Y,11,0,1,1,0,2,N,2,0,0,,ESPN
+2026-11-16,Baylor Scheierman,BOS,ORL,H,Y,11.3,0,1,1,0,2,N,2,0,0,7.7,BBR
 2026-10-25,Ben Saraf,BKN,IND,H,Y,3.6,2,1,0,0,3,N,1,0,0,11.3,BBR
 2026-10-21,Ben Sheppard,IND,NOP,A,N,12.2,3,1,0,1,4,N,3,0,0,10.2,BBR
 2026-10-21,Bennedict Mathurin,NOP,IND,H,N,17.9,11,3,2,0,16,N,7,6,0,21.5,BBR
@@ -434,7 +434,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Bilal Coulibaly,WAS,IND,A,N,25.3,5,6,2,0,13,N,5,2,0,9.7,BBR
 2026-11-12,Bilal Coulibaly,WAS,DET,H,Y,29.4,4,7,0,0,11,N,5,0,0,7.4,BBR
 2026-11-15,Bilal Coulibaly,WAS,HOU,H,N,21.0,9,2,0,1,11,N,7,4,0,17.2,BBR
-2026-11-16,Bilal Coulibaly,WAS,MEM,H,Y,16,11,5,0,1,16,N,7,3,1,,ESPN
+2026-11-16,Bilal Coulibaly,WAS,MEM,H,Y,15.6,11,5,0,1,16,N,7,3,1,25.5,BBR
 2026-10-30,Blake Wesley,LAC,MIN,A,N,5.3,0,4,0,0,4,N,4,0,0,31.8,BBR
 2026-11-01,Blake Wesley,LAC,GSW,A,N,4.1,2,0,0,0,2,N,0,2,0,9.1,BBR
 2026-10-21,Bobby Portis,MIA,MIN,H,N,24.6,7,4,1,1,12,N,5,0,2,12.3,BBR
@@ -450,7 +450,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Bobby Portis,MIA,UTA,A,N,16.6,5,1,1,1,7,N,7,0,0,17.4,BBR
 2026-11-13,Bobby Portis,MIA,CLE,H,N,15.1,5,3,2,1,10,N,6,0,1,19.7,BBR
 2026-11-14,Bobby Portis,MIA,DET,H,Y,17.6,7,4,2,1,13,N,8,2,0,20.4,BBR
-2026-11-16,Bobby Portis,MIA,HOU,H,N,23,16,6,0,2,22,N,14,0,1,,ESPN
+2026-11-16,Bobby Portis,MIA,HOU,H,N,23.3,16,6,0,2,22,N,14,0,1,27.6,BBR
 2026-10-21,Bogdan Bogdanovic,HOU,DAL,H,N,13.1,5,1,2,1,8,N,3,0,0,9.6,BBR
 2026-10-23,Bogdan Bogdanovic,HOU,SAS,A,N,8.9,3,1,0,1,4,N,2,0,1,15.2,BBR
 2026-10-24,Bogdan Bogdanovic,HOU,ATL,A,Y,20.4,11,1,1,3,13,N,8,0,1,18.4,BBR
@@ -465,7 +465,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Bogdan Bogdanovic,HOU,GSW,H,N,9.7,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-11-13,Bogdan Bogdanovic,HOU,UTA,H,N,12.3,11,1,3,3,15,N,4,2,1,20.1,BBR
 2026-11-15,Bogdan Bogdanovic,HOU,WAS,A,N,22.1,12,3,4,2,19,N,6,4,1,16.0,BBR
-2026-11-16,Bogdan Bogdanovic,HOU,MIA,A,Y,26,6,0,1,2,7,N,7,0,1,,ESPN
+2026-11-16,Bogdan Bogdanovic,HOU,MIA,A,Y,25.8,6,0,1,2,7,N,7,0,1,12.5,BBR
 2026-10-28,Bogoljub Markovic,MIL,HOU,H,N,5.3,2,1,0,0,3,N,1,0,0,7.7,BBR
 2026-11-10,Bogoljub Markovic,MIL,NYK,A,N,3.9,0,2,1,0,3,N,0,0,0,0.0,BBR
 2026-11-11,Bogoljub Markovic,MIL,LAL,H,Y,4.2,0,0,0,0,0,N,0,0,0,0.0,BBR
@@ -482,7 +482,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-08,Bones Hyland,MIN,UTA,H,N,13.1,14,2,2,1,18,N,8,6,0,34.5,BBR
 2026-11-12,Bones Hyland,MIN,DAL,H,N,22.7,24,3,8,5,35,N,10,6,1,25.0,BBR
 2026-11-14,Bones Hyland,MIN,CHI,H,N,21.3,12,1,2,3,15,N,7,3,2,19.7,BBR
-2026-11-16,Bones Hyland,MIN,POR,H,N,13,5,1,5,0,11,N,9,1,1,,ESPN
+2026-11-16,Bones Hyland,MIN,POR,H,N,12.5,5,1,5,0,11,N,9,1,1,34.2,BBR
 2026-10-26,Braden Smith,IND,MIL,A,Y,0.3,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-28,Braden Smith,IND,PHI,H,N,5.1,0,0,1,0,1,N,0,0,0,0.0,BBR
 2026-10-30,Braden Smith,IND,MIA,A,N,11.7,1,0,1,0,2,N,3,2,0,13.5,BBR
@@ -498,7 +498,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Branden Carlson,POR,OKC,H,N,7.9,2,5,0,0,7,N,3,0,0,16.3,BBR
 2026-11-11,Branden Carlson,POR,OKC,H,Y,10.4,0,2,0,0,2,N,1,0,1,8.3,BBR
 2026-11-13,Branden Carlson,POR,SAC,A,N,7.6,5,3,0,1,8,N,1,2,0,11.1,BBR
-2026-11-16,Branden Carlson,POR,MIN,A,N,14,5,6,1,1,12,N,3,0,1,,ESPN
+2026-11-16,Branden Carlson,POR,MIN,A,N,14.4,5,6,1,1,12,N,3,0,1,11.5,BBR
 2026-10-23,Brandin Podziemski,GSW,MEM,H,N,32.9,18,2,3,2,23,Y,17,2,4,27.8,BBR
 2026-10-26,Brandin Podziemski,GSW,DEN,A,N,32.7,18,7,5,3,30,Y,14,1,0,18.9,BBR
 2026-10-28,Brandin Podziemski,GSW,MIN,A,N,31.7,8,5,6,0,19,Y,5,7,2,12.5,BBR
@@ -510,7 +510,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Brandin Podziemski,GSW,NOP,H,N,26.3,25,2,4,5,31,Y,19,0,0,31.4,BBR
 2026-11-11,Brandin Podziemski,GSW,HOU,A,N,37.1,22,6,4,4,32,Y,15,5,1,21.0,BBR
 2026-11-13,Brandin Podziemski,GSW,SAS,A,N,22.1,8,3,0,2,11,Y,10,2,0,21.2,BBR
-2026-11-16,Brandin Podziemski,GSW,NOP,A,N,30,15,6,3,3,24,Y,8,7,4,,ESPN
+2026-11-16,Brandin Podziemski,GSW,NOP,A,N,29.6,15,6,3,3,24,Y,8,7,5,23.0,BBR
 2026-10-21,Brandon Miller,CHA,BKN,A,N,35.6,18,3,1,3,22,Y,21,2,3,27.8,BBR
 2026-10-23,Brandon Miller,CHA,ATL,H,N,22.5,6,2,0,1,8,Y,14,1,2,29.4,BBR
 2026-10-24,Brandon Miller,CHA,MIA,H,Y,36.2,34,8,4,3,46,Y,29,12,5,45.3,BBR
@@ -596,7 +596,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Bruce Thornton,HOU,DEN,H,N,0.5,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-11-11,Bruce Thornton,HOU,GSW,H,N,2.7,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-11-15,Bruce Thornton,HOU,WAS,A,N,5.8,2,0,0,0,2,N,2,2,1,27.0,BBR
-2026-11-16,Bruce Thornton,HOU,MIA,A,Y,12,7,0,0,0,7,N,5,3,0,,ESPN
+2026-11-16,Bruce Thornton,HOU,MIA,A,Y,12.0,7,0,0,0,7,N,5,3,0,21.2,BBR
 2026-10-22,Bryce Hopkins,DEN,OKC,A,N,1.7,0,2,0,0,2,N,0,0,0,0.0,BBR
 2026-10-24,Bryce Hopkins,DEN,NOP,H,N,19.0,2,2,1,0,5,Y,2,0,0,4.4,BBR
 2026-10-26,Bryce Hopkins,DEN,GSW,H,N,31.4,13,3,1,1,17,Y,9,2,0,14.2,BBR
@@ -604,7 +604,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-04,Bryce Hopkins,DEN,TOR,H,N,27.6,18,4,1,1,23,N,7,8,2,20.8,BBR
 2026-11-07,Bryce Hopkins,DEN,IND,A,N,2.9,3,1,0,0,4,N,2,1,0,36.9,BBR
 2026-11-09,Bryce Hopkins,DEN,HOU,A,N,3.2,2,0,0,0,2,N,2,0,0,28.0,BBR
-2026-11-16,Bryce Hopkins,DEN,PHX,H,N,4,0,1,0,0,1,N,2,0,0,,ESPN
+2026-11-16,Bryce Hopkins,DEN,PHX,H,N,3.8,0,1,0,0,1,N,2,0,0,22.9,BBR
 2026-10-28,Bryce McGowens,NOP,DEN,H,N,2.8,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-29,Bryce McGowens,NOP,SAC,H,Y,6.3,4,1,2,0,7,N,3,0,1,25.4,BBR
 2026-10-31,Bryce McGowens,NOP,ATL,H,N,15.4,3,0,1,0,4,N,2,4,0,10.1,BBR
@@ -626,7 +626,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Bub Carrington,WAS,IND,A,N,10.1,0,0,0,0,0,N,2,0,0,8.3,BBR
 2026-11-12,Bub Carrington,WAS,DET,H,Y,15.8,2,0,2,0,4,N,6,0,1,19.4,BBR
 2026-11-15,Bub Carrington,WAS,HOU,H,N,22.8,11,0,4,3,15,N,8,0,0,14.5,BBR
-2026-11-16,Bub Carrington,WAS,MEM,H,Y,2,0,0,0,0,0,N,0,0,0,,ESPN
+2026-11-16,Bub Carrington,WAS,MEM,H,Y,2.2,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-21,Buddy Hield,CHI,TOR,A,N,13.7,0,2,2,0,4,N,4,0,2,15.8,BBR
 2026-10-23,Buddy Hield,CHI,MIL,A,N,15.4,13,2,2,3,17,N,6,0,2,19.9,BBR
 2026-10-24,Buddy Hield,CHI,WAS,H,Y,16.2,9,2,2,1,13,N,7,0,1,20.0,BBR
@@ -637,7 +637,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-04,Buddy Hield,CHI,NYK,A,N,8.3,7,1,1,1,9,N,5,1,0,26.3,BBR
 2026-11-13,Buddy Hield,CHI,ATL,H,N,25.3,12,3,3,2,18,N,10,0,3,21.8,BBR
 2026-11-14,Buddy Hield,CHI,MIN,A,Y,20.4,16,4,2,4,22,N,10,0,2,24.2,BBR
-2026-11-16,Buddy Hield,CHI,CLE,A,N,19,6,4,2,2,12,N,8,0,0,,ESPN
+2026-11-16,Buddy Hield,CHI,CLE,A,N,19.1,6,4,2,2,12,N,8,0,0,16.8,BBR
 2026-10-21,CJ McCollum,ATL,ORL,A,N,24.6,19,2,3,4,24,Y,9,1,3,19.7,BBR
 2026-10-23,CJ McCollum,ATL,CHA,A,N,21.7,13,1,1,2,15,Y,10,3,0,21.3,BBR
 2026-10-24,CJ McCollum,ATL,HOU,H,Y,29.9,17,2,1,1,20,Y,14,3,1,21.9,BBR
@@ -704,7 +704,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Cam Spencer,MEM,DEN,H,N,20.0,15,3,3,3,21,N,7,2,2,21.7,BBR
 2026-11-13,Cam Spencer,MEM,NOP,A,N,24.2,14,2,5,3,21,N,5,5,2,15.1,BBR
 2026-11-14,Cam Spencer,MEM,BKN,H,Y,33.9,17,1,8,3,26,Y,10,2,3,17.3,BBR
-2026-11-16,Cam Spencer,MEM,WAS,A,N,32,12,6,9,1,27,Y,10,3,1,,ESPN
+2026-11-16,Cam Spencer,MEM,WAS,A,N,31.7,12,6,9,1,27,Y,10,3,1,15.4,BBR
 2026-10-24,Cam Whitmore,DEN,NOP,H,N,11.3,4,2,0,0,6,N,5,0,0,18.3,BBR
 2026-10-26,Cam Whitmore,DEN,GSW,H,N,3.5,4,0,1,0,5,N,2,1,1,43.8,BBR
 2026-10-21,Cameron Boozer,MEM,UTA,H,N,33.1,7,11,5,0,23,Y,15,4,1,21.4,BBR
@@ -720,7 +720,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Cameron Boozer,MEM,DEN,H,N,33.1,13,11,5,2,29,Y,13,2,2,21.1,BBR
 2026-11-13,Cameron Boozer,MEM,NOP,A,N,25.1,12,10,3,1,25,Y,9,4,2,20.2,BBR
 2026-11-14,Cameron Boozer,MEM,BKN,H,Y,28.8,15,8,5,0,28,Y,13,3,2,23.9,BBR
-2026-11-16,Cameron Boozer,MEM,WAS,A,N,29,29,7,7,7,43,Y,21,2,5,,ESPN
+2026-11-16,Cameron Boozer,MEM,WAS,A,N,29.4,29,7,7,7,43,Y,21,2,5,36.1,BBR
 2026-11-01,Cameron Carr,LAL,TOR,H,N,1.0,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-11-02,Cameron Carr,LAL,MIA,H,Y,1.4,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-11-04,Cameron Carr,LAL,SAC,A,N,1.2,0,0,0,0,0,N,1,0,0,38.6,BBR
@@ -734,7 +734,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Cameron Johnson,DEN,HOU,A,N,30.7,8,2,1,2,11,Y,6,3,2,13.7,BBR
 2026-11-11,Cameron Johnson,DEN,MEM,A,N,29.7,23,4,3,4,30,Y,15,1,0,22.4,BBR
 2026-11-14,Cameron Johnson,DEN,NOP,A,N,30.8,12,5,2,1,19,Y,11,6,0,19.3,BBR
-2026-11-16,Cameron Johnson,DEN,PHX,H,N,27,9,0,1,0,10,Y,11,1,2,,ESPN
+2026-11-16,Cameron Johnson,DEN,PHX,H,N,27.2,9,0,1,0,10,Y,11,1,2,21.7,BBR
 2026-10-31,Carson Cooper,MEM,SAC,H,N,3.2,1,2,1,0,4,N,0,2,1,24.6,BBR
 2026-10-20,Carter Bryant,SAS,OKC,H,N,6.5,0,0,1,0,1,N,3,0,0,18.8,BBR
 2026-10-23,Carter Bryant,SAS,HOU,H,N,6.1,0,0,0,0,0,N,0,0,0,0.0,BBR
@@ -764,7 +764,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Cedric Coward,MEM,DEN,H,N,27.0,15,11,4,1,30,Y,12,4,1,24.1,BBR
 2026-11-13,Cedric Coward,MEM,NOP,A,N,29.8,14,7,6,0,27,Y,12,4,0,18.3,BBR
 2026-11-14,Cedric Coward,MEM,BKN,H,Y,32.8,23,12,4,4,39,Y,13,6,2,22.7,BBR
-2026-11-16,Cedric Coward,MEM,WAS,A,N,27,18,8,6,2,32,Y,10,2,2,,ESPN
+2026-11-16,Cedric Coward,MEM,WAS,A,N,26.8,18,8,6,2,32,Y,10,2,2,19.0,BBR
 2026-10-21,Chaney Johnson,BKN,CHA,H,N,5.0,0,1,0,0,1,N,1,0,3,34.3,BBR
 2026-10-24,Chaney Johnson,BKN,CLE,A,N,27.2,10,5,3,2,18,N,12,0,1,17.8,BBR
 2026-10-25,Chaney Johnson,BKN,IND,H,Y,21.2,4,5,0,0,9,N,5,0,0,9.6,BBR
@@ -777,7 +777,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-08,Chaney Johnson,BKN,DAL,A,Y,14.5,2,0,1,0,3,N,2,2,2,14.8,BBR
 2026-11-11,Chaney Johnson,BKN,NOP,A,N,15.0,4,3,2,0,9,N,2,2,1,11.0,BBR
 2026-11-14,Chaney Johnson,BKN,MEM,A,N,12.3,1,5,0,0,6,N,1,2,0,6.3,BBR
-2026-11-16,Chaney Johnson,BKN,PHI,H,N,1,0,0,0,0,0,N,0,0,0,,ESPN
+2026-11-16,Chaney Johnson,BKN,PHI,H,N,0.9,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-24,Charles Bassey,GSW,PHX,A,Y,12.7,10,7,0,0,17,N,4,3,1,19.5,BBR
 2026-10-26,Charles Bassey,GSW,DEN,A,N,2.4,0,1,0,0,1,N,1,0,0,18.2,BBR
 2026-10-28,Charles Bassey,GSW,MIN,A,N,1.8,0,0,0,0,0,N,0,0,0,0.0,BBR
@@ -789,7 +789,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Charles Bassey,GSW,NOP,H,N,18.1,12,10,1,0,23,N,8,0,1,21.7,BBR
 2026-11-11,Charles Bassey,GSW,HOU,A,N,13.5,7,6,0,0,13,N,4,2,0,15.5,BBR
 2026-11-13,Charles Bassey,GSW,SAS,A,N,20.2,11,5,2,0,18,N,7,2,3,23.2,BBR
-2026-11-16,Charles Bassey,GSW,NOP,A,N,16,4,0,0,0,4,N,2,2,0,,ESPN
+2026-11-16,Charles Bassey,GSW,NOP,A,N,15.8,4,0,0,0,4,N,2,2,0,7.7,BBR
 2026-10-27,Chaz Lanier,DET,NYK,A,N,1.7,2,0,0,0,2,N,1,0,0,25.1,BBR
 2026-10-30,Chaz Lanier,DET,BKN,A,N,2.9,6,0,0,2,6,N,2,0,0,29.3,BBR
 2026-11-02,Chaz Lanier,DET,CHA,A,N,6.9,5,0,0,1,5,N,4,0,0,26.9,BBR
@@ -801,7 +801,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-10-30,Chris Cenac Jr.,BOS,CHI,H,N,2.2,3,2,0,0,5,N,1,2,2,72.2,BBR
 2026-11-02,Chris Cenac Jr.,BOS,HOU,A,Y,2.5,2,0,0,0,2,N,1,0,0,17.9,BBR
 2026-11-15,Chris Cenac Jr.,BOS,DAL,H,N,7.0,6,3,0,0,9,N,5,0,0,30.0,BBR
-2026-11-16,Chris Cenac Jr.,BOS,ORL,H,Y,12,4,2,1,0,7,N,3,0,2,,ESPN
+2026-11-16,Chris Cenac Jr.,BOS,ORL,H,Y,12.2,4,2,1,0,7,N,3,0,2,18.0,BBR
 2026-10-21,Chris Manon,LAL,GSW,H,N,5.6,2,1,0,0,3,N,3,0,0,23.3,BBR
 2026-10-30,Chris Manon,LAL,GSW,A,N,1.4,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-31,Chris Youngblood,POR,UTA,A,N,6.5,3,0,0,1,3,N,4,0,0,26.1,BBR
@@ -833,7 +833,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Christian Braun,DEN,HOU,A,N,32.4,4,5,3,0,12,Y,7,2,1,12.4,BBR
 2026-11-11,Christian Braun,DEN,MEM,A,N,37.0,12,5,4,2,21,Y,13,0,0,15.2,BBR
 2026-11-14,Christian Braun,DEN,NOP,A,N,27.8,17,7,1,1,25,Y,14,5,0,25.4,BBR
-2026-11-16,Christian Braun,DEN,PHX,H,N,33,10,3,3,2,16,Y,7,0,2,,ESPN
+2026-11-16,Christian Braun,DEN,PHX,H,N,33.3,10,3,3,2,16,Y,7,0,2,11.9,BBR
 2026-10-21,Clint Capela,HOU,DAL,H,N,7.8,0,3,0,0,3,N,0,0,1,5.3,BBR
 2026-10-24,Clint Capela,HOU,ATL,A,Y,11.0,2,3,1,0,6,N,1,0,1,7.6,BBR
 2026-10-26,Clint Capela,HOU,ATL,H,N,4.1,2,2,0,0,4,N,1,0,0,10.0,BBR
@@ -853,7 +853,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-02,Cody Williams,MIN,MIL,H,N,6.6,0,1,0,0,1,N,1,0,0,6.1,BBR
 2026-11-08,Cody Williams,MIN,UTA,H,N,1.7,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-11-12,Cody Williams,MIN,DAL,H,N,7.3,0,1,0,0,1,N,0,0,1,5.7,BBR
-2026-11-16,Cody Williams,MIN,POR,H,N,4,0,1,0,0,1,N,0,0,1,,ESPN
+2026-11-16,Cody Williams,MIN,POR,H,N,3.8,0,1,0,0,1,N,0,0,1,10.8,BBR
 2026-10-23,Colin Castleton,ORL,MIN,H,N,3.5,7,2,1,0,10,N,3,2,0,48.9,BBR
 2026-10-28,Colin Castleton,ORL,TOR,A,N,7.1,2,2,0,0,4,N,3,0,1,23.9,BBR
 2026-11-05,Colin Castleton,ORL,PHX,A,N,1.8,0,0,1,0,1,N,0,0,0,0.0,BBR
@@ -870,7 +870,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Collin Gillespie,PHX,LAC,H,Y,22.0,12,2,8,4,22,N,9,0,1,18.8,BBR
 2026-11-12,Collin Gillespie,PHX,CHA,H,N,26.7,13,2,1,3,16,N,13,0,2,25.3,BBR
 2026-11-15,Collin Gillespie,PHX,LAL,H,N,27.6,26,4,4,5,34,N,14,6,1,25.1,BBR
-2026-11-16,Collin Gillespie,PHX,DEN,A,Y,26,10,3,3,2,16,N,7,0,0,,ESPN
+2026-11-16,Collin Gillespie,PHX,DEN,A,Y,26.3,10,3,3,2,16,N,7,0,0,11.0,BBR
 2026-10-21,Collin Murray-Boyles,TOR,CHI,H,N,19.6,6,8,3,0,17,N,7,2,0,14.9,BBR
 2026-10-23,Collin Murray-Boyles,TOR,WAS,A,N,17.6,8,3,0,0,11,N,6,2,1,16.9,BBR
 2026-10-25,Collin Murray-Boyles,TOR,MIN,A,N,19.2,3,7,2,0,12,N,3,2,2,12.6,BBR
@@ -927,7 +927,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Craig Porter Jr.,CLE,CHA,A,N,17.3,9,2,4,0,15,N,6,1,1,19.9,BBR
 2026-11-13,Craig Porter Jr.,CLE,MIA,A,N,9.5,0,2,2,0,4,N,0,0,0,0.0,BBR
 2026-11-14,Craig Porter Jr.,CLE,DAL,H,Y,28.4,9,9,6,0,24,N,6,3,5,18.1,BBR
-2026-11-16,Craig Porter Jr.,CLE,CHI,H,N,14,2,1,3,0,6,N,2,0,1,,ESPN
+2026-11-16,Craig Porter Jr.,CLE,CHI,H,N,13.6,2,1,3,0,6,N,2,0,1,8.3,BBR
 2026-10-22,DaRon Holmes,DEN,OKC,A,N,1.7,3,0,1,1,4,N,2,0,0,49.2,BBR
 2026-10-26,DaRon Holmes,DEN,GSW,H,N,3.5,0,0,1,0,1,N,1,0,0,12.7,BBR
 2026-11-04,DaRon Holmes,DEN,TOR,H,N,3.8,0,1,0,0,1,N,0,0,1,12.2,BBR
@@ -944,7 +944,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-15,Daeqwon Plowden,SAC,OKC,H,N,24.0,13,2,1,3,16,N,6,2,2,15.8,BBR
 2026-10-26,Dailyn Swain,CHI,BOS,A,N,12.0,2,2,2,0,6,N,3,0,4,22.8,BBR
 2026-11-04,Dailyn Swain,CHI,NYK,A,N,6.8,3,1,1,0,5,N,2,1,0,14.4,BBR
-2026-11-16,Dailyn Swain,CHI,CLE,A,N,2,0,1,0,0,1,N,0,0,0,,ESPN
+2026-11-16,Dailyn Swain,CHI,CLE,A,N,1.8,0,1,0,0,1,N,0,0,0,0.0,BBR
 2026-11-06,Dalen Terry,OKC,MEM,A,N,5.1,0,4,1,0,5,N,2,0,0,16.7,BBR
 2026-11-07,Dalen Terry,OKC,WAS,H,Y,5.8,2,2,0,0,4,N,1,0,2,22.0,BBR
 2026-11-04,Dalton Knecht,NYK,CHI,H,N,16.5,10,7,1,2,18,N,6,0,0,14.9,BBR
@@ -962,7 +962,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Damian Lillard,POR,OKC,H,N,23.5,25,3,3,4,31,Y,15,5,0,31.5,BBR
 2026-11-11,Damian Lillard,POR,OKC,H,Y,31.7,18,3,3,2,24,Y,14,6,2,25.5,BBR
 2026-11-13,Damian Lillard,POR,SAC,A,N,33.0,29,2,6,6,37,Y,18,11,4,36.3,BBR
-2026-11-16,Damian Lillard,POR,MIN,A,N,24,9,2,4,2,15,Y,15,3,0,,ESPN
+2026-11-16,Damian Lillard,POR,MIN,A,N,23.6,9,2,4,2,15,Y,15,3,0,28.7,BBR
 2026-10-21,Daniel Gafford,DAL,HOU,A,N,21.5,2,3,1,0,6,Y,1,4,1,7.5,BBR
 2026-10-23,Daniel Gafford,DAL,IND,A,N,14.6,4,3,5,0,12,Y,4,0,0,11.6,BBR
 2026-10-24,Daniel Gafford,DAL,SAS,H,Y,23.3,12,9,2,0,23,Y,9,0,3,22.2,BBR
@@ -996,7 +996,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-08,Danny Wolf,BKN,DAL,A,Y,36.1,10,3,2,1,15,Y,7,6,1,12.9,BBR
 2026-11-11,Danny Wolf,BKN,NOP,A,N,29.4,10,11,4,1,25,Y,8,4,2,17.1,BBR
 2026-11-14,Danny Wolf,BKN,MEM,A,N,27.7,14,6,1,4,21,Y,13,0,1,20.8,BBR
-2026-11-16,Danny Wolf,BKN,PHI,H,N,11,3,2,1,1,6,N,4,2,0,,ESPN
+2026-11-16,Danny Wolf,BKN,PHI,H,N,11.0,3,2,1,1,6,N,4,2,0,18.6,BBR
 2026-10-21,Darius Acuff Jr.,SAC,LAC,A,N,34.9,12,3,3,0,18,Y,24,5,4,36.3,BBR
 2026-10-23,Darius Acuff Jr.,SAC,POR,H,N,36.6,33,2,4,2,39,Y,26,12,3,38.0,BBR
 2026-10-25,Darius Acuff Jr.,SAC,MEM,H,N,36.2,22,3,7,2,32,Y,23,2,1,28.0,BBR
@@ -1053,7 +1053,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Davion Mitchell,MIA,UTA,A,N,37.7,19,5,8,3,32,Y,13,8,2,20.2,BBR
 2026-11-13,Davion Mitchell,MIA,CLE,H,N,38.9,22,5,17,3,44,Y,14,6,1,19.2,BBR
 2026-11-14,Davion Mitchell,MIA,DET,H,Y,32.3,15,4,9,3,28,Y,7,4,4,16.0,BBR
-2026-11-16,Davion Mitchell,MIA,HOU,H,N,33,16,3,10,1,29,Y,15,1,0,,ESPN
+2026-11-16,Davion Mitchell,MIA,HOU,H,N,33.3,16,3,10,1,29,Y,15,1,0,19.9,BBR
 2026-10-21,Day'Ron Sharpe,BKN,CHA,H,N,29.7,8,8,3,0,19,Y,5,1,2,10.7,BBR
 2026-10-24,Day'Ron Sharpe,BKN,CLE,A,N,22.7,7,8,1,1,16,Y,10,0,3,21.4,BBR
 2026-10-25,Day'Ron Sharpe,BKN,IND,H,Y,16.2,11,4,1,1,16,Y,4,7,2,22.9,BBR
@@ -1066,7 +1066,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-08,Day'Ron Sharpe,BKN,DAL,A,Y,20.1,6,4,6,0,16,Y,5,2,1,15.0,BBR
 2026-11-11,Day'Ron Sharpe,BKN,NOP,A,N,19.1,15,4,5,2,24,Y,6,4,2,21.8,BBR
 2026-11-14,Day'Ron Sharpe,BKN,MEM,A,N,27.8,16,11,5,0,32,Y,14,2,2,25.0,BBR
-2026-11-16,Day'Ron Sharpe,BKN,PHI,H,N,25,6,9,5,0,20,Y,6,3,0,,ESPN
+2026-11-16,Day'Ron Sharpe,BKN,PHI,H,N,25.4,6,9,5,0,20,Y,6,3,0,12.1,BBR
 2026-10-20,De'Aaron Fox,SAS,OKC,H,N,31.9,14,7,7,0,28,Y,9,3,2,15.7,BBR
 2026-10-23,De'Aaron Fox,SAS,HOU,H,N,32.4,19,4,9,2,32,Y,11,5,5,23.9,BBR
 2026-10-24,De'Aaron Fox,SAS,DAL,A,Y,27.7,19,3,9,2,31,Y,11,7,2,23.2,BBR
@@ -1104,7 +1104,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,De'Anthony Melton,GSW,NOP,H,N,26.2,16,4,3,4,23,N,11,2,1,21.4,BBR
 2026-11-11,De'Anthony Melton,GSW,HOU,A,N,24.9,11,4,4,3,19,N,7,2,2,16.9,BBR
 2026-11-13,De'Anthony Melton,GSW,SAS,A,N,18.4,8,4,3,2,15,Y,11,0,0,25.7,BBR
-2026-11-16,De'Anthony Melton,GSW,NOP,A,N,21,8,2,1,2,11,N,7,0,3,,ESPN
+2026-11-16,De'Anthony Melton,GSW,NOP,A,N,20.6,8,2,1,2,11,N,7,0,3,20.6,BBR
 2026-10-24,DeAndre Jordan,NOP,DEN,A,Y,20.3,9,9,2,0,20,Y,3,4,0,9.6,BBR
 2026-10-28,DeAndre Jordan,NOP,DEN,H,N,13.1,3,4,0,0,7,Y,1,2,1,9.5,BBR
 2026-11-11,DeAndre Jordan,NOP,BKN,H,N,11.0,0,3,0,0,3,N,0,0,0,0.0,BBR
@@ -1119,7 +1119,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,DeMar DeRozan,DEN,HOU,A,N,19.2,7,4,2,0,13,N,8,3,0,22.0,BBR
 2026-11-11,DeMar DeRozan,DEN,MEM,A,N,20.3,8,1,4,0,13,N,9,2,0,21.1,BBR
 2026-11-14,DeMar DeRozan,DEN,NOP,A,N,23.8,9,3,2,0,14,N,6,4,2,17.8,BBR
-2026-11-16,DeMar DeRozan,DEN,PHX,H,N,14,2,1,1,0,4,N,6,0,1,,ESPN
+2026-11-16,DeMar DeRozan,DEN,PHX,H,N,14.1,2,1,1,0,4,N,6,0,1,21.7,BBR
 2026-10-24,Dean Wade,PHI,MIL,H,N,28.1,7,2,0,2,9,Y,3,3,0,6.0,BBR
 2026-10-25,Dean Wade,PHI,DET,H,Y,37.1,7,5,1,1,13,Y,4,2,0,5.7,BBR
 2026-10-28,Dean Wade,PHI,IND,A,N,16.6,0,1,1,0,2,N,1,0,0,2.5,BBR
@@ -1132,7 +1132,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Dean Wade,PHI,BOS,H,N,22.5,8,9,0,2,17,N,5,0,0,10.1,BBR
 2026-11-12,Dean Wade,PHI,TOR,H,N,33.9,6,5,2,2,13,Y,6,0,0,7.9,BBR
 2026-11-15,Dean Wade,PHI,IND,H,N,35.0,12,7,3,3,22,N,5,1,0,6.8,BBR
-2026-11-16,Dean Wade,PHI,BKN,A,Y,32,8,11,1,1,20,Y,7,1,0,,ESPN
+2026-11-16,Dean Wade,PHI,BKN,A,Y,32.0,8,11,1,1,20,Y,7,1,0,9.6,BBR
 2026-10-21,Deandre Ayton,WAS,MIL,H,N,15.1,11,4,0,0,15,N,6,2,0,18.7,BBR
 2026-10-23,Deandre Ayton,WAS,TOR,H,N,14.4,4,6,1,0,11,N,2,0,1,8.5,BBR
 2026-10-24,Deandre Ayton,WAS,CHI,A,Y,16.3,6,5,0,0,11,N,5,0,0,12.2,BBR
@@ -1147,7 +1147,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Deandre Ayton,WAS,IND,A,N,9.1,2,2,0,0,4,N,2,0,1,13.8,BBR
 2026-11-12,Deandre Ayton,WAS,DET,H,Y,8.8,2,4,0,0,6,N,1,0,0,5.0,BBR
 2026-11-15,Deandre Ayton,WAS,HOU,H,N,9.9,2,1,0,0,3,N,1,0,1,8.3,BBR
-2026-11-16,Deandre Ayton,WAS,MEM,H,Y,8,4,0,1,0,5,N,3,0,0,,ESPN
+2026-11-16,Deandre Ayton,WAS,MEM,H,Y,8.4,4,0,1,0,5,N,3,0,0,15.3,BBR
 2026-10-21,Dejounte Murray,NOP,IND,H,N,34.4,23,3,7,2,33,Y,18,3,4,27.1,BBR
 2026-10-23,Dejounte Murray,NOP,UTA,A,N,30.2,16,6,6,0,28,Y,15,2,3,26.3,BBR
 2026-10-24,Dejounte Murray,NOP,DEN,A,Y,34.5,22,6,6,1,34,Y,18,4,2,25.6,BBR
@@ -1169,7 +1169,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Deni Avdija,POR,OKC,H,N,33.8,24,6,8,2,38,Y,15,8,3,27.5,BBR
 2026-11-11,Deni Avdija,POR,OKC,H,Y,34.6,28,3,6,4,37,Y,20,6,5,34.7,BBR
 2026-11-13,Deni Avdija,POR,SAC,A,N,34.6,34,6,4,3,44,Y,13,9,3,25.7,BBR
-2026-11-16,Deni Avdija,POR,MIN,A,N,30,27,8,4,3,39,Y,19,4,5,,ESPN
+2026-11-16,Deni Avdija,POR,MIN,A,N,29.8,27,8,4,3,39,Y,19,4,5,35.9,BBR
 2026-10-21,Dennis Schroder,CHA,BKN,A,N,34.7,19,4,6,0,29,Y,13,5,3,20.9,BBR
 2026-10-23,Dennis Schroder,CHA,ATL,H,N,20.1,4,4,3,0,11,Y,5,2,4,19.7,BBR
 2026-10-24,Dennis Schroder,CHA,MIA,H,Y,37.9,25,6,5,3,36,Y,18,6,4,27.1,BBR
@@ -1193,7 +1193,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Derik Queen,NOP,BKN,H,N,13.8,9,0,0,1,9,N,3,4,1,18.3,BBR
 2026-11-13,Derik Queen,NOP,MEM,H,N,22.6,10,6,2,0,18,N,8,3,5,25.7,BBR
 2026-11-14,Derik Queen,NOP,DEN,H,Y,25.0,10,5,4,2,19,N,10,2,2,21.6,BBR
-2026-11-16,Derik Queen,NOP,GSW,H,N,21,17,10,0,4,27,N,9,2,0,,ESPN
+2026-11-16,Derik Queen,NOP,GSW,H,N,20.6,17,10,0,4,27,N,9,2,0,19.4,BBR
 2026-10-21,Derrick Jones Jr.,LAC,SAC,H,N,25.6,8,6,5,1,19,Y,4,2,1,9.7,BBR
 2026-10-23,Derrick Jones Jr.,LAC,LAL,A,N,34.6,16,4,1,3,21,Y,13,2,0,16.0,BBR
 2026-10-25,Derrick Jones Jr.,LAC,OKC,A,N,30.4,11,6,1,3,18,Y,6,0,1,9.7,BBR
@@ -1218,7 +1218,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Derrick White,BOS,PHI,A,N,22.1,5,1,3,1,9,Y,6,0,1,14.3,BBR
 2026-11-11,Derrick White,BOS,TOR,A,Y,38.4,19,1,7,3,27,Y,15,2,2,21.6,BBR
 2026-11-15,Derrick White,BOS,DAL,H,N,22.9,16,4,2,4,22,Y,11,0,0,20.0,BBR
-2026-11-16,Derrick White,BOS,ORL,H,Y,32,9,3,2,1,14,Y,12,1,0,,ESPN
+2026-11-16,Derrick White,BOS,ORL,H,Y,31.9,9,3,2,1,14,Y,12,1,0,17.1,BBR
 2026-10-21,Desmond Bane,ORL,ATL,H,N,33.1,18,5,2,3,25,Y,15,7,2,23.8,BBR
 2026-10-23,Desmond Bane,ORL,MIN,H,N,26.9,5,2,0,1,7,Y,11,0,3,23.1,BBR
 2026-10-25,Desmond Bane,ORL,NYK,A,N,35.1,22,6,2,4,30,Y,13,8,3,23.6,BBR
@@ -1230,7 +1230,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Desmond Bane,ORL,SAC,A,N,35.6,15,6,4,4,25,Y,19,2,2,26.3,BBR
 2026-11-11,Desmond Bane,ORL,UTA,A,Y,34.3,25,3,2,7,30,Y,16,0,1,21.2,BBR
 2026-11-13,Desmond Bane,ORL,MIL,H,N,34.7,21,5,3,6,29,Y,13,1,0,17.4,BBR
-2026-11-16,Desmond Bane,ORL,BOS,A,N,39,24,8,5,3,37,Y,13,5,1,,ESPN
+2026-11-16,Desmond Bane,ORL,BOS,A,N,39.2,24,8,5,3,37,Y,13,5,1,18.5,BBR
 2026-10-21,Devin Booker,PHX,POR,A,N,29.4,23,4,2,0,29,Y,13,9,2,28.1,BBR
 2026-10-24,Devin Booker,PHX,GSW,H,N,36.5,43,7,7,2,57,Y,25,8,4,38.0,BBR
 2026-10-26,Devin Booker,PHX,OKC,A,N,33.8,3,2,7,0,12,Y,7,1,0,9.2,BBR
@@ -1243,7 +1243,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Devin Booker,PHX,LAC,H,Y,29.1,17,3,5,2,25,Y,14,4,4,28.2,BBR
 2026-11-12,Devin Booker,PHX,CHA,H,N,34.9,30,1,7,4,38,Y,20,2,2,29.5,BBR
 2026-11-15,Devin Booker,PHX,LAL,H,N,27.8,17,4,7,0,28,Y,14,9,1,26.8,BBR
-2026-11-16,Devin Booker,PHX,DEN,A,Y,37,20,4,8,1,32,Y,14,10,2,,ESPN
+2026-11-16,Devin Booker,PHX,DEN,A,Y,37.3,20,4,8,1,32,Y,14,10,2,22.7,BBR
 2026-11-15,Devin Carter,BOS,DAL,H,N,12.0,0,2,1,0,3,N,2,0,2,13.9,BBR
 2026-10-20,Devin Vassell,SAS,OKC,H,N,30.9,7,3,1,1,11,Y,8,2,0,11.7,BBR
 2026-10-23,Devin Vassell,SAS,HOU,H,N,33.5,10,4,2,2,16,Y,8,2,5,17.6,BBR
@@ -1269,7 +1269,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Dillon Brooks,PHX,LAC,H,Y,22.4,8,4,2,0,14,Y,12,0,0,22.2,BBR
 2026-11-12,Dillon Brooks,PHX,CHA,H,N,29.9,15,3,1,3,19,Y,13,0,0,19.6,BBR
 2026-11-15,Dillon Brooks,PHX,LAL,H,N,22.3,1,2,0,0,3,Y,2,2,4,12.1,BBR
-2026-11-16,Dillon Brooks,PHX,DEN,A,Y,27,15,4,4,3,23,Y,17,1,3,,ESPN
+2026-11-16,Dillon Brooks,PHX,DEN,A,Y,27.2,15,4,4,3,23,Y,17,1,3,31.1,BBR
 2026-11-02,Dillon Mitchell,BOS,HOU,A,Y,2.5,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-21,Domantas Sabonis,SAC,LAC,A,N,33.6,14,18,8,0,40,Y,5,4,3,12.2,BBR
 2026-10-23,Domantas Sabonis,SAC,POR,H,N,38.6,27,19,10,1,56,Y,13,7,5,22.2,BBR
@@ -1295,7 +1295,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Donovan Clingan,POR,OKC,H,N,25.5,7,13,3,1,23,Y,6,0,1,11.8,BBR
 2026-11-11,Donovan Clingan,POR,OKC,H,Y,30.2,5,12,2,1,19,Y,4,0,2,8.6,BBR
 2026-11-13,Donovan Clingan,POR,SAC,A,N,26.6,13,11,2,1,26,Y,13,0,0,21.8,BBR
-2026-11-16,Donovan Clingan,POR,MIN,A,N,22,10,10,1,0,21,Y,5,0,1,,ESPN
+2026-11-16,Donovan Clingan,POR,MIN,A,N,22.4,10,10,1,0,21,Y,5,0,1,11.1,BBR
 2026-10-22,Donovan Mitchell,CLE,PHI,A,N,35.2,32,10,3,2,45,Y,19,11,5,32.7,BBR
 2026-10-24,Donovan Mitchell,CLE,BKN,H,N,35.5,22,5,4,2,31,Y,15,6,4,24.7,BBR
 2026-10-26,Donovan Mitchell,CLE,MIN,H,N,38.2,26,5,7,5,38,Y,21,1,3,27.3,BBR
@@ -1309,7 +1309,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Donovan Mitchell,CLE,CHA,A,N,22.9,11,2,4,1,17,Y,11,2,0,24.0,BBR
 2026-11-11,Donovan Mitchell,CLE,NYK,A,N,35.9,23,7,6,2,36,Y,15,5,4,26.8,BBR
 2026-11-13,Donovan Mitchell,CLE,MIA,A,N,32.9,25,4,7,5,36,Y,21,4,3,35.2,BBR
-2026-11-16,Donovan Mitchell,CLE,CHI,H,N,36,39,4,4,2,47,Y,25,5,3,,ESPN
+2026-11-16,Donovan Mitchell,CLE,CHI,H,N,35.9,39,4,4,2,47,Y,25,5,3,31.8,BBR
 2026-10-23,Dorian Finney-Smith,ATL,CHA,A,N,8.1,3,2,1,1,6,N,2,0,1,15.0,BBR
 2026-10-26,Dorian Finney-Smith,ATL,HOU,A,N,1.4,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-31,Dorian Finney-Smith,ATL,NOP,A,N,3.1,0,0,0,0,0,N,1,0,0,13.0,BBR
@@ -1329,7 +1329,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Draymond Green,GSW,NOP,H,N,20.8,2,3,6,0,11,Y,1,0,2,6.3,BBR
 2026-11-11,Draymond Green,GSW,HOU,A,N,26.8,7,5,7,1,19,Y,5,0,1,9.5,BBR
 2026-11-13,Draymond Green,GSW,SAS,A,N,15.7,4,3,3,0,10,Y,5,0,2,19.1,BBR
-2026-11-16,Draymond Green,GSW,NOP,A,N,25,2,8,5,0,15,Y,3,0,0,,ESPN
+2026-11-16,Draymond Green,GSW,NOP,A,N,24.8,2,8,5,0,15,Y,3,0,0,5.1,BBR
 2026-10-23,Dru Smith,MIA,DET,H,N,5.5,3,0,1,1,4,N,2,0,1,20.5,BBR
 2026-10-26,Dru Smith,MIA,DAL,H,N,14.6,6,2,1,2,9,N,2,0,0,5.6,BBR
 2026-10-28,Dru Smith,MIA,ATL,A,N,14.0,3,1,3,0,7,N,2,2,2,13.7,BBR
@@ -1400,7 +1400,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-10-27,Egor Demin,BKN,BOS,A,N,10.1,2,1,2,0,5,Y,3,0,1,17.1,BBR
 2026-11-11,Egor Demin,BKN,NOP,A,N,23.3,22,1,1,4,24,Y,8,10,1,24.6,BBR
 2026-11-14,Egor Demin,BKN,MEM,A,N,27.4,11,1,2,3,14,Y,8,3,3,18.5,BBR
-2026-11-16,Egor Demin,BKN,PHI,H,N,26,9,3,4,2,16,Y,10,3,5,,ESPN
+2026-11-16,Egor Demin,BKN,PHI,H,N,26.1,9,3,4,2,16,Y,10,3,5,26.3,BBR
 2026-10-27,Elijah Harkless,DET,NYK,A,N,2.6,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-11-14,Elijah Harkless,DET,MIA,A,N,1.7,2,0,0,0,2,N,1,2,1,65.7,BBR
 2026-10-21,Emanuel Sharp,SAC,LAC,A,N,17.3,8,1,0,2,9,N,6,0,1,17.0,BBR
@@ -1443,7 +1443,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Franz Wagner,ORL,SAC,A,N,37.7,33,7,7,1,47,Y,23,10,3,34.6,BBR
 2026-11-11,Franz Wagner,ORL,UTA,A,Y,39.4,38,8,1,3,47,Y,23,10,4,34.1,BBR
 2026-11-13,Franz Wagner,ORL,MIL,H,N,36.1,35,9,12,3,56,Y,22,6,3,34.3,BBR
-2026-11-16,Franz Wagner,ORL,BOS,A,N,38,21,8,9,0,38,Y,21,5,4,,ESPN
+2026-11-16,Franz Wagner,ORL,BOS,A,N,37.6,21,8,9,0,38,Y,21,5,4,32.5,BBR
 2026-10-21,Fred VanVleet,HOU,DAL,H,N,29.6,6,2,11,2,19,Y,8,0,0,11.3,BBR
 2026-10-23,Fred VanVleet,HOU,SAS,A,N,31.5,14,3,5,3,22,Y,10,4,0,16.8,BBR
 2026-10-26,Fred VanVleet,HOU,ATL,H,N,28.8,5,3,5,0,13,Y,7,1,2,13.4,BBR
@@ -1455,7 +1455,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Fred VanVleet,HOU,DEN,H,N,30.0,12,1,2,3,15,Y,9,2,1,15.9,BBR
 2026-11-11,Fred VanVleet,HOU,GSW,H,N,29.6,18,2,6,4,26,Y,9,2,0,14.9,BBR
 2026-11-13,Fred VanVleet,HOU,UTA,H,N,33.8,17,2,3,3,22,Y,11,3,0,15.4,BBR
-2026-11-16,Fred VanVleet,HOU,MIA,A,Y,26,8,5,6,2,19,Y,10,0,1,,ESPN
+2026-11-16,Fred VanVleet,HOU,MIA,A,Y,25.9,8,5,6,2,19,Y,10,0,1,17.1,BBR
 2026-10-21,GG Jackson II,MEM,UTA,H,N,18.7,12,8,0,2,20,N,8,2,4,27.5,BBR
 2026-10-23,GG Jackson II,MEM,GSW,A,N,15.3,2,4,1,0,7,Y,6,1,1,19.0,BBR
 2026-10-25,GG Jackson II,MEM,SAC,A,N,10.2,1,3,0,0,4,N,1,2,2,15.1,BBR
@@ -1479,7 +1479,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-05,Gary Payton II,GSW,MIA,H,N,10.3,9,0,0,1,9,N,3,2,1,20.7,BBR
 2026-11-07,Gary Payton II,GSW,ORL,H,N,12.6,4,0,0,0,4,N,5,0,1,22.5,BBR
 2026-11-13,Gary Payton II,GSW,SAS,A,N,12.5,2,2,0,0,4,N,3,0,1,13.7,BBR
-2026-11-16,Gary Payton II,GSW,NOP,A,N,8,2,0,0,0,2,N,1,0,0,,ESPN
+2026-11-16,Gary Payton II,GSW,NOP,A,N,7.7,2,0,0,0,2,N,1,0,0,5.5,BBR
 2026-10-28,Gary Trent Jr.,MIL,HOU,H,N,6.9,3,0,0,1,3,N,3,0,0,17.7,BBR
 2026-10-31,Gary Trent Jr.,MIL,CLE,H,N,5.8,3,1,1,1,5,N,2,0,0,13.8,BBR
 2026-11-10,Gary Trent Jr.,MIL,NYK,A,N,6.5,5,0,0,1,5,N,4,0,1,38.1,BBR
@@ -1499,7 +1499,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Georges Niang,GSW,NOP,H,N,18.6,9,2,2,1,13,N,7,0,1,18.7,BBR
 2026-11-11,Georges Niang,GSW,HOU,A,N,19.3,5,5,0,1,10,N,7,3,0,18.4,BBR
 2026-11-13,Georges Niang,GSW,SAS,A,N,15.2,5,3,2,1,10,N,4,0,0,11.3,BBR
-2026-11-16,Georges Niang,GSW,NOP,A,N,14,0,4,2,0,6,N,5,0,1,,ESPN
+2026-11-16,Georges Niang,GSW,NOP,A,N,14.4,0,4,2,0,6,N,5,0,1,17.7,BBR
 2026-10-21,Giannis Antetokounmpo,MIA,MIN,H,N,29.8,35,6,1,0,42,Y,19,14,3,40.7,BBR
 2026-10-23,Giannis Antetokounmpo,MIA,DET,H,N,33.0,36,12,5,1,53,Y,26,8,3,37.4,BBR
 2026-10-24,Giannis Antetokounmpo,MIA,CHA,A,Y,24.7,14,6,3,0,23,Y,11,8,3,30.9,BBR
@@ -1513,7 +1513,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Giannis Antetokounmpo,MIA,UTA,A,N,30.6,30,11,4,1,45,Y,21,9,1,35.0,BBR
 2026-11-13,Giannis Antetokounmpo,MIA,CLE,H,N,31.0,37,9,2,1,48,Y,20,11,4,39.4,BBR
 2026-11-14,Giannis Antetokounmpo,MIA,DET,H,Y,30.9,34,14,8,1,56,Y,17,9,3,31.4,BBR
-2026-11-16,Giannis Antetokounmpo,MIA,HOU,H,N,29,20,13,6,0,39,Y,11,6,1,,ESPN
+2026-11-16,Giannis Antetokounmpo,MIA,HOU,H,N,28.5,20,13,6,0,39,Y,11,6,1,22.0,BBR
 2026-10-21,Goga Bitadze,ORL,ATL,H,N,11.7,6,6,1,0,13,N,3,5,1,20.8,BBR
 2026-10-23,Goga Bitadze,ORL,MIN,H,N,12.3,4,3,0,0,7,N,2,2,0,10.4,BBR
 2026-10-28,Goga Bitadze,ORL,TOR,A,N,11.2,6,0,1,0,7,N,1,4,1,14.3,BBR
@@ -1524,7 +1524,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Goga Bitadze,ORL,SAC,A,N,15.1,2,2,1,0,5,N,1,0,0,2.8,BBR
 2026-11-11,Goga Bitadze,ORL,UTA,A,Y,20.0,4,7,0,0,11,N,2,4,0,8.0,BBR
 2026-11-13,Goga Bitadze,ORL,MIL,H,N,17.9,12,4,1,0,17,N,5,2,1,17.2,BBR
-2026-11-16,Goga Bitadze,ORL,BOS,A,N,20,10,6,1,0,17,N,6,0,1,,ESPN
+2026-11-16,Goga Bitadze,ORL,BOS,A,N,19.9,10,6,1,0,17,N,6,0,1,15.8,BBR
 2026-10-21,Gradey Dick,LAC,SAC,H,N,18.9,12,4,0,1,16,N,4,6,2,19.3,BBR
 2026-10-23,Gradey Dick,LAC,LAL,A,N,11.6,6,4,0,0,10,N,5,0,1,20.7,BBR
 2026-10-25,Gradey Dick,LAC,OKC,A,N,17.6,6,3,0,2,9,N,5,0,1,14.4,BBR
@@ -1547,7 +1547,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Graham Ike,GSW,NOP,H,N,12.0,4,5,2,0,11,N,4,0,1,18.1,BBR
 2026-11-11,Graham Ike,GSW,HOU,A,N,3.5,4,0,1,0,5,N,2,2,0,35.0,BBR
 2026-11-13,Graham Ike,GSW,SAS,A,N,13.0,5,2,3,1,10,N,7,0,1,26.4,BBR
-2026-11-16,Graham Ike,GSW,NOP,A,N,8,3,5,1,0,9,N,1,2,0,,ESPN
+2026-11-16,Graham Ike,GSW,NOP,A,N,7.7,3,5,1,0,9,N,1,2,0,10.4,BBR
 2026-11-12,Grant Williams,CHA,PHX,A,N,16.0,11,2,1,2,14,N,5,3,0,16.4,BBR
 2026-11-15,Grant Williams,CHA,LAC,A,N,20.2,11,2,1,3,14,N,9,0,1,20.4,BBR
 2026-10-21,Grayson Allen,CHA,BKN,A,N,28.8,21,3,4,5,28,N,9,4,4,20.4,BBR
@@ -1573,7 +1573,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Gui Santos,GSW,NOP,H,N,20.9,3,7,4,0,14,Y,3,4,0,9.9,BBR
 2026-11-11,Gui Santos,GSW,HOU,A,N,12.1,0,3,1,0,4,N,3,0,4,24.7,BBR
 2026-11-13,Gui Santos,GSW,SAS,A,N,21.2,7,4,1,1,12,N,8,1,1,19.1,BBR
-2026-11-16,Gui Santos,GSW,NOP,A,N,19,12,7,2,1,21,N,6,8,1,,ESPN
+2026-11-16,Gui Santos,GSW,NOP,A,N,18.9,12,7,2,1,21,N,6,8,1,23.6,BBR
 2026-10-23,Hannes Steinbach,CHA,ATL,H,N,12.0,6,5,0,0,11,N,5,1,0,18.2,BBR
 2026-10-30,Hannes Steinbach,CHA,WAS,A,N,1.8,0,0,0,0,0,N,1,0,0,22.8,BBR
 2026-11-02,Hannes Steinbach,CHA,DET,H,N,8.8,2,2,1,0,5,N,2,0,2,18.2,BBR
@@ -1605,7 +1605,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Herbert Jones,NOP,BKN,H,N,25.0,2,2,3,0,7,Y,6,0,2,14.0,BBR
 2026-11-13,Herbert Jones,NOP,MEM,H,N,32.3,8,2,3,0,13,Y,11,1,0,14.4,BBR
 2026-11-14,Herbert Jones,NOP,DEN,H,Y,27.5,10,2,1,2,13,Y,8,3,2,17.3,BBR
-2026-11-16,Herbert Jones,NOP,GSW,H,N,24,8,2,3,2,13,Y,11,0,0,,ESPN
+2026-11-16,Herbert Jones,NOP,GSW,H,N,23.8,8,2,3,2,13,Y,11,0,0,18.7,BBR
 2026-10-20,Hugo Gonzalez,BOS,DET,A,N,9.7,0,3,0,0,3,N,1,0,0,4.4,BBR
 2026-10-23,Hugo Gonzalez,BOS,NYK,H,N,3.6,0,0,1,0,1,N,1,0,0,12.8,BBR
 2026-10-26,Hugo Gonzalez,BOS,CHI,H,N,23.6,13,5,2,1,20,N,6,6,0,13.4,BBR
@@ -1619,7 +1619,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Hugo Gonzalez,BOS,PHI,A,N,19.1,10,3,2,2,15,N,6,0,1,16.6,BBR
 2026-11-11,Hugo Gonzalez,BOS,TOR,A,Y,8.4,0,1,0,0,1,N,1,0,1,11.0,BBR
 2026-11-15,Hugo Gonzalez,BOS,DAL,H,N,17.9,9,5,2,2,16,N,6,2,4,25.4,BBR
-2026-11-16,Hugo Gonzalez,BOS,ORL,H,Y,4,0,2,0,0,2,N,1,0,1,,ESPN
+2026-11-16,Hugo Gonzalez,BOS,ORL,H,Y,4.1,0,2,0,0,2,N,1,0,1,21.6,BBR
 2026-10-21,Immanuel Quickley,TOR,CHI,H,N,28.2,23,4,7,4,34,Y,13,8,0,21.7,BBR
 2026-10-23,Immanuel Quickley,TOR,WAS,A,N,29.1,12,1,6,0,19,Y,15,3,1,22.5,BBR
 2026-10-25,Immanuel Quickley,TOR,MIN,A,N,28.2,19,3,2,3,24,Y,15,3,2,26.6,BBR
@@ -1648,7 +1648,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Isaac Okoro,CHI,SAS,H,N,23.4,0,2,4,0,6,Y,2,0,1,6.0,BBR
 2026-11-13,Isaac Okoro,CHI,ATL,H,N,40.9,15,3,2,2,20,Y,10,4,2,14.2,BBR
 2026-11-14,Isaac Okoro,CHI,MIN,A,Y,31.0,9,7,4,0,20,Y,9,5,0,14.8,BBR
-2026-11-16,Isaac Okoro,CHI,CLE,A,N,32,13,6,2,3,21,Y,12,0,0,,ESPN
+2026-11-16,Isaac Okoro,CHI,CLE,A,N,32.2,13,6,2,3,21,Y,12,0,0,15.0,BBR
 2026-10-21,Isaiah Collier,UTA,MEM,A,N,15.7,7,3,3,0,13,N,7,5,3,34.7,BBR
 2026-10-23,Isaiah Collier,UTA,NOP,H,N,18.0,10,2,7,0,19,N,5,6,2,22.0,BBR
 2026-10-25,Isaiah Collier,UTA,LAL,H,N,12.8,6,3,6,0,15,N,6,3,1,25.3,BBR
@@ -1671,14 +1671,14 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Isaiah Crawford,HOU,DEN,H,N,0.5,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-11-11,Isaiah Crawford,HOU,GSW,H,N,1.1,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-11-15,Isaiah Crawford,HOU,WAS,A,N,9.3,4,2,0,0,6,N,3,0,0,13.0,BBR
-2026-11-16,Isaiah Crawford,HOU,MIA,A,Y,21,11,10,3,1,24,N,5,4,1,,ESPN
+2026-11-16,Isaiah Crawford,HOU,MIA,A,Y,21.2,11,10,3,1,24,N,5,4,1,14.7,BBR
 2026-10-21,Isaiah Evans,MIN,MIA,A,N,2.3,0,1,0,0,1,N,0,0,0,0.0,BBR
 2026-10-23,Isaiah Evans,MIN,ORL,A,N,2.0,0,0,1,0,1,N,0,0,0,0.0,BBR
 2026-10-25,Isaiah Evans,MIN,TOR,H,N,4.0,0,0,1,0,1,N,2,0,1,32.5,BBR
 2026-10-30,Isaiah Evans,MIN,LAC,H,N,1.5,0,0,0,0,0,N,1,0,0,28.3,BBR
 2026-11-08,Isaiah Evans,MIN,UTA,H,N,1.7,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-11-12,Isaiah Evans,MIN,DAL,H,N,7.5,2,1,0,0,3,N,3,0,0,16.6,BBR
-2026-11-16,Isaiah Evans,MIN,POR,H,N,4,0,0,0,0,0,N,3,0,0,,ESPN
+2026-11-16,Isaiah Evans,MIN,POR,H,N,3.8,0,0,0,0,0,N,3,0,0,32.3,BBR
 2026-10-20,Isaiah Hartenstein,OKC,SAS,A,N,17.4,4,3,3,0,10,Y,4,0,2,14.0,BBR
 2026-10-22,Isaiah Hartenstein,OKC,DEN,H,N,22.8,6,6,2,0,14,Y,10,0,2,22.4,BBR
 2026-10-25,Isaiah Hartenstein,OKC,LAC,H,N,27.1,12,12,1,0,25,Y,9,2,2,17.7,BBR
@@ -1759,7 +1759,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Jabari Smith Jr.,HOU,GSW,H,N,35.4,14,8,0,2,22,Y,14,2,2,21.3,BBR
 2026-11-13,Jabari Smith Jr.,HOU,UTA,H,N,24.1,6,3,0,1,9,Y,9,2,0,17.3,BBR
 2026-11-15,Jabari Smith Jr.,HOU,WAS,A,N,27.8,9,6,5,1,20,Y,15,2,1,24.5,BBR
-2026-11-16,Jabari Smith Jr.,HOU,MIA,A,Y,32,12,10,1,1,23,Y,12,4,1,,ESPN
+2026-11-16,Jabari Smith Jr.,HOU,MIA,A,Y,31.9,12,10,1,1,23,Y,12,4,1,18.6,BBR
 2026-10-20,Jabari Walker,PHI,NYK,A,N,2.6,0,0,1,0,1,N,0,0,0,0.0,BBR
 2026-10-22,Jabari Walker,PHI,CLE,H,N,4.4,2,1,0,0,3,N,1,0,0,8.9,BBR
 2026-10-24,Jabari Walker,PHI,MIL,H,N,12.0,6,3,1,0,10,N,3,3,0,13.9,BBR
@@ -1770,7 +1770,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Jabari Walker,PHI,BOS,H,N,14.7,2,4,0,0,6,N,3,0,1,12.4,BBR
 2026-11-12,Jabari Walker,PHI,TOR,H,N,15.7,9,8,1,1,18,N,8,0,0,22.6,BBR
 2026-11-15,Jabari Walker,PHI,IND,H,N,24.7,11,7,1,3,19,Y,8,0,2,17.8,BBR
-2026-11-16,Jabari Walker,PHI,BKN,A,Y,16,12,5,1,1,18,N,7,2,0,,ESPN
+2026-11-16,Jabari Walker,PHI,BKN,A,Y,16.4,12,5,1,1,18,N,7,2,0,19.9,BBR
 2026-10-25,Jaden Akins,NYK,ORL,H,N,0.4,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-27,Jaden Akins,NYK,DET,H,N,1.5,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-21,Jaden Bradley,TOR,CHI,H,N,5.0,0,0,0,0,0,N,1,0,1,14.9,BBR
@@ -1802,7 +1802,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-08,Jaden McDaniels,MIN,UTA,H,N,32.7,16,6,3,2,25,Y,9,4,4,19.2,BBR
 2026-11-12,Jaden McDaniels,MIN,DAL,H,N,25.3,16,9,3,0,28,Y,12,2,3,26.2,BBR
 2026-11-14,Jaden McDaniels,MIN,CHI,H,N,37.0,18,5,6,2,29,Y,11,2,3,16.3,BBR
-2026-11-16,Jaden McDaniels,MIN,POR,H,N,31,13,6,3,0,22,Y,11,3,2,,ESPN
+2026-11-16,Jaden McDaniels,MIN,POR,H,N,31.1,13,6,3,0,22,Y,11,3,2,18.8,BBR
 2026-10-21,Jae'Sean Tate,HOU,DAL,H,N,1.8,0,0,0,0,0,N,1,0,0,23.0,BBR
 2026-10-24,Jae'Sean Tate,HOU,ATL,A,Y,0.8,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-26,Jae'Sean Tate,HOU,ATL,H,N,1.4,0,1,0,0,1,N,0,0,1,28.3,BBR
@@ -1811,12 +1811,12 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-02,Jae'Sean Tate,HOU,BOS,H,N,1.7,0,1,0,0,1,N,1,0,0,28.6,BBR
 2026-11-11,Jae'Sean Tate,HOU,GSW,H,N,1.1,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-11-15,Jae'Sean Tate,HOU,WAS,A,N,8.1,4,2,0,0,6,N,2,0,1,15.0,BBR
-2026-11-16,Jae'Sean Tate,HOU,MIA,A,Y,12,3,3,2,0,8,N,2,2,1,,ESPN
+2026-11-16,Jae'Sean Tate,HOU,MIA,A,Y,12.0,3,3,2,0,8,N,2,2,1,13.0,BBR
 2026-10-31,Jahmai Mashack,MEM,SAC,H,N,4.2,2,0,1,0,3,N,1,0,0,9.9,BBR
 2026-11-02,Jahmai Mashack,MEM,NOP,H,N,0.2,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-11-06,Jahmai Mashack,MEM,OKC,H,N,3.8,0,0,2,0,2,N,1,0,1,21.3,BBR
 2026-11-14,Jahmai Mashack,MEM,BKN,H,Y,1.8,0,0,0,0,0,N,0,0,0,0.0,BBR
-2026-11-16,Jahmai Mashack,MEM,WAS,A,N,2,0,0,1,0,1,N,0,0,2,,ESPN
+2026-11-16,Jahmai Mashack,MEM,WAS,A,N,2.2,0,0,1,0,1,N,0,0,2,35.9,BBR
 2026-10-21,Jaime Jaquez Jr.,MIL,WAS,A,N,31.4,22,7,2,1,31,Y,12,6,2,21.7,BBR
 2026-10-23,Jaime Jaquez Jr.,MIL,CHI,H,N,35.4,19,11,5,2,35,Y,11,6,6,21.8,BBR
 2026-10-24,Jaime Jaquez Jr.,MIL,PHI,A,Y,27.5,21,8,4,2,33,Y,13,7,2,25.4,BBR
@@ -1882,7 +1882,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Jalen Green,PHX,LAC,H,Y,20.6,13,5,1,3,19,Y,7,2,3,21.8,BBR
 2026-11-12,Jalen Green,PHX,CHA,H,N,20.9,12,4,0,1,16,Y,9,6,2,29.4,BBR
 2026-11-15,Jalen Green,PHX,LAL,H,N,21.3,9,2,1,1,12,Y,11,0,2,24.0,BBR
-2026-11-16,Jalen Green,PHX,DEN,A,Y,27,16,5,3,2,24,Y,10,6,3,,ESPN
+2026-11-16,Jalen Green,PHX,DEN,A,Y,26.5,16,5,3,2,24,Y,10,6,3,24.4,BBR
 2026-10-21,Jalen Johnson,ATL,ORL,A,N,27.8,20,14,6,0,40,Y,19,7,2,33.8,BBR
 2026-10-23,Jalen Johnson,ATL,CHA,A,N,28.5,19,7,8,0,34,Y,16,1,3,27.8,BBR
 2026-10-24,Jalen Johnson,ATL,HOU,H,Y,38.2,26,9,16,2,51,Y,19,10,2,26.7,BBR
@@ -1922,12 +1922,12 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-08,Jalen Smith,CHI,PHI,H,N,30.3,17,8,2,2,27,Y,11,2,0,16.9,BBR
 2026-11-11,Jalen Smith,CHI,SAS,H,N,29.7,23,4,3,5,30,Y,9,2,0,15.5,BBR
 2026-11-13,Jalen Smith,CHI,ATL,H,N,31.6,15,12,3,1,30,Y,15,2,4,26.6,BBR
-2026-11-16,Jalen Smith,CHI,CLE,A,N,28,17,11,3,3,31,Y,9,3,1,,ESPN
+2026-11-16,Jalen Smith,CHI,CLE,A,N,27.8,17,11,3,3,31,Y,9,3,1,16.4,BBR
 2026-10-21,Jalen Suggs,ORL,ATL,H,N,32.1,6,3,5,0,14,Y,8,2,2,13.3,BBR
 2026-10-23,Jalen Suggs,ORL,MIN,H,N,34.1,14,6,6,1,26,Y,12,2,3,20.6,BBR
 2026-10-25,Jalen Suggs,ORL,NYK,A,N,33.9,4,6,6,0,16,Y,8,0,4,15.0,BBR
 2026-11-13,Jalen Suggs,ORL,MIL,H,N,20.9,3,2,3,1,8,N,8,0,1,19.3,BBR
-2026-11-16,Jalen Suggs,ORL,BOS,A,N,25,12,6,4,2,22,Y,8,0,1,,ESPN
+2026-11-16,Jalen Suggs,ORL,BOS,A,N,24.6,12,6,4,2,22,Y,8,0,1,16.4,BBR
 2026-10-20,Jalen Williams,OKC,SAS,A,N,29.9,12,7,2,1,21,Y,16,2,0,23.0,BBR
 2026-10-22,Jalen Williams,OKC,DEN,H,N,33.2,21,5,3,2,29,Y,15,6,1,23.8,BBR
 2026-10-25,Jalen Williams,OKC,LAC,H,N,31.7,8,2,5,0,15,Y,8,2,3,15.2,BBR
@@ -1942,7 +1942,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-07,Jamal Cain,ORL,GSW,A,N,35.7,18,12,1,2,31,N,14,4,2,19.3,BBR
 2026-11-10,Jamal Cain,ORL,SAC,A,N,20.4,5,3,1,1,9,Y,5,0,1,12.6,BBR
 2026-11-13,Jamal Cain,ORL,MIL,H,N,4.1,0,4,1,0,5,N,1,0,0,10.9,BBR
-2026-11-16,Jamal Cain,ORL,BOS,A,N,15,2,5,0,0,7,N,1,4,0,,ESPN
+2026-11-16,Jamal Cain,ORL,BOS,A,N,14.7,2,5,0,0,7,N,1,4,0,8.5,BBR
 2026-10-22,Jamal Murray,DEN,OKC,A,N,36.8,6,10,3,0,19,Y,11,4,6,21.6,BBR
 2026-10-24,Jamal Murray,DEN,NOP,H,N,42.9,42,3,6,8,51,Y,25,13,0,29.6,BBR
 2026-10-26,Jamal Murray,DEN,GSW,H,N,35.9,19,6,8,3,33,Y,13,0,3,20.2,BBR
@@ -1954,7 +1954,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Jamal Murray,DEN,HOU,A,N,39.2,38,2,2,5,42,Y,23,5,1,30.3,BBR
 2026-11-11,Jamal Murray,DEN,MEM,A,N,32.1,30,4,8,4,42,Y,19,3,1,28.7,BBR
 2026-11-14,Jamal Murray,DEN,NOP,A,N,38.0,23,7,9,0,39,Y,16,6,4,26.0,BBR
-2026-11-16,Jamal Murray,DEN,PHX,H,N,35,28,4,4,1,36,Y,19,9,3,,ESPN
+2026-11-16,Jamal Murray,DEN,PHX,H,N,34.7,28,4,4,1,36,Y,19,9,3,32.9,BBR
 2026-10-21,Jamal Shead,TOR,CHI,H,N,15.8,2,2,5,0,9,N,2,2,4,16.2,BBR
 2026-10-23,Jamal Shead,TOR,WAS,A,N,24.5,5,2,5,0,12,N,3,4,1,8.9,BBR
 2026-10-25,Jamal Shead,TOR,MIN,A,N,20.6,4,1,0,0,5,N,8,0,1,17.9,BBR
@@ -1987,7 +1987,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,James Harden,CLE,CHA,A,N,24.8,11,3,5,2,19,Y,9,3,4,26.7,BBR
 2026-11-11,James Harden,CLE,NYK,A,N,33.4,32,2,4,5,38,Y,14,11,2,28.2,BBR
 2026-11-13,James Harden,CLE,MIA,A,N,34.8,20,6,8,2,34,Y,13,8,2,23.9,BBR
-2026-11-16,James Harden,CLE,CHI,H,N,34,9,4,10,2,23,Y,10,2,2,,ESPN
+2026-11-16,James Harden,CLE,CHI,H,N,34.4,9,4,10,2,23,Y,10,2,2,14.1,BBR
 2026-10-23,James Wiseman,NYK,BOS,A,N,2.1,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-25,James Wiseman,NYK,ORL,H,N,7.2,0,2,0,0,2,N,5,0,1,33.7,BBR
 2026-10-27,James Wiseman,NYK,DET,H,N,1.2,0,1,0,0,1,N,0,0,1,33.3,BBR
@@ -2041,7 +2041,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Jaron Pierre Jr.,NOP,BKN,H,N,6.6,4,4,0,1,8,N,6,2,0,45.4,BBR
 2026-11-13,Jaron Pierre Jr.,NOP,MEM,H,N,4.2,0,0,0,0,0,N,1,0,2,29.3,BBR
 2026-11-14,Jaron Pierre Jr.,NOP,DEN,H,Y,23.3,13,2,0,2,15,N,11,2,0,21.4,BBR
-2026-11-16,Jaron Pierre Jr.,NOP,GSW,H,N,19,10,4,0,2,14,N,10,0,2,,ESPN
+2026-11-16,Jaron Pierre Jr.,NOP,GSW,H,N,19.5,10,3,0,2,13,N,10,0,2,25.0,BBR
 2026-10-28,Jarred Vanderbilt,LAL,LAC,A,Y,21.0,0,7,2,0,9,N,1,0,1,4.0,BBR
 2026-10-30,Jarred Vanderbilt,LAL,GSW,A,N,12.6,0,3,3,0,6,N,0,0,1,3.3,BBR
 2026-11-01,Jarred Vanderbilt,LAL,TOR,H,N,12.4,4,3,1,0,8,N,2,0,1,9.8,BBR
@@ -2062,7 +2062,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Jarrett Allen,CLE,CHA,A,N,19.5,12,7,1,1,20,Y,5,2,1,16.3,BBR
 2026-11-11,Jarrett Allen,CLE,NYK,A,N,32.5,11,14,3,0,28,Y,7,3,0,11.6,BBR
 2026-11-13,Jarrett Allen,CLE,MIA,A,N,31.7,9,8,1,0,18,Y,4,4,1,9.6,BBR
-2026-11-16,Jarrett Allen,CLE,CHI,H,N,30,13,14,3,0,30,Y,9,2,4,,ESPN
+2026-11-16,Jarrett Allen,CLE,CHI,H,N,30.2,13,14,3,0,30,Y,9,2,4,17.3,BBR
 2026-10-21,Jase Richardson,ORL,ATL,H,N,14.3,2,2,3,0,7,N,3,0,2,13.7,BBR
 2026-10-23,Jase Richardson,ORL,MIN,H,N,14.3,6,1,3,1,10,N,5,2,0,18.2,BBR
 2026-10-25,Jase Richardson,ORL,NYK,A,N,17.3,6,1,0,2,7,Y,7,0,1,19.6,BBR
@@ -2080,7 +2080,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Javon Small,MEM,DEN,H,N,15.1,3,1,4,1,8,N,5,0,0,14.6,BBR
 2026-11-13,Javon Small,MEM,NOP,A,N,15.3,10,2,5,2,17,N,4,2,0,12.6,BBR
 2026-11-14,Javon Small,MEM,BKN,H,Y,29.8,19,2,5,3,26,N,11,6,1,20.7,BBR
-2026-11-16,Javon Small,MEM,WAS,A,N,29,12,5,12,0,29,N,11,1,2,,ESPN
+2026-11-16,Javon Small,MEM,WAS,A,N,28.9,12,5,12,0,29,N,11,1,2,18.3,BBR
 2026-10-20,Javonte Green,DET,BOS,H,N,17.8,19,4,0,5,23,N,10,4,0,27.1,BBR
 2026-10-23,Javonte Green,DET,MIA,A,N,13.1,5,3,0,1,8,N,4,0,0,12.4,BBR
 2026-10-25,Javonte Green,DET,PHI,A,N,21.7,2,3,0,0,5,N,2,2,0,5.5,BBR
@@ -2130,7 +2130,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Jaylen Brown,PHI,BOS,H,N,25.8,13,5,2,1,20,Y,9,6,4,27.6,BBR
 2026-11-12,Jaylen Brown,PHI,TOR,H,N,35.5,18,6,2,0,26,Y,15,4,5,27.2,BBR
 2026-11-15,Jaylen Brown,PHI,IND,H,N,32.5,31,2,2,3,35,Y,18,6,5,34.8,BBR
-2026-11-16,Jaylen Brown,PHI,BKN,A,Y,33,31,13,4,3,48,Y,19,13,1,,ESPN
+2026-11-16,Jaylen Brown,PHI,BKN,A,Y,33.2,31,13,4,3,48,Y,19,13,1,32.1,BBR
 2026-10-21,Jaylen Clark,MIN,MIA,A,N,3.2,1,1,1,0,3,N,1,4,0,32.3,BBR
 2026-10-23,Jaylen Clark,MIN,ORL,A,N,3.4,0,2,1,0,3,N,0,0,0,0.0,BBR
 2026-10-25,Jaylen Clark,MIN,TOR,H,N,5.0,3,1,0,0,4,N,2,2,0,24.9,BBR
@@ -2156,7 +2156,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Jaylen Wells,MEM,DEN,H,N,30.7,22,2,1,5,25,Y,13,5,2,24.6,BBR
 2026-11-13,Jaylen Wells,MEM,NOP,A,N,26.8,11,2,1,2,14,Y,9,3,1,16.8,BBR
 2026-11-14,Jaylen Wells,MEM,BKN,H,Y,24.6,5,2,2,1,9,Y,3,3,0,7.4,BBR
-2026-11-16,Jaylen Wells,MEM,WAS,A,N,27,8,4,3,2,15,Y,5,0,1,,ESPN
+2026-11-16,Jaylen Wells,MEM,WAS,A,N,26.9,8,4,3,2,15,Y,5,0,1,8.8,BBR
 2026-10-21,Jaylin Sellers,CHI,TOR,A,N,14.2,3,1,2,1,6,N,4,0,1,12.7,BBR
 2026-10-26,Jaylin Sellers,CHI,BOS,A,N,12.0,0,0,1,0,1,N,5,0,3,26.1,BBR
 2026-10-30,Jaylin Sellers,CHI,BOS,A,N,3.3,3,0,1,1,4,N,3,0,0,34.7,BBR
@@ -2181,7 +2181,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-10-21,Jayson Kent,POR,PHX,H,N,7.0,0,1,0,0,1,N,4,0,2,34.5,BBR
 2026-11-07,Jayson Kent,POR,SAS,H,Y,12.0,4,1,1,0,6,N,6,0,1,24.3,BBR
 2026-11-13,Jayson Kent,POR,SAC,A,N,10.7,3,1,0,1,4,N,1,0,0,4.2,BBR
-2026-11-16,Jayson Kent,POR,MIN,A,N,11,8,0,0,2,8,N,5,1,0,,ESPN
+2026-11-16,Jayson Kent,POR,MIN,A,N,10.9,8,0,0,2,8,N,5,1,0,20.7,BBR
 2026-10-20,Jayson Tatum,BOS,DET,A,N,37.8,13,4,11,0,28,Y,23,1,2,29.0,BBR
 2026-10-23,Jayson Tatum,BOS,NYK,H,N,36.7,36,9,7,3,52,Y,26,5,2,37.6,BBR
 2026-10-26,Jayson Tatum,BOS,CHI,H,N,27.7,23,7,6,2,36,Y,17,8,4,32.5,BBR
@@ -2194,7 +2194,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Jayson Tatum,BOS,PHI,A,N,32.0,21,6,4,3,31,Y,17,2,3,29.5,BBR
 2026-11-11,Jayson Tatum,BOS,TOR,A,Y,37.8,24,7,8,2,39,Y,21,12,2,34.8,BBR
 2026-11-15,Jayson Tatum,BOS,DAL,H,N,30.1,32,6,6,5,44,Y,18,6,2,31.3,BBR
-2026-11-16,Jayson Tatum,BOS,ORL,H,Y,36,24,12,4,3,40,Y,23,5,5,,ESPN
+2026-11-16,Jayson Tatum,BOS,ORL,H,Y,36.0,24,12,4,3,40,Y,23,5,5,36.7,BBR
 2026-10-21,Jerami Grant,MEM,UTA,H,N,24.0,15,2,3,2,20,N,9,6,3,24.3,BBR
 2026-10-23,Jerami Grant,MEM,GSW,A,N,26.4,6,0,3,1,9,N,9,1,2,16.9,BBR
 2026-10-25,Jerami Grant,MEM,SAC,A,N,22.4,5,6,3,1,14,N,7,0,1,14.2,BBR
@@ -2207,7 +2207,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Jerami Grant,MEM,TOR,A,N,22.3,17,3,2,3,22,N,9,2,0,20.2,BBR
 2026-11-11,Jerami Grant,MEM,DEN,H,N,20.2,14,2,2,2,18,N,9,0,1,21.7,BBR
 2026-11-13,Jerami Grant,MEM,NOP,A,N,25.6,22,1,1,3,24,N,10,5,1,20.4,BBR
-2026-11-16,Jerami Grant,MEM,WAS,A,N,23,8,1,2,2,11,N,9,1,0,,ESPN
+2026-11-16,Jerami Grant,MEM,WAS,A,N,23.1,8,1,2,2,11,N,9,1,0,16.1,BBR
 2026-10-21,Jeremiah Fears,NOP,IND,H,N,20.9,8,3,1,1,12,Y,10,4,1,24.3,BBR
 2026-10-23,Jeremiah Fears,NOP,UTA,A,N,23.7,7,0,1,1,8,Y,9,0,2,19.5,BBR
 2026-10-24,Jeremiah Fears,NOP,DEN,A,Y,23.5,10,6,2,0,18,Y,12,2,3,27.5,BBR
@@ -2222,7 +2222,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Jeremiah Fears,NOP,BKN,H,N,27.8,14,4,5,2,23,Y,12,0,4,25.2,BBR
 2026-11-13,Jeremiah Fears,NOP,MEM,H,N,33.7,18,5,7,0,30,Y,15,6,2,23.7,BBR
 2026-11-14,Jeremiah Fears,NOP,DEN,H,Y,32.7,13,4,7,1,24,Y,15,1,2,22.3,BBR
-2026-11-16,Jeremiah Fears,NOP,GSW,H,N,29,19,10,10,1,39,Y,13,7,3,,ESPN
+2026-11-16,Jeremiah Fears,NOP,GSW,H,N,29.1,19,10,10,1,39,Y,13,7,3,26.5,BBR
 2026-10-21,Jericho Sims,MIL,WAS,A,N,1.9,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-28,Jericho Sims,MIL,HOU,H,N,6.5,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-11-02,Jericho Sims,MIL,MIN,A,N,14.6,0,2,1,0,3,N,0,0,0,0.0,BBR
@@ -2247,7 +2247,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Jevon Carter,ORL,SAC,A,N,3.6,0,0,0,0,0,N,1,0,1,23.8,BBR
 2026-11-11,Jevon Carter,ORL,UTA,A,Y,27.7,11,3,4,3,18,N,12,0,0,18.5,BBR
 2026-11-13,Jevon Carter,ORL,MIL,H,N,17.3,5,2,2,1,9,N,5,0,0,12.9,BBR
-2026-11-16,Jevon Carter,ORL,BOS,A,N,12,3,2,1,1,6,N,4,0,0,,ESPN
+2026-11-16,Jevon Carter,ORL,BOS,A,N,11.8,3,2,1,1,6,N,4,0,0,15.2,BBR
 2026-10-21,Joan Beringer,MIN,MIA,A,N,13.5,0,6,1,0,7,N,2,0,1,8.4,BBR
 2026-10-23,Joan Beringer,MIN,ORL,A,N,14.7,9,9,0,0,18,N,8,2,2,28.8,BBR
 2026-10-25,Joan Beringer,MIN,TOR,H,N,13.0,6,6,0,0,12,N,3,2,0,12.8,BBR
@@ -2261,7 +2261,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-08,Joan Beringer,MIN,UTA,H,N,15.7,4,3,0,0,7,N,3,0,1,10.8,BBR
 2026-11-12,Joan Beringer,MIN,DAL,H,N,22.2,13,9,0,0,22,N,5,8,1,17.8,BBR
 2026-11-14,Joan Beringer,MIN,CHI,H,N,12.7,2,5,0,0,7,N,1,2,0,6.0,BBR
-2026-11-16,Joan Beringer,MIN,POR,H,N,16,0,4,0,0,4,N,1,0,0,,ESPN
+2026-11-16,Joan Beringer,MIN,POR,H,N,15.8,0,4,0,0,4,N,1,0,0,2.6,BBR
 2026-10-21,Jock Landale,ATL,ORL,A,N,18.6,10,2,3,0,15,N,5,2,0,12.4,BBR
 2026-10-23,Jock Landale,ATL,CHA,A,N,18.2,8,6,4,1,18,N,8,2,0,19.9,BBR
 2026-10-24,Jock Landale,ATL,HOU,H,Y,18.6,2,4,2,0,8,N,5,0,5,21.6,BBR
@@ -2282,7 +2282,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-08,Joel Embiid,PHI,CHI,A,N,28.8,18,10,5,0,33,Y,19,4,2,31.9,BBR
 2026-11-10,Joel Embiid,PHI,BOS,H,N,30.9,16,6,1,1,23,Y,9,13,2,24.7,BBR
 2026-11-12,Joel Embiid,PHI,TOR,H,N,28.3,20,4,3,0,27,Y,17,7,2,34.6,BBR
-2026-11-16,Joel Embiid,PHI,BKN,A,Y,32,37,5,1,2,43,Y,22,10,3,,ESPN
+2026-11-16,Joel Embiid,PHI,BKN,A,Y,32.2,37,5,1,2,43,Y,22,10,3,37.9,BBR
 2026-10-20,John Collins,DET,BOS,H,N,25.5,6,5,1,0,12,Y,7,0,0,11.3,BBR
 2026-10-23,John Collins,DET,MIA,A,N,29.4,23,7,1,5,31,Y,15,0,1,22.2,BBR
 2026-10-25,John Collins,DET,PHI,A,N,33.6,16,11,0,2,27,Y,15,1,2,21.6,BBR
@@ -2296,7 +2296,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-12,John Collins,DET,WAS,A,N,25.2,10,4,0,2,14,Y,8,2,3,21.3,BBR
 2026-11-14,John Collins,DET,MIA,A,N,26.0,8,7,0,2,15,Y,13,0,2,22.2,BBR
 2026-10-29,John Tonje,POR,MEM,H,N,4.5,5,0,0,1,5,N,2,2,0,25.7,BBR
-2026-11-16,John Tonje,POR,MIN,A,N,7,7,4,3,1,14,N,7,2,1,,ESPN
+2026-11-16,John Tonje,POR,MIN,A,N,7.5,7,4,3,1,14,N,7,2,1,49.4,BBR
 2026-10-21,Jonathan Kuminga,MIN,MIA,A,N,29.5,12,1,3,2,16,Y,10,0,1,14.1,BBR
 2026-10-23,Jonathan Kuminga,MIN,ORL,A,N,27.5,11,8,5,2,24,Y,7,8,0,14.9,BBR
 2026-10-25,Jonathan Kuminga,MIN,TOR,H,N,26.4,13,4,1,3,18,Y,8,2,0,14.4,BBR
@@ -2310,7 +2310,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-08,Jonathan Kuminga,MIN,UTA,H,N,25.4,4,0,0,0,4,Y,5,0,3,13.3,BBR
 2026-11-12,Jonathan Kuminga,MIN,DAL,H,N,24.4,14,8,5,1,27,Y,11,2,3,25.3,BBR
 2026-11-14,Jonathan Kuminga,MIN,CHI,H,N,35.4,11,3,3,0,17,Y,10,6,1,15.6,BBR
-2026-11-16,Jonathan Kuminga,MIN,POR,H,N,29,13,9,1,1,23,Y,12,2,1,,ESPN
+2026-11-16,Jonathan Kuminga,MIN,POR,H,N,29.4,13,9,1,1,23,Y,12,2,1,19.3,BBR
 2026-10-21,Jonathan Mogbo,SAC,LAC,A,N,8.0,0,0,0,0,0,N,0,0,1,5.3,BBR
 2026-10-25,Jonathan Mogbo,SAC,MEM,H,N,18.2,7,3,1,1,11,N,4,0,1,11.2,BBR
 2026-10-27,Jonathan Mogbo,SAC,SAS,A,N,18.4,2,5,0,0,7,N,9,0,1,23.0,BBR
@@ -2335,14 +2335,14 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Jordan Goodwin,PHX,LAC,H,Y,13.6,18,3,1,6,22,N,7,0,0,21.3,BBR
 2026-11-12,Jordan Goodwin,PHX,CHA,H,N,24.3,6,5,2,2,13,N,11,0,0,20.4,BBR
 2026-11-15,Jordan Goodwin,PHX,LAL,H,N,31.4,14,7,6,1,27,N,10,9,4,22.5,BBR
-2026-11-16,Jordan Goodwin,PHX,DEN,A,Y,20,11,6,2,1,19,N,7,0,0,,ESPN
+2026-11-16,Jordan Goodwin,PHX,DEN,A,Y,19.9,11,6,2,1,19,N,7,0,0,14.6,BBR
 2026-10-26,Jordan Hawkins,CHI,BOS,A,N,6.9,4,1,0,0,5,N,3,1,0,19.6,BBR
 2026-10-30,Jordan Hawkins,CHI,BOS,A,N,5.8,0,0,0,0,0,N,2,0,0,13.1,BBR
 2026-11-02,Jordan Hawkins,CHI,PHI,A,N,2.4,2,0,0,0,2,N,2,2,0,49.5,BBR
 2026-11-04,Jordan Hawkins,CHI,NYK,A,N,6.8,2,1,0,0,3,N,3,0,0,17.7,BBR
 2026-11-08,Jordan Hawkins,CHI,PHI,H,N,17.3,9,0,1,1,10,N,7,0,0,17.5,BBR
 2026-11-11,Jordan Hawkins,CHI,SAS,H,N,24.4,7,4,2,1,13,N,8,0,1,17.2,BBR
-2026-11-16,Jordan Hawkins,CHI,CLE,A,N,4,0,0,1,0,1,N,1,0,0,,ESPN
+2026-11-16,Jordan Hawkins,CHI,CLE,A,N,3.6,0,0,1,0,1,N,1,0,0,11.1,BBR
 2026-10-24,Jordan McLaughlin,SAS,DAL,A,Y,3.0,0,1,0,0,1,N,2,0,0,26.5,BBR
 2026-10-27,Jordan McLaughlin,SAS,SAC,H,N,7.0,0,0,2,0,2,N,1,0,0,6.1,BBR
 2026-11-02,Jordan McLaughlin,SAS,UTA,H,N,8.1,0,1,3,0,4,N,4,0,0,20.4,BBR
@@ -2360,7 +2360,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Jordan Poole,NOP,BKN,H,N,21.1,14,0,1,2,15,N,8,4,2,24.4,BBR
 2026-11-13,Jordan Poole,NOP,MEM,H,N,20.7,13,2,5,1,20,N,7,10,0,22.3,BBR
 2026-11-14,Jordan Poole,NOP,DEN,H,Y,23.9,14,2,5,1,21,N,7,7,1,19.4,BBR
-2026-11-16,Jordan Poole,NOP,GSW,H,N,31,11,2,5,1,18,N,8,6,1,,ESPN
+2026-11-16,Jordan Poole,NOP,GSW,H,N,30.8,11,2,5,1,18,N,8,6,1,15.3,BBR
 2026-10-20,Jordan Walsh,BOS,DET,A,N,13.5,0,6,1,0,7,Y,2,0,0,6.4,BBR
 2026-10-23,Jordan Walsh,BOS,NYK,H,N,20.3,5,3,0,1,8,Y,5,0,1,13.5,BBR
 2026-10-26,Jordan Walsh,BOS,CHI,H,N,18.2,4,3,2,0,9,Y,5,0,3,16.1,BBR
@@ -2374,7 +2374,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Jordan Walsh,BOS,PHI,A,N,19.1,8,2,2,1,12,Y,7,1,0,17.6,BBR
 2026-11-11,Jordan Walsh,BOS,TOR,A,Y,18.4,6,3,0,0,9,N,4,0,1,12.6,BBR
 2026-11-15,Jordan Walsh,BOS,DAL,H,N,21.1,11,1,0,2,12,Y,9,2,0,19.5,BBR
-2026-11-16,Jordan Walsh,BOS,ORL,H,Y,17,6,2,0,2,8,Y,5,0,0,,ESPN
+2026-11-16,Jordan Walsh,BOS,ORL,H,Y,16.6,6,2,0,2,8,Y,5,0,0,13.2,BBR
 2026-10-20,Jose Alvarado,NYK,PHI,H,N,16.5,8,3,3,2,14,N,7,0,1,19.3,BBR
 2026-10-23,Jose Alvarado,NYK,BOS,A,N,10.8,2,2,2,0,6,N,2,0,3,20.8,BBR
 2026-11-02,Jose Alvarado,NYK,BKN,H,N,8.7,0,0,0,0,0,N,1,0,0,5.3,BBR
@@ -2401,7 +2401,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Josh Giddey,CHI,SAS,H,N,25.4,9,2,7,1,18,Y,9,0,7,29.3,BBR
 2026-11-13,Josh Giddey,CHI,ATL,H,N,39.0,15,10,14,3,39,Y,10,5,4,17.6,BBR
 2026-11-14,Josh Giddey,CHI,MIN,A,Y,26.2,8,8,5,2,21,Y,10,0,1,17.2,BBR
-2026-11-16,Josh Giddey,CHI,CLE,A,N,24,4,4,8,1,16,Y,5,2,6,,ESPN
+2026-11-16,Josh Giddey,CHI,CLE,A,N,23.8,4,4,8,1,16,Y,5,2,6,20.1,BBR
 2026-10-25,Josh Green,UTA,LAL,H,N,3.5,0,0,1,0,1,N,0,0,0,0.0,BBR
 2026-10-26,Josh Green,UTA,MEM,H,Y,24.5,6,4,1,1,11,N,4,1,2,10.8,BBR
 2026-10-28,Josh Green,UTA,SAS,H,N,23.9,2,2,2,0,6,Y,3,0,0,5.6,BBR
@@ -2459,7 +2459,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Jrue Holiday,POR,OKC,H,N,25.5,11,1,2,2,14,N,8,1,1,16.0,BBR
 2026-11-11,Jrue Holiday,POR,OKC,H,Y,29.9,19,3,5,5,27,N,12,4,3,24.3,BBR
 2026-11-13,Jrue Holiday,POR,SAC,A,N,26.6,6,5,5,0,16,N,7,2,6,23.3,BBR
-2026-11-16,Jrue Holiday,POR,MIN,A,N,25,10,4,3,2,17,N,7,2,1,,ESPN
+2026-11-16,Jrue Holiday,POR,MIN,A,N,25.1,10,4,3,2,17,N,7,2,1,14.7,BBR
 2026-10-20,Julian Champagnie,SAS,OKC,H,N,30.0,8,3,1,2,12,N,8,0,0,10.8,BBR
 2026-10-23,Julian Champagnie,SAS,HOU,H,N,28.5,6,0,0,2,6,N,5,0,1,8.9,BBR
 2026-10-24,Julian Champagnie,SAS,DAL,A,Y,28.2,12,5,3,3,20,N,8,1,0,12.0,BBR
@@ -2479,7 +2479,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Julian Reese,NOP,GSW,A,Y,9.3,2,0,0,0,2,N,3,0,0,15.0,BBR
 2026-11-11,Julian Reese,NOP,BKN,H,N,6.6,2,2,1,0,5,N,0,2,0,5.8,BBR
 2026-11-13,Julian Reese,NOP,MEM,H,N,4.2,0,2,0,0,2,N,0,0,0,0.0,BBR
-2026-11-16,Julian Reese,NOP,GSW,H,N,5,0,1,0,0,1,N,1,0,0,,ESPN
+2026-11-16,Julian Reese,NOP,GSW,H,N,5.0,0,1,0,0,1,N,1,0,0,8.1,BBR
 2026-10-21,Julius Randle,BKN,CHA,H,N,37.8,33,8,7,3,48,Y,18,11,4,30.1,BBR
 2026-10-24,Julius Randle,BKN,CLE,A,N,35.4,23,6,5,2,34,Y,13,8,4,21.6,BBR
 2026-10-25,Julius Randle,BKN,IND,H,Y,24.0,10,7,7,0,24,Y,8,8,3,24.8,BBR
@@ -2492,7 +2492,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-08,Julius Randle,BKN,DAL,A,Y,30.3,13,4,4,0,21,Y,10,6,3,22.7,BBR
 2026-11-11,Julius Randle,BKN,NOP,A,N,29.3,17,4,5,0,26,Y,16,6,2,30.0,BBR
 2026-11-14,Julius Randle,BKN,MEM,A,N,31.4,22,4,5,3,31,Y,16,6,4,29.7,BBR
-2026-11-16,Julius Randle,BKN,PHI,H,N,34,33,6,1,2,40,Y,20,5,1,,ESPN
+2026-11-16,Julius Randle,BKN,PHI,H,N,33.9,33,6,1,2,40,Y,20,5,1,28.8,BBR
 2026-10-21,Justin Champagnie,WAS,MIL,H,N,20.7,8,8,1,1,17,N,4,1,0,8.8,BBR
 2026-10-23,Justin Champagnie,WAS,TOR,H,N,22.5,8,6,0,0,14,N,7,0,0,12.7,BBR
 2026-10-24,Justin Champagnie,WAS,CHI,A,Y,26.2,11,14,4,1,29,N,8,2,0,13.5,BBR
@@ -2507,7 +2507,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-10-31,Karim Lopez,MEM,SAC,H,N,4.2,2,1,0,0,3,N,1,0,0,9.9,BBR
 2026-11-06,Karim Lopez,MEM,OKC,H,N,3.8,2,0,0,0,2,N,0,2,0,9.4,BBR
 2026-11-14,Karim Lopez,MEM,BKN,H,Y,1.8,0,2,0,0,2,N,0,0,0,0.0,BBR
-2026-11-16,Karim Lopez,MEM,WAS,A,N,1,0,0,0,0,0,N,0,0,0,,ESPN
+2026-11-16,Karim Lopez,MEM,WAS,A,N,1.1,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-20,Karl-Anthony Towns,NYK,PHI,H,N,23.6,19,12,1,3,32,Y,9,7,4,27.1,BBR
 2026-10-23,Karl-Anthony Towns,NYK,BOS,A,N,37.2,22,10,3,2,35,Y,13,3,4,22.0,BBR
 2026-10-25,Karl-Anthony Towns,NYK,ORL,H,N,33.3,22,14,4,0,40,Y,15,7,4,26.6,BBR
@@ -2534,7 +2534,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Karlo Matkovic,NOP,BKN,H,N,21.6,4,4,1,0,9,Y,6,0,2,16.2,BBR
 2026-11-13,Karlo Matkovic,NOP,MEM,H,N,18.7,1,3,0,0,4,N,2,2,0,6.2,BBR
 2026-11-14,Karlo Matkovic,NOP,DEN,H,Y,14.2,5,3,1,1,9,N,3,0,0,8.8,BBR
-2026-11-16,Karlo Matkovic,NOP,GSW,H,N,20,3,2,0,0,5,N,7,1,2,,ESPN
+2026-11-16,Karlo Matkovic,NOP,GSW,H,N,20.1,3,2,0,0,5,N,6,1,2,17.0,BBR
 2026-10-21,Kasparas Jakucionis,MIL,WAS,A,N,26.2,15,3,3,1,21,N,7,6,1,16.7,BBR
 2026-10-23,Kasparas Jakucionis,MIL,CHI,H,N,22.7,7,2,5,1,14,N,4,2,1,10.1,BBR
 2026-10-24,Kasparas Jakucionis,MIL,PHI,A,Y,24.7,12,3,2,0,17,N,8,4,3,19.9,BBR
@@ -2636,7 +2636,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Kentavious Caldwell-Pope,PHI,BOS,H,N,15.9,0,0,2,0,2,N,2,0,0,5.7,BBR
 2026-11-12,Kentavious Caldwell-Pope,PHI,TOR,H,N,27.3,11,4,5,3,20,N,7,0,0,11.4,BBR
 2026-11-15,Kentavious Caldwell-Pope,PHI,IND,H,N,22.3,9,5,0,2,14,N,5,4,1,15.3,BBR
-2026-11-16,Kentavious Caldwell-Pope,PHI,BKN,A,Y,31,0,2,3,0,5,N,3,0,0,,ESPN
+2026-11-16,Kentavious Caldwell-Pope,PHI,BKN,A,Y,31.3,0,2,3,0,5,N,3,0,0,4.0,BBR
 2026-10-21,Keon Ellis,BKN,CHA,H,N,33.9,7,2,4,1,13,Y,7,0,1,10.0,BBR
 2026-10-24,Keon Ellis,BKN,CLE,A,N,22.4,6,2,1,2,9,Y,7,0,2,15.0,BBR
 2026-10-25,Keon Ellis,BKN,IND,H,Y,22.9,9,1,3,1,13,Y,4,0,0,7.2,BBR
@@ -2648,9 +2648,9 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-08,Keon Ellis,BKN,DAL,A,Y,22.3,3,1,4,1,8,N,4,0,1,9.9,BBR
 2026-11-11,Keon Ellis,BKN,NOP,A,N,26.0,11,4,3,2,18,N,4,3,1,10.4,BBR
 2026-11-14,Keon Ellis,BKN,MEM,A,N,7.1,0,0,1,0,1,N,0,0,0,0.0,BBR
-2026-11-16,Keon Ellis,BKN,PHI,H,N,20,8,2,0,2,10,N,5,0,1,,ESPN
+2026-11-16,Keon Ellis,BKN,PHI,H,N,20.2,8,2,0,2,10,N,5,0,1,12.5,BBR
 2026-11-14,Keshad Johnson,MIA,DET,H,Y,1.4,0,0,0,0,0,N,0,0,0,0.0,BBR
-2026-11-16,Keshad Johnson,MIA,HOU,H,N,3,0,2,0,0,2,N,0,0,0,,ESPN
+2026-11-16,Keshad Johnson,MIA,HOU,H,N,2.9,0,2,0,0,2,N,0,0,0,0.0,BBR
 2026-10-21,Kevin Durant,HOU,DAL,H,N,37.4,30,6,3,2,39,Y,16,11,4,27.7,BBR
 2026-10-23,Kevin Durant,HOU,SAS,A,N,36.9,20,7,5,2,32,Y,10,8,3,20.2,BBR
 2026-10-24,Kevin Durant,HOU,ATL,A,Y,36.5,22,4,2,3,28,Y,15,3,2,20.9,BBR
@@ -2665,7 +2665,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Kevin Durant,HOU,GSW,H,N,34.0,20,4,5,1,29,Y,17,4,2,27.3,BBR
 2026-11-13,Kevin Durant,HOU,UTA,H,N,33.4,22,3,6,2,31,Y,14,10,2,25.7,BBR
 2026-11-15,Kevin Durant,HOU,WAS,A,N,29.5,25,4,5,2,34,Y,13,8,2,25.3,BBR
-2026-11-16,Kevin Durant,HOU,MIA,A,Y,29,22,2,3,2,27,Y,19,4,1,,ESPN
+2026-11-16,Kevin Durant,HOU,MIA,A,Y,28.7,22,2,3,2,27,Y,19,4,1,30.5,BBR
 2026-10-20,Kevin Huerter,DET,BOS,H,N,18.3,3,3,2,1,8,N,4,0,0,9.0,BBR
 2026-10-23,Kevin Huerter,DET,MIA,A,N,20.0,5,6,2,1,13,N,7,0,2,18.3,BBR
 2026-10-25,Kevin Huerter,DET,PHI,A,N,25.9,9,3,2,1,14,N,9,0,2,17.7,BBR
@@ -2709,14 +2709,14 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Khaman Maluach,PHX,LAC,H,Y,21.7,11,7,3,0,21,N,5,3,0,12.1,BBR
 2026-11-12,Khaman Maluach,PHX,CHA,H,N,16.4,4,2,1,0,7,N,4,0,1,13.7,BBR
 2026-11-15,Khaman Maluach,PHX,LAL,H,N,13.2,7,4,0,0,11,N,4,2,0,14.5,BBR
-2026-11-16,Khaman Maluach,PHX,DEN,A,Y,11,4,6,0,0,10,N,4,0,1,,ESPN
+2026-11-16,Khaman Maluach,PHX,DEN,A,Y,10.8,4,6,0,0,10,N,4,0,1,19.2,BBR
 2026-10-21,Khris Middleton,WAS,MIL,H,N,12.2,2,2,0,0,4,N,2,0,1,10.1,BBR
 2026-10-23,Khris Middleton,WAS,TOR,H,N,15.7,6,2,0,0,8,N,4,4,1,17.7,BBR
 2026-10-26,Khris Middleton,WAS,CHA,A,N,13.0,0,1,0,0,1,N,0,0,1,3.5,BBR
 2026-10-28,Khris Middleton,WAS,CLE,A,N,23.3,4,3,2,1,9,N,2,2,3,12.1,BBR
 2026-10-30,Khris Middleton,WAS,CHA,H,N,4.5,0,0,0,0,0,N,1,0,0,10.3,BBR
 2026-11-15,Khris Middleton,WAS,HOU,H,N,9.2,8,0,2,2,10,N,4,0,0,17.9,BBR
-2026-11-16,Khris Middleton,WAS,MEM,H,Y,18,9,3,3,2,15,N,5,1,1,,ESPN
+2026-11-16,Khris Middleton,WAS,MEM,H,Y,18.0,9,3,3,2,15,N,5,1,1,15.2,BBR
 2026-10-21,Kingston Flemings,ATL,ORL,A,N,15.2,0,4,3,0,7,N,5,0,2,18.0,BBR
 2026-10-23,Kingston Flemings,ATL,CHA,A,N,24.8,5,6,8,1,19,N,5,0,3,13.2,BBR
 2026-10-24,Kingston Flemings,ATL,HOU,H,Y,14.5,2,1,2,0,5,N,4,0,2,16.6,BBR
@@ -2741,7 +2741,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-08,Klay Thompson,MIA,SAC,A,N,31.6,23,2,4,7,29,Y,15,0,0,21.0,BBR
 2026-11-10,Klay Thompson,MIA,UTA,A,N,30.1,11,1,2,2,14,Y,13,3,1,21.0,BBR
 2026-11-14,Klay Thompson,MIA,DET,H,Y,20.2,26,1,4,6,31,Y,17,0,0,34.0,BBR
-2026-11-16,Klay Thompson,MIA,HOU,H,N,22,17,0,2,5,19,Y,10,2,1,,ESPN
+2026-11-16,Klay Thompson,MIA,HOU,H,N,22.4,17,0,2,5,19,Y,10,2,1,22.7,BBR
 2026-10-21,Koa Peat,PHX,POR,A,N,7.0,4,1,0,0,5,N,4,0,0,24.8,BBR
 2026-10-26,Koa Peat,PHX,OKC,A,N,2.7,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-11-04,Koa Peat,PHX,POR,H,N,2.9,2,1,0,0,3,N,0,2,0,12.6,BBR
@@ -2749,7 +2749,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Koa Peat,PHX,SAS,H,N,5.9,4,0,1,0,5,N,3,0,0,23.3,BBR
 2026-11-10,Koa Peat,PHX,LAC,H,Y,5.8,5,1,0,0,6,N,3,1,1,31.8,BBR
 2026-11-15,Koa Peat,PHX,LAL,H,N,8.2,10,2,0,0,12,N,7,0,1,38.1,BBR
-2026-11-16,Koa Peat,PHX,DEN,A,Y,1,0,1,0,0,1,N,0,0,0,,ESPN
+2026-11-16,Koa Peat,PHX,DEN,A,Y,1.3,0,1,0,0,1,N,0,0,0,0.0,BBR
 2026-10-23,Kobe Brown,IND,DAL,H,N,1.3,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-26,Kobe Brown,IND,MIL,A,Y,0.3,0,0,0,0,0,N,1,0,0,100.0,BBR
 2026-10-30,Kobe Brown,IND,MIA,A,N,20.3,9,6,4,0,19,N,8,4,1,21.5,BBR
@@ -2791,7 +2791,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Kris Murray,MEM,TOR,A,N,0.8,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-11-13,Kris Murray,MEM,NOP,A,N,0.7,0,1,0,0,1,N,0,0,0,0.0,BBR
 2026-11-14,Kris Murray,MEM,BKN,H,Y,19.5,3,2,3,1,8,N,5,0,0,10.8,BBR
-2026-11-16,Kris Murray,MEM,WAS,A,N,6,0,1,0,0,1,N,0,0,0,,ESPN
+2026-11-16,Kris Murray,MEM,WAS,A,N,6.2,0,1,0,0,1,N,0,0,0,0.0,BBR
 2026-10-21,Kyle Anderson,TOR,CHI,H,N,5.0,0,1,2,0,3,N,1,0,0,7.5,BBR
 2026-10-25,Kyle Anderson,TOR,MIN,A,N,10.7,0,2,0,0,2,N,1,0,1,7.7,BBR
 2026-10-28,Kyle Anderson,TOR,ORL,H,N,4.5,0,0,1,0,1,N,0,0,0,0.0,BBR
@@ -2849,7 +2849,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Kyshawn George,WAS,IND,A,N,39.2,25,9,3,5,37,Y,20,2,6,28.7,BBR
 2026-11-12,Kyshawn George,WAS,DET,H,Y,25.9,14,1,5,3,20,Y,7,2,1,15.0,BBR
 2026-11-15,Kyshawn George,WAS,HOU,H,N,30.1,11,2,4,1,17,Y,13,4,0,20.3,BBR
-2026-11-16,Kyshawn George,WAS,MEM,H,Y,38,18,6,1,2,25,Y,10,2,3,,ESPN
+2026-11-16,Kyshawn George,WAS,MEM,H,Y,38.0,18,6,1,2,25,Y,10,2,3,15.5,BBR
 2026-10-21,LJ Cryer,GSW,LAL,A,N,8.9,9,1,3,2,13,N,6,2,0,30.8,BBR
 2026-10-24,LJ Cryer,GSW,PHX,A,Y,14.1,3,1,1,1,5,N,5,0,1,16.8,BBR
 2026-10-26,LJ Cryer,GSW,DEN,A,N,2.8,6,0,2,2,8,N,3,0,0,46.4,BBR
@@ -2860,7 +2860,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,LJ Cryer,GSW,NOP,H,N,20.2,10,0,3,2,13,N,9,0,1,21.5,BBR
 2026-11-11,LJ Cryer,GSW,HOU,A,N,17.8,13,1,1,3,15,N,9,2,0,23.7,BBR
 2026-11-13,LJ Cryer,GSW,SAS,A,N,23.9,20,2,6,6,28,N,17,0,0,30.5,BBR
-2026-11-16,LJ Cryer,GSW,NOP,A,N,24,7,1,3,1,11,Y,10,2,1,,ESPN
+2026-11-16,LJ Cryer,GSW,NOP,A,N,24.1,7,1,3,1,11,Y,10,2,1,20.9,BBR
 2026-10-21,LaMelo Ball,MIN,MIA,A,N,28.6,21,2,6,5,29,Y,17,3,1,25.6,BBR
 2026-10-23,LaMelo Ball,MIN,ORL,A,N,23.1,12,5,5,2,22,Y,13,2,3,28.5,BBR
 2026-10-25,LaMelo Ball,MIN,TOR,H,N,16.7,15,1,8,4,24,Y,8,2,2,27.9,BBR
@@ -2874,7 +2874,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-08,LaMelo Ball,MIN,UTA,H,N,29.7,24,3,5,4,32,Y,20,0,5,35.8,BBR
 2026-11-12,LaMelo Ball,MIN,DAL,H,N,25.3,22,3,9,6,34,Y,14,0,4,29.6,BBR
 2026-11-14,LaMelo Ball,MIN,CHI,H,N,29.9,19,8,6,4,33,Y,25,2,1,36.5,BBR
-2026-11-16,LaMelo Ball,MIN,POR,H,N,24,6,5,0,2,11,Y,13,1,1,,ESPN
+2026-11-16,LaMelo Ball,MIN,POR,H,N,23.6,6,5,0,2,11,Y,13,1,1,25.1,BBR
 2026-10-24,Labaron Philon Jr.,PHI,MIL,H,N,3.7,0,0,0,0,0,N,1,0,0,10.5,BBR
 2026-10-25,Labaron Philon Jr.,PHI,DET,H,Y,13.0,5,2,1,1,8,N,4,0,0,13.3,BBR
 2026-10-30,Labaron Philon Jr.,PHI,NYK,H,N,5.8,2,2,0,0,4,N,3,0,1,34.7,BBR
@@ -2884,6 +2884,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Labaron Philon Jr.,PHI,BOS,H,N,5.6,2,1,3,0,6,N,1,2,1,23.5,BBR
 2026-11-12,Labaron Philon Jr.,PHI,TOR,H,N,1.5,0,0,0,0,0,N,1,0,0,29.3,BBR
 2026-11-15,Labaron Philon Jr.,PHI,IND,H,N,6.1,3,1,0,1,4,N,2,0,0,14.4,BBR
+2026-11-16,Labaron Philon Jr.,PHI,BKN,A,Y,0.3,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-20,Landry Shamet,NYK,PHI,H,N,24.5,5,2,4,1,11,N,7,2,2,16.0,BBR
 2026-10-23,Landry Shamet,NYK,BOS,A,N,21.2,8,2,0,2,10,N,6,0,2,16.9,BBR
 2026-10-25,Landry Shamet,NYK,ORL,H,N,21.8,6,2,1,2,9,N,6,0,1,12.9,BBR
@@ -2950,7 +2951,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-04,Leonard Miller,CHI,NYK,A,N,19.0,4,6,3,0,13,N,3,4,0,10.1,BBR
 2026-11-11,Leonard Miller,CHI,SAS,H,N,2.0,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-11-14,Leonard Miller,CHI,MIN,A,Y,17.3,4,3,4,0,11,N,3,2,3,16.3,BBR
-2026-11-16,Leonard Miller,CHI,CLE,A,N,1,0,0,0,0,0,N,0,0,0,,ESPN
+2026-11-16,Leonard Miller,CHI,CLE,A,N,0.8,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-21,Liam McNeeley,CHA,BKN,A,N,3.3,0,1,0,0,1,N,1,0,0,12.1,BBR
 2026-10-23,Liam McNeeley,CHA,ATL,H,N,12.0,4,4,0,0,8,N,4,4,3,29.4,BBR
 2026-10-30,Liam McNeeley,CHA,WAS,A,N,3.4,0,2,0,0,2,N,0,0,0,0.0,BBR
@@ -2997,7 +2998,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Luka Garza,BOS,PHI,A,N,8.8,2,0,2,0,4,N,2,0,0,10.3,BBR
 2026-11-11,Luka Garza,BOS,TOR,A,Y,10.9,5,1,0,1,6,Y,3,2,0,16.5,BBR
 2026-11-15,Luka Garza,BOS,DAL,H,N,14.2,2,3,5,0,10,N,5,0,0,14.7,BBR
-2026-11-16,Luka Garza,BOS,ORL,H,Y,18,3,0,4,1,7,Y,6,0,0,,ESPN
+2026-11-16,Luka Garza,BOS,ORL,H,Y,17.6,3,0,4,1,7,Y,6,0,0,15.0,BBR
 2026-10-24,Luke Kennard,PHX,GSW,H,N,18.3,11,4,1,3,16,N,6,0,0,14.0,BBR
 2026-10-26,Luke Kennard,PHX,OKC,A,N,16.1,9,1,2,3,12,N,5,0,0,12.9,BBR
 2026-10-30,Luke Kennard,PHX,DEN,H,N,12.4,9,1,2,1,12,N,4,4,0,19.6,BBR
@@ -3009,7 +3010,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Luke Kennard,PHX,LAC,H,Y,21.6,14,1,3,3,18,N,7,3,3,21.7,BBR
 2026-11-12,Luke Kennard,PHX,CHA,H,N,20.6,8,1,1,0,10,N,9,0,0,19.7,BBR
 2026-11-15,Luke Kennard,PHX,LAL,H,N,23.1,18,6,4,3,28,N,14,1,0,24.5,BBR
-2026-11-16,Luke Kennard,PHX,DEN,A,Y,17,12,2,0,4,14,N,6,0,1,,ESPN
+2026-11-16,Luke Kennard,PHX,DEN,A,Y,17.4,12,2,0,4,14,N,6,0,1,16.7,BBR
 2026-10-20,Luke Kornet,SAS,OKC,H,N,12.6,4,1,0,0,5,N,2,0,0,6.4,BBR
 2026-10-23,Luke Kornet,SAS,HOU,H,N,15.9,7,3,0,0,10,N,3,5,0,13.9,BBR
 2026-10-24,Luke Kornet,SAS,DAL,A,Y,14.0,0,4,1,0,5,N,2,0,2,11.4,BBR
@@ -3034,9 +3035,9 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Malevy Leons,GSW,NOP,H,N,12.0,0,3,0,0,3,N,1,0,1,7.2,BBR
 2026-11-11,Malevy Leons,GSW,HOU,A,N,3.5,0,3,0,0,3,N,1,0,0,12.1,BBR
 2026-11-13,Malevy Leons,GSW,SAS,A,N,14.0,5,1,0,1,6,N,2,2,0,8.9,BBR
-2026-11-16,Malevy Leons,GSW,NOP,A,N,6,2,1,0,0,3,N,3,0,0,,ESPN
+2026-11-16,Malevy Leons,GSW,NOP,A,N,5.7,2,1,0,0,3,N,3,0,0,22.3,BBR
 2026-11-13,Malik Dia,NOP,MEM,H,N,4.2,2,0,1,0,3,N,3,0,0,29.3,BBR
-2026-11-16,Malik Dia,NOP,GSW,H,N,5,2,1,1,0,4,N,3,0,0,,ESPN
+2026-11-16,Malik Dia,NOP,GSW,H,N,5.0,2,1,0,0,3,N,3,0,0,24.2,BBR
 2026-10-23,Malik Monk,SAC,POR,H,N,12.0,0,1,2,0,3,N,6,0,1,23.7,BBR
 2026-10-25,Malik Monk,SAC,MEM,H,N,12.2,6,2,2,0,10,N,8,0,2,33.4,BBR
 2026-10-27,Malik Monk,SAC,SAS,A,N,13.2,3,2,6,1,11,N,7,0,0,22.4,BBR
@@ -3084,7 +3085,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Mario Hezonja,CLE,NYK,A,N,7.4,0,0,0,0,0,N,1,0,0,6.1,BBR
 2026-11-13,Mario Hezonja,CLE,MIA,A,N,9.3,4,4,0,0,8,N,2,0,1,14.4,BBR
 2026-11-14,Mario Hezonja,CLE,DAL,H,Y,34.0,22,7,4,2,33,Y,12,2,2,18.3,BBR
-2026-11-16,Mario Hezonja,CLE,CHI,H,N,15,9,4,2,1,15,N,7,0,2,,ESPN
+2026-11-16,Mario Hezonja,CLE,CHI,H,N,14.8,9,4,2,1,15,N,7,0,2,23.0,BBR
 2026-10-22,Marvin Bagley III,DEN,OKC,A,N,11.0,2,3,2,0,7,N,3,0,2,19.3,BBR
 2026-10-24,Marvin Bagley III,DEN,NOP,H,N,9.4,5,4,0,0,9,N,2,2,0,12.7,BBR
 2026-10-26,Marvin Bagley III,DEN,GSW,H,N,10.6,7,2,0,0,9,N,3,4,0,20.3,BBR
@@ -3096,7 +3097,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Marvin Bagley III,DEN,HOU,A,N,12.4,6,3,0,0,9,N,2,4,0,13.7,BBR
 2026-11-11,Marvin Bagley III,DEN,MEM,A,N,12.3,4,2,1,0,7,N,6,0,0,21.1,BBR
 2026-11-14,Marvin Bagley III,DEN,NOP,A,N,13.1,7,7,0,0,14,N,5,2,1,22.9,BBR
-2026-11-16,Marvin Bagley III,DEN,PHX,H,N,10,4,2,0,0,6,N,3,3,0,,ESPN
+2026-11-16,Marvin Bagley III,DEN,PHX,H,N,10.0,4,2,0,0,6,N,3,3,0,19.0,BBR
 2026-11-15,Mason Plumlee,SAC,OKC,H,N,5.4,2,0,0,0,2,N,0,2,2,22.8,BBR
 2026-10-21,Matas Buzelis,CHI,TOR,A,N,24.8,17,6,0,0,23,Y,8,16,3,26.3,BBR
 2026-10-23,Matas Buzelis,CHI,MIL,A,N,17.3,7,5,3,0,15,Y,9,4,2,28.3,BBR
@@ -3110,7 +3111,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Matas Buzelis,CHI,SAS,H,N,30.9,13,3,2,3,18,Y,12,0,6,27.2,BBR
 2026-11-13,Matas Buzelis,CHI,ATL,H,N,28.6,11,6,2,3,19,Y,8,2,2,16.1,BBR
 2026-11-14,Matas Buzelis,CHI,MIN,A,Y,29.8,18,9,2,2,29,Y,9,6,2,18.8,BBR
-2026-11-16,Matas Buzelis,CHI,CLE,A,N,31,23,3,0,3,26,Y,14,4,3,,ESPN
+2026-11-16,Matas Buzelis,CHI,CLE,A,N,31.4,23,3,0,3,26,Y,14,4,2,22.7,BBR
 2026-10-21,Matisse Thybulle,LAL,GSW,H,N,23.2,3,3,1,1,7,Y,4,0,1,9.3,BBR
 2026-10-23,Matisse Thybulle,LAL,LAC,H,N,23.9,13,1,2,3,16,Y,8,0,0,14.5,BBR
 2026-10-25,Matisse Thybulle,LAL,UTA,A,N,26.0,11,1,1,3,13,Y,8,0,0,13.6,BBR
@@ -3153,7 +3154,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Meleek Thomas,CLE,NYK,A,N,22.1,14,4,1,2,19,N,11,0,1,24.6,BBR
 2026-11-13,Meleek Thomas,CLE,MIA,A,N,17.9,12,0,3,2,15,N,8,0,0,20.0,BBR
 2026-11-14,Meleek Thomas,CLE,DAL,H,Y,33.5,20,4,2,3,26,Y,17,2,4,27.2,BBR
-2026-11-16,Meleek Thomas,CLE,CHI,H,N,30,10,6,3,1,19,N,13,2,1,,ESPN
+2026-11-16,Meleek Thomas,CLE,CHI,H,N,30.1,10,6,3,1,19,N,13,2,1,18.7,BBR
 2026-10-28,Micah Peavy,OKC,DAL,A,N,4.7,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-31,Micah Peavy,OKC,HOU,A,N,13.7,2,1,0,0,3,N,2,0,0,6.6,BBR
 2026-11-02,Micah Peavy,OKC,CLE,A,N,16.2,8,5,0,2,13,N,4,2,1,15.0,BBR
@@ -3169,7 +3170,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-04,Micah Potter,POR,PHX,A,N,1.9,4,1,0,1,5,N,1,2,0,39.6,BBR
 2026-11-07,Micah Potter,POR,SAS,H,Y,14.2,7,3,1,1,11,N,5,0,0,14.7,BBR
 2026-11-10,Micah Potter,POR,OKC,H,N,4.6,0,3,0,0,3,N,1,0,1,18.9,BBR
-2026-11-16,Micah Potter,POR,MIN,A,N,7,2,4,1,0,7,N,3,0,0,,ESPN
+2026-11-16,Micah Potter,POR,MIN,A,N,7.5,2,4,1,0,7,N,3,0,0,16.7,BBR
 2026-10-21,Michael Porter Jr.,BKN,CHA,H,N,34.2,26,7,1,5,34,Y,21,2,4,32.1,BBR
 2026-10-24,Michael Porter Jr.,BKN,CLE,A,N,32.9,28,9,1,4,38,Y,18,4,1,23.5,BBR
 2026-10-25,Michael Porter Jr.,BKN,IND,H,Y,20.8,10,0,0,0,10,Y,13,3,1,30.1,BBR
@@ -3181,7 +3182,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-07,Michael Porter Jr.,BKN,ATL,A,N,36.0,25,9,1,3,35,Y,17,8,3,25.3,BBR
 2026-11-08,Michael Porter Jr.,BKN,DAL,A,Y,28.9,19,9,0,4,28,Y,15,7,3,32.0,BBR
 2026-11-11,Michael Porter Jr.,BKN,NOP,A,N,28.5,22,6,3,4,31,Y,14,4,1,25.1,BBR
-2026-11-16,Michael Porter Jr.,BKN,PHI,H,N,40,25,6,2,2,33,Y,15,8,1,,ESPN
+2026-11-16,Michael Porter Jr.,BKN,PHI,H,N,40.0,25,6,2,2,33,Y,15,8,1,20.6,BBR
 2026-10-20,Mikal Bridges,NYK,PHI,H,N,33.0,4,3,1,0,8,Y,8,0,0,9.6,BBR
 2026-10-23,Mikal Bridges,NYK,BOS,A,N,21.9,0,1,4,0,5,Y,8,0,1,18.4,BBR
 2026-10-25,Mikal Bridges,NYK,ORL,H,N,35.0,6,5,1,0,12,Y,7,0,0,8.0,BBR
@@ -3207,7 +3208,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-04,Mikel Brown Jr.,BKN,CHA,H,N,19.9,18,2,4,3,24,N,11,4,4,39.1,BBR
 2026-11-07,Mikel Brown Jr.,BKN,ATL,A,N,25.1,18,1,3,3,22,N,13,7,2,28.0,BBR
 2026-11-14,Mikel Brown Jr.,BKN,MEM,A,N,19.9,6,1,2,2,9,N,5,0,1,12.4,BBR
-2026-11-16,Mikel Brown Jr.,BKN,PHI,H,N,18,3,1,5,1,9,N,7,0,1,,ESPN
+2026-11-16,Mikel Brown Jr.,BKN,PHI,H,N,18.1,3,1,5,1,9,N,7,0,1,18.7,BBR
 2026-10-21,Miles Bridges,PHX,POR,A,N,28.6,8,4,0,0,12,Y,11,2,1,19.6,BBR
 2026-10-24,Miles Bridges,PHX,GSW,H,N,33.2,16,7,3,2,26,Y,11,2,0,15.2,BBR
 2026-10-26,Miles Bridges,PHX,OKC,A,N,31.8,17,8,4,2,29,Y,17,2,3,27.4,BBR
@@ -3220,7 +3221,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Miles Bridges,PHX,LAC,H,Y,17.9,8,4,2,2,14,Y,8,0,1,20.8,BBR
 2026-11-12,Miles Bridges,PHX,CHA,H,N,24.7,11,6,3,0,20,Y,9,5,0,20.4,BBR
 2026-11-15,Miles Bridges,PHX,LAL,H,N,24.1,14,3,3,2,20,Y,10,1,0,17.0,BBR
-2026-11-16,Miles Bridges,PHX,DEN,A,Y,29,16,8,2,2,26,Y,15,0,1,,ESPN
+2026-11-16,Miles Bridges,PHX,DEN,A,Y,28.7,16,8,2,2,26,Y,15,0,1,23.1,BBR
 2026-10-20,Miles McBride,NYK,PHI,H,N,13.5,3,1,1,1,5,N,5,0,1,17.6,BBR
 2026-10-23,Miles McBride,NYK,BOS,A,N,30.1,20,2,1,6,23,N,9,2,0,14.7,BBR
 2026-10-25,Miles McBride,NYK,ORL,H,N,12.7,1,1,1,0,3,N,1,2,0,5.9,BBR
@@ -3246,7 +3247,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Mitchell Robinson,BOS,PHI,A,N,17.0,2,6,2,0,10,N,5,0,0,13.3,BBR
 2026-11-11,Mitchell Robinson,BOS,TOR,A,Y,10.9,2,2,0,0,4,N,1,0,1,8.5,BBR
 2026-11-15,Mitchell Robinson,BOS,DAL,H,N,14.8,0,7,1,0,8,N,0,0,1,2.8,BBR
-2026-11-16,Mitchell Robinson,BOS,ORL,H,Y,18,4,5,2,0,11,N,3,2,2,,ESPN
+2026-11-16,Mitchell Robinson,BOS,ORL,H,Y,17.7,4,5,2,0,11,N,3,2,2,14.5,BBR
 2026-10-26,Mo Bamba,UTA,MEM,H,Y,28.6,14,7,1,0,22,N,8,0,1,12.9,BBR
 2026-10-28,Mo Bamba,UTA,SAS,H,N,15.6,8,4,1,0,13,N,6,0,1,19.9,BBR
 2026-10-31,Mo Bamba,UTA,POR,H,N,10.5,6,4,0,0,10,N,2,2,0,12.0,BBR
@@ -3288,7 +3289,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-08,Moritz Wagner,BKN,DAL,A,Y,15.6,12,3,1,1,16,N,5,5,1,23.1,BBR
 2026-11-11,Moritz Wagner,BKN,NOP,A,N,19.4,16,3,4,2,23,N,8,2,1,21.7,BBR
 2026-11-14,Moritz Wagner,BKN,MEM,A,N,18.4,10,6,4,2,20,N,4,2,1,13.1,BBR
-2026-11-16,Moritz Wagner,BKN,PHI,H,N,10,4,5,1,0,10,N,3,2,0,,ESPN
+2026-11-16,Moritz Wagner,BKN,PHI,H,N,10.2,4,5,1,0,10,N,3,2,0,16.0,BBR
 2026-10-21,Moussa Cisse,DAL,HOU,A,N,2.5,3,0,0,0,3,N,1,2,0,32.1,BBR
 2026-10-23,Moussa Cisse,DAL,IND,A,N,0.9,3,1,0,0,4,N,1,2,0,85.5,BBR
 2026-10-24,Moussa Cisse,DAL,SAS,H,Y,7.3,4,4,0,0,8,N,2,0,0,11.7,BBR
@@ -3330,7 +3331,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Myron Gardner,MIA,UTA,A,N,10.1,4,3,1,0,8,N,2,2,0,11.8,BBR
 2026-11-13,Myron Gardner,MIA,CLE,H,N,19.3,0,4,2,0,6,Y,3,0,0,6.6,BBR
 2026-11-14,Myron Gardner,MIA,DET,H,Y,26.0,5,9,3,1,17,Y,6,0,2,12.4,BBR
-2026-11-16,Myron Gardner,MIA,HOU,H,N,24,14,2,3,4,19,Y,7,1,2,,ESPN
+2026-11-16,Myron Gardner,MIA,HOU,H,N,24.5,14,2,3,4,19,Y,7,1,2,16.5,BBR
 2026-10-21,Naji Marshall,DAL,HOU,A,N,28.7,16,2,6,2,24,N,14,0,2,23.8,BBR
 2026-10-23,Naji Marshall,DAL,IND,A,N,33.3,15,4,6,0,25,N,15,2,2,22.8,BBR
 2026-10-24,Naji Marshall,DAL,SAS,H,Y,20.9,10,4,5,1,19,Y,8,3,2,23.3,BBR
@@ -3383,7 +3384,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-08,Nic Claxton,CHI,PHI,H,N,17.7,4,4,4,0,12,N,3,0,1,9.8,BBR
 2026-11-11,Nic Claxton,CHI,SAS,H,N,15.7,17,6,1,0,24,N,6,9,0,29.7,BBR
 2026-11-13,Nic Claxton,CHI,ATL,H,N,21.6,2,6,2,0,10,N,3,0,1,7.8,BBR
-2026-11-16,Nic Claxton,CHI,CLE,A,N,17,8,2,1,0,11,N,6,2,1,,ESPN
+2026-11-16,Nic Claxton,CHI,CLE,A,N,16.6,8,2,1,0,11,N,6,2,1,19.1,BBR
 2026-10-21,Nick Martinelli,LAC,SAC,H,N,2.0,0,1,1,0,2,N,1,0,0,21.5,BBR
 2026-10-28,Nick Martinelli,LAC,LAL,H,N,6.0,2,3,1,0,6,N,2,0,1,21.7,BBR
 2026-10-30,Nick Martinelli,LAC,MIN,A,N,5.3,3,0,0,0,3,N,2,1,1,27.4,BBR
@@ -3394,7 +3395,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-10-30,Nick Richards,MIA,IND,H,N,1.9,0,0,0,0,0,N,0,0,1,21.2,BBR
 2026-11-02,Nick Richards,MIA,LAL,A,N,1.4,0,1,0,0,1,N,0,0,0,0.0,BBR
 2026-11-05,Nick Richards,MIA,GSW,A,Y,1.1,0,0,0,0,0,N,0,0,0,0.0,BBR
-2026-11-16,Nick Richards,MIA,HOU,H,N,3,0,0,0,0,0,N,0,0,0,,ESPN
+2026-11-16,Nick Richards,MIA,HOU,H,N,2.9,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-21,Nickeil Alexander-Walker,ATL,ORL,A,N,29.7,31,4,3,5,38,Y,15,13,2,29.9,BBR
 2026-10-23,Nickeil Alexander-Walker,ATL,CHA,A,N,27.4,14,3,5,2,22,Y,12,2,2,22.2,BBR
 2026-10-24,Nickeil Alexander-Walker,ATL,HOU,H,Y,32.4,18,5,4,4,27,Y,16,1,1,21.7,BBR
@@ -3420,7 +3421,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Nikola Jokic,DEN,HOU,A,N,38.6,25,16,9,1,50,Y,21,2,3,29.2,BBR
 2026-11-11,Nikola Jokic,DEN,MEM,A,N,36.9,27,11,8,1,46,Y,16,8,1,24.0,BBR
 2026-11-14,Nikola Jokic,DEN,NOP,A,N,37.1,26,8,10,1,44,Y,14,7,4,24.7,BBR
-2026-11-16,Nikola Jokic,DEN,PHX,H,N,38,28,15,7,2,50,Y,21,2,7,,ESPN
+2026-11-16,Nikola Jokic,DEN,PHX,H,N,38.0,28,15,7,2,50,Y,21,2,7,33.4,BBR
 2026-10-21,Nikola Jovic,MIA,MIN,H,N,24.0,4,4,2,0,10,N,8,0,2,17.9,BBR
 2026-10-23,Nikola Jovic,MIA,DET,H,N,13.5,5,4,1,0,10,N,1,4,0,7.8,BBR
 2026-10-24,Nikola Jovic,MIA,CHA,A,Y,6.3,0,2,0,0,2,N,1,0,0,6.9,BBR
@@ -3466,7 +3467,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Noa Essengue,CHI,SAS,H,N,11.5,8,4,3,1,15,N,5,1,0,22.1,BBR
 2026-11-13,Noa Essengue,CHI,ATL,H,N,7.9,5,1,1,1,7,N,2,0,0,10.7,BBR
 2026-11-14,Noa Essengue,CHI,MIN,A,Y,7.0,0,1,0,0,1,N,1,0,0,5.9,BBR
-2026-11-16,Noa Essengue,CHI,CLE,A,N,14,1,2,1,0,4,N,4,2,0,,ESPN
+2026-11-16,Noa Essengue,CHI,CLE,A,N,14.0,1,2,1,0,4,N,4,2,0,14.0,BBR
 2026-10-21,Noah Clowney,BKN,CHA,H,N,21.5,9,3,1,1,13,N,3,2,0,7.7,BBR
 2026-10-24,Noah Clowney,BKN,CLE,A,N,19.6,4,4,0,1,8,N,6,2,1,14.9,BBR
 2026-10-25,Noah Clowney,BKN,IND,H,Y,20.2,9,5,1,1,15,N,6,8,1,21.3,BBR
@@ -3479,7 +3480,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-08,Noah Clowney,BKN,DAL,A,Y,7.8,2,0,0,0,2,N,3,0,1,22.6,BBR
 2026-11-11,Noah Clowney,BKN,NOP,A,N,18.6,16,3,0,2,19,N,7,5,1,23.4,BBR
 2026-11-14,Noah Clowney,BKN,MEM,A,N,35.0,15,7,3,3,25,Y,14,0,2,18.8,BBR
-2026-11-16,Noah Clowney,BKN,PHI,H,N,24,9,3,3,1,15,N,6,3,0,,ESPN
+2026-11-16,Noah Clowney,BKN,PHI,H,N,24.3,9,3,3,1,15,N,6,3,0,12.7,BBR
 2026-10-21,Nolan Traore,BKN,CHA,H,N,15.5,3,2,0,0,5,N,4,4,2,21.2,BBR
 2026-10-24,Nolan Traore,BKN,CLE,A,N,5.3,3,2,0,0,5,N,2,2,1,27.4,BBR
 2026-10-25,Nolan Traore,BKN,IND,H,Y,24.7,17,2,5,2,24,N,11,3,2,23.7,BBR
@@ -3491,11 +3492,11 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-07,Nolan Traore,BKN,ATL,A,N,22.9,19,1,2,2,22,Y,10,2,1,20.1,BBR
 2026-11-08,Nolan Traore,BKN,DAL,A,Y,21.4,14,1,2,2,17,Y,15,0,1,32.8,BBR
 2026-11-14,Nolan Traore,BKN,MEM,A,N,19.8,11,1,2,0,14,N,13,2,1,31.0,BBR
-2026-11-16,Nolan Traore,BKN,PHI,H,N,30,23,1,4,2,28,Y,12,8,2,,ESPN
+2026-11-16,Nolan Traore,BKN,PHI,H,N,29.9,23,1,4,2,28,Y,12,8,2,24.6,BBR
 2026-11-06,Norchad Omier,CLE,PHI,H,N,3.4,0,2,1,0,3,N,0,0,0,0.0,BBR
 2026-11-09,Norchad Omier,CLE,CHA,A,N,12.0,0,3,2,0,5,N,1,0,0,3.8,BBR
 2026-11-14,Norchad Omier,CLE,DAL,H,Y,26.8,13,8,2,1,23,N,5,2,1,10.7,BBR
-2026-11-16,Norchad Omier,CLE,CHI,H,N,13,4,6,2,0,12,N,4,0,0,,ESPN
+2026-11-16,Norchad Omier,CLE,CHI,H,N,12.9,4,6,2,0,12,N,4,0,0,11.7,BBR
 2026-10-21,Norman Powell,CHI,TOR,A,N,22.2,15,5,1,2,21,Y,9,11,1,24.1,BBR
 2026-10-23,Norman Powell,CHI,MIL,A,N,32.5,25,4,1,2,30,Y,20,9,1,29.4,BBR
 2026-10-24,Norman Powell,CHI,WAS,H,Y,32.5,18,2,3,3,23,Y,12,7,4,23.8,BBR
@@ -3506,7 +3507,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-04,Norman Powell,CHI,NYK,A,N,22.1,12,1,1,0,14,Y,12,7,2,31.0,BBR
 2026-11-13,Norman Powell,CHI,ATL,H,N,31.1,33,5,2,4,40,Y,19,6,3,33.5,BBR
 2026-11-14,Norman Powell,CHI,MIN,A,Y,30.1,24,5,3,3,32,Y,19,2,4,32.6,BBR
-2026-11-16,Norman Powell,CHI,CLE,A,N,33,27,2,6,0,35,Y,18,11,4,,ESPN
+2026-11-16,Norman Powell,CHI,CLE,A,N,33.0,27,2,6,0,35,Y,18,11,4,32.8,BBR
 2026-10-20,OG Anunoby,NYK,PHI,H,N,31.6,10,5,0,1,15,Y,12,3,2,19.3,BBR
 2026-10-23,OG Anunoby,NYK,BOS,A,N,33.6,20,10,8,2,38,Y,11,10,3,24.5,BBR
 2026-10-25,OG Anunoby,NYK,ORL,H,N,35.0,22,3,2,3,27,Y,11,9,2,19.4,BBR
@@ -3538,7 +3539,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Olivier-Maxence Prosper,MEM,TOR,A,N,0.8,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-11-13,Olivier-Maxence Prosper,MEM,NOP,A,N,2.4,6,1,0,0,7,N,1,6,0,61.0,BBR
 2026-11-14,Olivier-Maxence Prosper,MEM,BKN,H,Y,20.1,11,4,0,2,15,N,7,1,0,15.7,BBR
-2026-11-16,Olivier-Maxence Prosper,MEM,WAS,A,N,16,12,0,1,1,13,N,4,3,0,,ESPN
+2026-11-16,Olivier-Maxence Prosper,MEM,WAS,A,N,16.0,12,0,1,1,13,N,4,3,0,13.1,BBR
 2026-10-21,Onyeka Okongwu,ATL,ORL,A,N,29.3,8,5,7,0,20,Y,8,2,2,14.5,BBR
 2026-10-23,Onyeka Okongwu,ATL,CHA,A,N,21.7,10,4,1,2,15,Y,8,0,0,15.1,BBR
 2026-10-24,Onyeka Okongwu,ATL,HOU,H,Y,26.0,8,6,2,0,16,Y,8,5,1,17.3,BBR
@@ -3562,7 +3563,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Oscar Tshiebwe,HOU,GSW,H,N,1.1,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-11-13,Oscar Tshiebwe,HOU,UTA,H,N,6.0,0,5,0,0,5,N,1,0,1,14.2,BBR
 2026-11-15,Oscar Tshiebwe,HOU,WAS,A,N,12.0,4,9,3,0,16,N,3,0,0,10.1,BBR
-2026-11-16,Oscar Tshiebwe,HOU,MIA,A,Y,6,6,6,0,0,12,N,5,2,1,,ESPN
+2026-11-16,Oscar Tshiebwe,HOU,MIA,A,Y,6.3,6,6,0,0,12,N,5,2,1,44.0,BBR
 2026-10-21,Oso Ighodaro,PHX,POR,A,N,14.6,8,3,3,0,14,N,7,2,0,23.5,BBR
 2026-10-30,Oso Ighodaro,PHX,DEN,H,N,20.9,2,9,5,0,16,N,3,0,4,14.1,BBR
 2026-11-02,Oso Ighodaro,PHX,GSW,A,N,24.4,14,2,2,0,18,N,6,2,3,17.2,BBR
@@ -3573,7 +3574,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Oso Ighodaro,PHX,LAC,H,Y,20.3,6,7,2,0,15,Y,8,0,2,20.4,BBR
 2026-11-12,Oso Ighodaro,PHX,CHA,H,N,31.5,2,3,7,0,12,Y,2,2,0,4.1,BBR
 2026-11-15,Oso Ighodaro,PHX,LAL,H,N,17.0,4,2,3,0,9,Y,3,0,2,11.5,BBR
-2026-11-16,Oso Ighodaro,PHX,DEN,A,Y,33,8,11,3,0,22,Y,5,8,2,,ESPN
+2026-11-16,Oso Ighodaro,PHX,DEN,A,Y,33.0,8,11,3,0,22,Y,5,8,2,13.2,BBR
 2026-10-21,Ousmane Dieng,MIL,WAS,A,N,21.1,5,4,3,1,12,N,6,0,1,13.6,BBR
 2026-10-23,Ousmane Dieng,MIL,CHI,H,N,16.0,3,1,1,0,5,N,3,2,0,9.5,BBR
 2026-10-26,Ousmane Dieng,MIL,IND,H,N,2.8,0,0,0,0,0,N,1,0,0,14.4,BBR
@@ -3628,7 +3629,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Patrick Williams,CHI,SAS,H,N,28.4,9,7,4,0,20,N,4,1,0,7.3,BBR
 2026-11-13,Patrick Williams,CHI,ATL,H,N,24.4,13,4,2,4,19,N,7,2,2,17.1,BBR
 2026-11-14,Patrick Williams,CHI,MIN,A,Y,25.7,14,5,1,2,20,N,9,2,1,17.4,BBR
-2026-11-16,Patrick Williams,CHI,CLE,A,N,13,0,0,0,0,0,N,2,0,2,,ESPN
+2026-11-16,Patrick Williams,CHI,CLE,A,N,12.9,0,0,0,0,0,N,2,0,2,12.4,BBR
 2026-10-20,Paul George,BOS,DET,A,N,30.6,38,5,3,7,46,Y,21,8,3,38.8,BBR
 2026-10-23,Paul George,BOS,NYK,H,N,33.6,15,7,2,3,24,Y,15,0,1,21.7,BBR
 2026-10-26,Paul George,BOS,CHI,H,N,25.1,16,5,2,3,23,Y,14,4,4,28.9,BBR
@@ -3640,7 +3641,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-08,Paul George,BOS,MIL,A,N,28.1,27,3,1,5,31,Y,18,0,2,31.0,BBR
 2026-11-10,Paul George,BOS,PHI,A,N,30.1,36,5,1,6,42,Y,22,2,1,35.8,BBR
 2026-11-15,Paul George,BOS,DAL,H,N,24.9,7,7,6,1,20,Y,11,0,2,21.8,BBR
-2026-11-16,Paul George,BOS,ORL,H,Y,36,22,8,3,5,33,Y,13,6,1,,ESPN
+2026-11-16,Paul George,BOS,ORL,H,Y,36.1,22,8,3,5,33,Y,13,6,1,20.2,BBR
 2026-10-20,Paul Reed,DET,BOS,H,N,16.7,6,6,2,0,14,N,3,2,2,14.4,BBR
 2026-10-23,Paul Reed,DET,MIA,A,N,26.3,19,11,3,2,33,N,11,1,0,17.7,BBR
 2026-10-25,Paul Reed,DET,PHI,A,N,23.2,8,8,2,0,18,Y,9,2,3,23.1,BBR
@@ -3666,7 +3667,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Payton Pritchard,BOS,PHI,A,N,29.8,18,6,5,4,29,N,15,0,0,22.8,BBR
 2026-11-11,Payton Pritchard,BOS,TOR,A,Y,31.2,14,1,1,2,16,N,13,2,5,28.1,BBR
 2026-11-15,Payton Pritchard,BOS,DAL,H,N,18.9,10,1,6,2,17,N,9,0,0,19.8,BBR
-2026-11-16,Payton Pritchard,BOS,ORL,H,Y,32,21,4,5,4,30,N,16,3,0,,ESPN
+2026-11-16,Payton Pritchard,BOS,ORL,H,Y,31.7,21,4,5,4,30,N,16,3,0,24.0,BBR
 2026-10-21,Pelle Larsson,MIA,MIN,H,N,23.9,2,3,4,0,9,N,2,2,0,5.2,BBR
 2026-10-23,Pelle Larsson,MIA,DET,H,N,29.3,7,2,1,1,10,N,7,4,1,12.7,BBR
 2026-10-24,Pelle Larsson,MIA,CHA,A,Y,36.1,15,7,4,1,26,N,9,4,2,15.4,BBR
@@ -3690,7 +3691,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Peyton Watson,CLE,CHA,A,N,20.6,13,2,1,2,16,Y,9,2,2,26.7,BBR
 2026-11-11,Peyton Watson,CLE,NYK,A,N,30.1,7,5,4,2,16,Y,12,2,0,19.4,BBR
 2026-11-13,Peyton Watson,CLE,MIA,A,N,30.4,4,4,2,0,10,Y,10,0,2,17.7,BBR
-2026-11-16,Peyton Watson,CLE,CHI,H,N,22,14,4,0,2,18,Y,10,4,3,,ESPN
+2026-11-16,Peyton Watson,CLE,CHI,H,N,21.5,14,4,0,2,18,Y,10,4,3,25.9,BBR
 2026-10-21,Precious Achiuwa,SAC,LAC,A,N,28.7,15,5,2,1,22,N,8,5,1,16.4,BBR
 2026-10-23,Precious Achiuwa,SAC,POR,H,N,26.1,14,6,1,0,21,N,11,0,1,18.7,BBR
 2026-10-25,Precious Achiuwa,SAC,MEM,H,N,38.9,12,10,0,0,22,Y,13,6,0,16.4,BBR
@@ -3736,7 +3737,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-04,Quinten Post,MEM,IND,H,N,11.1,2,1,0,0,3,N,3,0,1,14.8,BBR
 2026-11-06,Quinten Post,MEM,OKC,H,N,15.0,0,2,0,0,2,N,7,0,0,18.8,BBR
 2026-11-09,Quinten Post,MEM,TOR,A,N,1.9,0,1,0,0,1,N,0,0,0,0.0,BBR
-2026-11-16,Quinten Post,MEM,WAS,A,N,9,5,3,0,0,8,N,4,2,0,,ESPN
+2026-11-16,Quinten Post,MEM,WAS,A,N,8.5,5,3,0,0,8,N,4,2,0,22.6,BBR
 2026-10-21,RJ Barrett,TOR,CHI,H,N,26.2,20,4,3,0,27,Y,14,7,1,25.6,BBR
 2026-10-23,RJ Barrett,TOR,WAS,A,N,33.9,23,9,4,1,36,Y,16,5,0,20.2,BBR
 2026-10-25,RJ Barrett,TOR,MIN,A,N,32.3,20,2,2,0,24,Y,21,5,1,30.6,BBR
@@ -3758,6 +3759,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-15,RayJ Dennis,ATL,MIL,A,N,9.5,6,1,3,1,10,N,6,1,0,27.3,BBR
 2026-11-02,Rayan Rupert,PHI,CHI,H,N,2.0,2,2,0,0,4,N,1,0,0,20.0,BBR
 2026-11-10,Rayan Rupert,PHI,BOS,H,N,5.6,0,1,1,0,2,N,2,0,0,16.3,BBR
+2026-11-16,Rayan Rupert,PHI,BKN,A,Y,0.3,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-23,Reece Beekman,WAS,TOR,H,N,1.0,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-21,Reed Sheppard,HOU,DAL,H,N,15.8,3,2,4,1,9,N,6,0,3,23.9,BBR
 2026-10-24,Reed Sheppard,HOU,ATL,A,Y,30.3,19,6,7,5,32,Y,13,0,3,22.0,BBR
@@ -3770,22 +3772,22 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Reed Sheppard,HOU,GSW,H,N,20.3,13,1,1,3,15,N,9,0,1,22.0,BBR
 2026-11-13,Reed Sheppard,HOU,UTA,H,N,19.1,0,0,3,0,3,N,7,0,0,15.4,BBR
 2026-11-15,Reed Sheppard,HOU,WAS,A,N,25.6,11,1,6,3,18,N,9,0,1,15.7,BBR
-2026-11-16,Reed Sheppard,HOU,MIA,A,Y,19,5,2,2,1,9,N,8,1,1,,ESPN
+2026-11-16,Reed Sheppard,HOU,MIA,A,Y,18.9,5,2,2,1,9,N,8,1,1,20.2,BBR
 2026-10-31,Riley Minix,CLE,MIL,A,N,5.8,0,3,0,0,3,N,3,0,0,20.8,BBR
 2026-11-07,Riley Minix,CLE,NYK,H,Y,10.1,8,3,0,2,11,N,4,0,0,18.7,BBR
 2026-11-09,Riley Minix,CLE,CHA,A,N,16.6,2,2,0,0,4,N,4,0,0,11.1,BBR
 2026-11-14,Riley Minix,CLE,DAL,H,Y,22.2,2,0,0,0,2,N,6,0,0,11.3,BBR
-2026-10-21,Robert Williams III,POR,PHX,H,N,15.3,2,10,1,0,13,N,3,0,0,7.9,BBR
-2026-10-23,Robert Williams III,POR,SAC,A,N,18.0,13,6,0,0,19,N,6,2,2,19.8,BBR
-2026-10-27,Robert Williams III,POR,LAL,A,N,20.9,14,10,1,0,25,N,8,2,0,18.5,BBR
-2026-10-31,Robert Williams III,POR,UTA,A,N,14.2,3,3,1,0,7,N,2,2,1,11.6,BBR
-2026-11-02,Robert Williams III,POR,DEN,A,N,15.3,2,6,2,0,10,N,4,0,1,13.4,BBR
-2026-11-04,Robert Williams III,POR,PHX,A,N,15.9,9,8,1,0,18,N,8,1,1,23.4,BBR
-2026-11-06,Robert Williams III,POR,LAL,A,N,16.5,9,5,2,0,16,N,5,1,1,17.0,BBR
-2026-11-10,Robert Williams III,POR,OKC,H,N,14.6,6,4,0,0,10,N,3,0,1,11.8,BBR
-2026-11-11,Robert Williams III,POR,OKC,H,Y,17.4,10,7,0,0,17,N,4,4,1,16.8,BBR
-2026-11-13,Robert Williams III,POR,SAC,A,N,16.6,2,7,1,0,10,N,2,0,1,8.0,BBR
-2026-11-16,Robert Williams III,POR,MIN,A,N,15,2,5,2,0,9,N,4,0,0,,ESPN
+2026-10-21,Robert Williams,POR,PHX,H,N,15.3,2,10,1,0,13,N,3,0,0,7.9,BBR
+2026-10-23,Robert Williams,POR,SAC,A,N,18.0,13,6,0,0,19,N,6,2,2,19.8,BBR
+2026-10-27,Robert Williams,POR,LAL,A,N,20.9,14,10,1,0,25,N,8,2,0,18.5,BBR
+2026-10-31,Robert Williams,POR,UTA,A,N,14.2,3,3,1,0,7,N,2,2,1,11.6,BBR
+2026-11-02,Robert Williams,POR,DEN,A,N,15.3,2,6,2,0,10,N,4,0,1,13.4,BBR
+2026-11-04,Robert Williams,POR,PHX,A,N,15.9,9,8,1,0,18,N,8,1,1,23.4,BBR
+2026-11-06,Robert Williams,POR,LAL,A,N,16.5,9,5,2,0,16,N,5,1,1,17.0,BBR
+2026-11-10,Robert Williams,POR,OKC,H,N,14.6,6,4,0,0,10,N,3,0,1,11.8,BBR
+2026-11-11,Robert Williams,POR,OKC,H,Y,17.4,10,7,0,0,17,N,4,4,1,16.8,BBR
+2026-11-13,Robert Williams,POR,SAC,A,N,16.6,2,7,1,0,10,N,2,0,1,8.0,BBR
+2026-11-16,Robert Williams,POR,MIN,A,N,15.5,2,5,2,0,9,N,4,0,0,10.7,BBR
 2026-11-08,Rocco Zikarsky,MIN,UTA,H,N,1.7,0,1,0,0,1,N,0,0,1,24.5,BBR
 2026-10-26,Ron Harper Jr.,BOS,CHI,H,N,6.9,3,1,0,1,4,N,4,0,0,21.3,BBR
 2026-10-30,Ron Harper Jr.,BOS,CHI,H,N,2.9,0,0,0,0,0,N,0,0,1,14.3,BBR
@@ -3831,7 +3833,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-08,Rudy Gobert,MIN,UTA,H,N,30.6,10,15,2,0,27,Y,4,4,3,12.2,BBR
 2026-11-12,Rudy Gobert,MIN,DAL,H,N,23.2,9,6,1,0,16,Y,6,1,1,13.3,BBR
 2026-11-14,Rudy Gobert,MIN,CHI,H,N,26.9,1,10,4,0,15,Y,7,2,1,13.4,BBR
-2026-11-16,Rudy Gobert,MIN,POR,H,N,32,18,15,3,0,36,Y,10,14,2,,ESPN
+2026-11-16,Rudy Gobert,MIN,POR,H,N,32.0,18,15,4,0,37,Y,10,14,2,23.2,BBR
 2026-10-21,Rui Hachimura,LAC,SAC,H,N,31.6,10,8,2,2,20,Y,13,5,3,24.4,BBR
 2026-10-23,Rui Hachimura,LAC,LAL,A,N,33.3,16,6,1,3,23,Y,14,4,2,21.4,BBR
 2026-10-25,Rui Hachimura,LAC,OKC,A,N,28.8,5,4,0,1,9,Y,11,0,3,20.6,BBR
@@ -3853,7 +3855,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Ryan Conwell,MIA,UTA,A,N,21.1,5,4,2,1,11,N,7,2,0,15.4,BBR
 2026-11-13,Ryan Conwell,MIA,CLE,H,N,32.8,20,5,2,4,27,N,12,4,2,20.4,BBR
 2026-11-14,Ryan Conwell,MIA,DET,H,Y,25.8,9,4,1,2,14,N,10,2,1,18.6,BBR
-2026-11-16,Ryan Conwell,MIA,HOU,H,N,30,14,2,3,1,19,N,10,8,2,,ESPN
+2026-11-16,Ryan Conwell,MIA,HOU,H,N,30.4,14,2,3,1,19,N,10,8,2,21.8,BBR
 2026-10-21,Ryan Dunn,PHX,POR,A,N,14.2,3,3,0,0,6,N,1,4,0,8.5,BBR
 2026-10-24,Ryan Dunn,PHX,GSW,H,N,12.8,5,5,0,1,10,N,3,0,1,13.3,BBR
 2026-10-26,Ryan Dunn,PHX,OKC,A,N,13.5,6,2,1,1,9,N,4,2,1,18.2,BBR
@@ -3866,7 +3868,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Ryan Dunn,PHX,LAC,H,Y,25.3,10,8,2,1,20,N,5,2,1,11.3,BBR
 2026-11-12,Ryan Dunn,PHX,CHA,H,N,10.1,0,4,0,0,4,N,2,0,0,8.9,BBR
 2026-11-15,Ryan Dunn,PHX,LAL,H,N,24.0,3,6,1,1,10,N,3,0,1,6.6,BBR
-2026-11-16,Ryan Dunn,PHX,DEN,A,Y,12,5,1,0,1,6,N,3,0,1,,ESPN
+2026-11-16,Ryan Dunn,PHX,DEN,A,Y,11.6,5,1,0,1,6,N,3,0,1,14.3,BBR
 2026-10-21,Ryan Kalkbrenner,CHA,BKN,A,N,14.0,4,5,3,0,12,N,3,0,1,11.4,BBR
 2026-10-23,Ryan Kalkbrenner,CHA,ATL,H,N,19.1,6,7,1,0,14,N,4,0,1,10.5,BBR
 2026-10-24,Ryan Kalkbrenner,CHA,MIA,H,Y,22.6,6,5,2,0,13,N,2,2,1,7.2,BBR
@@ -3910,7 +3912,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Saddiq Bey,NOP,BKN,H,N,28.9,15,1,2,3,18,N,11,3,0,18.6,BBR
 2026-11-13,Saddiq Bey,NOP,MEM,H,N,34.9,30,10,0,6,40,Y,20,3,0,24.8,BBR
 2026-11-14,Saddiq Bey,NOP,DEN,H,Y,40.5,16,6,4,2,26,Y,15,6,0,18.2,BBR
-2026-11-16,Saddiq Bey,NOP,GSW,H,N,33,23,6,3,5,32,Y,15,2,0,,ESPN
+2026-11-16,Saddiq Bey,NOP,GSW,H,N,32.6,23,6,3,5,32,Y,15,2,0,19.7,BBR
 2026-10-20,Sam Hauser,BOS,DET,A,N,18.2,11,4,1,3,16,N,7,0,0,16.6,BBR
 2026-10-23,Sam Hauser,BOS,NYK,H,N,22.7,6,2,2,2,10,N,5,0,0,10.1,BBR
 2026-10-26,Sam Hauser,BOS,CHI,H,N,20.3,11,4,1,3,16,N,7,0,0,12.7,BBR
@@ -3924,7 +3926,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Sam Hauser,BOS,PHI,A,N,17.7,12,4,2,4,18,N,6,0,0,15.3,BBR
 2026-11-11,Sam Hauser,BOS,TOR,A,Y,24.4,8,9,0,2,17,N,6,2,1,15.0,BBR
 2026-11-15,Sam Hauser,BOS,DAL,H,N,10.8,8,1,0,2,9,N,4,0,0,15.4,BBR
-2026-11-16,Sam Hauser,BOS,ORL,H,Y,25,12,1,2,4,15,N,6,0,0,,ESPN
+2026-11-16,Sam Hauser,BOS,ORL,H,Y,24.9,12,1,2,4,15,N,6,0,0,10.6,BBR
 2026-10-22,Sam Merrill,CLE,PHI,A,N,24.3,5,5,2,1,12,N,5,0,0,8.2,BBR
 2026-10-24,Sam Merrill,CLE,BKN,H,N,21.1,7,2,3,1,12,N,4,2,0,9.3,BBR
 2026-10-26,Sam Merrill,CLE,MIN,H,N,30.6,9,4,2,1,15,N,8,2,0,12.4,BBR
@@ -3965,7 +3967,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Scoot Henderson,POR,OKC,H,N,22.7,11,1,4,3,16,N,12,2,1,26.4,BBR
 2026-11-11,Scoot Henderson,POR,OKC,H,Y,19.0,5,2,2,1,9,N,7,0,2,20.6,BBR
 2026-11-13,Scoot Henderson,POR,SAC,A,N,23.0,11,0,1,2,12,N,10,5,0,23.7,BBR
-2026-11-16,Scoot Henderson,POR,MIN,A,N,23,10,1,0,0,11,N,11,2,1,,ESPN
+2026-11-16,Scoot Henderson,POR,MIN,A,N,22.7,10,1,0,0,11,N,11,2,1,23.6,BBR
 2026-10-21,Scottie Barnes,TOR,CHI,H,N,26.0,23,6,5,1,34,Y,19,6,1,32.3,BBR
 2026-10-23,Scottie Barnes,TOR,WAS,A,N,36.6,28,14,5,1,47,Y,26,3,8,36.4,BBR
 2026-10-25,Scottie Barnes,TOR,MIN,A,N,27.9,0,3,3,0,6,Y,12,0,3,22.0,BBR
@@ -4010,7 +4012,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Sidy Cissoko,POR,OKC,H,N,33.5,17,3,3,3,23,Y,14,4,0,20.3,BBR
 2026-11-11,Sidy Cissoko,POR,OKC,H,Y,28.6,19,2,0,4,21,Y,9,4,2,19.4,BBR
 2026-11-13,Sidy Cissoko,POR,SAC,A,N,25.6,3,4,1,1,8,Y,5,0,0,8.7,BBR
-2026-11-16,Sidy Cissoko,POR,MIN,A,N,28,5,4,3,1,12,Y,5,0,2,,ESPN
+2026-11-16,Sidy Cissoko,POR,MIN,A,N,27.6,5,4,3,1,12,Y,5,0,2,10.5,BBR
 2026-10-21,Simone Fontecchio,MIA,MIN,H,N,3.2,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-23,Simone Fontecchio,MIA,DET,H,N,2.5,0,1,0,0,1,N,3,0,0,44.7,BBR
 2026-10-30,Simone Fontecchio,MIA,IND,H,N,1.9,3,1,0,1,4,N,2,0,0,42.4,BBR
@@ -4018,7 +4020,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Simone Fontecchio,MIA,UTA,A,N,7.1,3,0,0,0,3,N,3,3,0,25.0,BBR
 2026-11-13,Simone Fontecchio,MIA,CLE,H,N,7.4,0,0,2,0,2,N,0,0,1,5.7,BBR
 2026-11-14,Simone Fontecchio,MIA,DET,H,Y,14.2,7,5,0,1,12,N,4,2,1,16.8,BBR
-2026-11-16,Simone Fontecchio,MIA,HOU,H,N,19,10,6,2,2,18,N,10,0,1,,ESPN
+2026-11-16,Simone Fontecchio,MIA,HOU,H,N,19.1,10,6,2,2,18,N,10,0,1,24.6,BBR
 2026-10-21,Sion James,CHA,BKN,A,N,26.8,3,3,0,1,6,Y,7,0,1,11.9,BBR
 2026-10-23,Sion James,CHA,ATL,H,N,23.7,3,2,5,1,10,Y,7,0,1,13.6,BBR
 2026-10-24,Sion James,CHA,MIA,H,Y,26.0,0,5,5,0,10,Y,3,0,1,6.4,BBR
@@ -4036,7 +4038,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Spencer Jones,DEN,HOU,A,N,13.9,0,0,1,0,1,N,3,0,0,9.8,BBR
 2026-11-11,Spencer Jones,DEN,MEM,A,N,21.6,3,1,0,1,4,N,3,0,1,8.0,BBR
 2026-11-14,Spencer Jones,DEN,NOP,A,N,11.5,4,2,1,0,7,N,3,0,0,11.4,BBR
-2026-11-16,Spencer Jones,DEN,PHX,H,N,21,4,3,3,1,10,N,3,2,1,,ESPN
+2026-11-16,Spencer Jones,DEN,PHX,H,N,21.4,4,3,3,1,10,N,3,2,1,10.0,BBR
 2026-10-21,Stephen Curry,GSW,LAL,A,N,21.2,23,2,1,2,26,Y,15,7,2,38.0,BBR
 2026-10-23,Stephen Curry,GSW,MEM,H,N,29.8,24,2,4,3,30,Y,15,11,0,27.9,BBR
 2026-10-26,Stephen Curry,GSW,DEN,A,N,26.6,24,3,3,3,30,Y,8,5,3,21.2,BBR
@@ -4085,6 +4087,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-06,Tacko Fall,PHI,CLE,A,N,3.4,0,1,0,0,1,N,0,0,0,0.0,BBR
 2026-11-12,Tacko Fall,PHI,TOR,H,N,0.9,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-11-15,Tacko Fall,PHI,IND,H,N,4.8,0,3,0,0,3,N,0,0,0,0.0,BBR
+2026-11-16,Tacko Fall,PHI,BKN,A,Y,0.3,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-21,Tari Eason,HOU,DAL,H,N,3.1,2,1,0,0,3,N,2,0,0,27.1,BBR
 2026-10-23,Tari Eason,HOU,SAS,A,N,26.6,12,6,0,0,18,N,8,4,1,18.2,BBR
 2026-10-24,Tari Eason,HOU,ATL,A,Y,30.5,19,3,0,0,22,N,15,3,1,23.7,BBR
@@ -4099,7 +4102,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Tari Eason,HOU,GSW,H,N,22.4,6,3,0,0,9,N,11,2,1,25.8,BBR
 2026-11-13,Tari Eason,HOU,UTA,H,N,33.3,14,11,2,2,27,N,13,0,1,17.7,BBR
 2026-11-15,Tari Eason,HOU,WAS,A,N,30.1,25,7,1,3,33,N,14,3,1,21.9,BBR
-2026-11-16,Tari Eason,HOU,MIA,A,Y,27,7,7,3,0,17,Y,8,3,3,,ESPN
+2026-11-16,Tari Eason,HOU,MIA,A,Y,27.5,7,7,3,0,17,Y,8,3,3,18.1,BBR
 2026-10-20,Tarris Reed Jr.,SAS,OKC,H,N,1.2,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-24,Tarris Reed Jr.,SAS,DAL,A,Y,6.7,2,3,0,0,5,N,2,0,1,18.0,BBR
 2026-10-27,Tarris Reed Jr.,SAS,SAC,H,N,4.7,4,5,0,0,9,N,2,0,2,36.7,BBR
@@ -4120,7 +4123,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Taylor Hendricks,MEM,DEN,H,N,11.0,7,2,1,1,10,N,1,4,0,11.0,BBR
 2026-11-13,Taylor Hendricks,MEM,NOP,A,N,18.7,10,12,2,2,24,N,5,3,1,15.5,BBR
 2026-11-14,Taylor Hendricks,MEM,BKN,H,Y,29.0,22,5,4,0,31,N,13,6,2,25.7,BBR
-2026-11-16,Taylor Hendricks,MEM,WAS,A,N,19,9,3,0,1,12,N,6,0,3,,ESPN
+2026-11-16,Taylor Hendricks,MEM,WAS,A,N,18.5,9,3,0,1,12,N,6,0,3,19.2,BBR
 2026-10-30,Terance Mann,BKN,DET,H,N,12.0,2,0,2,0,4,N,1,0,0,3.6,BBR
 2026-11-01,Terance Mann,BKN,IND,A,N,14.9,0,1,1,0,2,N,1,0,0,3.1,BBR
 2026-11-04,Terance Mann,BKN,CHA,H,N,15.8,0,2,2,0,4,N,4,0,0,11.8,BBR
@@ -4138,7 +4141,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-08,Terrence Shannon Jr.,MIN,UTA,H,N,18.1,5,3,3,0,11,N,7,4,0,20.5,BBR
 2026-11-12,Terrence Shannon Jr.,MIN,DAL,H,N,21.1,6,2,4,0,12,N,8,0,1,17.7,BBR
 2026-11-14,Terrence Shannon Jr.,MIN,CHI,H,N,21.8,14,6,0,0,20,N,9,3,4,26.7,BBR
-2026-11-16,Terrence Shannon Jr.,MIN,POR,H,N,35,34,3,6,3,43,N,11,16,4,,ESPN
+2026-11-16,Terrence Shannon Jr.,MIN,POR,H,N,35.2,34,3,6,3,43,N,11,16,4,25.7,BBR
 2026-10-31,Thomas Bryant,CLE,MIL,A,N,10.8,11,2,0,3,13,N,7,2,0,29.1,BBR
 2026-11-02,Thomas Bryant,CLE,OKC,H,N,4.9,4,0,0,0,4,N,5,1,0,49.1,BBR
 2026-11-04,Thomas Bryant,CLE,OKC,A,N,12.8,8,0,0,1,8,N,4,6,0,21.6,BBR
@@ -4147,7 +4150,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Thomas Bryant,CLE,CHA,A,N,15.2,11,2,0,2,13,N,5,3,0,19.2,BBR
 2026-11-13,Thomas Bryant,CLE,MIA,A,N,16.3,9,1,1,0,11,N,8,5,0,28.0,BBR
 2026-11-14,Thomas Bryant,CLE,DAL,H,Y,27.4,19,11,3,2,33,Y,12,4,1,22.5,BBR
-2026-11-16,Thomas Bryant,CLE,CHI,H,N,18,9,5,4,0,18,N,4,1,0,,ESPN
+2026-11-16,Thomas Bryant,CLE,CHI,H,N,17.8,9,5,4,0,18,N,4,1,0,9.4,BBR
 2026-10-23,Tidjane Salaun,CHA,ATL,H,N,23.1,11,5,1,1,17,N,9,0,1,17.4,BBR
 2026-10-24,Tidjane Salaun,CHA,MIA,H,Y,9.7,3,3,0,1,6,N,2,0,0,8.6,BBR
 2026-10-26,Tidjane Salaun,CHA,WAS,H,N,15.8,5,5,0,1,10,N,6,0,0,15.7,BBR
@@ -4210,7 +4213,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Toumani Camara,POR,OKC,H,N,30.2,12,3,3,2,18,Y,9,4,0,15.3,BBR
 2026-11-11,Toumani Camara,POR,OKC,H,Y,37.9,14,5,3,2,22,Y,10,2,0,12.5,BBR
 2026-11-13,Toumani Camara,POR,SAC,A,N,35.6,14,2,1,2,17,Y,7,2,2,12.4,BBR
-2026-11-16,Toumani Camara,POR,MIN,A,N,26,3,0,0,0,3,Y,10,1,0,,ESPN
+2026-11-16,Toumani Camara,POR,MIN,A,N,25.5,3,0,0,0,3,Y,10,1,0,17.0,BBR
 2026-10-21,Trae Young,WAS,MIL,H,N,38.4,20,0,13,0,33,Y,13,16,1,22.5,BBR
 2026-10-23,Trae Young,WAS,TOR,H,N,36.9,22,1,12,4,35,Y,15,10,4,26.0,BBR
 2026-10-24,Trae Young,WAS,CHI,A,Y,33.8,25,4,9,4,38,Y,13,9,2,22.4,BBR
@@ -4225,7 +4228,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Trae Young,WAS,IND,A,N,34.2,15,3,4,3,22,Y,10,2,0,13.3,BBR
 2026-11-12,Trae Young,WAS,DET,H,Y,45.1,37,2,14,4,53,Y,23,17,4,33.4,BBR
 2026-11-15,Trae Young,WAS,HOU,H,N,26.1,0,1,8,0,9,Y,5,0,3,12.7,BBR
-2026-11-16,Trae Young,WAS,MEM,H,Y,33,13,2,12,2,27,Y,10,6,2,,ESPN
+2026-11-16,Trae Young,WAS,MEM,H,Y,33.0,13,2,12,2,27,Y,10,6,2,18.9,BBR
 2026-10-21,Trayce Jackson-Davis,TOR,CHI,H,N,9.6,9,1,0,0,10,N,5,1,0,21.1,BBR
 2026-10-23,Trayce Jackson-Davis,TOR,WAS,A,N,0.6,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-25,Trayce Jackson-Davis,TOR,MIN,A,N,6.4,3,1,1,0,5,N,1,1,1,15.6,BBR
@@ -4236,7 +4239,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-04,Trayce Jackson-Davis,TOR,DEN,A,N,3.8,1,0,0,0,1,N,0,2,0,10.2,BBR
 2026-11-09,Trayce Jackson-Davis,TOR,MEM,H,N,14.3,4,6,1,0,11,N,3,0,1,12.0,BBR
 2026-11-14,Tre Donaldson,MIA,DET,H,Y,1.4,2,0,0,0,2,N,0,2,1,55.0,BBR
-2026-11-16,Tre Donaldson,MIA,HOU,H,N,3,0,0,0,0,0,N,3,0,0,,ESPN
+2026-11-16,Tre Donaldson,MIA,HOU,H,N,2.9,0,0,0,0,0,N,3,0,0,44.6,BBR
 2026-10-21,Tre Johnson,WAS,MIL,H,N,19.3,8,1,0,0,9,N,6,2,1,16.7,BBR
 2026-10-23,Tre Johnson,WAS,TOR,H,N,25.6,20,2,0,4,22,N,14,2,1,25.4,BBR
 2026-10-24,Tre Johnson,WAS,CHI,A,Y,22.8,13,2,2,2,17,N,10,1,0,18.3,BBR
@@ -4249,7 +4252,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Tre Johnson,WAS,DET,A,N,29.2,2,2,0,0,4,N,8,0,0,10.9,BBR
 2026-11-11,Tre Johnson,WAS,IND,A,N,29.2,15,3,1,2,19,N,10,3,1,17.7,BBR
 2026-11-12,Tre Johnson,WAS,DET,H,Y,29.6,13,4,2,1,19,N,14,2,2,24.9,BBR
-2026-11-16,Tre Johnson,WAS,MEM,H,Y,21,9,1,3,2,13,N,8,2,0,,ESPN
+2026-11-16,Tre Johnson,WAS,MEM,H,Y,20.7,9,1,3,2,13,N,8,2,0,18.2,BBR
 2026-10-21,Tre Jones,CHI,TOR,A,N,13.4,13,3,0,0,16,N,8,4,0,26.4,BBR
 2026-10-23,Tre Jones,CHI,MIL,A,N,24.0,11,3,8,0,22,N,8,5,0,16.3,BBR
 2026-10-24,Tre Jones,CHI,WAS,H,Y,18.4,10,2,3,1,15,N,7,3,1,20.6,BBR
@@ -4262,14 +4265,14 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Tre Jones,CHI,SAS,H,N,28.1,13,1,3,1,17,N,11,2,2,23.1,BBR
 2026-11-13,Tre Jones,CHI,ATL,H,N,14.6,4,1,3,0,8,N,7,0,3,28.9,BBR
 2026-11-14,Tre Jones,CHI,MIN,A,Y,24.3,16,0,4,1,20,N,9,1,3,21.0,BBR
-2026-11-16,Tre Jones,CHI,CLE,A,N,23,16,2,6,0,24,N,11,4,0,,ESPN
+2026-11-16,Tre Jones,CHI,CLE,A,N,23.0,16,2,6,0,24,N,11,4,1,24.1,BBR
 2026-10-23,Tre Mann,WAS,TOR,H,N,1.0,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-30,Tre Mann,WAS,CHA,H,N,0.8,0,0,0,0,0,N,1,0,0,57.4,BBR
 2026-11-04,Tre Mann,WAS,ATL,H,N,2.7,2,0,0,0,2,N,1,0,0,16.2,BBR
 2026-11-07,Tre Mann,WAS,OKC,A,Y,17.7,2,0,2,0,4,N,5,0,1,14.0,BBR
 2026-11-09,Tre Mann,WAS,DET,A,N,1.6,0,0,0,0,0,N,1,0,0,25.5,BBR
 2026-11-15,Tre Mann,WAS,HOU,H,N,11.3,4,1,1,1,6,N,2,2,2,17.9,BBR
-2026-11-16,Tre Mann,WAS,MEM,H,Y,2,2,0,1,0,3,N,0,2,0,,ESPN
+2026-11-16,Tre Mann,WAS,MEM,H,Y,2.2,2,0,1,0,3,N,0,2,0,17.0,BBR
 2026-10-29,Trendon Watford,NOP,SAC,H,Y,17.3,8,1,2,0,11,N,3,5,1,14.4,BBR
 2026-10-31,Trendon Watford,NOP,ATL,H,N,17.9,7,4,0,0,11,N,4,4,2,17.9,BBR
 2026-11-02,Trendon Watford,NOP,MEM,A,N,15.6,4,4,1,0,9,N,3,2,0,10.8,BBR
@@ -4287,7 +4290,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Trevon Brazile,DEN,HOU,A,N,13.6,5,2,0,0,7,N,3,2,0,13.0,BBR
 2026-11-11,Trevon Brazile,DEN,MEM,A,N,12.5,7,5,0,1,12,N,4,0,0,13.8,BBR
 2026-11-14,Trevon Brazile,DEN,NOP,A,N,15.6,5,3,0,0,8,N,3,2,2,16.4,BBR
-2026-11-16,Trevon Brazile,DEN,PHX,H,N,23,9,4,0,1,13,N,5,0,0,,ESPN
+2026-11-16,Trevon Brazile,DEN,PHX,H,N,23.2,9,4,0,1,13,N,5,0,0,9.5,BBR
 2026-10-21,Trey Lyles,MIN,MIA,A,N,12.4,1,1,0,0,2,N,1,2,0,5.7,BBR
 2026-10-23,Trey Lyles,MIN,ORL,A,N,16.5,9,6,2,2,17,N,6,3,0,17.2,BBR
 2026-10-25,Trey Lyles,MIN,TOR,H,N,14.4,3,6,2,1,11,N,3,0,2,14.8,BBR
@@ -4301,7 +4304,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-08,Trey Lyles,MIN,UTA,H,N,20.7,9,6,2,1,17,N,6,3,0,15.0,BBR
 2026-11-12,Trey Lyles,MIN,DAL,H,N,15.1,2,0,0,0,2,N,1,0,0,2.8,BBR
 2026-11-14,Trey Lyles,MIN,CHI,H,N,18.8,5,1,2,0,8,N,4,4,0,12.5,BBR
-2026-11-16,Trey Lyles,MIN,POR,H,N,19,9,3,1,2,13,N,5,2,0,,ESPN
+2026-11-16,Trey Lyles,MIN,POR,H,N,19.4,9,3,1,2,13,N,5,2,0,12.4,BBR
 2026-10-21,Trey Murphy III,NOP,IND,H,N,31.6,11,4,1,2,16,Y,11,1,0,14.5,BBR
 2026-10-23,Trey Murphy III,NOP,UTA,A,N,31.4,9,6,3,1,18,Y,9,0,2,14.7,BBR
 2026-10-24,Trey Murphy III,NOP,DEN,A,Y,36.9,26,6,4,4,36,Y,17,2,4,24.1,BBR
@@ -4311,20 +4314,20 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-02,Trey Murphy III,NOP,MEM,A,N,39.8,18,5,5,3,28,Y,11,5,0,14.4,BBR
 2026-11-06,Trey Murphy III,NOP,MIN,H,N,33.9,10,4,5,1,19,Y,7,3,2,13.2,BBR
 2026-11-08,Trey Murphy III,NOP,LAC,A,N,30.4,26,7,3,4,36,Y,17,4,3,30.3,BBR
+2026-10-21,Tristan Da Silva,ORL,ATL,H,N,28.0,14,2,3,4,19,N,11,0,2,18.2,BBR
+2026-10-23,Tristan Da Silva,ORL,MIN,H,N,29.4,5,3,1,1,9,N,9,0,0,13.6,BBR
+2026-10-25,Tristan Da Silva,ORL,NYK,A,N,26.8,19,2,2,5,23,N,13,0,0,20.6,BBR
+2026-10-28,Tristan Da Silva,ORL,TOR,A,N,31.0,20,3,1,4,24,N,10,3,0,15.6,BBR
+2026-10-30,Tristan Da Silva,ORL,TOR,A,N,23.0,8,0,0,2,8,N,5,0,1,12.5,BBR
+2026-11-01,Tristan Da Silva,ORL,BOS,H,N,35.0,23,10,2,5,35,N,14,0,2,20.4,BBR
+2026-11-02,Tristan Da Silva,ORL,WAS,H,Y,32.5,10,4,3,2,17,N,14,0,4,26.0,BBR
+2026-11-05,Tristan Da Silva,ORL,PHX,A,N,30.1,18,2,1,4,21,N,15,2,3,25.8,BBR
+2026-11-07,Tristan Da Silva,ORL,GSW,A,N,39.0,19,7,2,5,28,Y,21,0,1,22.0,BBR
+2026-11-13,Tristan Da Silva,ORL,MIL,H,N,31.2,12,6,2,2,20,Y,11,2,1,18.5,BBR
+2026-11-16,Tristan Da Silva,ORL,BOS,A,N,31.2,13,6,3,3,22,N,6,3,2,13.4,BBR
 2026-10-31,Tristan Enaruna,CLE,MIL,A,N,5.8,2,1,0,0,3,N,3,0,0,20.8,BBR
 2026-11-04,Tristan Enaruna,CLE,OKC,A,N,16.0,4,4,1,0,9,N,7,0,0,18.2,BBR
 2026-11-06,Tristan Enaruna,CLE,PHI,H,N,8.1,1,0,0,0,1,N,0,2,0,4.4,BBR
-2026-10-21,Tristan da Silva,ORL,ATL,H,N,28.0,14,2,3,4,19,N,11,0,2,18.2,BBR
-2026-10-23,Tristan da Silva,ORL,MIN,H,N,29.4,5,3,1,1,9,N,9,0,0,13.6,BBR
-2026-10-25,Tristan da Silva,ORL,NYK,A,N,26.8,19,2,2,5,23,N,13,0,0,20.6,BBR
-2026-10-28,Tristan da Silva,ORL,TOR,A,N,31.0,20,3,1,4,24,N,10,3,0,15.6,BBR
-2026-10-30,Tristan da Silva,ORL,TOR,A,N,23.0,8,0,0,2,8,N,5,0,1,12.5,BBR
-2026-11-01,Tristan da Silva,ORL,BOS,H,N,35.0,23,10,2,5,35,N,14,0,2,20.4,BBR
-2026-11-02,Tristan da Silva,ORL,WAS,H,Y,32.5,10,4,3,2,17,N,14,0,4,26.0,BBR
-2026-11-05,Tristan da Silva,ORL,PHX,A,N,30.1,18,2,1,4,21,N,15,2,3,25.8,BBR
-2026-11-07,Tristan da Silva,ORL,GSW,A,N,39.0,19,7,2,5,28,Y,21,0,1,22.0,BBR
-2026-11-13,Tristan da Silva,ORL,MIL,H,N,31.2,12,6,2,2,20,Y,11,2,1,18.5,BBR
-2026-11-16,Tristan da Silva,ORL,BOS,A,N,31,13,6,3,3,22,N,6,3,2,,ESPN
 2026-10-21,Ty Jerome,MEM,UTA,H,N,31.7,45,7,6,5,58,Y,25,7,1,36.6,BBR
 2026-10-23,Ty Jerome,MEM,GSW,A,N,31.5,28,2,5,3,35,Y,22,5,4,35.0,BBR
 2026-10-25,Ty Jerome,MEM,SAC,A,N,32.0,31,4,7,1,42,Y,17,14,1,30.0,BBR
@@ -4378,7 +4381,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Tyrese Maxey,PHI,BOS,H,N,33.9,24,1,4,3,29,Y,12,5,2,21.8,BBR
 2026-11-12,Tyrese Maxey,PHI,TOR,H,N,35.3,27,2,8,1,37,Y,13,12,2,25.5,BBR
 2026-11-15,Tyrese Maxey,PHI,IND,H,N,35.5,27,4,6,5,37,Y,19,5,1,27.5,BBR
-2026-11-16,Tyrese Maxey,PHI,BKN,A,Y,35,24,1,9,4,34,Y,12,6,3,,ESPN
+2026-11-16,Tyrese Maxey,PHI,BKN,A,Y,34.9,24,1,9,4,34,Y,12,6,3,21.0,BBR
 2026-10-22,Tyrese Proctor,CLE,PHI,A,N,4.8,0,0,0,0,0,N,1,0,0,8.2,BBR
 2026-10-24,Tyrese Proctor,CLE,BKN,H,N,11.0,5,2,3,1,10,N,3,0,1,14.7,BBR
 2026-10-28,Tyrese Proctor,CLE,WAS,H,N,6.0,2,1,1,0,4,N,1,0,0,7.0,BBR
@@ -4392,7 +4395,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Tyrese Proctor,CLE,NYK,A,N,22.8,15,3,1,3,19,N,12,0,1,25.8,BBR
 2026-11-13,Tyrese Proctor,CLE,MIA,A,N,27.3,22,4,3,5,29,N,9,4,0,17.7,BBR
 2026-11-14,Tyrese Proctor,CLE,DAL,H,Y,34.1,24,11,10,4,45,Y,19,0,1,24.5,BBR
-2026-11-16,Tyrese Proctor,CLE,CHI,H,N,29,17,3,2,2,22,Y,13,5,4,,ESPN
+2026-11-16,Tyrese Proctor,CLE,CHI,H,N,28.9,17,3,2,2,22,Y,13,5,4,25.1,BBR
 2026-10-22,Tyus Jones,DEN,OKC,A,N,9.5,2,0,0,0,2,N,3,0,0,13.3,BBR
 2026-10-24,Tyus Jones,DEN,NOP,H,N,9.9,2,0,0,0,2,N,1,2,0,7.8,BBR
 2026-10-26,Tyus Jones,DEN,GSW,H,N,8.6,0,0,2,0,2,N,0,0,0,0.0,BBR
@@ -4404,7 +4407,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Tyus Jones,DEN,HOU,A,N,5.6,2,0,0,0,2,N,2,2,0,23.4,BBR
 2026-11-11,Tyus Jones,DEN,MEM,A,N,10.5,0,1,4,0,5,N,2,0,0,8.2,BBR
 2026-11-14,Tyus Jones,DEN,NOP,A,N,9.8,2,0,3,0,5,N,2,0,1,13.3,BBR
-2026-11-16,Tyus Jones,DEN,PHX,H,N,10,0,1,2,0,3,N,0,0,0,,ESPN
+2026-11-16,Tyus Jones,DEN,PHX,H,N,10.1,0,1,2,0,3,N,0,0,0,0.0,BBR
 2026-10-20,VJ Edgecombe,PHI,NYK,A,N,34.8,9,4,1,0,14,Y,10,2,1,14.5,BBR
 2026-10-22,VJ Edgecombe,PHI,CLE,H,N,33.2,11,7,6,1,24,Y,11,3,1,15.8,BBR
 2026-10-24,VJ Edgecombe,PHI,MIL,H,N,29.9,17,13,2,5,32,Y,13,2,0,18.0,BBR
@@ -4418,7 +4421,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,VJ Edgecombe,PHI,BOS,H,N,32.3,8,4,5,0,17,Y,11,0,1,16.9,BBR
 2026-11-12,VJ Edgecombe,PHI,TOR,H,N,36.4,15,8,8,1,31,Y,12,0,0,14.6,BBR
 2026-11-15,VJ Edgecombe,PHI,IND,H,N,30.8,11,4,6,0,21,Y,11,2,1,18.4,BBR
-2026-11-16,VJ Edgecombe,PHI,BKN,A,Y,33,14,9,4,1,27,Y,10,6,3,,ESPN
+2026-11-16,VJ Edgecombe,PHI,BKN,A,Y,33.1,14,9,4,1,27,Y,10,6,3,19.6,BBR
 2026-10-20,Victor Wembanyama,SAS,OKC,H,N,34.1,12,13,3,0,28,Y,13,12,4,26.5,BBR
 2026-10-23,Victor Wembanyama,SAS,HOU,H,N,32.1,25,13,2,2,40,Y,21,8,2,35.1,BBR
 2026-10-24,Victor Wembanyama,SAS,DAL,A,Y,28.9,23,7,2,2,32,Y,18,5,2,30.7,BBR
@@ -4479,7 +4482,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-10,Wendell Carter Jr.,ORL,SAC,A,N,32.5,8,11,1,0,20,Y,9,0,0,11.9,BBR
 2026-11-11,Wendell Carter Jr.,ORL,UTA,A,Y,28.0,9,7,3,0,19,Y,5,3,2,12.7,BBR
 2026-11-13,Wendell Carter Jr.,ORL,MIL,H,N,30.1,12,8,0,1,20,Y,9,1,2,17.0,BBR
-2026-11-16,Wendell Carter Jr.,ORL,BOS,A,N,28,10,3,1,1,14,Y,10,4,0,,ESPN
+2026-11-16,Wendell Carter Jr.,ORL,BOS,A,N,28.1,10,3,1,1,14,Y,10,4,0,18.8,BBR
 2026-10-21,Will Richard,GSW,LAL,A,N,20.2,8,5,1,0,14,N,5,1,0,10.8,BBR
 2026-10-23,Will Richard,GSW,MEM,H,N,3.4,0,0,0,0,0,N,1,0,0,12.5,BBR
 2026-10-24,Will Richard,GSW,PHX,A,Y,31.2,11,0,1,3,12,Y,9,0,2,13.8,BBR
@@ -4492,7 +4495,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-07,Will Richard,GSW,ORL,H,N,12.1,4,2,1,0,7,N,1,2,0,7.3,BBR
 2026-11-11,Will Richard,GSW,HOU,A,N,18.9,9,4,0,2,13,N,6,2,2,20.1,BBR
 2026-11-13,Will Richard,GSW,SAS,A,N,30.3,7,4,1,1,12,Y,4,2,2,9.7,BBR
-2026-11-16,Will Richard,GSW,NOP,A,N,23,11,3,1,2,15,N,11,1,1,,ESPN
+2026-11-16,Will Richard,GSW,NOP,A,N,23.4,11,3,1,2,15,N,11,1,1,22.5,BBR
 2026-10-23,Will Riley,WAS,TOR,H,N,1.0,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-10-24,Will Riley,WAS,CHI,A,Y,4.6,2,0,0,0,2,N,1,2,0,16.3,BBR
 2026-10-26,Will Riley,WAS,CHA,A,N,4.1,2,0,0,0,2,N,1,0,2,33.0,BBR
@@ -4504,7 +4507,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Will Riley,WAS,DET,A,N,4.1,0,0,1,0,1,N,0,0,0,0.0,BBR
 2026-11-12,Will Riley,WAS,DET,H,Y,3.5,3,0,0,1,3,N,1,0,0,12.5,BBR
 2026-11-15,Will Riley,WAS,HOU,H,N,15.8,14,3,0,2,17,N,6,5,0,21.6,BBR
-2026-11-16,Will Riley,WAS,MEM,H,Y,2,2,1,0,0,3,N,2,0,0,,ESPN
+2026-11-16,Will Riley,WAS,MEM,H,Y,2.2,2,1,0,0,3,N,2,0,0,38.7,BBR
 2026-10-21,Yang Hansen,POR,PHX,H,N,12.0,5,3,0,1,8,N,4,0,2,20.2,BBR
 2026-10-29,Yang Hansen,POR,MEM,H,N,4.5,3,2,1,1,6,N,1,0,0,8.9,BBR
 2026-10-31,Yang Hansen,POR,UTA,A,N,13.2,6,5,1,2,12,N,5,0,1,19.3,BBR
@@ -4512,7 +4515,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-06,Yang Hansen,POR,LAL,A,N,3.0,2,0,0,0,2,N,0,2,1,27.3,BBR
 2026-11-07,Yang Hansen,POR,SAS,H,Y,26.1,12,10,1,1,23,N,7,6,2,18.5,BBR
 2026-11-10,Yang Hansen,POR,OKC,H,N,4.6,0,1,0,0,1,N,0,0,0,0.0,BBR
-2026-11-16,Yang Hansen,POR,MIN,A,N,7,0,1,3,0,4,N,1,0,1,,ESPN
+2026-11-16,Yang Hansen,POR,MIN,A,N,7.5,0,1,3,0,4,N,1,0,1,11.1,BBR
 2026-10-21,Yaxel Lendeborg,GSW,LAL,A,N,28.7,12,3,2,1,17,Y,11,3,0,17.2,BBR
 2026-10-23,Yaxel Lendeborg,GSW,MEM,H,N,37.5,18,13,6,1,37,Y,11,12,6,24.9,BBR
 2026-10-24,Yaxel Lendeborg,GSW,PHX,A,Y,36.4,26,9,5,6,40,Y,19,3,2,24.1,BBR
@@ -4526,11 +4529,11 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-09,Yaxel Lendeborg,GSW,NOP,H,N,27.4,23,7,4,4,34,Y,10,4,2,21.8,BBR
 2026-11-11,Yaxel Lendeborg,GSW,HOU,A,N,36.1,25,10,0,2,35,Y,19,8,2,29.0,BBR
 2026-11-13,Yaxel Lendeborg,GSW,SAS,A,N,23.7,3,7,1,0,11,Y,13,2,3,30.6,BBR
-2026-11-16,Yaxel Lendeborg,GSW,NOP,A,N,33,28,8,3,2,39,Y,23,8,4,,ESPN
+2026-11-16,Yaxel Lendeborg,GSW,NOP,A,N,32.6,28,8,3,2,39,Y,23,8,4,39.6,BBR
 2026-10-21,Yves Missi,NOP,IND,H,N,29.9,13,14,5,0,32,Y,6,4,1,11.7,BBR
 2026-10-23,Yves Missi,NOP,UTA,A,N,9.3,6,1,0,0,7,Y,3,0,0,13.6,BBR
 2026-11-14,Yves Missi,NOP,DEN,H,Y,22.1,3,8,1,0,12,Y,4,4,1,12.8,BBR
-2026-11-16,Yves Missi,NOP,GSW,H,N,23,6,14,1,0,21,Y,7,1,2,,ESPN
+2026-11-16,Yves Missi,NOP,GSW,H,N,22.9,6,14,1,0,21,Y,7,1,2,16.7,BBR
 2026-10-21,Zaccharie Risacher,DAL,HOU,A,N,27.1,4,6,2,0,12,N,7,0,3,15.8,BBR
 2026-10-23,Zaccharie Risacher,DAL,IND,A,N,31.8,11,6,1,1,18,N,11,2,0,15.9,BBR
 2026-10-24,Zaccharie Risacher,DAL,SAS,H,Y,31.6,11,4,2,1,17,Y,8,2,1,13.4,BBR
@@ -4563,7 +4566,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-06,Zach Edey,MEM,OKC,H,N,19.7,14,6,1,0,21,Y,7,8,2,25.5,BBR
 2026-11-09,Zach Edey,MEM,TOR,A,N,22.8,8,9,1,0,18,Y,3,4,3,15.5,BBR
 2026-11-11,Zach Edey,MEM,DEN,H,N,19.6,2,5,0,0,7,Y,4,0,1,11.2,BBR
-2026-11-16,Zach Edey,MEM,WAS,A,N,21,23,10,1,0,34,Y,15,3,2,,ESPN
+2026-11-16,Zach Edey,MEM,WAS,A,N,20.7,23,10,1,0,34,Y,15,3,2,34.9,BBR
 2026-10-21,Zach LaVine,SAC,LAC,A,N,34.2,28,4,4,3,36,Y,19,8,4,32.5,BBR
 2026-10-23,Zach LaVine,SAC,POR,H,N,39.1,22,5,1,3,28,Y,15,7,3,21.9,BBR
 2026-10-25,Zach LaVine,SAC,MEM,H,N,40.2,37,2,5,3,44,Y,25,8,4,33.0,BBR
@@ -4602,7 +4605,7 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-11,Zion Williamson,NOP,BKN,H,N,29.9,29,4,2,1,35,Y,14,14,2,32.4,BBR
 2026-11-13,Zion Williamson,NOP,MEM,H,N,33.4,22,5,4,0,31,Y,15,8,2,24.9,BBR
 2026-11-14,Zion Williamson,NOP,DEN,H,Y,30.8,24,6,2,2,32,Y,16,8,2,29.3,BBR
-2026-11-16,Zion Williamson,NOP,GSW,H,N,25,16,6,2,0,24,Y,13,5,0,,ESPN
+2026-11-16,Zion Williamson,NOP,GSW,H,N,24.9,16,6,2,0,24,Y,13,5,0,24.7,BBR
 2026-10-23,Zuby Ejiofor,ATL,CHA,A,N,8.1,3,2,0,1,5,N,3,0,1,20.1,BBR
 2026-10-26,Zuby Ejiofor,ATL,HOU,A,N,1.4,0,0,0,0,0,N,0,0,0,0.0,BBR
 2026-11-02,Zuby Ejiofor,ATL,IND,A,N,14.6,3,5,2,1,10,N,4,0,1,13.4,BBR
@@ -4613,4 +4616,4 @@ Date,Player,Team,Opp,Home/Away,Back-to-back,MIN,PTS,REB,AST,3PM,PRA,Starter,FGA,
 2026-11-15,Zuby Ejiofor,ATL,MIL,A,N,12.2,4,3,0,1,7,N,3,2,0,12.8,BBR
 2026-10-25,Zyon Pullin,MIN,TOR,H,N,4.6,2,1,0,0,3,N,1,0,0,9.3,BBR
 2026-10-30,Zyon Pullin,MIN,LAC,H,N,1.5,2,0,0,0,2,N,1,0,0,28.3,BBR
-2026-11-16,Zyon Pullin,MIN,POR,H,N,4,0,1,0,0,1,N,1,0,0,,ESPN
+2026-11-16,Zyon Pullin,MIN,POR,H,N,3.8,0,1,0,0,1,N,1,0,0,10.8,BBR
