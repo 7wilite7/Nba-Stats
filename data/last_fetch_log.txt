@@ -1,8 +1,25 @@
 injury report entries: 105
-official injury report: Injury-Report_2026-11-16_11_45PM.pdf 112 players
-ESPN schedule entries: 258
+official injury report: Injury-Report_2026-11-17_12_45AM.pdf 33 players
+ESPN schedule entries: 261
 finished games not loaded yet: 8 - fetching box scores
-new ESPN box scores: 1
-Basketball Reference 2026-11-14: 5 games
+new ESPN box scores: 0
 Basketball Reference 2026-11-15: 9 games
-new or changed box scores: 0
+WARN 2026-11-16: B-Ref list page missing 8 finished games; fetching them directly
+WARN box 202611160BOS HTTP Error 404: Not Found
+WARN box 202611160BRK HTTP Error 404: Not Found
+WARN box 202611160CLE HTTP Error 404: Not Found
+WARN box 202611160DEN HTTP Error 404: Not Found
+WARN box 202611160MIA HTTP Error 404: Not Found
+WARN box 202611160MIN HTTP Error 404: Not Found
+WARN box 202611160NOP HTTP Error 404: Not Found
+WARN box 202611160WAS HTTP Error 404: Not Found
+filled 202611160BOS from ESPN (Basketball Reference not posted yet)
+filled 202611160BRK from ESPN (Basketball Reference not posted yet)
+filled 202611160CLE from ESPN (Basketball Reference not posted yet)
+filled 202611160DEN from ESPN (Basketball Reference not posted yet)
+filled 202611160MIA from ESPN (Basketball Reference not posted yet)
+filled 202611160MIN from ESPN (Basketball Reference not posted yet)
+filled 202611160NOP from ESPN (Basketball Reference not posted yet)
+filled 202611160WAS from ESPN (Basketball Reference not posted yet)
+Basketball Reference 2026-11-16: 8 games
+new or changed box scores: 8
