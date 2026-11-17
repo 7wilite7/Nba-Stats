@@ -1,4 +1,4 @@
-"Updated Tue 17 Nov 03:55 UK · box scores to 2026-11-15 · fact-check vs ESPN: 99.73% of 17,728 stats match (197 games) · pick tracker: 85% hit from 3164 graded picks"
+"Updated Tue 17 Nov 04:59 UK · box scores to 2026-11-15 · fact-check vs ESPN: 99.73% of 17,728 stats match (197 games) · pick tracker: 85% hit from 3164 graded picks"
 Every Today pick is logged before tip-off and graded after. Live since 2026-11-02; rows marked Replay are earlier games re-run using only data available before each game. Did not play and Void picks don't count.
 
 By market,Graded,Hit %,True % given
@@ -15,6 +15,7 @@ By true rate,Graded,Hit %,True % given
 95–100%,114,95,96
 
 Date,Game,Pick,True %,Season %,Games,Result,Source
+2026-11-18,CHA @ LAL,Ziaire Williams Threes 1+,83,86,28,Pending,Live
 2026-11-18,DET @ SAS,Victor Wembanyama Threes 1+,82,84,32,Pending,Live
 2026-11-18,DET @ SAS,Victor Wembanyama Rebounds 7+,90,97,32,Pending,Live
 2026-11-18,DET @ SAS,Victor Wembanyama Points 15+,83,88,32,Pending,Live
@@ -25,6 +26,7 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-18,NYK @ TOR,Scottie Barnes Rebounds 3+,93,95,40,Pending,Live
 2026-11-18,NYK @ TOR,Scottie Barnes Points 10+,87,90,40,Pending,Live
 2026-11-18,NYK @ TOR,Scottie Barnes Assists 3+,87,90,40,Pending,Live
+2026-11-18,CHA @ LAL,Sandro Mamukelashvili Rebounds 3+,86,88,40,Pending,Live
 2026-11-18,POR @ MIN,Rudy Gobert Rebounds 7+,84,89,38,Pending,Live
 2026-11-18,NYK @ TOR,RJ Barrett Rebounds 3+,90,93,29,Pending,Live
 2026-11-18,NYK @ TOR,RJ Barrett Points 10+,92,97,29,Pending,Live
@@ -32,6 +34,13 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-18,NYK @ TOR,OG Anunoby Threes 1+,94,97,34,Pending,Live
 2026-11-18,NYK @ TOR,OG Anunoby Rebounds 3+,86,88,34,Pending,Live
 2026-11-18,NYK @ TOR,OG Anunoby Points 10+,85,88,34,Pending,Live
+2026-11-18,CHA @ LAL,Naz Reid Rebounds 3+,95,97,39,Pending,Live
+2026-11-18,CHA @ LAL,Moussa Diabate Rebounds 5+,93,97,37,Pending,Live
+2026-11-18,CHA @ LAL,Matisse Thybulle Threes 1+,82,87,15,Pending,Live
+2026-11-18,CHA @ LAL,Luka Doncic Threes 3+,84,91,32,Pending,Live
+2026-11-18,CHA @ LAL,Luka Doncic Rebounds 5+,89,94,32,Pending,Live
+2026-11-18,CHA @ LAL,Luka Doncic Points 25+,84,91,32,Pending,Live
+2026-11-18,CHA @ LAL,Luka Doncic Assists 5+,82,88,32,Pending,Live
 2026-11-18,NYK @ TOR,Landry Shamet Threes 1+,85,88,26,Pending,Live
 2026-11-18,POR @ MIN,LaMelo Ball Threes 2+,90,94,36,Pending,Live
 2026-11-18,POR @ MIN,LaMelo Ball Points 10+,94,97,36,Pending,Live
@@ -54,6 +63,7 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-18,NYK @ TOR,Immanuel Quickley Threes 1+,89,91,35,Pending,Live
 2026-11-18,NYK @ TOR,Immanuel Quickley Points 10+,88,91,35,Pending,Live
 2026-11-18,NYK @ TOR,Immanuel Quickley Assists 3+,82,86,35,Pending,Live
+2026-11-18,CHA @ LAL,Grayson Allen Threes 1+,89,92,26,Pending,Live
 2026-11-18,POR @ MIN,Donovan Clingan Rebounds 7+,87,92,39,Pending,Live
 2026-11-18,DET @ SAS,Devin Vassell Threes 1+,80,82,34,Pending,Live
 2026-11-18,UTA @ LAC,Derrick Jones Jr. Rebounds 3+,85,88,25,Pending,Live
@@ -73,6 +83,8 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-18,DET @ SAS,Cade Cunningham Points 10+,87,91,32,Pending,Live
 2026-11-18,DET @ SAS,Cade Cunningham Assists 7+,86,94,32,Pending,Live
 2026-11-18,UTA @ LAC,Brook Lopez Rebounds 3+,83,84,38,Pending,Live
+2026-11-18,CHA @ LAL,Brandon Miller Threes 2+,81,85,33,Pending,Live
+2026-11-18,CHA @ LAL,Brandon Miller Points 10+,82,85,33,Pending,Live
 2026-11-18,POR @ MIN,Ayo Dosunmu Points 10+,80,83,35,Pending,Live
 2026-11-18,DET @ SAS,Ausar Thompson Rebounds 3+,92,95,37,Pending,Live
 2026-11-18,UTA @ LAC,Ace Bailey Threes 1+,92,94,36,Pending,Live
@@ -403,15 +415,3 @@ Date,Game,Pick,True %,Season %,Games,Result,Source
 2026-11-15,DEN @ NOP,Jamal Murray Threes 1+,90,92,38,Miss,Live
 2026-11-15,DEN @ NOP,Jamal Murray Points 15+,80,84,38,Hit,Live
 2026-11-15,DEN @ NOP,Jamal Murray Assists 3+,88,92,38,Hit,Live
-2026-11-15,CHI @ MIN,Jalen Smith Rebounds 3+,90,93,27,Did not play,Live
-2026-11-15,NYK @ TOR,Jalen Brunson Threes 1+,87,89,37,Hit,Live
-2026-11-15,NYK @ TOR,Jalen Brunson Points 15+,87,92,37,Hit,Live
-2026-11-15,NYK @ TOR,Jalen Brunson Assists 3+,90,95,37,Hit,Live
-2026-11-15,IND @ PHI,Ivica Zubac Rebounds 5+,82,88,24,Hit,Live
-2026-11-15,CHA @ LAC,Isaiah Jackson Rebounds 3+,84,86,28,Miss,Live
-2026-11-15,NYK @ TOR,Immanuel Quickley Threes 1+,89,91,35,Hit,Live
-2026-11-15,NYK @ TOR,Immanuel Quickley Points 10+,86,89,35,Hit,Live
-2026-11-15,NYK @ TOR,Immanuel Quickley Assists 3+,82,86,35,Hit,Live
-2026-11-15,CHA @ LAC,Grayson Allen Threes 1+,89,92,26,Hit,Live
-2026-11-15,DET @ MIA,Giannis Antetokounmpo Rebounds 5+,91,100,18,Hit,Live
-2026-11-15,DET @ MIA,Giannis Antetokounmpo Points 15+,85,94,18,Hit,Live

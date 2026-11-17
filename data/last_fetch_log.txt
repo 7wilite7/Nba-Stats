@@ -1,8 +1,8 @@
-injury report entries: 104
-official injury report: Injury-Report_2026-11-16_10_45PM.pdf 112 players
+injury report entries: 105
+official injury report: Injury-Report_2026-11-16_11_45PM.pdf 112 players
 ESPN schedule entries: 258
-finished games not loaded yet: 7 - fetching box scores
-new ESPN box scores: 4
+finished games not loaded yet: 8 - fetching box scores
+new ESPN box scores: 1
 Basketball Reference 2026-11-14: 5 games
 Basketball Reference 2026-11-15: 9 games
 new or changed box scores: 0
