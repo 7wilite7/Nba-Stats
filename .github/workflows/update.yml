@@ -48,6 +48,11 @@ jobs:
         continue-on-error: true
         env: {GOOGLE_SA_JSON: "${{ secrets.GOOGLE_SA_JSON }}"}
         run: pip install -q gspread && python scripts/push_sheets.py
+      - name: Build and push the Context tab (tonight's slate; saves the morning statuses)
+        if: env.SKIP != '1'
+        continue-on-error: true
+        env: {GOOGLE_SA_JSON: "${{ secrets.GOOGLE_SA_JSON }}"}
+        run: pip install -q gspread && python scripts/context.py morning
       - name: Commit results
         if: env.SKIP != '1'
         run: |

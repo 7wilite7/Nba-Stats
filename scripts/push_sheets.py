@@ -13,9 +13,14 @@ PERSONAL = {"2627": "1OmsjE9qkgA8IAY5TMty4MYfXY4em3Fh47hKgB2OxoIM"}    # NBA Hit
 TABS = {"PLAYERS": "Hit Rates", "TODAY": "Today", "PHONE": "Phone", "GAMES": "Today games", "TRACKER": "Pick tracker"}
 # (csv file in out/, spreadsheet id, tab, raw). Personal sheets are skipped until shared with the service account;
 # once shared, their IMPORTDATA formulas are replaced by values written here, so the repo can be private.
+# Paying members' copy (made 17 Nov 2026): the customer-facing tabs only (no Pick tracker / Fact-check).
+MEMBERS = {"2627": "13C2feXKS_fm95iJBjXRX72Pr575PYQLN3RXsHd_DjDo"}    # HitRateHub NBA (Members)
+MEMBER_TABS = {c: t for c, t in TABS.items() if c != "TRACKER"}
 TARGETS = []
 for v, sid in PERSONAL.items():
     TARGETS += [(f"{c}_{v}.csv", sid, tab, False) for c, tab in TABS.items()] + [("VERIFY.csv", sid, "Fact-check", False)]
+for v, sid in MEMBERS.items():
+    TARGETS += [(f"{c}_{v}.csv", sid, tab, False) for c, tab in MEMBER_TABS.items()]
 
 
 def cell(v):

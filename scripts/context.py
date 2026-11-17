@@ -20,7 +20,9 @@ from config import DATA, OUT
 
 UK = ZoneInfo("Europe/London")
 ET = ZoneInfo("America/New_York")
-MASTER = "1H74LsbUfLAbgsEJxoyIdvcNHqLsWXJBPys8ugJrNiWo"
+# Context tab now goes to the personal 2026-27 sheet and the paying members' copy (NBA Master deleted 17 Nov 2026).
+TARGET_SHEETS = ["1OmsjE9qkgA8IAY5TMty4MYfXY4em3Fh47hKgB2OxoIM",   # NBA Hit Rates 2026-27 (personal)
+                 "13C2feXKS_fm95iJBjXRX72Pr575PYQLN3RXsHd_DjDo"]   # HitRateHub NBA (Members)
 TAB = "Context"
 NCOL = 10
 MORNING = os.path.join(DATA, "context_morning.json")
@@ -471,7 +473,15 @@ def push(S):
         return
     import gspread
     gc = gspread.service_account_from_dict(json.loads(key_))
-    book = gc.open_by_key(MASTER)
+    for sid in TARGET_SHEETS:
+        try:
+            push_one(gc.open_by_key(sid), S)
+        except Exception as e:  # noqa: BLE001 - one sheet failing must not stop the other
+            print(f"Context push to {sid} failed: {type(e).__name__}: {str(e)[:200]}")
+
+
+def push_one(book, S):
+    import gspread
     n = len(S.rows) + 20
     try:
         ws = book.worksheet(TAB)
