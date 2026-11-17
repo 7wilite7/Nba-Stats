@@ -43,6 +43,7 @@ jobs:
         if: env.SKIP != '1'
         run: python scripts/build.py && python scripts/tiers.py
       - name: Push to the NBA Hit Rates 2026-27 Google Sheet
+        id: push_sheet
         if: env.SKIP != '1'
         continue-on-error: true
         env: {GOOGLE_SA_JSON: "${{ secrets.GOOGLE_SA_JSON }}"}
@@ -61,6 +62,15 @@ jobs:
         run: |
           echo "A fetch step failed - see data/last_fetch_log.txt"
           exit 1
+      - name: Post "sheet updated" in the paid Discord channel
+        if: success() && env.SKIP != '1' && env.PREGAME != '1' && github.event_name == 'schedule' && steps.push_sheet.outcome == 'success'
+        env: {WEBHOOK: "${{ secrets.DISCORD_WEBHOOK_NBA }}"}
+        run: |
+          if [ -z "$WEBHOOK" ]; then echo "DISCORD_WEBHOOK_NBA secret not set"; exit 0; fi
+          d=$(TZ=Europe/London date '+%a %-d %b')
+          msg="🏀 **NBA sheet updated – $d.** Tonight's hit rates are live (link in the pinned message). Statistical info only, not betting advice. 18+."
+          python3 -c 'import json,sys; print(json.dumps({"content": sys.argv[1], "allowed_mentions": {"parse": []}}))' "$msg" > /tmp/msg.json
+          curl -fsS -m 15 --retry 3 -H "Content-Type: application/json" -d @/tmp/msg.json "$WEBHOOK" && echo "Posted to Discord" || echo "Discord post failed"
       - name: Tell healthchecks.io the update finished
         if: success() && env.SKIP != '1' && env.PREGAME != '1' && github.event_name != 'push'
         env: {HC: "${{ secrets.HC_PING_URL }}"}
