@@ -2,6 +2,9 @@
 matchups (with ranks by position) and schedule for every game on the next slate.
 
   python scripts/context.py morning        build after the daily update, save the morning statuses, push
+  python scripts/context.py refresh        every injury-check run (14:00-06:00 UK): rebuild from the latest injury
+                                           report and push, so the tab is current all evening up to tip-off;
+                                           marks anything changed since the morning
   python scripts/context.py status-if-due  pre-tip refresh: every injury check in the 90 min before first tip (and
                                            later games that start 2+ hours after the first), re-reading only
                                            the injury statuses; marks anything changed since the morning
@@ -24,7 +27,7 @@ ET = ZoneInfo("America/New_York")
 TARGET_SHEETS = ["1OmsjE9qkgA8IAY5TMty4MYfXY4em3Fh47hKgB2OxoIM",   # NBA Hit Rates 2026-27 (personal)
                  "13C2feXKS_fm95iJBjXRX72Pr575PYQLN3RXsHd_DjDo"]   # HitRateHub NBA (Members)
 TAB = "Context"
-NCOL = 10
+NCOL = 11
 MORNING = os.path.join(DATA, "context_morning.json")
 RUNS = os.path.join(DATA, "context_status_runs.json")
 
@@ -310,9 +313,10 @@ def build_context(mode="morning", now=None):
            f"Box scores up to {dt.date.fromisoformat(last_box).strftime('%-d %b') if last_box else 'n/a'}. "
            f"Statuses updated {now.strftime('%H:%M')} UK. Times are UK."], fg=GREY)
     S.add(["Ranks: 1st = allows the most in the NBA (good for overs); 1st-5th green, 26th-30th red. Role: starts in "
-           "the last 5. Trend: last-5 minutes vs season (3+ = rising/falling). Usage = USG% (Basketball Reference). "
-           "Without tables: grey rows come from under 3 games. Projected starters (most starts in the last 5, minus anyone out "
-           "or doubtful) are not confirmed."], fg=GREY)
+           "the last 5; Role change: last 5 vs the season (starting role, or usage up/down 3+). Trend: last-5 minutes vs "
+           "season (3+ = rising/falling). Usage = USG% (Basketball Reference). Without / If he sits tables: this season's "
+           "games with vs without him; grey rows come from under 3 games. Projected starters (most starts in the last 5, "
+           "minus anyone out or doubtful) are not confirmed."], fg=GREY)
     for r in range(3):
         S.merge(r, 0, NCOL)
     if not games:
@@ -414,11 +418,14 @@ def build_context(mode="morning", now=None):
         # without X
         for k, (stt, lab, team) in sorted(ab, key=sk):
             s = D.season(k, team)
-            if stt not in ("Out", "Doubtful") or not s or s["min"] < 20:
+            if not s or s["min"] < 20:
                 continue
             rows = D.without(k, team, really_out)
-            S.header(f"Without {D.names.get(k, k)}", ["Games", "Minutes", "Points", "Rebounds", "Assists", "Threes",
-                                                       "Starts", "Usage"])
+            if not rows and stt not in ("Out", "Doubtful"):
+                continue                                    # questionable with no split to show: keep it short
+            title = (f"Without {D.names.get(k, k)}" if stt in ("Out", "Doubtful")
+                     else f"If {D.names.get(k, k)} sits ({stt.lower()})")
+            S.header(title, ["Games", "Minutes", "Points", "Rebounds", "Assists", "Threes", "Starts", "Usage"])
             if not rows:
                 S.add(["No teammate changes past the thresholds (or no games without him)"], fg=GREY)
                 continue
@@ -434,8 +441,8 @@ def build_context(mode="morning", now=None):
                     S.style(r, 0, 1, fg=UP if dmin > 0 else DOWN, bold=True)
 
         # players
-        S.header("Players", ["Team", "Role", "Min season", "Min last 5", "Trend", "Usage season", "Usage last 5",
-                             "vs opp (games)", "vs opp pts/reb/ast"])
+        S.header("Players", ["Team", "Role", "Role change", "Min season", "Min last 5", "Trend", "Usage season",
+                             "Usage last 5", "vs opp (games)", "vs opp pts/reb/ast"])
         for t, opp in ((away, home), (home, away)):
             ks = [k for k in D.listed if D.cur.get(k) == t and k not in really_out and D.tlog(k, t)]
             ks.sort(key=lambda k: -D.season(k, t)["min"])
@@ -452,11 +459,26 @@ def build_context(mode="morning", now=None):
                 trend = "Rising" if m5 - ms >= 3 else "Falling" if m5 - ms <= -3 else "Stable"
                 vs = [r for r in lg if r["opp"] == opp]
                 tag = {"Doubtful": " (D)", "Questionable": " (Q)", "Day-to-day": " (DTD)"}.get(st.get(k, ("",))[0], "")
-                r = S.add([D.names.get(k, k) + tag, t, role, f1(ms), f1(m5), trend,
-                           f1(mean([x.get("usg") for x in lg])), f1(mean([x.get("usg") for x in l5])), len(vs),
+                us, u5 = mean([x.get("usg") for x in lg]), mean([x.get("usg") for x in l5])
+                change, up = [], None                   # role change: last 5 vs the whole season
+                known = [x for x in lg if x["start"] is not None]
+                if len(lg) > len(l5) and all(x["start"] is not None for x in l5) and known:
+                    s_all = sum(1 for x in known if x["start"]) / len(known)
+                    s_5 = sum(1 for x in l5 if x["start"]) / len(l5)
+                    if s_5 > 0.5 >= s_all:
+                        change.append("Now starting"); up = True
+                    elif s_5 <= 0.5 < s_all:
+                        change.append("Moved to bench"); up = False
+                if us is not None and u5 is not None and abs(u5 - us) >= 3 and len(lg) > len(l5):
+                    change.append(f"Usage {'+' if u5 > us else ''}{u5 - us:.1f}")
+                    up = (u5 > us) if up is None else up
+                r = S.add([D.names.get(k, k) + tag, t, role, " · ".join(change) or "-", f1(ms), f1(m5), trend,
+                           f1(us), f1(u5), len(vs),
                            " / ".join(short(mean([x["s"][i] for x in vs])) for i in range(3)) if vs else "-"])
+                if up is not None:
+                    S.style(r, 3, 4, fg=UP if up else DOWN, bold=True)
                 if trend != "Stable":
-                    S.style(r, 5, 6, fg=UP if trend == "Rising" else DOWN, bold=True)
+                    S.style(r, 6, 7, fg=UP if trend == "Rising" else DOWN, bold=True)
     return S, snap, slate
 
 
@@ -488,7 +510,7 @@ def push_one(book, S):
     except gspread.exceptions.WorksheetNotFound:
         ws = book.add_worksheet(TAB, rows=n, cols=NCOL)
     sid = ws.id
-    widths = [220, 118, 175, 118, 118, 118, 118, 118, 100, 130]
+    widths = [220, 118, 175, 150, 118, 118, 118, 118, 118, 100, 130]
     reqs = [
         {"unmergeCells": {"range": {"sheetId": sid}}},
         {"updateCells": {"range": {"sheetId": sid}, "fields": "userEnteredValue,userEnteredFormat"}},
@@ -569,6 +591,7 @@ def main():
     save_out(S)
     if mode == "morning":
         jsave(MORNING, snap)
+    if mode in ("morning", "refresh"):
         push(S)
     print(f"Context built for {slate}: {len(S.rows)} rows")
 
