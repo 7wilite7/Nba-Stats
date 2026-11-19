@@ -1,8 +1,33 @@
 injury report entries: 101
-official injury report: Injury-Report_2026-11-18_11_30PM.pdf 154 players
+official injury report: Injury-Report_2026-11-19_12_30AM.pdf 23 players
 ESPN schedule entries: 270
-finished games not loaded yet: 9 - fetching box scores
-new ESPN box scores: 1
-Basketball Reference 2026-11-16: 8 games
+finished games not loaded yet: 12 - fetching box scores
+new ESPN box scores: 3
 Basketball Reference 2026-11-17: 5 games
-new or changed box scores: 0
+WARN 2026-11-18: B-Ref list page missing 12 finished games; fetching them directly
+WARN box 202611180BRK HTTP Error 404: Not Found
+WARN box 202611180CLE HTTP Error 404: Not Found
+WARN box 202611180DAL HTTP Error 404: Not Found
+WARN box 202611180DEN HTTP Error 404: Not Found
+WARN box 202611180IND HTTP Error 404: Not Found
+WARN box 202611180LAL HTTP Error 404: Not Found
+WARN box 202611180MIA HTTP Error 404: Not Found
+WARN box 202611180NOP HTTP Error 404: Not Found
+WARN box 202611180OKC HTTP Error 404: Not Found
+WARN box 202611180ORL HTTP Error 404: Not Found
+WARN box 202611180SAC HTTP Error 404: Not Found
+WARN box 202611180TOR HTTP Error 404: Not Found
+filled 202611180BRK from ESPN (Basketball Reference not posted yet)
+filled 202611180CLE from ESPN (Basketball Reference not posted yet)
+filled 202611180DAL from ESPN (Basketball Reference not posted yet)
+filled 202611180DEN from ESPN (Basketball Reference not posted yet)
+filled 202611180IND from ESPN (Basketball Reference not posted yet)
+filled 202611180LAL from ESPN (Basketball Reference not posted yet)
+filled 202611180MIA from ESPN (Basketball Reference not posted yet)
+filled 202611180NOP from ESPN (Basketball Reference not posted yet)
+filled 202611180OKC from ESPN (Basketball Reference not posted yet)
+filled 202611180ORL from ESPN (Basketball Reference not posted yet)
+filled 202611180SAC from ESPN (Basketball Reference not posted yet)
+filled 202611180TOR from ESPN (Basketball Reference not posted yet)
+Basketball Reference 2026-11-18: 12 games
+new or changed box scores: 12
