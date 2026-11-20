@@ -1,4 +1,12 @@
 injury report entries: 108
-official injury report: Injury-Report_2026-11-19_10_15PM.pdf 134 players
+official injury report: Injury-Report_2026-11-19_11_15PM.pdf 134 players
 ESPN schedule entries: 270
-all finished games loaded
+finished games not loaded yet: 4 - fetching box scores
+new ESPN box scores: 4
+WARN box list 2026-11-17 HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+WARN box list 2026-11-18 HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found
+new or changed box scores: 0
