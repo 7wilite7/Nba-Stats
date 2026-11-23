@@ -23,6 +23,24 @@ LINES = ([("PTS", t, "Points") for t in (10, 15, 20, 25, 30)] +
          [("3PM", t, "Threes") for t in (1, 2, 3, 4)])
 STATS = ["PTS", "REB", "AST", "3PM"]
 
+# Today picks only (the Hit Rates columns above stay as they are). Finer rungs so stars climb to a line worth
+# betting, plus combo markets. Per stat, the pick is the highest line with true rate >= PICK_MIN_TRUE that also
+# passes the price floor below (lines far under a player's average are priced too short to be worth it).
+PICK_LINES = {
+    "PTS": (10, 15, 20, 25, 30, 35, 40),
+    "REB": (3, 4, 5, 6, 7, 8, 9, 10, 12),
+    "AST": (3, 4, 5, 6, 7, 8, 9, 10, 12),
+    "3PM": (1, 2, 3, 4, 5),
+    "PRA": (20, 25, 30, 35, 40),
+    "PR": (20, 25, 30, 35, 40),
+    "PA": (20, 25, 30, 35, 40),
+    "RA": (20, 25, 30, 35, 40),
+}
+PICK_STATS = list(PICK_LINES)
+# Line must be at least this share of the player's average (added 23 Nov 2026; review after a week of results).
+# Threes use their own rule: line >= average rounded down (so no 1+ for anyone averaging 2+).
+PICK_FLOOR = {"PTS": 0.70, "PRA": 0.70, "PR": 0.70, "PA": 0.70, "RA": 0.70, "REB": 0.60, "AST": 0.60}
+
 # Display team codes (standard NBA). Basketball Reference and ESPN use a few different ones.
 BREF_TO_STD = {"BRK": "BKN", "CHO": "CHA", "PHO": "PHX"}
 STD_TO_BREF = {v: k for k, v in BREF_TO_STD.items()}

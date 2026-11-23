@@ -9,14 +9,23 @@ Per variant: PLAYERS_<v>.csv (hit rates), TODAY_<v>.csv (picks), PHONE_<v>.csv, 
 import csv, datetime as dt, glob, json, os, re, sys
 from collections import defaultdict
 from zoneinfo import ZoneInfo
+import math
 from config import (DATA, OUT, MIN_MPG, YET_TO_PLAY_MIN_PPG, TRUE_K, PICK_MIN_TRUE, SMALL_SAMPLE, LINES, STATS,
-                    STD_TO_BREF, NAME_ALIASES)
+                    STD_TO_BREF, NAME_ALIASES, PICK_LINES, PICK_STATS, PICK_FLOOR)
 from common import jload, jsave, norm
 
 UK = ZoneInfo("Europe/London")
 NOW = dt.datetime.now(dt.timezone.utc)
 SI = {"PTS": 0, "REB": 1, "AST": 2, "3PM": 3}
-MARKET = {"PTS": "Points", "REB": "Rebounds", "AST": "Assists", "3PM": "Threes"}
+MARKET = {"PTS": "Points", "REB": "Rebounds", "AST": "Assists", "3PM": "Threes",
+          "PRA": "Pts+Reb+Ast", "PR": "Pts+Reb", "PA": "Pts+Ast", "RA": "Reb+Ast"}
+COMBO = {"PRA": (0, 1, 2), "PR": (0, 1), "PA": (0, 2), "RA": (1, 2)}
+ALL_LINES = sorted({(st, t) for st, t, _ in LINES} | {(st, t) for st, ts in PICK_LINES.items() for t in ts})
+
+
+def val(s, st):
+    """A stat (or combo) from a (pts, reb, ast, 3pm) tuple."""
+    return sum(s[i] for i in COMBO[st]) if st in COMBO else s[SI[st]]
 VARIANTS = ("2627", "blend")
 
 
@@ -102,8 +111,8 @@ def base_rates(logs, h2):
     for k in set(logs) | set(h2):
         for s, _ in records(k, "blend", logs, h2):
             n += 1
-            for st, t, _m in LINES:
-                hits[(st, t)] += s[SI[st]] >= t
+            for st, t in ALL_LINES:
+                hits[(st, t)] += val(s, st) >= t
     return {lt: hits[lt] / n for lt in hits} if n else {}
 
 
@@ -112,8 +121,8 @@ def line_stats(recs, base):
     out = {}
     last5 = recs[-5:]
     starts = [r for r in recs if r[1] is True]
-    for st, t, _m in LINES:
-        f = lambda r: r[0][SI[st]] >= t  # noqa: E731
+    for st, t in ALL_LINES:
+        f = lambda r: val(r[0], st) >= t  # noqa: E731
         h = sum(1 for r in recs if f(r))
         out[(st, t)] = {
             "season": pct(h, n),
@@ -199,15 +208,29 @@ def pool(logs, h2, roster_team, before=None):
 
 # ---------------- picks ----------------
 
-def best_picks(ls):
-    """Per stat, the highest line with a true rate at or above the pick threshold."""
+def averages(recs):
+    n = len(recs)
+    return {st: (sum(val(r[0], st) for r in recs) / n if n else 0) for st in PICK_STATS}
+
+
+def worth_it(st, t, avg):
+    """Price floor: drop lines so far under the player's average that the odds are too short."""
+    a = avg.get(st, 0)
+    if st == "3PM":
+        return t >= max(1, math.floor(a))
+    return t >= PICK_FLOOR[st] * a
+
+
+def best_picks(ls, avg):
+    """Per market, the highest line with a true rate at or above the pick threshold that passes the price floor."""
     out = []
-    for st in STATS:
-        cands = [(t, ls[(st, t)]) for s2, t, _ in LINES if s2 == st and ls[(st, t)]["true"] is not None
+    for st in PICK_STATS:
+        cands = [(t, ls[(st, t)]) for t in PICK_LINES[st] if ls[(st, t)]["true"] is not None
                  and ls[(st, t)]["true"] >= PICK_MIN_TRUE]
         if cands:
             t, v = max(cands, key=lambda x: x[0])
-            out.append((st, t, v))
+            if worth_it(st, t, avg):
+                out.append((st, t, v))
     return out
 
 
@@ -221,7 +244,7 @@ def grade(entry, games_by_id):
         return None
     for p in g["players"]:
         if key(p["name"]) == entry["key"]:
-            v = (p["pts"], p["reb"], p["ast"], p["fg3"])[SI[entry["stat"]]]
+            v = val((p["pts"], p["reb"], p["ast"], p["fg3"]), entry["stat"])
             return "Hit" if v >= entry["line"] else "Miss"
     return "Did not play"
 
@@ -243,10 +266,11 @@ def replay(variant, logs, h2, games, base, start_date):
                     lg = [r for r in logs.get(k, []) if r["date"] < d]
                     if not lg or lg[-1]["team"] != side:
                         continue
-                    ls = line_stats(records(k, variant, logs, h2, before=d), base)
-                    for st, t, v in best_picks(ls):
+                    rr = records(k, variant, logs, h2, before=d)
+                    ls = line_stats(rr, base)
+                    for st, t, v in best_picks(ls, averages(rr)):
                         p = played.get(k)
-                        res = "Did not play" if not p else ("Hit" if (p["pts"], p["reb"], p["ast"], p["fg3"])[SI[st]] >= t else "Miss")
+                        res = "Did not play" if not p else ("Hit" if val((p["pts"], p["reb"], p["ast"], p["fg3"]), st) >= t else "Miss")
                         name = logs[k][-1] and NAMES.get(k, k)
                         out[f"R|{g['id']}|{k}|{st}|{t}"] = {
                             "date": d, "game": f"{g['away']} @ {g['home']}", "pick": f"{name} {MARKET[st]} {t}+",
@@ -276,7 +300,8 @@ def main():
     ver = jload(os.path.join(DATA, "verify.json"), {}) or {}
     last_game = games[-1]["date"]
     state = jload(os.path.join(DATA, "state.json"), {}) or {}
-    live_start = state.setdefault("tracker_live_since", NOW.astimezone(UK).date().isoformat())
+    # Picks v2 (23 Nov 2026: finer lines, combos, price floor) - tracker re-based so old easy-line picks don't count
+    live_start = state.setdefault("tracker_v2_live_since", NOW.astimezone(UK).date().isoformat())
     jsave(os.path.join(DATA, "state.json"), state)
 
     # Games stay listed from 24h before tip-off until they are finished. A game that has tipped off is kept
@@ -293,7 +318,7 @@ def main():
     layout = {}
     for v in VARIANTS:
         # ---------- tracker: log new picks, grade old ones ----------
-        tpath = os.path.join(DATA, "picks", f"{v}.json")
+        tpath = os.path.join(DATA, "picks", f"{v}_v2.json")
         log = jload(tpath, {}) or {}
         for e in log.values():
             if e.get("result") is None and uk(e["utc"]) < NOW - dt.timedelta(hours=3):
@@ -349,7 +374,7 @@ def main():
 
             # ---------- today's picks ----------
             for g in (team_game.get(cur, []) if n and not status_text(e).lower().startswith("out") else []):
-                for st, t, val in best_picks(ls):
+                for st, t, pv in best_picks(ls, averages(recs)):
                     notes = []
                     if e:
                         notes.append(status_text(e))
@@ -362,13 +387,13 @@ def main():
                     gtxt = f"{g['away']} @ {g['home']}"
                     picks.append({"utc": g["utc"], "game": gtxt, "tip": uk(g["utc"]).strftime("%a %H:%M"),
                                   "pick": f"{names.get(k, k)} {MARKET[st]} {t}+", "market": MARKET[st], "player": names.get(k, k),
-                                  "team": cur, "status": status_text(e), "true": val["true"], "season": val["season"],
-                                  "l5": val["l5"], "start": val["start"], "n": n, "note": "; ".join(notes)})
+                                  "team": cur, "status": status_text(e), "true": pv["true"], "season": pv["season"],
+                                  "l5": pv["l5"], "start": pv["start"], "n": n, "note": "; ".join(notes)})
                     lk = f"{g['id']}|{k}|{st}|{t}"
                     if lk not in log and NOW < uk(g["utc"]):
                         log[lk] = {"date": uk(g["utc"]).date().isoformat(), "utc": g["utc"], "game": gtxt,
                                    "pick": f"{names.get(k, k)} {MARKET[st]} {t}+", "key": k, "stat": st, "line": t,
-                                   "true": val["true"], "season": val["season"], "n": n,
+                                   "true": pv["true"], "season": pv["season"], "n": n,
                                    "bref": bref_id(g["us_date"], g["home"]), "result": None, "source": "Live"}
         jsave(tpath, log)
 
@@ -395,7 +420,7 @@ def main():
         th = ["Pick", "Market", "Hit %", "Games", "Team", "Game", "Tip-off (UK)", "Note", "status"]
         trows = [[p["pick"], p["market"], nz(p["season"]), p["n"], p["team"], p["game"], p["tip"], p["note"], p["status"]]
                  for p in picks]
-        title = (f"Today's picks (chosen by true rate {PICK_MIN_TRUE}%+, shown as this season's hit %) · "
+        title = (f"Today's picks (toughest line with true rate {PICK_MIN_TRUE}%+, short-priced lines removed; shown as this season's hit %) · "
                  f"{tr_line} · updated {NOW.astimezone(UK).strftime('%a %H:%M')}")
         write_csv(f"TODAY_{v}.csv", [[title], th] + (trows or [["No games in the next 24 hours"]]))
         write_csv(f"PHONE_{v}.csv", [[f"Picks · {tr_line}"], ["Pick", "Hit %", "Game"]] +
@@ -410,7 +435,7 @@ def main():
                        f"rows marked Replay are earlier games re-run using only data available before each game. "
                        f"Did not play and Void picks don't count."], [],
                ["By market", "Graded", "Hit %", "True % given"]]
-        for m in ("Points", "Rebounds", "Assists", "Threes"):
+        for m in [MARKET[x] for x in PICK_STATS]:
             out.append([m] + summ([e for e in allp.values() if MARKET[e["stat"]] == m]))
         out += [["All picks"] + summ(list(allp.values())), [], ["By true rate", "Graded", "Hit %", "True % given"]]
         for lo, hi in ((80, 84), (85, 89), (90, 94), (95, 100)):

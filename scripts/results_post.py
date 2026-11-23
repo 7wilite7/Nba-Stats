@@ -6,7 +6,7 @@ Counts Live picks only (Replay picks and "Did not play" are left out). Posts eac
 import datetime as dt, json, os, sys, urllib.request
 from config import DATA
 
-PICKS = os.path.join(DATA, "picks", "2627.json")
+PICKS = os.path.join(DATA, "picks", "2627_v2.json")   # v2 picks from 23 Nov 2026 (old log: 2627.json)
 SENT = os.path.join(DATA, "results_posted.txt")
 
 
