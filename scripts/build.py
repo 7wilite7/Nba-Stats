@@ -11,7 +11,7 @@ from collections import defaultdict
 from zoneinfo import ZoneInfo
 import math
 from config import (DATA, OUT, MIN_MPG, YET_TO_PLAY_MIN_PPG, TRUE_K, PICK_MIN_TRUE, SMALL_SAMPLE, LINES, STATS,
-                    STD_TO_BREF, NAME_ALIASES, PICK_LINES, PICK_STATS, PICK_FLOOR)
+                    STD_TO_BREF, NAME_ALIASES, PICK_LINES, PICK_STATS, PICK_FLOOR, PICK_MIN_GAMES)
 from common import jload, jsave, norm
 
 UK = ZoneInfo("Europe/London")
@@ -222,11 +222,12 @@ def worth_it(st, t, avg):
 
 
 def best_picks(ls, avg):
-    """Per market, the highest line with a true rate at or above the pick threshold that passes the price floor."""
+    """Per market, the highest line whose shown hit % is at or above the pick threshold (e.g. 10+ at 100% and
+    15+ at 93% -> 15+), as long as it passes the price floor."""
     out = []
     for st in PICK_STATS:
-        cands = [(t, ls[(st, t)]) for t in PICK_LINES[st] if ls[(st, t)]["true"] is not None
-                 and ls[(st, t)]["true"] >= PICK_MIN_TRUE]
+        cands = [(t, ls[(st, t)]) for t in PICK_LINES[st] if ls[(st, t)]["season"] is not None
+                 and ls[(st, t)]["n"] >= PICK_MIN_GAMES and ls[(st, t)]["season"] >= PICK_MIN_TRUE]
         if cands:
             t, v = max(cands, key=lambda x: x[0])
             if worth_it(st, t, avg):
@@ -420,7 +421,7 @@ def main():
         th = ["Pick", "Market", "Hit %", "Games", "Team", "Game", "Tip-off (UK)", "Note", "status"]
         trows = [[p["pick"], p["market"], nz(p["season"]), p["n"], p["team"], p["game"], p["tip"], p["note"], p["status"]]
                  for p in picks]
-        title = (f"Today's picks (toughest line with true rate {PICK_MIN_TRUE}%+, short-priced lines removed; shown as this season's hit %) · "
+        title = (f"Today's picks (highest line hitting {PICK_MIN_TRUE}%+ this season, short-priced lines removed) · "
                  f"{tr_line} · updated {NOW.astimezone(UK).strftime('%a %H:%M')}")
         write_csv(f"TODAY_{v}.csv", [[title], th] + (trows or [["No games in the next 24 hours"]]))
         write_csv(f"PHONE_{v}.csv", [[f"Picks · {tr_line}"], ["Pick", "Hit %", "Game"]] +

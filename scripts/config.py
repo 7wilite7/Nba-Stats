@@ -9,7 +9,8 @@ SEASON_START = "2026-10-20"          # first regular-season game day (US date)
 MIN_MPG = 20                         # players averaging this many minutes are listed
 YET_TO_PLAY_MIN_PPG = 8              # roster players with no games yet, listed if 25/26 2nd-half PPG >= this
 TRUE_K = 3                           # true rate = (hits + K * league rate) / (games + K); K=3 tested best on 25/26 data
-PICK_MIN_TRUE = 80                   # Today picks: true rate at least this
+PICK_MIN_TRUE = 80                   # Today picks: this season's hit % (the one shown on the sheet) at least this
+PICK_MIN_GAMES = 8                   # Today picks: player needs at least this many games
 SMALL_SAMPLE = 6                     # games below this are flagged yellow
 
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
