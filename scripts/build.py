@@ -235,6 +235,74 @@ def best_picks(ls, avg):
     return out
 
 
+# ---------------- pick checks (added 24 Nov 2026) ----------------
+# The same checks used when picks were built by hand: recent form, the floor in the last 5 games,
+# fair odds, back-to-backs and injury status. They feed the Note column and rank the Best picks tab.
+FORM_COLD = 3            # last 5 hits at or under this -> "Cold"
+FLOOR_SHARE = 0.5        # lowest of last 5 under this share of the line -> "Low floor"
+STATUS_PENALTY = {"doubtful": 30, "questionable": 15, "day-to-day": 10, "game time decision": 15}
+
+
+def pick_checks(recs, st, t, season, status, b2b):
+    """Last-5 hits, lowest value in the last 5, fair odds, flags and a ranking score for one pick."""
+    last = [val(r[0], st) for r in recs[-5:]]
+    l5h = sum(x >= t for x in last)
+    low = min(last) if last else None
+    fair = round(100 / season, 2) if season else None
+    flags, score = [], season * 0.6 + (100 * l5h / len(last) if last else 0) * 0.4
+    if last and l5h <= FORM_COLD:
+        flags.append(f"Cold: {l5h} of last {len(last)}")
+        score -= 5
+    if low is not None and low < FLOOR_SHARE * t:
+        flags.append(f"Low floor ({low} in last {len(last)})")
+        score -= 10
+    if b2b:
+        flags.append("Back-to-back")
+        score -= 3
+    s = (status or "").lower()
+    pen = max([p for w, p in STATUS_PENALTY.items() if w in s] or [0])
+    score -= pen
+    return {"l5h": l5h, "l5n": len(last), "low": low, "fair": fair, "flags": flags, "score": round(score, 1)}
+
+
+def best_picks_tab(picks, now_txt):
+    """Safest 10 on the slate (one per player) and the top 3 per game (different players)."""
+    head = ["Pick", "Hit %", "Last 5", "Low (last 5)", "Fair odds", "Game", "Tip-off (UK)", "Flags"]
+
+    def row(i, p):
+        return [i, p["pick"], nz(p["season"]), f"{p['l5h']} of {p['l5n']}", nz(p["low"]), nz(p["fair"]),
+                p["game"], p["tip"], "; ".join(p["flags"])]
+
+    ranked = sorted(picks, key=lambda p: (-p["score"], -p["season"], p["pick"]))
+    out = [[f"Best picks · ranked by this season's hit %, last 5 form, floor, back-to-backs and injury status · "
+            f"fair odds = 1 ÷ hit rate (only bet at a higher price) · updated {now_txt}"], [],
+           ["SAFEST 10 ON THE SLATE (one per player)"], ["#"] + head]
+    seen = set()
+    for p in ranked:
+        if p["player"] in seen or p["flags"]:
+            continue
+        seen.add(p["player"])
+        out.append(row(len(seen), p))
+        if len(seen) == 10:
+            break
+    if not seen:
+        out.append(["", "No picks in the next 24 hours"])
+    games = {}
+    for p in sorted(picks, key=lambda p: (p["utc"], p["game"])):
+        games.setdefault((p["utc"], p["game"], p["tip"]), []).append(p)
+    for (_u, gname, tip), ps in games.items():
+        out += [[], [f"{gname} · {tip} UK · TOP 3"], ["#"] + head]
+        used = set()
+        for p in sorted(ps, key=lambda p: (-p["score"], -p["season"], p["pick"])):
+            if p["player"] in used:
+                continue
+            used.add(p["player"])
+            out.append(row(len(used), p))
+            if len(used) == 3:
+                break
+    return out
+
+
 def bref_id(us_date, home):
     return us_date.replace("-", "") + "0" + STD_TO_BREF.get(home, home)
 
@@ -315,6 +383,11 @@ def main():
     for g in sorted(upcoming, key=lambda g: g["utc"]):
         team_game.setdefault(g["home"], []).append(g)
         team_game.setdefault(g["away"], []).append(g)
+    played_on = {(t, g["us_date"]) for g in sched for t in (g["home"], g["away"])}
+
+    def is_b2b(team, g):
+        prev = (dt.date.fromisoformat(g["us_date"]) - dt.timedelta(days=1)).isoformat()
+        return (team, prev) in played_on
 
     layout = {}
     for v in VARIANTS:
@@ -385,16 +458,19 @@ def main():
                         notes.append("Came off the bench last game")
                     if n < SMALL_SAMPLE:
                         notes.append(f"Only {n} games")
+                    chk = pick_checks(recs, st, t, pv["season"], status_text(e), is_b2b(cur, g))
+                    notes += chk["flags"]
                     gtxt = f"{g['away']} @ {g['home']}"
                     picks.append({"utc": g["utc"], "game": gtxt, "tip": uk(g["utc"]).strftime("%a %H:%M"),
                                   "pick": f"{names.get(k, k)} {MARKET[st]} {t}+", "market": MARKET[st], "player": names.get(k, k),
                                   "team": cur, "status": status_text(e), "true": pv["true"], "season": pv["season"],
-                                  "l5": pv["l5"], "start": pv["start"], "n": n, "note": "; ".join(notes)})
+                                  "l5": pv["l5"], "start": pv["start"], "n": n, "note": "; ".join(notes), **chk})
                     lk = f"{g['id']}|{k}|{st}|{t}"
                     if lk not in log and NOW < uk(g["utc"]):
                         log[lk] = {"date": uk(g["utc"]).date().isoformat(), "utc": g["utc"], "game": gtxt,
                                    "pick": f"{names.get(k, k)} {MARKET[st]} {t}+", "key": k, "stat": st, "line": t,
                                    "true": pv["true"], "season": pv["season"], "n": n,
+                                   "l5h": chk["l5h"], "score": chk["score"], "flags": chk["flags"],
                                    "bref": bref_id(g["us_date"], g["home"]), "result": None, "source": "Live"}
         jsave(tpath, log)
 
@@ -418,14 +494,19 @@ def main():
                   ([r for _o, r in game_rows] or [["No games in the next 24 hours"]]))
 
         picks.sort(key=lambda p: (p["utc"], p["game"], p["pick"]))   # by game, then alphabetical
-        th = ["Pick", "Market", "Hit %", "Games", "Team", "Game", "Tip-off (UK)", "Note", "status"]
-        trows = [[p["pick"], p["market"], nz(p["season"]), p["n"], p["team"], p["game"], p["tip"], p["note"], p["status"]]
+        # New columns go after "status" so existing column letters (and the sheet's formatting) don't move.
+        th = ["Pick", "Market", "Hit %", "Games", "Team", "Game", "Tip-off (UK)", "Note", "status",
+              "Last 5", "Low (last 5)", "Fair odds"]
+        trows = [[p["pick"], p["market"], nz(p["season"]), p["n"], p["team"], p["game"], p["tip"], p["note"], p["status"],
+                  f"{p['l5h']} of {p['l5n']}", nz(p["low"]), nz(p["fair"])]
                  for p in picks]
+        write_csv(f"BEST_{v}.csv", best_picks_tab(picks, NOW.astimezone(UK).strftime("%a %d %b %H:%M") + " UK"))
         title = (f"Today's picks (highest line hitting {PICK_MIN_TRUE}%+ this season, short-priced lines removed) · "
                  f"{tr_line} · updated {NOW.astimezone(UK).strftime('%a %H:%M')}")
         write_csv(f"TODAY_{v}.csv", [[title], th] + (trows or [["No games in the next 24 hours"]]))
-        write_csv(f"PHONE_{v}.csv", [[f"Picks · {tr_line}"], ["Pick", "Hit %", "Game"]] +
-                  ([[p["pick"], nz(p["season"]), f"{p['game']} {p['tip']}"] for p in picks] or [["No games in the next 24 hours"]]))
+        write_csv(f"PHONE_{v}.csv", [[f"Picks · {tr_line}"], ["Pick", "Hit %", "Game", "Last 5"]] +
+                  ([[p["pick"], nz(p["season"]), f"{p['game']} {p['tip']}", f"{p['l5h']} of {p['l5n']}"] for p in picks]
+                   or [["No games in the next 24 hours"]]))
 
         # tracker CSV
         def summ(rows_):
@@ -438,7 +519,11 @@ def main():
                ["By market", "Graded", "Hit %", "True % given"]]
         for m in [MARKET[x] for x in PICK_STATS]:
             out.append([m] + summ([e for e in allp.values() if MARKET[e["stat"]] == m]))
-        out += [["All picks"] + summ(list(allp.values())), [], ["By true rate", "Graded", "Hit %", "True % given"]]
+        out += [["All picks"] + summ(list(allp.values()))]
+        flagged = [e for e in allp.values() if "flags" in e]           # logged from 24 Nov 2026 onwards
+        out += [["No flags (since 24 Nov)"] + summ([e for e in flagged if not e["flags"]]),
+                ["Flagged (since 24 Nov)"] + summ([e for e in flagged if e["flags"]])]
+        out += [[], ["By true rate", "Graded", "Hit %", "True % given"]]
         for lo, hi in ((80, 84), (85, 89), (90, 94), (95, 100)):
             out.append([f"{lo}–{hi}%"] + summ([e for e in allp.values() if lo <= (e["true"] or 0) <= hi]))
         out += [[], ["Date", "Game", "Pick", "True %", "Season %", "Games", "Result", "Source"]]
