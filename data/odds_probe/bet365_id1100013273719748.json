@@ -1,0 +1,41 @@
+{
+ "fixture": {
+  "fixtureId": "id1100013273719748",
+  "participant1Id": 3420,
+  "participant2Id": 3414,
+  "sportId": 11,
+  "tournamentId": 132,
+  "seasonId": 142074,
+  "statusId": 2,
+  "hasOdds": false,
+  "startTime": "2026-11-24T00:00:00.000Z",
+  "trueStartTime": "2026-11-24T00:10:42.000Z",
+  "trueEndTime": "2026-11-24T02:24:26.000Z",
+  "updatedAt": "2026-11-24T02:24:35.613Z",
+  "externalProviders": {
+   "betradarId": 73719748,
+   "mollybetId": "2026-11-24,29094,29108",
+   "opticoddsId": "202611244D256187",
+   "lsportsId": 20914151,
+   "txoddsId": null,
+   "sofascoreId": 16824926,
+   "betgeniusId": 14329888,
+   "flashscoreId": "lhCVk7fm",
+   "pinnacleId": 1640546308,
+   "oddinId": null
+  },
+  "statusName": "Finished",
+  "participant1Name": "Philadelphia 76ers",
+  "participant1ShortName": "Philadelphia",
+  "participant1Abbr": "PHI",
+  "participant2Name": "Portland Trail Blazers",
+  "participant2ShortName": "Portland",
+  "participant2Abbr": "POR",
+  "sportName": "Basketball",
+  "tournamentSlug": "nba",
+  "categorySlug": "usa",
+  "categoryName": "USA",
+  "tournamentName": "NBA"
+ },
+ "markets": {}
+}

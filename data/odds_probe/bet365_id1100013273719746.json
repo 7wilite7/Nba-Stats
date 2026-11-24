@@ -1,0 +1,41 @@
+{
+ "fixture": {
+  "fixtureId": "id1100013273719746",
+  "participant1Id": 3430,
+  "participant2Id": 3415,
+  "sportId": 11,
+  "tournamentId": 132,
+  "seasonId": 142074,
+  "statusId": 2,
+  "hasOdds": false,
+  "startTime": "2026-11-24T00:00:00.000Z",
+  "trueStartTime": "2026-11-24T00:10:18.000Z",
+  "trueEndTime": "2026-11-24T02:26:58.000Z",
+  "updatedAt": "2026-11-24T02:26:59.080Z",
+  "externalProviders": {
+   "betradarId": 73719746,
+   "mollybetId": "2026-11-24,29097,29113",
+   "opticoddsId": "2026112438F8FFB1",
+   "lsportsId": 20914115,
+   "txoddsId": null,
+   "sofascoreId": 16824924,
+   "betgeniusId": 14329887,
+   "flashscoreId": "dIFwloPa",
+   "pinnacleId": 1640546306,
+   "oddinId": null
+  },
+  "statusName": "Finished",
+  "participant1Name": "Charlotte Hornets",
+  "participant1ShortName": "Charlotte",
+  "participant1Abbr": "CHA",
+  "participant2Name": "Memphis Grizzlies",
+  "participant2ShortName": "Memphis",
+  "participant2Abbr": "MEM",
+  "sportName": "Basketball",
+  "tournamentSlug": "nba",
+  "categorySlug": "usa",
+  "categoryName": "USA",
+  "tournamentName": "NBA"
+ },
+ "markets": {}
+}
