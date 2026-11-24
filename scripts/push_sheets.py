@@ -10,7 +10,8 @@ from config import OUT
 
 # NBA Master and NBA Hit Rates Blended were deleted on 17 Nov 2026 and are no longer pushed.
 PERSONAL = {"2627": "1OmsjE9qkgA8IAY5TMty4MYfXY4em3Fh47hKgB2OxoIM"}    # NBA Hit Rates 2026-27
-TABS = {"PLAYERS": "Hit Rates", "TODAY": "Today", "PHONE": "Phone", "GAMES": "Today games", "TRACKER": "Pick tracker"}
+TABS = {"PLAYERS": "Hit Rates", "TODAY": "Today", "PHONE": "Phone", "GAMES": "Today games", "TRACKER": "Pick tracker",
+        "BEST": "Best picks"}                       # Best picks added 24 Nov 2026 (created automatically if missing)
 # (csv file in out/, spreadsheet id, tab, raw). Personal sheets are skipped until shared with the service account;
 # once shared, their IMPORTDATA formulas are replaced by values written here, so the repo can be private.
 # Paying members' copy (made 17 Nov 2026): the customer-facing tabs only (no Pick tracker / Fact-check).
@@ -61,8 +62,12 @@ def main():
                 ws.freeze(rows=1)
                 print(f"{name} -> {tab}: {len(rows)} rows")
                 continue
-            ws = book.worksheet(tab)
             width = max(len(r) for r in rows)
+            try:
+                ws = book.worksheet(tab)
+            except gspread.exceptions.WorksheetNotFound:            # new tab (e.g. Best picks): create it once
+                ws = book.add_worksheet(tab, rows=len(rows) + 10, cols=width)
+                ws.freeze(rows=1)
             if ws.col_count < width:                   # e.g. new lines added: grow the tab instead of failing
                 ws.add_cols(width - ws.col_count)
             if ws.row_count < len(rows):
