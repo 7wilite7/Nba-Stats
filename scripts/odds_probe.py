@@ -3,7 +3,7 @@
 Needs the GitHub secret ODDSPAPI_KEY. Uses about 5 requests. Writes data/odds_probe/*.json
 (the key is never written or printed). Run from the "odds-test" workflow.
 """
-import datetime as dt, json, os, sys, urllib.parse, urllib.request
+import datetime as dt, json, os, sys, time, urllib.parse, urllib.request
 
 BASE = "https://api.oddspapi.io/v4"
 KEY = os.environ.get("ODDSPAPI_KEY", "").strip()
@@ -11,6 +11,7 @@ OUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 
 
 
 def get(path, **params):
+    time.sleep(3)                                   # the free tier answers 429 to quick bursts
     params["apiKey"] = KEY
     url = f"{BASE}/{path}?{urllib.parse.urlencode(params)}"
     try:
@@ -42,12 +43,14 @@ def main():
         return 0
     tid = nba[0].get("tournamentId") or nba[0].get("id")
     fx = get("fixtures", tournamentId=tid)
-    save("fixtures.json", fx if isinstance(fx, dict) else fx[:30])
     fl = fx if isinstance(fx, list) else fx.get("data", fx.get("fixtures", []))
-    now = dt.datetime.now(dt.timezone.utc).isoformat()
-    upcoming = [f for f in fl if isinstance(f, dict) and str(f.get("startTime") or f.get("trueStartTime") or "") >= now[:10]]
+    now = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M")
+    soon = (dt.datetime.now(dt.timezone.utc) + dt.timedelta(hours=36)).strftime("%Y-%m-%dT%H:%M")
+    upcoming = sorted([f for f in fl if isinstance(f, dict) and now <= str(f.get("startTime", "")) <= soon],
+                      key=lambda f: f["startTime"])
+    save("fixtures.json", upcoming)
     summary = {"nba_tournament": nba[0], "fixtures_found": len(fl), "upcoming": len(upcoming), "games": []}
-    for f in (upcoming or fl)[:2]:
+    for f in upcoming[:2]:
         fid = f.get("fixtureId") or f.get("id")
         odds = get("odds", fixtureId=fid)
         books = (odds.get("bookmakerOdds") or {}) if isinstance(odds, dict) else {}
@@ -55,11 +58,12 @@ def main():
         markets = b365.get("markets", {}) if isinstance(b365, dict) else {}
         summary["games"].append({"fixture": f, "bookmakers": sorted(books), "bet365_markets": len(markets),
                                  "error": odds.get("_error") if isinstance(odds, dict) else None})
-        trimmed = dict(list(markets.items())[:60])
-        save(f"bet365_{fid}.json", {"fixture": f, "markets": trimmed})
+        save(f"bet365_{fid}.json", {"fixture": f, "markets": markets})
     try:
         mk = get("markets", sportId=11)
-        save("markets.json", mk if isinstance(mk, dict) else mk[:600])
+        props = [m for m in mk if isinstance(m, dict) and m.get("playerProp")] if isinstance(mk, list) else mk
+        save("markets.json", props)
+        summary["player_prop_markets"] = len(props) if isinstance(props, list) else None
     except Exception:  # noqa: BLE001
         pass
     save("summary.json", summary)
