@@ -1,0 +1,28 @@
+name: odds-now
+# Manual button: fetch tonight's bookmaker prices now and update the sheets (the daily fetch runs from 17:00 UK
+# inside injury-check). Uses about 1 request per game of the free OddsPapi allowance.
+on: {workflow_dispatch: {}}
+permissions: {contents: write}
+concurrency: {group: update-nba, cancel-in-progress: false}
+jobs:
+  odds:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - name: Fetch prices
+        env: {ODDSPAPI_KEY: "${{ secrets.ODDSPAPI_KEY }}"}
+        run: python scripts/odds.py now
+      - name: Rebuild and push the sheets
+        env: {GOOGLE_SA_JSON: "${{ secrets.GOOGLE_SA_JSON }}"}
+        run: python scripts/build.py && pip install -q gspread && python scripts/tiers.py && python scripts/push_sheets.py || echo "sheet push failed"
+      - name: Commit
+        run: |
+          if [ -z "$(git status --porcelain -- data)" ]; then echo "nothing to commit"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm -r -q --cached --ignore-unmatch out; git add data
+          git commit -qm "odds $(TZ=Europe/London date '+%Y-%m-%d %H:%M')"
+          for i in 1 2 3 4 5; do git pull -q --rebase origin main && git push -q && exit 0; sleep 10; done; exit 1

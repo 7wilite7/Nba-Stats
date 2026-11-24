@@ -265,17 +265,50 @@ def pick_checks(recs, st, t, season, status, b2b):
     return {"l5h": l5h, "l5n": len(last), "low": low, "fair": fair, "flags": flags, "score": round(score, 1)}
 
 
+VALUE_EDGE = 3          # Edge % at bet365 needed to list a pick as value (feed prices run slightly above the app)
+
+
+def load_odds():
+    """Tonight's bookmaker prices from scripts/odds.py, if fetched in the last 30 hours."""
+    o = jload(os.path.join(DATA, "odds", "today.json"), {}) or {}
+    try:
+        if NOW - dt.datetime.fromisoformat(o["fetched"]) > dt.timedelta(hours=30):
+            return {}
+    except Exception:  # noqa: BLE001
+        return {}
+    return o.get("props", {})
+
+
+def prices(odds, k, st, t, utc):
+    """bet365 price and best UK price (book, price) for one pick line, only if priced for this same game."""
+    pk = odds.get(k, {})
+    try:
+        if abs(dt.datetime.fromisoformat(pk["start"].replace("Z", "+00:00")) - uk(utc)) > dt.timedelta(hours=3):
+            return None, None
+    except Exception:  # noqa: BLE001
+        return None, None
+    books = pk.get(st, {}).get(str(t), {})
+    b365 = books.get("bet365")
+    best = max(books.items(), key=lambda x: x[1]) if books else None
+    return b365, best
+
+
+def edge(price, season):
+    return round((price * season / 100 - 1) * 100, 1) + 0.0 if price and season else None
+
+
 def best_picks_tab(picks, now_txt):
     """Safest 10 on the slate (one per player) and the top 3 per game (different players)."""
-    head = ["Pick", "Hit %", "Last 5", "Low (last 5)", "Fair odds", "Game", "Tip-off (UK)", "Flags"]
+    head = ["Pick", "Hit %", "Last 5", "Low (last 5)", "Fair odds", "bet365", "Edge %", "Game", "Tip-off (UK)", "Flags"]
 
     def row(i, p):
         return [i, p["pick"], nz(p["season"]), f"{p['l5h']} of {p['l5n']}", nz(p["low"]), nz(p["fair"]),
-                p["game"], p["tip"], "; ".join(p["flags"])]
+                nz(p.get("b365")), nz(p.get("edge")), p["game"], p["tip"], "; ".join(p["flags"])]
 
     ranked = sorted(picks, key=lambda p: (-p["score"], -p["season"], p["pick"]))
     out = [[f"Best picks · ranked by this season's hit %, last 5 form, floor, back-to-backs and injury status · "
-            f"fair odds = 1 ÷ hit rate (only bet at a higher price) · updated {now_txt}"], [],
+            f"fair odds = 1 ÷ hit rate (only bet at a higher price) · Edge % = bet365 price vs hit rate · "
+            f"updated {now_txt}"], [],
            ["SAFEST 10 ON THE SLATE (one per player)"], ["#"] + head]
     seen = set()
     for p in ranked:
@@ -287,6 +320,10 @@ def best_picks_tab(picks, now_txt):
             break
     if not seen:
         out.append(["", "No picks in the next 24 hours"])
+    value = sorted([p for p in picks if (p.get("edge") or -99) >= VALUE_EDGE], key=lambda p: -p["edge"])
+    out += [[], [f"VALUE AT BET365 (edge {VALUE_EDGE}%+ = bet365 price beats the hit rate; check the price in the app)"],
+            ["#"] + head]
+    out += [row(i + 1, p) for i, p in enumerate(value[:15])] or [["", "No value prices yet (odds load from 17:00 UK)"]]
     games = {}
     for p in sorted(picks, key=lambda p: (p["utc"], p["game"])):
         games.setdefault((p["utc"], p["game"], p["tip"]), []).append(p)
@@ -384,6 +421,7 @@ def main():
         team_game.setdefault(g["home"], []).append(g)
         team_game.setdefault(g["away"], []).append(g)
     played_on = {(t, g["us_date"]) for g in sched for t in (g["home"], g["away"])}
+    odds = load_odds()
 
     def is_b2b(team, g):
         prev = (dt.date.fromisoformat(g["us_date"]) - dt.timedelta(days=1)).isoformat()
@@ -460,6 +498,9 @@ def main():
                         notes.append(f"Only {n} games")
                     chk = pick_checks(recs, st, t, pv["season"], status_text(e), is_b2b(cur, g))
                     notes += chk["flags"]
+                    b365, best = prices(odds, k, st, t, g["utc"])
+                    chk.update(b365=b365, edge=edge(b365, pv["season"]),
+                               best=f"{best[1]} {best[0]}" if best else None)
                     gtxt = f"{g['away']} @ {g['home']}"
                     picks.append({"utc": g["utc"], "game": gtxt, "tip": uk(g["utc"]).strftime("%a %H:%M"),
                                   "pick": f"{names.get(k, k)} {MARKET[st]} {t}+", "market": MARKET[st], "player": names.get(k, k),
@@ -472,6 +513,8 @@ def main():
                                    "true": pv["true"], "season": pv["season"], "n": n,
                                    "l5h": chk["l5h"], "score": chk["score"], "flags": chk["flags"],
                                    "bref": bref_id(g["us_date"], g["home"]), "result": None, "source": "Live"}
+                    if lk in log and b365 and log[lk].get("result") is None and NOW < uk(g["utc"]):
+                        log[lk]["b365"] = b365                   # latest pre-tip bet365 price, for the ROI rows
         jsave(tpath, log)
 
         # ---------- tracker summary ----------
@@ -496,9 +539,9 @@ def main():
         picks.sort(key=lambda p: (p["utc"], p["game"], p["pick"]))   # by game, then alphabetical
         # New columns go after "status" so existing column letters (and the sheet's formatting) don't move.
         th = ["Pick", "Market", "Hit %", "Games", "Team", "Game", "Tip-off (UK)", "Note", "status",
-              "Last 5", "Low (last 5)", "Fair odds"]
+              "Last 5", "Low (last 5)", "Fair odds", "bet365", "Edge %", "Best UK price"]
         trows = [[p["pick"], p["market"], nz(p["season"]), p["n"], p["team"], p["game"], p["tip"], p["note"], p["status"],
-                  f"{p['l5h']} of {p['l5n']}", nz(p["low"]), nz(p["fair"])]
+                  f"{p['l5h']} of {p['l5n']}", nz(p["low"]), nz(p["fair"]), nz(p["b365"]), nz(p["edge"]), nz(p["best"])]
                  for p in picks]
         write_csv(f"BEST_{v}.csv", best_picks_tab(picks, NOW.astimezone(UK).strftime("%a %d %b %H:%M") + " UK"))
         title = (f"Today's picks (highest line hitting {PICK_MIN_TRUE}%+ this season, short-priced lines removed) · "
@@ -523,6 +566,16 @@ def main():
         flagged = [e for e in allp.values() if "flags" in e]           # logged from 24 Nov 2026 onwards
         out += [["No flags (since 24 Nov)"] + summ([e for e in flagged if not e["flags"]]),
                 ["Flagged (since 24 Nov)"] + summ([e for e in flagged if e["flags"]])]
+        def roi(rows_):
+            g_ = [e for e in rows_ if e.get("result") in ("Hit", "Miss") and e.get("b365")]
+            if not g_:
+                return [0, "", ""]
+            profit = sum((e["b365"] - 1) if e["result"] == "Hit" else -1 for e in g_)
+            return [len(g_), pct(sum(e["result"] == "Hit" for e in g_), len(g_)), f"{100 * profit / len(g_):+.1f}%"]
+        priced = [e for e in allp.values() if e.get("b365")]
+        out += [[], ["At bet365 prices (£1 per pick)", "Graded", "Hit %", "Return on stake"],
+                ["All priced picks"] + roi(priced),
+                [f"Value picks (edge {VALUE_EDGE}%+)"] + roi([e for e in priced if (edge(e["b365"], e.get("season")) or -99) >= VALUE_EDGE])]
         out += [[], ["By true rate", "Graded", "Hit %", "True % given"]]
         for lo, hi in ((80, 84), (85, 89), (90, 94), (95, 100)):
             out.append([f"{lo}–{hi}%"] + summ([e for e in allp.values() if lo <= (e["true"] or 0) <= hi]))
