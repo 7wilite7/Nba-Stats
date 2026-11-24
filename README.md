@@ -12,4 +12,10 @@ Self-updating NBA hit-rate sheets. Every morning at 08:00 UK, GitHub Actions:
 the line), Back-to-back and injury status. The **Best picks** tab ranks them: the safest 10 unflagged picks on the
 slate (one per player) and the top 3 per game. The Pick tracker compares flagged vs unflagged picks.
 
+**Odds** (added 24 Nov 2026, `scripts/odds.py`): bet365, William Hill, Ladbrokes and Paddy Power player-prop prices
+from OddsPapi (free tier, GitHub secret `ODDSPAPI_KEY`), fetched once a day from 17:00 UK by injury-check (or now via
+the odds-now workflow). Today shows bet365, Edge % (bet365 price × hit rate − 1) and Best UK price; Best picks lists
+value picks (edge 3%+). bet365 doesn't price combo props in the feed, so combos show fair odds only. The tracker
+shows the return at bet365 prices. Requests are capped at 240 a month (`data/odds/usage.json`).
+
 **True rate** = (hits + 3 × league rate) ÷ (games + 3). It stops tiny samples showing 100%. K=3 tested best on 2025-26 data.

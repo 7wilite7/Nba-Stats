@@ -17,10 +17,13 @@ jobs:
       - run: pip install -q pdfplumber
       - name: Fetch the injury report, plus box scores for any finished game not loaded yet
         run: python scripts/fetch.py inj missing
-      - name: Rebuild only if the injury report or box scores changed
+      - name: Bookmaker prices for tonight (OddsPapi), once a day from 17:00 UK
+        env: {ODDSPAPI_KEY: "${{ secrets.ODDSPAPI_KEY }}"}
+        run: python scripts/odds.py due || echo "odds fetch failed"
+      - name: Rebuild only if the injury report, box scores or odds changed
         run: |
-          if [ -z "$(git status --porcelain -- data/injuries.json data/injuries_official.json data/games)" ]; then echo "No injury or box-score changes"; exit 0; fi
-          git status --short -- data/injuries.json data/injuries_official.json data/games | head -20
+          if [ -z "$(git status --porcelain -- data/injuries.json data/injuries_official.json data/games data/odds/today.json)" ]; then echo "No injury, box-score or odds changes"; exit 0; fi
+          git status --short -- data/injuries.json data/injuries_official.json data/games data/odds/today.json | head -20
           python scripts/build.py
           pip install -q gspread && python scripts/tiers.py && python scripts/push_sheets.py || echo "sheet push failed"
       - name: Context tab - refresh from the latest injury report (every run, so it's current all evening to tip-off)
