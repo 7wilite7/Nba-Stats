@@ -6,4 +6,4 @@ new ESPN box scores: 0
 Basketball Reference 2026-11-22: 7 games
 Basketball Reference 2026-11-23: 10 games
 new or changed box scores: 0
-Basketball Reference rosters: 6 teams refreshed, 0 player pages read (0 left)
+Basketball Reference rosters: 0 teams refreshed, 0 player pages read (0 left)
