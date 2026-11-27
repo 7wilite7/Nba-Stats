@@ -1,4 +1,4 @@
 injury report entries: 98
-official injury report: Injury-Report_2026-11-26_06_30PM.pdf 78 players
-ESPN schedule entries: 325
+official injury report: Injury-Report_2026-11-27_03_00AM.pdf 104 players
+ESPN schedule entries: 327
 all finished games loaded
